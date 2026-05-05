@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Generated datasets / outputs (rebuildable)
+data/pages/
+data/recipes/
+data/recipe_readmes/
+data/images/
+
