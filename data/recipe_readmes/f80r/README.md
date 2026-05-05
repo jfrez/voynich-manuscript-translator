@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 toroly
 olchdy
 okaly
@@ -73,6 +74,7 @@ lol chey saiin shety okaiiin sheor tchey lkaiin okainy
 talkl ol s al cheoly daiin otaly otain chey lkain olom
 sol tl shey qoklcheey lkaiin ol olor aiin y daiin cheol kain
 lol eey lchey qokal cheol lchor otlol
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 73, 'mix/transfer': 192, 'main herb': 88, 'yeast fermentation': 84, 'sugars': 161, 'secondary herb': 68, 'aroma modifier': 2, 'general base': 1, 'complex herbal compound': 37, 'liquid base': 109}
@@ -91,7 +93,64 @@ lol eey lchey qokal cheol lchor otlol
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f80r.1,@Ln](#f80r-1-f80r-1-ln)
+- [f80r.2,=Ln](#f80r-2-f80r-2-ln)
+- [f80r.3,=Ln](#f80r-3-f80r-3-ln)
+- [f80r.4,=Ln](#f80r-4-f80r-4-ln)
+- [f80r.5,=Ln](#f80r-5-f80r-5-ln)
+- [f80r.6,=Ln](#f80r-6-f80r-6-ln)
+- [f80r.7,~Ln](#f80r-7-f80r-7-ln)
+- [f80r.8,=Ln](#f80r-8-f80r-8-ln)
+- [f80r.9,~Ln](#f80r-9-f80r-9-ln)
+- [f80r.10,+Ln](#f80r-10-f80r-10-ln)
+- [f80r.11,@P0](#f80r-11-f80r-11-p0)
+- [f80r.12,+P0](#f80r-12-f80r-12-p0)
+- [f80r.13,+P0](#f80r-13-f80r-13-p0)
+- [f80r.14,+P0](#f80r-14-f80r-14-p0)
+- [f80r.15,+P0](#f80r-15-f80r-15-p0)
+- [f80r.16,+P0](#f80r-16-f80r-16-p0)
+- [f80r.17,+P0](#f80r-17-f80r-17-p0)
+- [f80r.18,+P0](#f80r-18-f80r-18-p0)
+- [f80r.19,+P0](#f80r-19-f80r-19-p0)
+- [f80r.20,+P0](#f80r-20-f80r-20-p0)
+- [f80r.21,+P0](#f80r-21-f80r-21-p0)
+- [f80r.22,+P0](#f80r-22-f80r-22-p0)
+- [f80r.23,+P0](#f80r-23-f80r-23-p0)
+- [f80r.24,+P0](#f80r-24-f80r-24-p0)
+- [f80r.25,+P0](#f80r-25-f80r-25-p0)
+- [f80r.26,+P0](#f80r-26-f80r-26-p0)
+- [f80r.27,+P0](#f80r-27-f80r-27-p0)
+- [f80r.28,+P0](#f80r-28-f80r-28-p0)
+- [f80r.29,+P0](#f80r-29-f80r-29-p0)
+- [f80r.30,+P0](#f80r-30-f80r-30-p0)
+- [f80r.31,+P0](#f80r-31-f80r-31-p0)
+- [f80r.32,+P0](#f80r-32-f80r-32-p0)
+- [f80r.33,+P0](#f80r-33-f80r-33-p0)
+- [f80r.34,+P0](#f80r-34-f80r-34-p0)
+- [f80r.35,+P0](#f80r-35-f80r-35-p0)
+- [f80r.36,+P0](#f80r-36-f80r-36-p0)
+- [f80r.37,+P0](#f80r-37-f80r-37-p0)
+- [f80r.38,+P0](#f80r-38-f80r-38-p0)
+- [f80r.39,+P0](#f80r-39-f80r-39-p0)
+- [f80r.40,+P0](#f80r-40-f80r-40-p0)
+- [f80r.41,+P0](#f80r-41-f80r-41-p0)
+- [f80r.42,+P0](#f80r-42-f80r-42-p0)
+- [f80r.43,+P0](#f80r-43-f80r-43-p0)
+- [f80r.44,+P0](#f80r-44-f80r-44-p0)
+- [f80r.45,+P0](#f80r-45-f80r-45-p0)
+- [f80r.46,+P0](#f80r-46-f80r-46-p0)
+- [f80r.47,+P0](#f80r-47-f80r-47-p0)
+- [f80r.48,+P0](#f80r-48-f80r-48-p0)
+- [f80r.49,+P0](#f80r-49-f80r-49-p0)
+- [f80r.50,+P0](#f80r-50-f80r-50-p0)
+- [f80r.51,+P0](#f80r-51-f80r-51-p0)
+- [f80r.52,+P0](#f80r-52-f80r-52-p0)
+- [f80r.53,+P0](#f80r-53-f80r-53-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f80r-1-f80r-1-ln"></a>
 
 ### f80r.1,@Ln
 
@@ -124,6 +183,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - toroly: apply heat/cooking → mix / transfer
 
+<a id="f80r-2-f80r-2-ln"></a>
+
 ### f80r.2,=Ln
 
 EVA: olchdy
@@ -154,6 +215,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - olchdy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+
+<a id="f80r-3-f80r-3-ln"></a>
 
 ### f80r.3,=Ln
 
@@ -186,6 +249,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okaly: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f80r-4-f80r-4-ln"></a>
+
 ### f80r.4,=Ln
 
 EVA: okolo
@@ -216,6 +281,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okolo: add fermentable sugars → mix / transfer
+
+<a id="f80r-5-f80r-5-ln"></a>
 
 ### f80r.5,=Ln
 
@@ -248,6 +315,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okary: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f80r-6-f80r-6-ln"></a>
+
 ### f80r.6,=Ln
 
 EVA: opor
@@ -278,6 +347,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - opor: mix / transfer → start fermentation (yeast)
+
+<a id="f80r-7-f80r-7-ln"></a>
 
 ### f80r.7,~Ln
 
@@ -310,6 +381,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - olky: add fermentable sugars → mix / transfer
 
+<a id="f80r-8-f80r-8-ln"></a>
+
 ### f80r.8,=Ln
 
 EVA: otalshedy
@@ -340,6 +413,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otalshedy: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f80r-9-f80r-9-ln"></a>
 
 ### f80r.9,~Ln
 
@@ -372,6 +447,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f80r-10-f80r-10-ln"></a>
+
 ### f80r.10,+Ln
 
 EVA: okan
@@ -402,6 +479,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okan: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f80r-11-f80r-11-p0"></a>
 
 ### f80r.11,@P0
 
@@ -449,6 +528,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - darshey: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f80r-12-f80r-12-p0"></a>
+
 ### f80r.12,+P0
 
 EVA: dykshy ol otchedy qokain qotain chckhey qokain okal qotain okedy qo l r
@@ -494,6 +575,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - l: [unparsed]
 - r: [unparsed]
 
+<a id="f80r-13-f80r-13-p0"></a>
+
 ### f80r.13,+P0
 
 EVA: tchedy qotair cheol qokal qokal cheety qokaiin qokar qokain chedy qokam
@@ -534,6 +617,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - qokam: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+
+<a id="f80r-14-f80r-14-p0"></a>
 
 ### f80r.14,+P0
 
@@ -579,6 +664,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotar: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
 - otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f80r-15-f80r-15-p0"></a>
+
 ### f80r.15,+P0
 
 EVA: qokedy qokeedy checkhy olchedy qokain chey qokechckhy otar cheoltain sy
@@ -620,6 +707,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otar: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - cheoltain: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - sy: [unparsed]
+
+<a id="f80r-16-f80r-16-p0"></a>
 
 ### f80r.16,+P0
 
@@ -663,6 +752,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - saltar: apply heat/cooking → duration level 1 → state: fermentation start
 - chkain: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: fermentation start
 - oty: apply heat/cooking → mix / transfer
+
+<a id="f80r-17-f80r-17-p0"></a>
 
 ### f80r.17,+P0
 
@@ -710,6 +801,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - da: start fermentation (yeast) → duration level 1 → state: fermentation start
 - y: [unparsed]
 
+<a id="f80r-18-f80r-18-p0"></a>
+
 ### f80r.18,+P0
 
 EVA: paiin sheol qokain chety qokeedy qokar shcthy qotol shecthy qokain olkam
@@ -752,6 +845,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shecthy: add secondary herb (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - olkam: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f80r-19-f80r-19-p0"></a>
 
 ### f80r.19,+P0
 
@@ -799,6 +894,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - oloky: add fermentable sugars → mix / transfer
 
+<a id="f80r-20-f80r-20-p0"></a>
+
 ### f80r.20,+P0
 
 EVA: qoteedy keey qokain chckhy qoty dalched otain shedy qokair shey dalom
@@ -841,6 +938,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokair: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - dalom: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f80r-21-f80r-21-p0"></a>
 
 ### f80r.21,+P0
 
@@ -885,6 +984,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oltain: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - chcthy: add main plant (safe substitute) → add complex herbal compound (safe blend)
 
+<a id="f80r-22-f80r-22-p0"></a>
+
 ### f80r.22,+P0
 
 EVA: qokeedy qol shecthy qokalkeol qoky qokal shedy sal olkain shey qokl
@@ -927,6 +1028,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - qokl: prepare liquid base → add fermentable sugars
+
+<a id="f80r-23-f80r-23-p0"></a>
 
 ### f80r.23,+P0
 
@@ -973,6 +1076,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tar: apply heat/cooking → duration level 1 → state: fermentation start
 - oky: add fermentable sugars → mix / transfer
 - lar: duration level 1 → state: fermentation start
+
+<a id="f80r-24-f80r-24-p0"></a>
 
 ### f80r.24,+P0
 
@@ -1023,6 +1128,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - a: duration level 1 → state: fermentation start
 - r: [unparsed]
 
+<a id="f80r-25-f80r-25-p0"></a>
+
 ### f80r.25,+P0
 
 EVA: dar sheal cheeky okain sol lshedy dol checthy orol eeesal olo teol ory
@@ -1068,6 +1175,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - teol: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
 - ory: mix / transfer
 
+<a id="f80r-26-f80r-26-p0"></a>
+
 ### f80r.26,+P0
 
 EVA: lchol dar shecthy otedy qol olcheedy opcheeky qotchy qokaiin otair olky
@@ -1111,6 +1220,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otair: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - olky: add fermentable sugars → mix / transfer
 
+<a id="f80r-27-f80r-27-p0"></a>
+
 ### f80r.27,+P0
 
 EVA: lol shar otaiin olkaiin ol olkain oraiin olor checthy olor
@@ -1153,6 +1264,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - checthy: add main plant (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - olor: mix / transfer
 
+<a id="f80r-28-f80r-28-p0"></a>
+
 ### f80r.28,+P0
 
 EVA: pcheolkal dal korchy qotey qoty rchedy qokal olkolshedy chty
@@ -1191,6 +1304,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - olkolshedy: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - chty: apply heat/cooking → add main plant (safe substitute)
+
+<a id="f80r-29-f80r-29-p0"></a>
 
 ### f80r.29,+P0
 
@@ -1232,6 +1347,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 - ary: duration level 1 → state: fermentation start
 
+<a id="f80r-30-f80r-30-p0"></a>
+
 ### f80r.30,+P0
 
 EVA: dshedy qokal chcthy qokain shedy okaiin shey dainol
@@ -1271,6 +1388,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - dainol: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f80r-31-f80r-31-p0"></a>
 
 ### f80r.31,+P0
 
@@ -1312,6 +1431,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokeedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
 - oly: mix / transfer
 
+<a id="f80r-32-f80r-32-p0"></a>
+
 ### f80r.32,+P0
 
 EVA: solchey qoky r cheykain sheckhy qokain okain ol
@@ -1352,6 +1473,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - ol: mix / transfer
 
+<a id="f80r-33-f80r-33-p0"></a>
+
 ### f80r.33,+P0
 
 EVA: solchey qokeey lkar otal olkeey okain shecthy ol
@@ -1391,6 +1514,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - shecthy: add secondary herb (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - ol: mix / transfer
+
+<a id="f80r-34-f80r-34-p0"></a>
 
 ### f80r.34,+P0
 
@@ -1436,6 +1561,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - koroiin: add fermentable sugars → mix / transfer → duration level 2 → state: cooling/rest → medium fermentation phase
 - y: [unparsed]
 
+<a id="f80r-35-f80r-35-p0"></a>
+
 ### f80r.35,+P0
 
 EVA: olkeey l sheol qokeey shedy qol shedy qokain shey qoty qokain qokady
@@ -1477,6 +1604,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoty: prepare liquid base → apply heat/cooking
 - qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - qokady: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f80r-36-f80r-36-p0"></a>
 
 ### f80r.36,+P0
 
@@ -1521,6 +1650,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ol: mix / transfer
 - lom: mix / transfer
 
+<a id="f80r-37-f80r-37-p0"></a>
+
 ### f80r.37,+P0
 
 EVA: sol olkeeey otar orchey qokeey ltalor olor qokaiin ol shey qotor alom
@@ -1562,6 +1693,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - qotor: prepare liquid base → apply heat/cooking → mix / transfer
 - alom: mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f80r-38-f80r-38-p0"></a>
 
 ### f80r.38,+P0
 
@@ -1606,6 +1739,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - ol: mix / transfer
 
+<a id="f80r-39-f80r-39-p0"></a>
+
 ### f80r.39,+P0
 
 EVA: qokeedy qokail oteey otain shedy ykeey rar [a:o]lshees
@@ -1646,6 +1781,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - lshees: add secondary herb (safe substitute) → duration level 2 → state: active extraction
 
+<a id="f80r-40-f80r-40-p0"></a>
+
 ### f80r.40,+P0
 
 EVA: torolshsdy opchey shepchy qotain shcthy qokedy daly
@@ -1684,6 +1821,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shcthy: add secondary herb (safe substitute) → add complex herbal compound (safe blend)
 - qokedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 1 → state: active extraction
 - daly: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f80r-41-f80r-41-p0"></a>
 
 ### f80r.41,+P0
 
@@ -1726,6 +1865,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - or: mix / transfer
 - oly: mix / transfer
 
+<a id="f80r-42-f80r-42-p0"></a>
+
 ### f80r.42,+P0
 
 EVA: y cheeytal checthy qokain qokain checthy qokain ol
@@ -1765,6 +1906,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - checthy: add main plant (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - ol: mix / transfer
+
+<a id="f80r-43-f80r-43-p0"></a>
 
 ### f80r.43,+P0
 
@@ -1806,6 +1949,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokeey: prepare liquid base → add fermentable sugars → duration level 2 → state: active extraction
 - ly: [unparsed]
 
+<a id="f80r-44-f80r-44-p0"></a>
+
 ### f80r.44,+P0
 
 EVA: qokain shckhy qokolkain chedy qokain checthy lor
@@ -1845,6 +1990,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - checthy: add main plant (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - lor: mix / transfer
 
+<a id="f80r-45-f80r-45-p0"></a>
+
 ### f80r.45,+P0
 
 EVA: okain shedy qokan chedy qotain cheky lteey lolom
@@ -1883,6 +2030,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - lteey: apply heat/cooking → duration level 2 → state: active extraction
 - lolom: mix / transfer
 
+<a id="f80r-46-f80r-46-p0"></a>
+
 ### f80r.46,+P0
 
 EVA: qokain cheey olkain shedy qokain orol s
@@ -1919,6 +2068,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - orol: mix / transfer
 - s: [unparsed]
+
+<a id="f80r-47-f80r-47-p0"></a>
 
 ### f80r.47,+P0
 
@@ -1962,6 +2113,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - olkeey: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
 - qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 
+<a id="f80r-48-f80r-48-p0"></a>
+
 ### f80r.48,+P0
 
 EVA: sal shy loiin cheey qotl shety sheoky qokaiin cheey ram
@@ -2001,6 +2154,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokaiin: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
 - cheey: add main plant (safe substitute) → duration level 2 → state: active extraction
 - ram: duration level 1 → state: fermentation start
+
+<a id="f80r-49-f80r-49-p0"></a>
 
 ### f80r.49,+P0
 
@@ -2047,6 +2202,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - olky: add fermentable sugars → mix / transfer
 - oklor: add fermentable sugars → mix / transfer
 
+<a id="f80r-50-f80r-50-p0"></a>
+
 ### f80r.50,+P0
 
 EVA: lol chey saiin shety okaiiin sheor tchey lkaiin okainy
@@ -2085,6 +2242,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchey: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
 - lkaiin: add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
 - okainy: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f80r-51-f80r-51-p0"></a>
 
 ### f80r.51,+P0
 
@@ -2127,6 +2286,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - lkain: add fermentable sugars → duration level 1 → state: fermentation start
 - olom: mix / transfer
 
+<a id="f80r-52-f80r-52-p0"></a>
+
 ### f80r.52,+P0
 
 EVA: sol tl shey qoklcheey lkaiin ol olor aiin y daiin cheol kain
@@ -2168,6 +2329,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - cheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - kain: add fermentable sugars → duration level 1 → state: fermentation start
+
+<a id="f80r-53-f80r-53-p0"></a>
 
 ### f80r.53,+P0
 

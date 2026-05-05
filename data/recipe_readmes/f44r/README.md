@@ -23,6 +23,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 tshodpy oraiphy koees ypsholy shy otoloaiin
 ydsh dyeees y ty oky okchey qykchey dchy dy
 oair ekokeey kshotol otal daiin ototaykal
@@ -34,6 +35,7 @@ pshy opchey qopchy ofchey roiry sholos ykchy
 otchol ol dchckhy qoky qotchy qokchy qokyd
 qokchor okchy qoto ykol choky choky chol dam
 ytsho qockhy okchody
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 20, 'secondary herb': 15, 'mix/transfer': 46, 'yeast fermentation': 22, 'sugars': 22, 'main herb': 30, 'general base': 2, 'liquid base': 12, 'aroma modifier': 1, 'complex herbal compound': 2}
@@ -52,7 +54,22 @@ ytsho qockhy okchody
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f44r.1,@P0](#f44r-1-f44r-1-p0)
+- [f44r.2,+P0](#f44r-2-f44r-2-p0)
+- [f44r.3,+P0](#f44r-3-f44r-3-p0)
+- [f44r.4,+P0](#f44r-4-f44r-4-p0)
+- [f44r.5,+P0](#f44r-5-f44r-5-p0)
+- [f44r.6,+P0](#f44r-6-f44r-6-p0)
+- [f44r.7,+P0](#f44r-7-f44r-7-p0)
+- [f44r.8,+P0](#f44r-8-f44r-8-p0)
+- [f44r.9,+P0](#f44r-9-f44r-9-p0)
+- [f44r.10,+P0](#f44r-10-f44r-10-p0)
+- [f44r.11,+P0](#f44r-11-f44r-11-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f44r-1-f44r-1-p0"></a>
 
 ### f44r.1,@P0
 
@@ -89,6 +106,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ypsholy: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
 - shy: add secondary herb (safe substitute)
 - otoloaiin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f44r-2-f44r-2-p0"></a>
 
 ### f44r.2,+P0
 
@@ -129,6 +148,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dchy: add main plant (safe substitute) → start fermentation (yeast)
 - dy: start fermentation (yeast)
 
+<a id="f44r-3-f44r-3-p0"></a>
+
 ### f44r.3,+P0
 
 EVA: oair ekokeey kshotol otal daiin ototaykal
@@ -165,6 +186,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - ototaykal: add fermentable sugars → apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f44r-4-f44r-4-p0"></a>
+
 ### f44r.4,+P0
 
 EVA: ychor ykchey ykchy chody dam
@@ -199,6 +222,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykchy: add fermentable sugars → add main plant (safe substitute)
 - chody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f44r-5-f44r-5-p0"></a>
 
 ### f44r.5,+P0
 
@@ -237,6 +262,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheey: add secondary herb (safe substitute) → duration level 2 → state: active extraction
 - ytey: apply heat/cooking → duration level 1 → state: active extraction
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f44r-6-f44r-6-p0"></a>
 
 ### f44r.6,+P0
 
@@ -277,6 +304,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otchy: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f44r-7-f44r-7-p0"></a>
+
 ### f44r.7,+P0
 
 EVA: qotch' o[q:y]d shol qotshy oyty chom
@@ -315,6 +344,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotshy: prepare liquid base → apply heat/cooking → add secondary herb (safe substitute)
 - oyty: apply heat/cooking → mix / transfer
 - chom: add main plant (safe substitute) → mix / transfer
+
+<a id="f44r-8-f44r-8-p0"></a>
 
 ### f44r.8,+P0
 
@@ -356,6 +387,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sholos: add secondary herb (safe substitute) → mix / transfer
 - ykchy: add fermentable sugars → add main plant (safe substitute)
 
+<a id="f44r-9-f44r-9-p0"></a>
+
 ### f44r.9,+P0
 
 EVA: otchol ol dchckhy qoky qotchy qokchy qokyd
@@ -395,6 +428,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokchy: prepare liquid base → add fermentable sugars → add main plant (safe substitute)
 - qokyd: prepare liquid base → add fermentable sugars → start fermentation (yeast)
 
+<a id="f44r-10-f44r-10-p0"></a>
+
 ### f44r.10,+P0
 
 EVA: qokchor okchy qoto ykol choky choky chol dam
@@ -432,6 +467,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choky: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - chol: add main plant (safe substitute) → mix / transfer
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f44r-11-f44r-11-p0"></a>
 
 ### f44r.11,+P0
 

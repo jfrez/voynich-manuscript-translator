@@ -19,7 +19,9 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 otaim dam alam
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'mix/transfer': 1, 'heat': 1, 'yeast fermentation': 1}
@@ -35,7 +37,12 @@ otaim dam alam
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f65r.1,@Lp](#f65r-1-f65r-1-lp)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f65r-1-f65r-1-lp"></a>
 
 ### f65r.1,@Lp
 

@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 koaiin cphor qotoy sha ckhol ykoaiin s oly
 daiidy qoteeol okeeor okor olytol dol dar
 okom chol shol seees chom cheeykam okai
@@ -34,6 +35,7 @@ sho shockho ckhy tchor chodaiin chom
 osh chodair ytchy tchor kcham s
 shar shkaiin qokchy yty cthal chky
 dain sheam y keam
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'sugars': 21, 'mix/transfer': 56, 'complex herbal compound': 10, 'liquid base': 5, 'heat': 11, 'secondary herb': 9, 'yeast fermentation': 13, 'main herb': 32}
@@ -50,7 +52,25 @@ dain sheam y keam
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f3v.1,@P0](#f3v-1-f3v-1-p0)
+- [f3v.2,+P0](#f3v-2-f3v-2-p0)
+- [f3v.3,+P0](#f3v-3-f3v-3-p0)
+- [f3v.4,+P0](#f3v-4-f3v-4-p0)
+- [f3v.5,+P0](#f3v-5-f3v-5-p0)
+- [f3v.6,+P0](#f3v-6-f3v-6-p0)
+- [f3v.7,+P0](#f3v-7-f3v-7-p0)
+- [f3v.8,+P0](#f3v-8-f3v-8-p0)
+- [f3v.9,+P0](#f3v-9-f3v-9-p0)
+- [f3v.10,+P0](#f3v-10-f3v-10-p0)
+- [f3v.11,+P0](#f3v-11-f3v-11-p0)
+- [f3v.12,+P0](#f3v-12-f3v-12-p0)
+- [f3v.13,+P0](#f3v-13-f3v-13-p0)
+- [f3v.14,+P0](#f3v-14-f3v-14-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f3v-1-f3v-1-p0"></a>
 
 ### f3v.1,@P0
 
@@ -92,6 +112,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - oly: mix / transfer
 
+<a id="f3v-2-f3v-2-p0"></a>
+
 ### f3v.2,+P0
 
 EVA: daiidy qoteeol okeeor okor olytol dol dar
@@ -129,6 +151,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dol: mix / transfer → start fermentation (yeast)
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f3v-3-f3v-3-p0"></a>
+
 ### f3v.3,+P0
 
 EVA: okom chol shol seees chom cheeykam okai
@@ -165,6 +189,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chom: add main plant (safe substitute) → mix / transfer
 - cheeykam: add fermentable sugars → add main plant (safe substitute) → duration level 2 → state: active extraction
 - okai: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f3v-4-f3v-4-p0"></a>
 
 ### f3v.4,+P0
 
@@ -204,6 +230,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - r: [unparsed]
 - chear: add main plant (safe substitute) → duration level 1 → state: active extraction
 - een: duration level 2 → state: active extraction
+
+<a id="f3v-5-f3v-5-p0"></a>
 
 ### f3v.5,+P0
 
@@ -245,6 +273,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - a: duration level 1 → state: fermentation start
 - y: [unparsed]
 
+<a id="f3v-6-f3v-6-p0"></a>
+
 ### f3v.6,+P0
 
 EVA: or cheor kor chodaly chom
@@ -279,6 +309,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kor: add fermentable sugars → mix / transfer
 - chodaly: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - chom: add main plant (safe substitute) → mix / transfer
+
+<a id="f3v-7-f3v-7-p0"></a>
 
 ### f3v.7,+P0
 
@@ -317,6 +349,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cfham: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
 - s: [unparsed]
 
+<a id="f3v-8-f3v-8-p0"></a>
+
 ### f3v.8,+P0
 
 EVA: ykchy kchom chor chckhol oka
@@ -353,6 +387,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chor: add main plant (safe substitute) → mix / transfer
 - chckhol: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
 - oka: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f3v-9-f3v-9-p0"></a>
 
 ### f3v.9,+P0
 
@@ -391,6 +427,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chor: add main plant (safe substitute) → mix / transfer
 - cthy: add complex herbal compound (safe blend)
 
+<a id="f3v-10-f3v-10-p0"></a>
+
 ### f3v.10,+P0
 
 EVA: ochos daiin qokshol daiim chol okary
@@ -426,6 +464,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiim: start fermentation (yeast) → duration level 1 → state: fermentation start
 - chol: add main plant (safe substitute) → mix / transfer
 - okary: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f3v-11-f3v-11-p0"></a>
 
 ### f3v.11,+P0
 
@@ -465,6 +505,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chodaiin: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - chom: add main plant (safe substitute) → mix / transfer
 
+<a id="f3v-12-f3v-12-p0"></a>
+
 ### f3v.12,+P0
 
 EVA: osh chodair ytchy tchor kcham s
@@ -500,6 +542,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchor: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - kcham: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: fermentation start
 - s: [unparsed]
+
+<a id="f3v-13-f3v-13-p0"></a>
 
 ### f3v.13,+P0
 
@@ -538,6 +582,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - yty: apply heat/cooking
 - cthal: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
 - chky: add fermentable sugars → add main plant (safe substitute)
+
+<a id="f3v-14-f3v-14-p0"></a>
 
 ### f3v.14,+P0
 

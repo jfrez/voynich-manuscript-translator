@@ -24,12 +24,14 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['paretaria', 'urtica']
 
 ## EVA Text (Transliteration)
+```text
 k o cheor chor ytchey pshod chols chodaiin ytoiiin daiin
 dchol c'y chol otaiin dain cthor chots ychopordg
 qotcho ytor daiin daiin otchor daiin q'o darchor do
 qotor shees otol ykoiin shol daiin cthor okch y taiin
 shokeeol chor cheotol otchol daiin dal chol chotaiin
 otol chol dairodg
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'sugars': 4, 'mix/transfer': 41, 'main herb': 19, 'heat': 14, 'yeast fermentation': 18, 'secondary herb': 4, 'complex herbal compound': 2, 'liquid base': 2, 'general base': 1}
@@ -46,7 +48,17 @@ otol chol dairodg
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f5v.1,@P0](#f5v-1-f5v-1-p0)
+- [f5v.2,+P0](#f5v-2-f5v-2-p0)
+- [f5v.3,+P0](#f5v-3-f5v-3-p0)
+- [f5v.4,+P0](#f5v-4-f5v-4-p0)
+- [f5v.5,+P0](#f5v-5-f5v-5-p0)
+- [f5v.6,+P0](#f5v-6-f5v-6-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f5v-1-f5v-1-p0"></a>
 
 ### f5v.1,@P0
 
@@ -87,6 +99,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chodaiin: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - ytoiiin: apply heat/cooking → mix / transfer → duration level 3 → state: cooling/rest → medium fermentation phase
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f5v-2-f5v-2-p0"></a>
 
 ### f5v.2,+P0
 
@@ -129,6 +143,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chots: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - ychopordg: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 
+<a id="f5v-3-f5v-3-p0"></a>
+
 ### f5v.3,+P0
 
 EVA: qotcho ytor daiin daiin otchor daiin q'o darchor do
@@ -168,6 +184,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - darchor: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - do: mix / transfer → start fermentation (yeast)
+
+<a id="f5v-4-f5v-4-p0"></a>
 
 ### f5v.4,+P0
 
@@ -211,6 +229,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - taiin: apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f5v-5-f5v-5-p0"></a>
+
 ### f5v.5,+P0
 
 EVA: shokeeol chor cheotol otchol daiin dal chol chotaiin
@@ -248,6 +268,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 - chol: add main plant (safe substitute) → mix / transfer
 - chotaiin: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f5v-6-f5v-6-p0"></a>
 
 ### f5v.6,+P0
 

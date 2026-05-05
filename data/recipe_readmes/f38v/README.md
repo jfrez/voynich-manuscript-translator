@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 okchop chol shotol oteol okee[a:y] s chor d aiin d
 choiin shey key sho oiin s chol ldy okeaiin o kom
 qokeey keor daiin okey keey daiin dair daiin s
@@ -32,6 +33,7 @@ qoty daiin chol oteeol dody cheod chody
 sho keeey key tey daiin daiiin dain dain
 daiin qol chy dain @153; or daiin dain daldy
 o aiin char chshol chokaiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'mix/transfer': 33, 'sugars': 15, 'main herb': 13, 'yeast fermentation': 26, 'secondary herb': 5, 'heat': 7, 'liquid base': 4}
@@ -47,7 +49,19 @@ o aiin char chshol chokaiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f38v.1,@P0](#f38v-1-f38v-1-p0)
+- [f38v.2,+P0](#f38v-2-f38v-2-p0)
+- [f38v.3,+P0](#f38v-3-f38v-3-p0)
+- [f38v.4,+P0](#f38v-4-f38v-4-p0)
+- [f38v.5,+P0](#f38v-5-f38v-5-p0)
+- [f38v.6,+P0](#f38v-6-f38v-6-p0)
+- [f38v.7,+P0](#f38v-7-f38v-7-p0)
+- [f38v.8,+P0](#f38v-8-f38v-8-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f38v-1-f38v-1-p0"></a>
 
 ### f38v.1,@P0
 
@@ -91,6 +105,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - d: start fermentation (yeast)
 
+<a id="f38v-2-f38v-2-p0"></a>
+
 ### f38v.2,+P0
 
 EVA: choiin shey key sho oiin s chol ldy okeaiin o kom
@@ -132,6 +148,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - kom: add fermentable sugars → mix / transfer
 
+<a id="f38v-3-f38v-3-p0"></a>
+
 ### f38v.3,+P0
 
 EVA: qokeey keor daiin okey keey daiin dair daiin s
@@ -170,6 +188,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dair: start fermentation (yeast) → duration level 1 → state: fermentation start
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - s: [unparsed]
+
+<a id="f38v-4-f38v-4-p0"></a>
 
 ### f38v.4,+P0
 
@@ -210,6 +230,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiiin: duration level 1 → state: fermentation start → medium fermentation phase
 - d: start fermentation (yeast)
 
+<a id="f38v-5-f38v-5-p0"></a>
+
 ### f38v.5,+P0
 
 EVA: qoty daiin chol oteeol dody cheod chody
@@ -246,6 +268,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dody: mix / transfer → start fermentation (yeast)
 - cheod: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - chody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+
+<a id="f38v-6-f38v-6-p0"></a>
 
 ### f38v.6,+P0
 
@@ -285,6 +309,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f38v-7-f38v-7-p0"></a>
+
 ### f38v.7,+P0
 
 EVA: daiin qol chy dain @153; or daiin dain daldy
@@ -322,6 +348,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - daldy: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f38v-8-f38v-8-p0"></a>
 
 ### f38v.8,+P0
 

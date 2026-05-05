@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 pchodar shod chocphy opchol daiin otchol chy qo ldy
 otchor otchor cthol cty ctheol dy dchar chakod dly
 qotchaiin shor cthol cthol shor chotchy tchodar
@@ -33,6 +34,7 @@ qokchol qodaiin otcholchy daiin cho qokol o kam
 sho otor shockhy shocthy otoldy dshor dol dar
 oschotshl daiin okchey kol daiin shol dsho otaiin
 ytchol deey yteol deaiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 24, 'main herb': 28, 'mix/transfer': 64, 'secondary herb': 12, 'complex herbal compound': 9, 'heat': 21, 'liquid base': 6, 'sugars': 10}
@@ -49,7 +51,20 @@ ytchol deey yteol deaiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f28r.1,@P0](#f28r-1-f28r-1-p0)
+- [f28r.2,+P0](#f28r-2-f28r-2-p0)
+- [f28r.3,+P0](#f28r-3-f28r-3-p0)
+- [f28r.4,+P0](#f28r-4-f28r-4-p0)
+- [f28r.5,+P0](#f28r-5-f28r-5-p0)
+- [f28r.6,+P0](#f28r-6-f28r-6-p0)
+- [f28r.7,+P0](#f28r-7-f28r-7-p0)
+- [f28r.8,+P0](#f28r-8-f28r-8-p0)
+- [f28r.9,+P0](#f28r-9-f28r-9-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f28r-1-f28r-1-p0"></a>
 
 ### f28r.1,@P0
 
@@ -92,6 +107,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qo: prepare liquid base
 - ldy: start fermentation (yeast)
 
+<a id="f28r-2-f28r-2-p0"></a>
+
 ### f28r.2,+P0
 
 EVA: otchor otchor cthol cty ctheol dy dchar chakod dly
@@ -133,6 +150,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chakod: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - dly: start fermentation (yeast)
 
+<a id="f28r-3-f28r-3-p0"></a>
+
 ### f28r.3,+P0
 
 EVA: qotchaiin shor cthol cthol shor chotchy tchodar
@@ -171,6 +190,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shor: add secondary herb (safe substitute) → mix / transfer
 - chotchy: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - tchodar: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f28r-4-f28r-4-p0"></a>
 
 ### f28r.4,+P0
 
@@ -212,6 +233,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choky: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - qoty: prepare liquid base → apply heat/cooking
 
+<a id="f28r-5-f28r-5-p0"></a>
+
 ### f28r.5,+P0
 
 EVA: oksho otorchy kchoror chodaiin sho cthody okoy
@@ -251,6 +274,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthody: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend)
 - okoy: add fermentable sugars → mix / transfer
 
+<a id="f28r-6-f28r-6-p0"></a>
+
 ### f28r.6,+P0
 
 EVA: qokchol qodaiin otcholchy daiin cho qokol o kam
@@ -288,6 +313,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokol: prepare liquid base → add fermentable sugars → mix / transfer
 - o: mix / transfer
 - kam: add fermentable sugars → duration level 1 → state: fermentation start
+
+<a id="f28r-7-f28r-7-p0"></a>
 
 ### f28r.7,+P0
 
@@ -329,6 +356,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dol: mix / transfer → start fermentation (yeast)
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f28r-8-f28r-8-p0"></a>
+
 ### f28r.8,+P0
 
 EVA: oschotshl daiin okchey kol daiin shol dsho otaiin
@@ -366,6 +395,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shol: add secondary herb (safe substitute) → mix / transfer
 - dsho: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
 - otaiin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f28r-9-f28r-9-p0"></a>
 
 ### f28r.9,+P0
 

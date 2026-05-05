@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 ksor shey shoteo chforaiin shy shod chary
 dy coain shol dain dar shokyd dchol cthey ds
 chol shy keol chol chy shol chy daiin chey dam
@@ -37,6 +38,7 @@ qotchey shes s y chy tchey dy
 chol daiiin chees chos ctey dan
 dain cheokeey chey cthey otal
 o[t:k]chodeey
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'sugars': 11, 'mix/transfer': 37, 'secondary herb': 12, 'heat': 13, 'main herb': 44, 'aroma modifier': 1, 'yeast fermentation': 26, 'complex herbal compound': 4, 'liquid base': 2}
@@ -55,7 +57,24 @@ o[t:k]chodeey
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f27r.1,@P0](#f27r-1-f27r-1-p0)
+- [f27r.2,+P0](#f27r-2-f27r-2-p0)
+- [f27r.3,+P0](#f27r-3-f27r-3-p0)
+- [f27r.4,+P0](#f27r-4-f27r-4-p0)
+- [f27r.5,+P0](#f27r-5-f27r-5-p0)
+- [f27r.6,+P0](#f27r-6-f27r-6-p0)
+- [f27r.7,+P0](#f27r-7-f27r-7-p0)
+- [f27r.8,+P0](#f27r-8-f27r-8-p0)
+- [f27r.9,+P0](#f27r-9-f27r-9-p0)
+- [f27r.10,+P0](#f27r-10-f27r-10-p0)
+- [f27r.11,+P0](#f27r-11-f27r-11-p0)
+- [f27r.12,+P0](#f27r-12-f27r-12-p0)
+- [f27r.13,+Pc](#f27r-13-f27r-13-pc)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f27r-1-f27r-1-p0"></a>
 
 ### f27r.1,@P0
 
@@ -96,6 +115,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shy: add secondary herb (safe substitute)
 - shod: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
 - chary: add main plant (safe substitute) → duration level 1 → state: fermentation start
+
+<a id="f27r-2-f27r-2-p0"></a>
 
 ### f27r.2,+P0
 
@@ -138,6 +159,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthey: add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - ds: start fermentation (yeast)
 
+<a id="f27r-3-f27r-3-p0"></a>
+
 ### f27r.3,+P0
 
 EVA: chol shy keol chol chy shol chy daiin chey dam
@@ -178,6 +201,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chey: add main plant (safe substitute) → duration level 1 → state: active extraction
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f27r-4-f27r-4-p0"></a>
+
 ### f27r.4,+P0
 
 EVA: qokey chor char chy dchy keey chos cthody
@@ -217,6 +242,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - keey: add fermentable sugars → duration level 2 → state: active extraction
 - chos: add main plant (safe substitute) → mix / transfer
 - cthody: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend)
+
+<a id="f27r-5-f27r-5-p0"></a>
 
 ### f27r.5,+P0
 
@@ -259,6 +286,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dair: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f27r-6-f27r-6-p0"></a>
+
 ### f27r.6,+P0
 
 EVA: chy t chols chor cholohaiin shy kchal dy
@@ -296,6 +325,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shy: add secondary herb (safe substitute)
 - kchal: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: fermentation start
 - dy: start fermentation (yeast)
+
+<a id="f27r-7-f27r-7-p0"></a>
 
 ### f27r.7,+P0
 
@@ -337,6 +368,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chals: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - cham: add main plant (safe substitute) → duration level 1 → state: fermentation start
 
+<a id="f27r-8-f27r-8-p0"></a>
+
 ### f27r.8,+P0
 
 EVA: ytchy chy t chol dy t chey dain chol dal
@@ -377,6 +410,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f27r-9-f27r-9-p0"></a>
+
 ### f27r.9,+P0
 
 EVA: dchey keeod shotchey chol oty chy tolg
@@ -413,6 +448,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oty: apply heat/cooking → mix / transfer
 - chy: add main plant (safe substitute)
 - tolg: apply heat/cooking → mix / transfer
+
+<a id="f27r-10-f27r-10-p0"></a>
 
 ### f27r.10,+P0
 
@@ -451,6 +488,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchey: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
 - dy: start fermentation (yeast)
 
+<a id="f27r-11-f27r-11-p0"></a>
+
 ### f27r.11,+P0
 
 EVA: chol daiiin chees chos ctey dan
@@ -486,6 +525,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chos: add main plant (safe substitute) → mix / transfer
 - ctey: apply heat/cooking → duration level 1 → state: active extraction
 - dan: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f27r-12-f27r-12-p0"></a>
 
 ### f27r.12,+P0
 
@@ -523,6 +564,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chey: add main plant (safe substitute) → duration level 1 → state: active extraction
 - cthey: add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f27r-13-f27r-13-pc"></a>
 
 ### f27r.13,+Pc
 

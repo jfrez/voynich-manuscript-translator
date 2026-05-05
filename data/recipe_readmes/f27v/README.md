@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 pochof chof cho sho soly shol ytchar opchory kchor chor
 dchy chkar otchy shy shy dchy dshy kchy cheo daidy dchy
 kchey kchy dchokchy dsho dcar chodchy etcheody shld
@@ -28,6 +29,7 @@ qoky sh keeo [s:r]cho dar shkol chotchy ctho dol
 dsho kchrrr okeedy dch[s:r]chy sotchdy
 sho shoykcho shdy dchd chschsy otchdy
 okshes okchokshy
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 27, 'mix/transfer': 42, 'main herb': 40, 'aroma modifier': 2, 'secondary herb': 16, 'heat': 6, 'sugars': 19, 'liquid base': 1, 'complex herbal compound': 1}
@@ -46,7 +48,19 @@ okshes okchokshy
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f27v.1,@P0](#f27v-1-f27v-1-p0)
+- [f27v.2,+P0](#f27v-2-f27v-2-p0)
+- [f27v.3,+P0](#f27v-3-f27v-3-p0)
+- [f27v.4,+P0](#f27v-4-f27v-4-p0)
+- [f27v.5,+P0](#f27v-5-f27v-5-p0)
+- [f27v.6,+P0](#f27v-6-f27v-6-p0)
+- [f27v.7,+P0](#f27v-7-f27v-7-p0)
+- [f27v.8,+P0](#f27v-8-f27v-8-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f27v-1-f27v-1-p0"></a>
 
 ### f27v.1,@P0
 
@@ -91,6 +105,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kchor: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - chor: add main plant (safe substitute) → mix / transfer
 
+<a id="f27v-2-f27v-2-p0"></a>
+
 ### f27v.2,+P0
 
 EVA: dchy chkar otchy shy shy dchy dshy kchy cheo daidy dchy
@@ -132,6 +148,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daidy: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dchy: add main plant (safe substitute) → start fermentation (yeast)
 
+<a id="f27v-3-f27v-3-p0"></a>
+
 ### f27v.3,+P0
 
 EVA: kchey kchy dchokchy dsho dcar chodchy etcheody shld
@@ -169,6 +187,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chodchy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - etcheody: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - shld: add secondary herb (safe substitute) → start fermentation (yeast)
+
+<a id="f27v-4-f27v-4-p0"></a>
 
 ### f27v.4,+P0
 
@@ -213,6 +233,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - do: mix / transfer → start fermentation (yeast)
 - cheesg: add main plant (safe substitute) → duration level 2 → state: active extraction
 
+<a id="f27v-5-f27v-5-p0"></a>
+
 ### f27v.5,+P0
 
 EVA: qoky sh keeo [s:r]cho dar shkol chotchy ctho dol
@@ -256,6 +278,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ctho: mix / transfer → add complex herbal compound (safe blend)
 - dol: mix / transfer → start fermentation (yeast)
 
+<a id="f27v-6-f27v-6-p0"></a>
+
 ### f27v.6,+P0
 
 EVA: dsho kchrrr okeedy dch[s:r]chy sotchdy
@@ -294,6 +318,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chy: add main plant (safe substitute)
 - sotchdy: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 
+<a id="f27v-7-f27v-7-p0"></a>
+
 ### f27v.7,+P0
 
 EVA: sho shoykcho shdy dchd chschsy otchdy
@@ -329,6 +355,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dchd: add main plant (safe substitute) → start fermentation (yeast)
 - chschsy: add main plant (safe substitute)
 - otchdy: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+
+<a id="f27v-8-f27v-8-p0"></a>
 
 ### f27v.8,+P0
 

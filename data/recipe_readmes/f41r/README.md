@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 pshey kedal[ee:ch]y oked seekeeey opshes [o:y]p[ch:ee]d qotchedy shkakeedy
 ykeeo alshey ykedy kesh dy dy dor [y:q]cheoky qokee[d:?] chpy qokedy dy
 qok sa[y:?] [q:y][o:e]kedy ychdykchdy qokedy qokedy shekchy cheky daly
@@ -35,6 +36,7 @@ dair chedy chckhy qokey lchdy qokedy qokal chekedy qodar a[g:j]
 qokeedy okedy chekedy chedy chckheody chekol daiin cheo al otedy
 sshok shedy qekchdy dchdaldy ykedy qokeedy qokedy qokeg
 ykeod ykeedy chekeedy cheked
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 80, 'secondary herb': 11, 'sugars': 48, 'main herb': 41, 'mix/transfer': 21, 'liquid base': 19, 'heat': 10, 'general base': 3, 'complex herbal compound': 3}
@@ -51,7 +53,22 @@ ykeod ykeedy chekeedy cheked
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f41r.1,@P0](#f41r-1-f41r-1-p0)
+- [f41r.2,+P0](#f41r-2-f41r-2-p0)
+- [f41r.3,+P0](#f41r-3-f41r-3-p0)
+- [f41r.4,+P0](#f41r-4-f41r-4-p0)
+- [f41r.5,+P0](#f41r-5-f41r-5-p0)
+- [f41r.6,+P0](#f41r-6-f41r-6-p0)
+- [f41r.7,+P0](#f41r-7-f41r-7-p0)
+- [f41r.8,+P0](#f41r-8-f41r-8-p0)
+- [f41r.9,+P0](#f41r-9-f41r-9-p0)
+- [f41r.10,+P0](#f41r-10-f41r-10-p0)
+- [f41r.11,+P0](#f41r-11-f41r-11-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f41r-1-f41r-1-p0"></a>
 
 ### f41r.1,@P0
 
@@ -99,6 +116,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotchedy: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - shkakeedy: add fermentable sugars → add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f41r-2-f41r-2-p0"></a>
+
 ### f41r.2,+P0
 
 EVA: ykeeo alshey ykedy kesh dy dy dor [y:q]cheoky qokee[d:?] chpy qokedy dy
@@ -144,6 +163,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 1 → state: active extraction
 - dy: start fermentation (yeast)
 
+<a id="f41r-3-f41r-3-p0"></a>
+
 ### f41r.3,+P0
 
 EVA: qok sa[y:?] [q:y][o:e]kedy ychdykchdy qokedy qokedy shekchy cheky daly
@@ -187,6 +208,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shekchy: add fermentable sugars → add main plant (safe substitute) → add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - cheky: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction
 - daly: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f41r-4-f41r-4-p0"></a>
 
 ### f41r.4,+P0
 
@@ -232,6 +255,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - m: [unparsed]
 - g: [unparsed]
 
+<a id="f41r-5-f41r-5-p0"></a>
+
 ### f41r.5,+P0
 
 EVA: qotchy sal yteedy kchdy dchedy k[ee:ch]dy dchedy dalain
@@ -273,6 +298,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dchedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - dalain: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f41r-6-f41r-6-p0"></a>
+
 ### f41r.6,+P0
 
 EVA: shedey polchedy qokeey chekedy ytey chkeeod ypchedpy shepy shedy
@@ -311,6 +338,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ypchedpy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - shepy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f41r-7-f41r-7-p0"></a>
 
 ### f41r.7,+P0
 
@@ -354,6 +383,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - e: duration level 1 → state: active extraction
 - qokedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f41r-8-f41r-8-p0"></a>
 
 ### f41r.8,+P0
 
@@ -399,6 +430,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - g: [unparsed]
 - j: [unparsed]
 
+<a id="f41r-9-f41r-9-p0"></a>
+
 ### f41r.9,+P0
 
 EVA: qokeedy okedy chekedy chedy chckheody chekol daiin cheo al otedy
@@ -441,6 +474,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - al: duration level 1 → state: fermentation start
 - otedy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 
+<a id="f41r-10-f41r-10-p0"></a>
+
 ### f41r.10,+P0
 
 EVA: sshok shedy qekchdy dchdaldy ykedy qokeedy qokedy qokeg
@@ -478,6 +513,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokeedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
 - qokedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 1 → state: active extraction
 - qokeg: prepare liquid base → add fermentable sugars → duration level 1 → state: active extraction
+
+<a id="f41r-11-f41r-11-p0"></a>
 
 ### f41r.11,+P0
 

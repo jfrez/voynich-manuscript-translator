@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 f
 kshor shol cphokchol chcfhhy
 o
@@ -76,6 +77,7 @@ k
 chol chor ches chkalchy chokeeoky chokoran
 y
 ykchokeo r cheey daiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'aroma modifier': 2, 'sugars': 40, 'secondary herb': 16, 'mix/transfer': 113, 'complex herbal compound': 10, 'main herb': 98, 'liquid base': 10, 'yeast fermentation': 50, 'heat': 20, 'general base': 1}
@@ -94,7 +96,63 @@ ykchokeo r cheey daiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f49v.1,@L0](#f49v-1-f49v-1-l0)
+- [f49v.2,=P0](#f49v-2-f49v-2-p0)
+- [f49v.3,*L0](#f49v-3-f49v-3-l0)
+- [f49v.4,=P0](#f49v-4-f49v-4-p0)
+- [f49v.5,*L0](#f49v-5-f49v-5-l0)
+- [f49v.6,=P0](#f49v-6-f49v-6-p0)
+- [f49v.7,*L0](#f49v-7-f49v-7-l0)
+- [f49v.8,=P0](#f49v-8-f49v-8-p0)
+- [f49v.9,*L0](#f49v-9-f49v-9-l0)
+- [f49v.10,=P0](#f49v-10-f49v-10-p0)
+- [f49v.11,*L0](#f49v-11-f49v-11-l0)
+- [f49v.12,=P0](#f49v-12-f49v-12-p0)
+- [f49v.13,*L0](#f49v-13-f49v-13-l0)
+- [f49v.14,=P0](#f49v-14-f49v-14-p0)
+- [f49v.15,*L0](#f49v-15-f49v-15-l0)
+- [f49v.16,=P0](#f49v-16-f49v-16-p0)
+- [f49v.17,*L0](#f49v-17-f49v-17-l0)
+- [f49v.18,=P0](#f49v-18-f49v-18-p0)
+- [f49v.19,*L0](#f49v-19-f49v-19-l0)
+- [f49v.20,=P0](#f49v-20-f49v-20-p0)
+- [f49v.21,*L0](#f49v-21-f49v-21-l0)
+- [f49v.22,=P0](#f49v-22-f49v-22-p0)
+- [f49v.23,*L0](#f49v-23-f49v-23-l0)
+- [f49v.24,=P0](#f49v-24-f49v-24-p0)
+- [f49v.25,*L0](#f49v-25-f49v-25-l0)
+- [f49v.26,=P0](#f49v-26-f49v-26-p0)
+- [f49v.27,*L0](#f49v-27-f49v-27-l0)
+- [f49v.28,=P0](#f49v-28-f49v-28-p0)
+- [f49v.29,*L0](#f49v-29-f49v-29-l0)
+- [f49v.30,=P0](#f49v-30-f49v-30-p0)
+- [f49v.31,*L0](#f49v-31-f49v-31-l0)
+- [f49v.32,=P0](#f49v-32-f49v-32-p0)
+- [f49v.33,*L0](#f49v-33-f49v-33-l0)
+- [f49v.34,=P0](#f49v-34-f49v-34-p0)
+- [f49v.35,*L0](#f49v-35-f49v-35-l0)
+- [f49v.36,=P0](#f49v-36-f49v-36-p0)
+- [f49v.37,*L0](#f49v-37-f49v-37-l0)
+- [f49v.38,=P0](#f49v-38-f49v-38-p0)
+- [f49v.39,*L0](#f49v-39-f49v-39-l0)
+- [f49v.40,=P0](#f49v-40-f49v-40-p0)
+- [f49v.41,*L0](#f49v-41-f49v-41-l0)
+- [f49v.42,=P0](#f49v-42-f49v-42-p0)
+- [f49v.43,*L0](#f49v-43-f49v-43-l0)
+- [f49v.44,=P0](#f49v-44-f49v-44-p0)
+- [f49v.45,*L0](#f49v-45-f49v-45-l0)
+- [f49v.46,=P0](#f49v-46-f49v-46-p0)
+- [f49v.47,*L0](#f49v-47-f49v-47-l0)
+- [f49v.48,=P0](#f49v-48-f49v-48-p0)
+- [f49v.49,*L0](#f49v-49-f49v-49-l0)
+- [f49v.50,=P0](#f49v-50-f49v-50-p0)
+- [f49v.51,*L0](#f49v-51-f49v-51-l0)
+- [f49v.52,=P0](#f49v-52-f49v-52-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f49v-1-f49v-1-l0"></a>
 
 ### f49v.1,@L0
 
@@ -129,6 +187,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - f: add aroma modifier
+
+<a id="f49v-2-f49v-2-p0"></a>
 
 ### f49v.2,=P0
 
@@ -166,6 +226,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cphokchol: add fermentable sugars → add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
 - chcfhhy: add main plant (safe substitute) → add complex herbal compound (safe blend)
 
+<a id="f49v-3-f49v-3-l0"></a>
+
 ### f49v.3,*L0
 
 EVA: o
@@ -196,6 +258,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
+
+<a id="f49v-4-f49v-4-p0"></a>
 
 ### f49v.4,=P0
 
@@ -233,6 +297,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sho: add secondary herb (safe substitute) → mix / transfer
 - ckhy: add complex herbal compound (safe blend)
 
+<a id="f49v-5-f49v-5-l0"></a>
+
 ### f49v.5,*L0
 
 EVA: r
@@ -263,6 +329,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - r: [unparsed]
+
+<a id="f49v-6-f49v-6-p0"></a>
 
 ### f49v.6,=P0
 
@@ -300,6 +368,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthey: add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - koddy: add fermentable sugars → mix / transfer → start fermentation (yeast)
 
+<a id="f49v-7-f49v-7-l0"></a>
+
 ### f49v.7,*L0
 
 EVA: y
@@ -330,6 +400,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
+
+<a id="f49v-8-f49v-8-p0"></a>
 
 ### f49v.8,=P0
 
@@ -364,6 +436,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chotshol: apply heat/cooking → add main plant (safe substitute) → add secondary herb (safe substitute) → mix / transfer
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f49v-9-f49v-9-l0"></a>
+
 ### f49v.9,*L0
 
 EVA: e
@@ -394,6 +468,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - e: duration level 1 → state: active extraction
+
+<a id="f49v-10-f49v-10-p0"></a>
 
 ### f49v.10,=P0
 
@@ -428,6 +504,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shodaiin: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - qotchar: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: fermentation start
 
+<a id="f49v-11-f49v-11-l0"></a>
+
 ### f49v.11,*L0
 
 EVA: @140;
@@ -455,6 +533,8 @@ Process:
 Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
 
 Does It Make Sense?: yes
+
+<a id="f49v-12-f49v-12-p0"></a>
 
 ### f49v.12,=P0
 
@@ -492,6 +572,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chokchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - choky: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 
+<a id="f49v-13-f49v-13-l0"></a>
+
 ### f49v.13,*L0
 
 EVA: k
@@ -522,6 +604,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - k: add fermentable sugars
+
+<a id="f49v-14-f49v-14-p0"></a>
 
 ### f49v.14,=P0
 
@@ -556,6 +640,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chodaiin: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dan: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f49v-15-f49v-15-l0"></a>
+
 ### f49v.15,*L0
 
 EVA: s
@@ -586,6 +672,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
+
+<a id="f49v-16-f49v-16-p0"></a>
 
 ### f49v.16,=P0
 
@@ -621,6 +709,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dol: mix / transfer → start fermentation (yeast)
 
+<a id="f49v-17-f49v-17-l0"></a>
+
 ### f49v.17,*L0
 
 EVA: p
@@ -651,6 +741,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - p: start fermentation (yeast)
+
+<a id="f49v-18-f49v-18-p0"></a>
 
 ### f49v.18,=P0
 
@@ -686,6 +778,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ksheo: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - dl: start fermentation (yeast)
 
+<a id="f49v-19-f49v-19-l0"></a>
+
 ### f49v.19,*L0
 
 EVA: o
@@ -716,6 +810,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
+
+<a id="f49v-20-f49v-20-p0"></a>
 
 ### f49v.20,=P0
 
@@ -754,6 +850,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shckhy: add secondary herb (safe substitute) → add complex herbal compound (safe blend)
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f49v-21-f49v-21-l0"></a>
+
 ### f49v.21,*L0
 
 EVA: @192;
@@ -781,6 +879,8 @@ Process:
 Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
 
 Does It Make Sense?: yes
+
+<a id="f49v-22-f49v-22-p0"></a>
 
 ### f49v.22,=P0
 
@@ -818,6 +918,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - choky: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 
+<a id="f49v-23-f49v-23-l0"></a>
+
 ### f49v.23,*L0
 
 EVA: y
@@ -848,6 +950,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
+
+<a id="f49v-24-f49v-24-p0"></a>
 
 ### f49v.24,=P0
 
@@ -886,6 +990,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - chokag: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f49v-25-f49v-25-l0"></a>
+
 ### f49v.25,*L0
 
 EVA: e
@@ -916,6 +1022,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - e: duration level 1 → state: active extraction
+
+<a id="f49v-26-f49v-26-p0"></a>
 
 ### f49v.26,=P0
 
@@ -954,6 +1062,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f49v-27-f49v-27-l0"></a>
+
 ### f49v.27,*L0
 
 EVA: @140;
@@ -981,6 +1091,8 @@ Process:
 Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
 
 Does It Make Sense?: yes
+
+<a id="f49v-28-f49v-28-p0"></a>
 
 ### f49v.28,=P0
 
@@ -1021,6 +1133,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dchsy: add main plant (safe substitute) → start fermentation (yeast)
 - chotchy: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 
+<a id="f49v-29-f49v-29-l0"></a>
+
 ### f49v.29,*L0
 
 EVA: @164;
@@ -1048,6 +1162,8 @@ Process:
 Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
 
 Does It Make Sense?: yes
+
+<a id="f49v-30-f49v-30-p0"></a>
 
 ### f49v.30,=P0
 
@@ -1086,6 +1202,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - okchokol: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 
+<a id="f49v-31-f49v-31-l0"></a>
+
 ### f49v.31,*L0
 
 EVA: p
@@ -1116,6 +1234,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - p: start fermentation (yeast)
+
+<a id="f49v-32-f49v-32-p0"></a>
 
 ### f49v.32,=P0
 
@@ -1153,6 +1273,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dcho: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - dchog: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 
+<a id="f49v-33-f49v-33-l0"></a>
+
 ### f49v.33,*L0
 
 EVA: o
@@ -1183,6 +1305,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
+
+<a id="f49v-34-f49v-34-p0"></a>
 
 ### f49v.34,=P0
 
@@ -1218,6 +1342,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheo: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - choty: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 
+<a id="f49v-35-f49v-35-l0"></a>
+
 ### f49v.35,*L0
 
 EVA: @192;
@@ -1245,6 +1371,8 @@ Process:
 Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
 
 Does It Make Sense?: yes
+
+<a id="f49v-36-f49v-36-p0"></a>
 
 ### f49v.36,=P0
 
@@ -1286,6 +1414,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dcheol: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - chotchody: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 
+<a id="f49v-37-f49v-37-l0"></a>
+
 ### f49v.37,*L0
 
 EVA: y
@@ -1316,6 +1446,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
+
+<a id="f49v-38-f49v-38-p0"></a>
 
 ### f49v.38,=P0
 
@@ -1358,6 +1490,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - g: [unparsed]
 - d: start fermentation (yeast)
 
+<a id="f49v-39-f49v-39-l0"></a>
+
 ### f49v.39,*L0
 
 EVA: e
@@ -1388,6 +1522,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - e: duration level 1 → state: active extraction
+
+<a id="f49v-40-f49v-40-p0"></a>
 
 ### f49v.40,=P0
 
@@ -1426,6 +1562,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kshardy: add fermentable sugars → add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
 - chokchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 
+<a id="f49v-41-f49v-41-l0"></a>
+
 ### f49v.41,*L0
 
 EVA: @140;
@@ -1453,6 +1591,8 @@ Process:
 Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
 
 Does It Make Sense?: yes
+
+<a id="f49v-42-f49v-42-p0"></a>
 
 ### f49v.42,=P0
 
@@ -1495,6 +1635,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - r: [unparsed]
 - in: duration level 1 → state: cooling/rest
 
+<a id="f49v-43-f49v-43-l0"></a>
+
 ### f49v.43,*L0
 
 EVA: d
@@ -1525,6 +1667,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - d: start fermentation (yeast)
+
+<a id="f49v-44-f49v-44-p0"></a>
 
 ### f49v.44,=P0
 
@@ -1565,6 +1709,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chetcho: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - dy: start fermentation (yeast)
 
+<a id="f49v-45-f49v-45-l0"></a>
+
 ### f49v.45,*L0
 
 EVA: y
@@ -1595,6 +1741,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
+
+<a id="f49v-46-f49v-46-p0"></a>
 
 ### f49v.46,=P0
 
@@ -1636,6 +1784,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chctho: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
 - s: [unparsed]
 
+<a id="f49v-47-f49v-47-l0"></a>
+
 ### f49v.47,*L0
 
 EVA: e
@@ -1666,6 +1816,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - e: duration level 1 → state: active extraction
+
+<a id="f49v-48-f49v-48-p0"></a>
 
 ### f49v.48,=P0
 
@@ -1705,6 +1857,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chaiin: add main plant (safe substitute) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - d: start fermentation (yeast)
 
+<a id="f49v-49-f49v-49-l0"></a>
+
 ### f49v.49,*L0
 
 EVA: k
@@ -1735,6 +1889,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - k: add fermentable sugars
+
+<a id="f49v-50-f49v-50-p0"></a>
 
 ### f49v.50,=P0
 
@@ -1772,6 +1928,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chokeeoky: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
 - chokoran: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f49v-51-f49v-51-l0"></a>
+
 ### f49v.51,*L0
 
 EVA: y
@@ -1802,6 +1960,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
+
+<a id="f49v-52-f49v-52-p0"></a>
 
 ### f49v.52,=P0
 

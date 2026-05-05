@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['flower']
 
 ## EVA Text (Transliteration)
+```text
 o@167;chal chchs@168;y oty esedy chy ychocphy chorchy chy
 chokchey ch[o:a]l choly korchy chykey choty shokaiin
 olchey chokchol chey keey qokeey chokeey choksy
@@ -43,6 +44,7 @@ qotchy chody ctho r chey kch[a:o]rg
 chokeey qokcheey schey d aiin dy
 sho chokchy kchoar sotodan
 otchey keol daiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'mix/transfer': 70, 'main herb': 76, 'heat': 17, 'yeast fermentation': 15, 'complex herbal compound': 5, 'sugars': 35, 'secondary herb': 6, 'liquid base': 6}
@@ -59,7 +61,30 @@ otchey keol daiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f56r.1,@P0](#f56r-1-f56r-1-p0)
+- [f56r.2,+P0](#f56r-2-f56r-2-p0)
+- [f56r.3,+P0](#f56r-3-f56r-3-p0)
+- [f56r.4,+P0](#f56r-4-f56r-4-p0)
+- [f56r.5,+P0](#f56r-5-f56r-5-p0)
+- [f56r.6,+P0](#f56r-6-f56r-6-p0)
+- [f56r.7,+P0](#f56r-7-f56r-7-p0)
+- [f56r.8,+P0](#f56r-8-f56r-8-p0)
+- [f56r.9,+P0](#f56r-9-f56r-9-p0)
+- [f56r.10,+P0](#f56r-10-f56r-10-p0)
+- [f56r.11,+P0](#f56r-11-f56r-11-p0)
+- [f56r.12,+P0](#f56r-12-f56r-12-p0)
+- [f56r.13,+P0](#f56r-13-f56r-13-p0)
+- [f56r.14,+P0](#f56r-14-f56r-14-p0)
+- [f56r.15,+P0](#f56r-15-f56r-15-p0)
+- [f56r.16,+P0](#f56r-16-f56r-16-p0)
+- [f56r.17,+P0](#f56r-17-f56r-17-p0)
+- [f56r.18,+P0](#f56r-18-f56r-18-p0)
+- [f56r.19,+P0](#f56r-19-f56r-19-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f56r-1-f56r-1-p0"></a>
 
 ### f56r.1,@P0
 
@@ -103,6 +128,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chorchy: add main plant (safe substitute) → mix / transfer
 - chy: add main plant (safe substitute)
 
+<a id="f56r-2-f56r-2-p0"></a>
+
 ### f56r.2,+P0
 
 EVA: chokchey ch[o:a]l choly korchy chykey choty shokaiin
@@ -143,6 +170,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choty: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - shokaiin: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f56r-3-f56r-3-p0"></a>
+
 ### f56r.3,+P0
 
 EVA: olchey chokchol chey keey qokeey chokeey choksy
@@ -179,6 +208,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokeey: prepare liquid base → add fermentable sugars → duration level 2 → state: active extraction
 - chokeey: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
 - choksy: add fermentable sugars → add main plant (safe substitute) → mix / transfer
+
+<a id="f56r-4-f56r-4-p0"></a>
 
 ### f56r.4,+P0
 
@@ -218,6 +249,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - chdy: add main plant (safe substitute) → start fermentation (yeast)
 
+<a id="f56r-5-f56r-5-p0"></a>
+
 ### f56r.5,+P0
 
 EVA: chochor cho chodaly daiin
@@ -251,6 +284,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cho: add main plant (safe substitute) → mix / transfer
 - chodaly: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f56r-6-f56r-6-p0"></a>
 
 ### f56r.6,+P0
 
@@ -290,6 +325,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - y: [unparsed]
 
+<a id="f56r-7-f56r-7-p0"></a>
+
 ### f56r.7,+P0
 
 EVA: sho kchol otchor choky dal
@@ -324,6 +361,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otchor: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - choky: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f56r-8-f56r-8-p0"></a>
 
 ### f56r.8,+P0
 
@@ -361,6 +400,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choky: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - cheeckhody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend) → duration level 2 → state: active extraction
 
+<a id="f56r-9-f56r-9-p0"></a>
+
 ### f56r.9,+P0
 
 EVA: tchoky kchol shol chotchey tchol
@@ -395,6 +436,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shol: add secondary herb (safe substitute) → mix / transfer
 - chotchey: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - tchol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
+
+<a id="f56r-10-f56r-10-p0"></a>
 
 ### f56r.10,+P0
 
@@ -435,6 +478,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - r: [unparsed]
 - okaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f56r-11-f56r-11-p0"></a>
+
 ### f56r.11,+P0
 
 EVA: shy kcheey daiin cthol chos chokor
@@ -473,6 +518,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chos: add main plant (safe substitute) → mix / transfer
 - chokor: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 
+<a id="f56r-12-f56r-12-p0"></a>
+
 ### f56r.12,+P0
 
 EVA: sh cho kchey qokokchy
@@ -507,6 +554,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kchey: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction
 - qokokchy: prepare liquid base → add fermentable sugars → add main plant (safe substitute) → mix / transfer
 
+<a id="f56r-13-f56r-13-p0"></a>
+
 ### f56r.13,+P0
 
 EVA: okchy chokcheo kchal
@@ -539,6 +588,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - chokcheo: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - kchal: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: fermentation start
+
+<a id="f56r-14-f56r-14-p0"></a>
 
 ### f56r.14,+P0
 
@@ -573,6 +624,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - chotol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - qotchy: prepare liquid base → apply heat/cooking → add main plant (safe substitute)
+
+<a id="f56r-15-f56r-15-p0"></a>
 
 ### f56r.15,+P0
 
@@ -609,6 +662,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - chol: add main plant (safe substitute) → mix / transfer
 - cthy: add complex herbal compound (safe blend)
+
+<a id="f56r-16-f56r-16-p0"></a>
 
 ### f56r.16,+P0
 
@@ -651,6 +706,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - rg: [unparsed]
 
+<a id="f56r-17-f56r-17-p0"></a>
+
 ### f56r.17,+P0
 
 EVA: chokeey qokcheey schey d aiin dy
@@ -687,6 +744,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - dy: start fermentation (yeast)
 
+<a id="f56r-18-f56r-18-p0"></a>
+
 ### f56r.18,+P0
 
 EVA: sho chokchy kchoar sotodan
@@ -720,6 +779,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chokchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - kchoar: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
 - sotodan: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f56r-19-f56r-19-p0"></a>
 
 ### f56r.19,+P0
 

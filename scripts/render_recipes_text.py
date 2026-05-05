@@ -31,12 +31,12 @@ def _normalize_folio_from_image_basename(name: str) -> str:
     return f"f{num}{m.group(2)}"
 
 
-def build_folio_image_map(images_dir: pathlib.Path) -> dict[str, pathlib.Path]:
+def build_folio_image_map(images_dir: pathlib.Path) -> dict[str, list[pathlib.Path]]:
     """
     Build mapping folio -> image path using the cached folios.html if available.
     Falls back to scanning *_crd.jpg files.
     """
-    mapping: dict[str, pathlib.Path] = {}
+    mapping: dict[str, list[pathlib.Path]] = {}
     cache = images_dir / "_cache" / "folios.html"
     if cache.exists():
         html = cache.read_text(encoding="utf-8", errors="replace")
@@ -44,13 +44,31 @@ def build_folio_image_map(images_dir: pathlib.Path) -> dict[str, pathlib.Path]:
             rel_full = rel_thumb.replace("_th.jpg", "_crd.jpg")
             base = pathlib.Path(rel_full).name.replace("_crd.jpg", "")
             folio = _normalize_folio_from_image_basename(base)
-            mapping[folio] = images_dir / rel_full
+            p = images_dir / rel_full
+            mapping.setdefault(folio, []).append(p)
+            # If the image is a split page like f101v1/f101v2, also map to base folio f101v.
+            if re.match(r"^f\d+[rv]\d+$", folio):
+                base_folio = re.sub(r"(\d+)$", "", folio)
+                mapping.setdefault(base_folio, []).append(p)
     else:
         for p in images_dir.glob("q*/f*_crd.jpg"):
             base = p.name.replace("_crd.jpg", "")
             folio = _normalize_folio_from_image_basename(base)
-            mapping.setdefault(folio, p)
+            mapping.setdefault(folio, []).append(p)
+            if re.match(r"^f\d+[rv]\d+$", folio):
+                base_folio = re.sub(r"(\d+)$", "", folio)
+                mapping.setdefault(base_folio, []).append(p)
+    # Sort for stable output
+    for k, v in mapping.items():
+        mapping[k] = sorted(set(v), key=lambda x: str(x))
     return mapping
+
+
+def _safe_anchor_id(s: str) -> str:
+    s = s.lower()
+    s = re.sub(r"[^a-z0-9]+", "-", s)
+    s = re.sub(r"-+", "-", s).strip("-")
+    return s or "recipe"
 
 
 def main(argv: list[str]) -> int:
@@ -70,6 +88,7 @@ def main(argv: list[str]) -> int:
     folio_images = build_folio_image_map(images_dir) if images_dir.exists() else {}
 
     rendered = 0
+    index_entries: list[dict] = []
     for meta in index:
         folio = meta["folio"]
         recipe_path = recipes_dir / meta["recipe_file"]
@@ -110,10 +129,14 @@ def main(argv: list[str]) -> int:
 
         folio_dir = out_dir / folio
         folio_dir.mkdir(parents=True, exist_ok=True)
-        img_path = folio_images.get(folio)
-        if img_path and img_path.exists():
-            rel = os.path.relpath(img_path, start=folio_dir)
-            parts.append(f"![{folio}]({rel})")
+        img_paths = folio_images.get(folio, [])
+        img_paths = [p for p in img_paths if p.exists()]
+        if img_paths:
+            for p in img_paths:
+                rel = os.path.relpath(p, start=folio_dir)
+                parts.append(f"![{folio}]({rel})")
+        else:
+            parts.append("_Image not found for this folio in `data/images/`._")
 
         parts.append(format_kv_block("Page / Folio", page_meta))
         parts.append(format_kv_block("Plant Interpretation (Heuristic)", plant_interp))
@@ -128,7 +151,8 @@ def main(argv: list[str]) -> int:
         except Exception:
             page_payload = None
         if page_payload and page_payload.get("eva_text"):
-            parts.append("## EVA Text (Transliteration)\n" + page_payload["eva_text"].strip())
+            eva_block = page_payload["eva_text"].rstrip("\n")
+            parts.append("## EVA Text (Transliteration)\n```text\n" + eva_block + "\n```")
         if page_summary:
             parts.append(format_kv_block("Page Summary (Procedural, Aggregated)", page_summary.get("procedural_summary", {})))
 
@@ -136,11 +160,22 @@ def main(argv: list[str]) -> int:
 
         # Render each line as its own recipe
         if line_recipes:
+            idx_lines = ["## Recipes Index (This Page)"]
+            line_links = []
+            for i, lr in enumerate(line_recipes, start=1):
+                locus = lr.get("locus", f"line_{i}")
+                anchor = _safe_anchor_id(f"{folio}-{i}-{locus}")
+                idx_lines.append(f"- [{locus}](#{anchor})")
+                line_links.append({"locus": locus, "path": f"{folio}/README.md#{anchor}"})
+            parts.append("\n".join(idx_lines))
+
             blocks = ["## Line Recipes (Each Line = One Recipe, 0.5L batch)"]
             for i, lr in enumerate(line_recipes, start=1):
                 locus = lr.get("locus", f"line_{i}")
+                anchor = _safe_anchor_id(f"{folio}-{i}-{locus}")
                 eva_line = lr.get("eva_line", "")
                 recipe = lr.get("recipe", {}) or {}
+                blocks.append(f'<a id="{anchor}"></a>')
                 blocks.append(f"### {locus}")
                 if eva_line:
                     blocks.append(f"EVA: {eva_line}")
@@ -172,6 +207,8 @@ def main(argv: list[str]) -> int:
 
         (folio_dir / "README.md").write_text(readme, encoding="utf-8")
 
+        index_entries.append({"folio": folio, "readme": f"{folio}/README.md", "lines": line_links if line_recipes else []})
+
         rendered += 1
         if args.limit and rendered >= args.limit:
             break
@@ -180,12 +217,13 @@ def main(argv: list[str]) -> int:
     root_index_lines = [
         "# Recipe Readmes (Generated)",
         "",
-        "One folder per folio, containing `README.md`.",
+        "One folder per folio, containing `README.md` with linkable line-recipes.",
         "",
     ]
-    for meta in index[: rendered if args.limit else len(index)]:
-        folio = meta["folio"]
-        root_index_lines.append(f"- {folio}: {folio}/README.md")
+    for entry in index_entries:
+        root_index_lines.append(f"- {entry['folio']}: {entry['readme']}")
+        for lr in entry["lines"]:
+            root_index_lines.append(f"  - {lr['locus']}: {lr['path']}")
     (out_dir / "README.md").write_text("\n".join(root_index_lines) + "\n", encoding="utf-8")
 
     print(f"Wrote {rendered} README files -> {out_dir}", file=sys.stderr)

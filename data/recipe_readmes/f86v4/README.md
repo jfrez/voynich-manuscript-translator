@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 opos os sheody pch???ar odsheo qody cheepchdy lpchedy olkar shdar dchdor qopcher ches os eeedar odaiin pcheodar chdair orarorchy shar opchsey otedy chcphhy chedy sarshed odar sheey scheor al cheefar shetchy qoteol otor shar qoteshy do??? ofor arar dl
 oeeey [o:y] daiin otedaiin otedy oteey chedaiin octhedy chy shedaiin chotaiin oraiin otodeee[?:o] ar yteeody oteedaraiin shedaiin chdar shedy qotedaiin chedy tchdy chetdy chedy qotar chedy chckhy daiin otedy seeedy yteey sam
 tchey dair alody shes qeeor or odarchdy chdy orcheos o[s:r] ain or otee[d:?] chedees oteedy qoty otedy shedy otedy dar shd shy y schdy chdeedy dodar oiin or oiin sar orchedy qotchdy dchdes ar sheody opcho fcheom
@@ -29,6 +30,7 @@ ycheoltar ol ol sheey qokey or aiin sheeor sar al ol sheey qockheey
 tol sh s or aiin ol keeod lcheody okedy qokeody qoain a?
 daiin ol keedy otar olshedy okol aiin okal cheockhy shocthhy daiin
 dar oleey ol yy
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'mix/transfer': 112, 'yeast fermentation': 110, 'secondary herb': 26, 'main herb': 48, 'liquid base': 16, 'sugars': 12, 'heat': 36, 'complex herbal compound': 7, 'aroma modifier': 3, 'general base': 1}
@@ -47,7 +49,20 @@ dar oleey ol yy
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f86v4.1,@Cc](#f86v4-1-f86v4-1-cc)
+- [f86v4.2,@Cc](#f86v4-2-f86v4-2-cc)
+- [f86v4.3,@Cc](#f86v4-3-f86v4-3-cc)
+- [f86v4.4,@Cc](#f86v4-4-f86v4-4-cc)
+- [f86v4.5,@P0](#f86v4-5-f86v4-5-p0)
+- [f86v4.6,+P0](#f86v4-6-f86v4-6-p0)
+- [f86v4.7,+P0](#f86v4-7-f86v4-7-p0)
+- [f86v4.8,+P0](#f86v4-8-f86v4-8-p0)
+- [f86v4.9,+Pc](#f86v4-9-f86v4-9-pc)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f86v4-1-f86v4-1-cc"></a>
 
 ### f86v4.1,@Cc
 
@@ -124,6 +139,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - arar: duration level 1 → state: fermentation start
 - dl: start fermentation (yeast)
 
+<a id="f86v4-2-f86v4-2-cc"></a>
+
 ### f86v4.2,@Cc
 
 EVA: oeeey [o:y] daiin otedaiin otedy oteey chedaiin octhedy chy shedaiin chotaiin oraiin otodeee[?:o] ar yteeody oteedaraiin shedaiin chdar shedy qotedaiin chedy tchdy chetdy chedy qotar chedy chckhy daiin otedy seeedy yteey sam
@@ -189,6 +206,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - seeedy: start fermentation (yeast) → duration level 3 → state: active extraction
 - yteey: apply heat/cooking → duration level 2 → state: active extraction
 - sam: duration level 1 → state: fermentation start
+
+<a id="f86v4-3-f86v4-3-cc"></a>
 
 ### f86v4.3,@Cc
 
@@ -263,6 +282,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - opcho: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - fcheom: add main plant (safe substitute) → add aroma modifier → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f86v4-4-f86v4-4-cc"></a>
+
 ### f86v4.4,@Cc
 
 EVA: pchedar ar ocpor otees oes a[iir:iin] olkeor dar ain desy doeedey opchedy shedaiin dar otedy dain otey dam otedy daiin chocthy dtedair chody sheos otedos qokechy pchdeedy dan ol dol oty sho pol otoldyl
@@ -331,6 +352,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - pol: mix / transfer → start fermentation (yeast)
 - otoldyl: apply heat/cooking → mix / transfer → start fermentation (yeast)
 
+<a id="f86v4-5-f86v4-5-p0"></a>
+
 ### f86v4.5,@P0
 
 EVA: pcheodar oedy qokeol qoeol oqokeol dar ol olair am
@@ -369,6 +392,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ol: mix / transfer
 - olair: mix / transfer → duration level 1 → state: fermentation start
 - am: duration level 1 → state: fermentation start
+
+<a id="f86v4-6-f86v4-6-p0"></a>
 
 ### f86v4.6,+P0
 
@@ -415,6 +440,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheey: add secondary herb (safe substitute) → duration level 2 → state: active extraction
 - qockheey: prepare liquid base → add complex herbal compound (safe blend) → duration level 2 → state: active extraction
 
+<a id="f86v4-7-f86v4-7-p0"></a>
+
 ### f86v4.7,+P0
 
 EVA: tol sh s or aiin ol keeod lcheody okedy qokeody qoain a?
@@ -456,6 +483,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokeody: prepare liquid base → add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - qoain: prepare liquid base → duration level 1 → state: fermentation start
 - a: duration level 1 → state: fermentation start
+
+<a id="f86v4-8-f86v4-8-p0"></a>
 
 ### f86v4.8,+P0
 
@@ -499,6 +528,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheockhy: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - shocthhy: add secondary herb (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f86v4-9-f86v4-9-pc"></a>
 
 ### f86v4.9,+Pc
 

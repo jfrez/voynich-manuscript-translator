@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 pydchdom chy fcholdy oty otchol shy opyaiin y' yfchy daiin ololdy dal
 to ar chor daiin chk dain otchy lolchor daiin dam okchol dain g
 dchar ykor y kaiin daiin cth[?:o] g
@@ -31,6 +32,7 @@ qokshy char daiir qokaiin olol qoaiin ykchy s dal okchy
 okol ok shy qokol dy dal [d:j]she qokeees y oly daiin dal
 q[o:y]k okaiin chkchy s yteain odal chal dy dar ykain
 ykyk[a:o] dalory
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 41, 'main herb': 30, 'mix/transfer': 56, 'aroma modifier': 5, 'heat': 9, 'secondary herb': 6, 'sugars': 30, 'complex herbal compound': 1, 'liquid base': 11, 'general base': 1}
@@ -49,7 +51,22 @@ ykyk[a:o] dalory
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f23r.1,@P0](#f23r-1-f23r-1-p0)
+- [f23r.2,+P0](#f23r-2-f23r-2-p0)
+- [f23r.3,+P0](#f23r-3-f23r-3-p0)
+- [f23r.4,+P0](#f23r-4-f23r-4-p0)
+- [f23r.5,+P0](#f23r-5-f23r-5-p0)
+- [f23r.6,+P0](#f23r-6-f23r-6-p0)
+- [f23r.7,+P0](#f23r-7-f23r-7-p0)
+- [f23r.8,+P0](#f23r-8-f23r-8-p0)
+- [f23r.9,+P0](#f23r-9-f23r-9-p0)
+- [f23r.10,+P0](#f23r-10-f23r-10-p0)
+- [f23r.11,+P0](#f23r-11-f23r-11-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f23r-1-f23r-1-p0"></a>
 
 ### f23r.1,@P0
 
@@ -96,6 +113,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ololdy: mix / transfer → start fermentation (yeast)
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f23r-2-f23r-2-p0"></a>
+
 ### f23r.2,+P0
 
 EVA: to ar chor daiin chk dain otchy lolchor daiin dam okchol dain g
@@ -139,6 +158,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - g: [unparsed]
 
+<a id="f23r-3-f23r-3-p0"></a>
+
 ### f23r.3,+P0
 
 EVA: dchar ykor y kaiin daiin cth[?:o] g
@@ -178,6 +199,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cth: add complex herbal compound (safe blend)
 - o: mix / transfer
 - g: [unparsed]
+
+<a id="f23r-4-f23r-4-p0"></a>
 
 ### f23r.4,+P0
 
@@ -222,6 +245,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - olfchor: add main plant (safe substitute) → add aroma modifier → mix / transfer
 - otchald: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f23r-5-f23r-5-p0"></a>
+
 ### f23r.5,+P0
 
 EVA: ychor qokchol ytym chol da[ir:in] chol ar ol ol dol dain
@@ -265,6 +290,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dol: mix / transfer → start fermentation (yeast)
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f23r-6-f23r-6-p0"></a>
+
 ### f23r.6,+P0
 
 EVA: tshol y kor qokaiin yky dar okol dchey daiidal dam ytcho ldals
@@ -307,6 +334,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ytcho: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - ldals: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f23r-7-f23r-7-p0"></a>
+
 ### f23r.7,+P0
 
 EVA: okar olchar shaiin qokchol dar qokchol dairo r ol daiin alg
@@ -348,6 +377,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - alg: duration level 1 → state: fermentation start
 
+<a id="f23r-8-f23r-8-p0"></a>
+
 ### f23r.8,+P0
 
 EVA: qokshy char daiir qokaiin olol qoaiin ykchy s dal okchy
@@ -387,6 +418,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 - okchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer
+
+<a id="f23r-9-f23r-9-p0"></a>
 
 ### f23r.9,+P0
 
@@ -432,6 +465,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f23r-10-f23r-10-p0"></a>
+
 ### f23r.10,+P0
 
 EVA: q[o:y]k okaiin chkchy s yteain odal chal dy dar ykain
@@ -474,6 +509,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dy: start fermentation (yeast)
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 - ykain: add fermentable sugars → duration level 1 → state: fermentation start
+
+<a id="f23r-11-f23r-11-p0"></a>
 
 ### f23r.11,+P0
 

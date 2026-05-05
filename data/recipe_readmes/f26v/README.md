@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 pchedar qodary daiiin pcheety s air shedy ypchedy ypchdy qopy shdy
 saraiir chekedy qokedy otedy sar y etedy qokedy or ai'he alys chedy
 pchdar opar dar cheeol ofchdy otedy c@176;hdy odar chedy ytedy okchdy g
@@ -33,6 +34,7 @@ toeedy keody shedy dar chedy sches or cheeky dar chey cheky yteedy
 pchedy dar cheoet chy sair chees odaiiin chkeeey ykey sheey
 tchedy okeeos cheeos ysaiin okcheey keody s aiin cheeos qokes ory
 ysheey okeshy shody peshy todydy
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 59, 'main herb': 31, 'liquid base': 10, 'heat': 13, 'secondary herb': 8, 'sugars': 20, 'mix/transfer': 36, 'aroma modifier': 2, 'complex herbal compound': 1}
@@ -51,7 +53,20 @@ ysheey okeshy shody peshy todydy
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f26v.1,@P0](#f26v-1-f26v-1-p0)
+- [f26v.2,+P0](#f26v-2-f26v-2-p0)
+- [f26v.3,+P0](#f26v-3-f26v-3-p0)
+- [f26v.4,+P0](#f26v-4-f26v-4-p0)
+- [f26v.5,+P0](#f26v-5-f26v-5-p0)
+- [f26v.6,+P0](#f26v-6-f26v-6-p0)
+- [f26v.7,+P0](#f26v-7-f26v-7-p0)
+- [f26v.8,+P0](#f26v-8-f26v-8-p0)
+- [f26v.9,+P0](#f26v-9-f26v-9-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f26v-1-f26v-1-p0"></a>
 
 ### f26v.1,@P0
 
@@ -93,6 +108,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ypchdy: add main plant (safe substitute) → start fermentation (yeast)
 - qopy: prepare liquid base → start fermentation (yeast)
 - shdy: add secondary herb (safe substitute) → start fermentation (yeast)
+
+<a id="f26v-2-f26v-2-p0"></a>
 
 ### f26v.2,+P0
 
@@ -136,6 +153,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - he: duration level 1 → state: active extraction
 - alys: duration level 1 → state: fermentation start
 - chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f26v-3-f26v-3-p0"></a>
 
 ### f26v.3,+P0
 
@@ -183,6 +202,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okchdy: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - g: [unparsed]
 
+<a id="f26v-4-f26v-4-p0"></a>
+
 ### f26v.4,+P0
 
 EVA: y[ckhe:ckee]ody qokedy deey saldy okedor or cheos oraiin okeo chekaiin
@@ -228,6 +249,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okeo: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 - chekaiin: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction → long fermentation / aging phase
 
+<a id="f26v-5-f26v-5-p0"></a>
+
 ### f26v.5,+P0
 
 EVA: deeol cheody qoteedy qokody qotedy qotedy opchedy ofchy chs ar
@@ -271,6 +294,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chs: add main plant (safe substitute)
 - ar: duration level 1 → state: fermentation start
 
+<a id="f26v-6-f26v-6-p0"></a>
+
 ### f26v.6,+P0
 
 EVA: toeedy keody shedy dar chedy sches or cheeky dar chey cheky yteedy
@@ -313,6 +338,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheky: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction
 - yteedy: apply heat/cooking → start fermentation (yeast) → duration level 2 → state: active extraction
 
+<a id="f26v-7-f26v-7-p0"></a>
+
 ### f26v.7,+P0
 
 EVA: pchedy dar cheoet chy sair chees odaiiin chkeeey ykey sheey
@@ -352,6 +379,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chkeeey: add fermentable sugars → add main plant (safe substitute) → duration level 3 → state: active extraction
 - ykey: add fermentable sugars → duration level 1 → state: active extraction
 - sheey: add secondary herb (safe substitute) → duration level 2 → state: active extraction
+
+<a id="f26v-8-f26v-8-p0"></a>
 
 ### f26v.8,+P0
 
@@ -393,6 +422,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheeos: add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
 - qokes: prepare liquid base → add fermentable sugars → duration level 1 → state: active extraction
 - ory: mix / transfer
+
+<a id="f26v-9-f26v-9-p0"></a>
 
 ### f26v.9,+P0
 

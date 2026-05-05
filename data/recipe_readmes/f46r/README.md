@@ -19,6 +19,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 pcheocphy qotedy chety dy chepchx yfcheky o[s:r]aiin shee qoteol daiin shee dy daly
 sodaiin sheeoly qoor sheo teoly chckhy daiin sh[ck:ek] sheet shedy xo[r:s] aiin sheckhy
 daiin shor ykal che[kh:th]y daiin she dalshedy qokol s aiin shee ykar daiin
@@ -34,6 +35,7 @@ techy daiin sheockhy choky r aiin ches shey kar sheckhy chdy chckham
 ar akaiin shol okeey chol dar ols lain y
 otchealkar sholkshy qokar cheol okal dam chdam qokam
 qokar shol kal [a:o]lkeody
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 81, 'main herb': 46, 'mix/transfer': 46, 'complex herbal compound': 13, 'liquid base': 14, 'heat': 20, 'aroma modifier': 6, 'sugars': 39, 'secondary herb': 44}
@@ -52,7 +54,26 @@ qokar shol kal [a:o]lkeody
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f46r.1,@P0](#f46r-1-f46r-1-p0)
+- [f46r.2,+P0](#f46r-2-f46r-2-p0)
+- [f46r.3,+P0](#f46r-3-f46r-3-p0)
+- [f46r.4,+P0](#f46r-4-f46r-4-p0)
+- [f46r.5,+P0](#f46r-5-f46r-5-p0)
+- [f46r.6,+P0](#f46r-6-f46r-6-p0)
+- [f46r.7,+P0](#f46r-7-f46r-7-p0)
+- [f46r.8,+P0](#f46r-8-f46r-8-p0)
+- [f46r.9,+P0](#f46r-9-f46r-9-p0)
+- [f46r.10,+P0](#f46r-10-f46r-10-p0)
+- [f46r.11,+P0](#f46r-11-f46r-11-p0)
+- [f46r.12,+P0](#f46r-12-f46r-12-p0)
+- [f46r.13,+P0](#f46r-13-f46r-13-p0)
+- [f46r.14,+P0](#f46r-14-f46r-14-p0)
+- [f46r.15,+P0](#f46r-15-f46r-15-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f46r-1-f46r-1-p0"></a>
 
 ### f46r.1,@P0
 
@@ -105,6 +126,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dy: start fermentation (yeast)
 - daly: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f46r-2-f46r-2-p0"></a>
+
 ### f46r.2,+P0
 
 EVA: sodaiin sheeoly qoor sheo teoly chckhy daiin sh[ck:ek] sheet shedy xo[r:s] aiin sheckhy
@@ -154,6 +177,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - sheckhy: add secondary herb (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 
+<a id="f46r-3-f46r-3-p0"></a>
+
 ### f46r.3,+P0
 
 EVA: daiin shor ykal che[kh:th]y daiin she dalshedy qokol s aiin shee ykar daiin
@@ -200,6 +225,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykar: add fermentable sugars → duration level 1 → state: fermentation start
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f46r-4-f46r-4-p0"></a>
+
 ### f46r.4,+P0
 
 EVA: tshedar chol kaldy chckhy qokaldy chekal chckhy sheky sheky dalocthhy
@@ -241,6 +268,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheky: add fermentable sugars → add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - sheky: add fermentable sugars → add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - dalocthhy: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
+
+<a id="f46r-5-f46r-5-p0"></a>
 
 ### f46r.5,+P0
 
@@ -284,6 +313,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - a: duration level 1 → state: fermentation start
 - r: [unparsed]
+
+<a id="f46r-6-f46r-6-p0"></a>
 
 ### f46r.6,+P0
 
@@ -332,6 +363,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dykedy: add fermentable sugars → start fermentation (yeast) → duration level 1 → state: active extraction
 - chdam: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f46r-7-f46r-7-p0"></a>
+
 ### f46r.7,+P0
 
 EVA: xol shol qokaiin ytchdy qokchdy s ar chdy cthy otedy chedy qokar chcthy m
@@ -378,6 +411,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chcthy: add main plant (safe substitute) → add complex herbal compound (safe blend)
 - m: [unparsed]
 
+<a id="f46r-8-f46r-8-p0"></a>
+
 ### f46r.8,+P0
 
 EVA: dsheol chy chckhy shy shdy chky chody cthdy s cheos chey
@@ -420,6 +455,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - cheos: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - chey: add main plant (safe substitute) → duration level 1 → state: active extraction
+
+<a id="f46r-9-f46r-9-p0"></a>
 
 ### f46r.9,+P0
 
@@ -467,6 +504,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - yty: apply heat/cooking
 - dardam: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f46r-10-f46r-10-p0"></a>
+
 ### f46r.10,+P0
 
 EVA: tchey shy chkal chd qokdy shdy adoldy olaiir sheol
@@ -505,6 +544,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - adoldy: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - olaiir: mix / transfer → duration level 1 → state: fermentation start
 - sheol: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f46r-11-f46r-11-p0"></a>
 
 ### f46r.11,+P0
 
@@ -551,6 +592,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - yfchedy: add main plant (safe substitute) → add aroma modifier → start fermentation (yeast) → duration level 1 → state: active extraction
 
+<a id="f46r-12-f46r-12-p0"></a>
+
 ### f46r.12,+P0
 
 EVA: techy daiin sheockhy choky r aiin ches shey kar sheckhy chdy chckham
@@ -595,6 +638,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chdy: add main plant (safe substitute) → start fermentation (yeast)
 - chckham: add main plant (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
 
+<a id="f46r-13-f46r-13-p0"></a>
+
 ### f46r.13,+P0
 
 EVA: ar akaiin shol okeey chol dar ols lain y
@@ -634,6 +679,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - lain: duration level 1 → state: fermentation start
 - y: [unparsed]
 
+<a id="f46r-14-f46r-14-p0"></a>
+
 ### f46r.14,+P0
 
 EVA: otchealkar sholkshy qokar cheol okal dam chdam qokam
@@ -671,6 +718,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
 - chdam: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
 - qokam: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+
+<a id="f46r-15-f46r-15-p0"></a>
 
 ### f46r.15,+P0
 

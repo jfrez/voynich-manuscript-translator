@@ -196,6 +196,11 @@ python scripts/render_recipes_text.py
 - `data/recipes/<folio>.recipe.json`: one folio containing multiple **line-recipes** (each locus line is treated as an independent recipe).
 - `data/recipe_readmes/<folio>/README.md`: human-readable version with EVA text, direct gloss, and speculative recipe steps.
 
+Quick links:
+
+- `data/recipe_readmes/README.md` (index linking to every folio + every line-recipe)
+- `data/recipes/index.json` (machine-readable index of recipe files)
+
 ## Images
 
 Download page images from `voynich.nu` into `data/images/`:

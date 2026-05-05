@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 dairal
 v sal y soeos vs ar okees o d soefchees l g sos okey defo f o rkedam sh ofol sar ddal yty s y daiir otey dshdy dkal[s:r] oty pchchy a r opaiin dal karody v r okeey daram qokar okal okal d o l shkeal dy das o k sher s aiin
 o l [d:j] r v x k m f @169;v t r @170; @171; y I @172; o l d r v x k m f @169;v t r @170; @171; y c @172; o l d r v x k m p @169;v t r @170; @171; y c @172; o l d r v x k m p @169;v t r @170; @171; y c @172;
@@ -33,6 +34,7 @@ ark[a:o]ldy
 ara?arar
 okeely
 ocfhor okear
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 48, 'mix/transfer': 54, 'sugars': 26, 'aroma modifier': 9, 'main herb': 7, 'secondary herb': 6, 'heat': 17, 'liquid base': 1, 'complex herbal compound': 1}
@@ -51,7 +53,24 @@ ocfhor okear
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f57v.1,@L0](#f57v-1-f57v-1-l0)
+- [f57v.2,@Cc](#f57v-2-f57v-2-cc)
+- [f57v.3,+Cc](#f57v-3-f57v-3-cc)
+- [f57v.4,+Cc](#f57v-4-f57v-4-cc)
+- [f57v.5,+Cc](#f57v-5-f57v-5-cc)
+- [f57v.6,@L0](#f57v-6-f57v-6-l0)
+- [f57v.7,@L0](#f57v-7-f57v-7-l0)
+- [f57v.8,@L0](#f57v-8-f57v-8-l0)
+- [f57v.9,@L0](#f57v-9-f57v-9-l0)
+- [f57v.10,@Ro](#f57v-10-f57v-10-ro)
+- [f57v.11,@Ro](#f57v-11-f57v-11-ro)
+- [f57v.12,@Ro](#f57v-12-f57v-12-ro)
+- [f57v.13,@Ro](#f57v-13-f57v-13-ro)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f57v-1-f57v-1-l0"></a>
 
 ### f57v.1,@L0
 
@@ -83,6 +102,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - dairal: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f57v-2-f57v-2-cc"></a>
 
 ### f57v.2,@Cc
 
@@ -172,6 +193,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sher: add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - s: [unparsed]
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f57v-3-f57v-3-cc"></a>
 
 ### f57v.3,+Cc
 
@@ -263,6 +286,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - c: [unparsed]
 
+<a id="f57v-4-f57v-4-cc"></a>
+
 ### f57v.4,+Cc
 
 EVA: daiin otey of[che:eee]y shes o d okeeod l o lkeeol dkedar yf aros s y chedaiin k eeety x deeodal vo tchor ch' kedar dal @172; daiin aiin otal daro v
@@ -328,6 +353,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - daro: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - v: [unparsed]
+
+<a id="f57v-5-f57v-5-cc"></a>
 
 ### f57v.5,+Cc
 
@@ -399,6 +426,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - r: [unparsed]
 - l: [unparsed]
 
+<a id="f57v-6-f57v-6-l0"></a>
+
 ### f57v.6,@L0
 
 EVA: otodara[g:m]
@@ -432,6 +461,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - g: [unparsed]
 - m: [unparsed]
 
+<a id="f57v-7-f57v-7-l0"></a>
+
 ### f57v.7,@L0
 
 EVA: oparairdly
@@ -462,6 +493,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - oparairdly: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f57v-8-f57v-8-l0"></a>
 
 ### f57v.8,@L0
 
@@ -494,6 +527,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - olkeedal: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
 
+<a id="f57v-9-f57v-9-l0"></a>
+
 ### f57v.9,@L0
 
 EVA: otardaly
@@ -524,6 +559,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otardaly: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f57v-10-f57v-10-ro"></a>
 
 ### f57v.10,@Ro
 
@@ -559,6 +596,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - ldy: start fermentation (yeast)
 
+<a id="f57v-11-f57v-11-ro"></a>
+
 ### f57v.11,@Ro
 
 EVA: ara?arar
@@ -591,6 +630,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ara: duration level 1 → state: fermentation start
 - arar: duration level 1 → state: fermentation start
 
+<a id="f57v-12-f57v-12-ro"></a>
+
 ### f57v.12,@Ro
 
 EVA: okeely
@@ -621,6 +662,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okeely: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
+
+<a id="f57v-13-f57v-13-ro"></a>
 
 ### f57v.13,@Ro
 

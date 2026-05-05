@@ -20,12 +20,14 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 tolor chockhy oky choiin okshol oly oky
 okshey chodys ytoiin otaiin otaiin cthar
 qokor okaiin otaiin qo kchol chokokor
 ychok chey chckh chy chk[o:y] r odaiin d aiin sy
 o kor chey kain chor ctho dain ckholdy
 ysho sho kos daiin okoy chochor daiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 5, 'mix/transfer': 36, 'main herb': 14, 'complex herbal compound': 5, 'sugars': 15, 'secondary herb': 4, 'yeast fermentation': 7, 'liquid base': 2}
@@ -42,7 +44,17 @@ ysho sho kos daiin okoy chochor daiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f38r.1,@P0](#f38r-1-f38r-1-p0)
+- [f38r.2,+P0](#f38r-2-f38r-2-p0)
+- [f38r.3,+P0](#f38r-3-f38r-3-p0)
+- [f38r.4,+P0](#f38r-4-f38r-4-p0)
+- [f38r.5,+P0](#f38r-5-f38r-5-p0)
+- [f38r.6,+P0](#f38r-6-f38r-6-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f38r-1-f38r-1-p0"></a>
 
 ### f38r.1,@P0
 
@@ -83,6 +95,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oly: mix / transfer
 - oky: add fermentable sugars → mix / transfer
 
+<a id="f38r-2-f38r-2-p0"></a>
+
 ### f38r.2,+P0
 
 EVA: okshey chodys ytoiin otaiin otaiin cthar
@@ -121,6 +135,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otaiin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - cthar: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
 
+<a id="f38r-3-f38r-3-p0"></a>
+
 ### f38r.3,+P0
 
 EVA: qokor okaiin otaiin qo kchol chokokor
@@ -156,6 +172,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qo: prepare liquid base
 - kchol: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - chokokor: add fermentable sugars → add main plant (safe substitute) → mix / transfer
+
+<a id="f38r-4-f38r-4-p0"></a>
 
 ### f38r.4,+P0
 
@@ -201,6 +219,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - sy: [unparsed]
 
+<a id="f38r-5-f38r-5-p0"></a>
+
 ### f38r.5,+P0
 
 EVA: o kor chey kain chor ctho dain ckholdy
@@ -240,6 +260,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ctho: mix / transfer → add complex herbal compound (safe blend)
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - ckholdy: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend)
+
+<a id="f38r-6-f38r-6-p0"></a>
 
 ### f38r.6,+P0
 

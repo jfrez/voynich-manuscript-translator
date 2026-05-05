@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 poldchody shcphy shordy qoty shol cphar dan y
 shol dy chckhy shcthy daiin dam ykchy dain dchy
 otchor dy kchy tchy [@152;:d]ar qokchd oky choldy dy
@@ -31,6 +32,7 @@ qokchor chololcr chyky dchy qoky ctho tchey tu
 dd
 soydy qoteey qot chor dy ddy cthor shy arg
 ycheor ksho dor cthey s chold
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 24, 'mix/transfer': 20, 'main herb': 17, 'secondary herb': 7, 'complex herbal compound': 7, 'liquid base': 6, 'heat': 7, 'sugars': 8}
@@ -47,7 +49,18 @@ ycheor ksho dor cthey s chold
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f11v.1,@P0](#f11v-1-f11v-1-p0)
+- [f11v.2,+P0](#f11v-2-f11v-2-p0)
+- [f11v.3,+P0](#f11v-3-f11v-3-p0)
+- [f11v.4,+P0](#f11v-4-f11v-4-p0)
+- [f11v.5,*L0](#f11v-5-f11v-5-l0)
+- [f11v.6,=P0](#f11v-6-f11v-6-p0)
+- [f11v.7,+P0](#f11v-7-f11v-7-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f11v-1-f11v-1-p0"></a>
 
 ### f11v.1,@P0
 
@@ -88,6 +101,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cphar: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
 - dan: start fermentation (yeast) → duration level 1 → state: fermentation start
 - y: [unparsed]
+
+<a id="f11v-2-f11v-2-p0"></a>
 
 ### f11v.2,+P0
 
@@ -130,6 +145,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dchy: add main plant (safe substitute) → start fermentation (yeast)
 
+<a id="f11v-3-f11v-3-p0"></a>
+
 ### f11v.3,+P0
 
 EVA: otchor dy kchy tchy [@152;:d]ar qokchd oky choldy dy
@@ -169,6 +186,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oky: add fermentable sugars → mix / transfer
 - choldy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - dy: start fermentation (yeast)
+
+<a id="f11v-4-f11v-4-p0"></a>
 
 ### f11v.4,+P0
 
@@ -210,6 +229,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchey: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
 - tu: apply heat/cooking
 
+<a id="f11v-5-f11v-5-l0"></a>
+
 ### f11v.5,*L0
 
 EVA: dd
@@ -240,6 +261,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - dd: start fermentation (yeast)
+
+<a id="f11v-6-f11v-6-p0"></a>
 
 ### f11v.6,=P0
 
@@ -281,6 +304,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthor: mix / transfer → add complex herbal compound (safe blend)
 - shy: add secondary herb (safe substitute)
 - arg: duration level 1 → state: fermentation start
+
+<a id="f11v-7-f11v-7-p0"></a>
 
 ### f11v.7,+P0
 

@@ -18,6 +18,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 ofchdamy
 oklairdy
 okaram
@@ -50,6 +51,7 @@ otam
 ainaly
 okarcham
 otoar air aloy oka[iin:ii?] otees chs chchs ar aly taly dar otchey okaiin olaiin @211;y
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'mix/transfer': 80, 'aroma modifier': 1, 'main herb': 24, 'yeast fermentation': 19, 'sugars': 34, 'heat': 32, 'complex herbal compound': 3, 'liquid base': 3, 'secondary herb': 4}
@@ -68,7 +70,43 @@ otoar air aloy oka[iin:ii?] otees chs chchs ar aly taly dar otchey okaiin olaiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f72r2.1,@Lz](#f72r2-1-f72r2-1-lz)
+- [f72r2.2,&Lz](#f72r2-2-f72r2-2-lz)
+- [f72r2.3,&Lz](#f72r2-3-f72r2-3-lz)
+- [f72r2.4,&Lz](#f72r2-4-f72r2-4-lz)
+- [f72r2.5,&Lz](#f72r2-5-f72r2-5-lz)
+- [f72r2.6,@Cc](#f72r2-6-f72r2-6-cc)
+- [f72r2.7,@Lz](#f72r2-7-f72r2-7-lz)
+- [f72r2.8,&Lz](#f72r2-8-f72r2-8-lz)
+- [f72r2.9,&Lz](#f72r2-9-f72r2-9-lz)
+- [f72r2.10,&Lz](#f72r2-10-f72r2-10-lz)
+- [f72r2.11,&Lz](#f72r2-11-f72r2-11-lz)
+- [f72r2.12,&Lz](#f72r2-12-f72r2-12-lz)
+- [f72r2.13,&Lz](#f72r2-13-f72r2-13-lz)
+- [f72r2.14,&Lz](#f72r2-14-f72r2-14-lz)
+- [f72r2.15,&Lz](#f72r2-15-f72r2-15-lz)
+- [f72r2.16,&Lz](#f72r2-16-f72r2-16-lz)
+- [f72r2.17,&Lz](#f72r2-17-f72r2-17-lz)
+- [f72r2.18,&Lz](#f72r2-18-f72r2-18-lz)
+- [f72r2.19,&Lz](#f72r2-19-f72r2-19-lz)
+- [f72r2.20,&Lz](#f72r2-20-f72r2-20-lz)
+- [f72r2.21,&Lz](#f72r2-21-f72r2-21-lz)
+- [f72r2.22,@Cc](#f72r2-22-f72r2-22-cc)
+- [f72r2.23,@Lz](#f72r2-23-f72r2-23-lz)
+- [f72r2.24,&Lz](#f72r2-24-f72r2-24-lz)
+- [f72r2.25,&Lz](#f72r2-25-f72r2-25-lz)
+- [f72r2.26,&Lz](#f72r2-26-f72r2-26-lz)
+- [f72r2.27,&Lz](#f72r2-27-f72r2-27-lz)
+- [f72r2.28,&Lz](#f72r2-28-f72r2-28-lz)
+- [f72r2.29,&Lz](#f72r2-29-f72r2-29-lz)
+- [f72r2.30,&Lz](#f72r2-30-f72r2-30-lz)
+- [f72r2.31,&Lz](#f72r2-31-f72r2-31-lz)
+- [f72r2.32,@Cc](#f72r2-32-f72r2-32-cc)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f72r2-1-f72r2-1-lz"></a>
 
 ### f72r2.1,@Lz
 
@@ -104,6 +142,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - ofchdamy: add main plant (safe substitute) → add aroma modifier → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f72r2-2-f72r2-2-lz"></a>
+
 ### f72r2.2,&Lz
 
 EVA: oklairdy
@@ -134,6 +174,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - oklairdy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f72r2-3-f72r2-3-lz"></a>
 
 ### f72r2.3,&Lz
 
@@ -166,6 +208,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okaram: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f72r2-4-f72r2-4-lz"></a>
+
 ### f72r2.4,&Lz
 
 EVA: okairy
@@ -197,6 +241,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okairy: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f72r2-5-f72r2-5-lz"></a>
+
 ### f72r2.5,&Lz
 
 EVA: okealar
@@ -227,6 +273,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okealar: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f72r2-6-f72r2-6-cc"></a>
 
 ### f72r2.6,@Cc
 
@@ -302,6 +350,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otois: apply heat/cooking → mix / transfer → duration level 1 → state: cooling/rest
 - otees: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
 
+<a id="f72r2-7-f72r2-7-lz"></a>
+
 ### f72r2.7,@Lz
 
 EVA: otaraldy
@@ -332,6 +382,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otaraldy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f72r2-8-f72r2-8-lz"></a>
 
 ### f72r2.8,&Lz
 
@@ -364,6 +416,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okalar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f72r2-9-f72r2-9-lz"></a>
+
 ### f72r2.9,&Lz
 
 EVA: okal
@@ -394,6 +448,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f72r2-10-f72r2-10-lz"></a>
 
 ### f72r2.10,&Lz
 
@@ -426,6 +482,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okaly: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f72r2-11-f72r2-11-lz"></a>
+
 ### f72r2.11,&Lz
 
 EVA: okal
@@ -456,6 +514,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f72r2-12-f72r2-12-lz"></a>
 
 ### f72r2.12,&Lz
 
@@ -489,6 +549,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okeey: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
 - ary: duration level 1 → state: fermentation start
 
+<a id="f72r2-13-f72r2-13-lz"></a>
+
 ### f72r2.13,&Lz
 
 EVA: oteeary
@@ -519,6 +581,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - oteeary: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
+
+<a id="f72r2-14-f72r2-14-lz"></a>
 
 ### f72r2.14,&Lz
 
@@ -552,6 +616,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otair: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - dy: start fermentation (yeast)
 
+<a id="f72r2-15-f72r2-15-lz"></a>
+
 ### f72r2.15,&Lz
 
 EVA: okaircham
@@ -582,6 +648,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okaircham: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f72r2-16-f72r2-16-lz"></a>
 
 ### f72r2.16,&Lz
 
@@ -614,6 +682,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okeal: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f72r2-17-f72r2-17-lz"></a>
+
 ### f72r2.17,&Lz
 
 EVA: otarcr
@@ -644,6 +714,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otarcr: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f72r2-18-f72r2-18-lz"></a>
 
 ### f72r2.18,&Lz
 
@@ -676,6 +748,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okaly: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f72r2-19-f72r2-19-lz"></a>
+
 ### f72r2.19,&Lz
 
 EVA: orary
@@ -706,6 +780,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - orary: mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f72r2-20-f72r2-20-lz"></a>
 
 ### f72r2.20,&Lz
 
@@ -738,6 +814,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okyd: add fermentable sugars → mix / transfer → start fermentation (yeast)
 
+<a id="f72r2-21-f72r2-21-lz"></a>
+
 ### f72r2.21,&Lz
 
 EVA: otolam
@@ -768,6 +846,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otolam: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f72r2-22-f72r2-22-cc"></a>
 
 ### f72r2.22,@Cc
 
@@ -828,6 +908,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otoees: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f72r2-23-f72r2-23-lz"></a>
+
 ### f72r2.23,@Lz
 
 EVA: otal
@@ -858,6 +940,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f72r2-24-f72r2-24-lz"></a>
 
 ### f72r2.24,&Lz
 
@@ -890,6 +974,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - ralal: duration level 1 → state: fermentation start
 
+<a id="f72r2-25-f72r2-25-lz"></a>
+
 ### f72r2.25,&Lz
 
 EVA: okam
@@ -920,6 +1006,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okam: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f72r2-26-f72r2-26-lz"></a>
 
 ### f72r2.26,&Lz
 
@@ -952,6 +1040,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - otalshy: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f72r2-27-f72r2-27-lz"></a>
+
 ### f72r2.27,&Lz
 
 EVA: okaldy
@@ -982,6 +1072,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okaldy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f72r2-28-f72r2-28-lz"></a>
 
 ### f72r2.28,&Lz
 
@@ -1014,6 +1106,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - chosar: add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f72r2-29-f72r2-29-lz"></a>
+
 ### f72r2.29,&Lz
 
 EVA: otam
@@ -1044,6 +1138,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otam: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f72r2-30-f72r2-30-lz"></a>
 
 ### f72r2.30,&Lz
 
@@ -1076,6 +1172,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - ainaly: duration level 1 → state: fermentation start
 
+<a id="f72r2-31-f72r2-31-lz"></a>
+
 ### f72r2.31,&Lz
 
 EVA: okarcham
@@ -1106,6 +1204,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okarcham: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f72r2-32-f72r2-32-cc"></a>
 
 ### f72r2.32,@Cc
 

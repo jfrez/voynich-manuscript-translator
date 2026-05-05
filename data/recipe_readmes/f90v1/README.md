@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 pcheor chodar oleees chepy shol shckheo otol shey cheo r cheokeey
 tshor olsheod qodaiin qokeor sy oraiin ykeeol octheody cthhhy
 daiin shody cfheos qockhy chol ol sals sol yteey or cheey tey
@@ -31,6 +32,7 @@ daiin okeeey cheo qotecheor cthodaim s cheol chor okeam
 sheor ol qokeeoky okeeol okeeodaiin ytol sor a[s:r]iin aiin
 ykeeor cheos qkhey cheos oteol okechod oeey keeos aiiin
 deeocthey keeeol sheol c'tsheol daiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 23, 'main herb': 20, 'mix/transfer': 74, 'secondary herb': 17, 'complex herbal compound': 11, 'heat': 11, 'sugars': 25, 'liquid base': 9, 'general base': 2}
@@ -47,7 +49,22 @@ deeocthey keeeol sheol c'tsheol daiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f90v1.1,@P0](#f90v1-1-f90v1-1-p0)
+- [f90v1.2,+P0](#f90v1-2-f90v1-2-p0)
+- [f90v1.3,+P0](#f90v1-3-f90v1-3-p0)
+- [f90v1.4,+P0](#f90v1-4-f90v1-4-p0)
+- [f90v1.5,+P0](#f90v1-5-f90v1-5-p0)
+- [f90v1.6,+P0](#f90v1-6-f90v1-6-p0)
+- [f90v1.7,+P0](#f90v1-7-f90v1-7-p0)
+- [f90v1.8,+P0](#f90v1-8-f90v1-8-p0)
+- [f90v1.9,+P0](#f90v1-9-f90v1-9-p0)
+- [f90v1.10,+P0](#f90v1-10-f90v1-10-p0)
+- [f90v1.11,+P0](#f90v1-11-f90v1-11-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f90v1-1-f90v1-1-p0"></a>
 
 ### f90v1.1,@P0
 
@@ -92,6 +109,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - r: [unparsed]
 - cheokeey: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f90v1-2-f90v1-2-p0"></a>
+
 ### f90v1.2,+P0
 
 EVA: tshor olsheod qodaiin qokeor sy oraiin ykeeol octheody cthhhy
@@ -132,6 +151,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykeeol: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
 - octheody: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - cthhhy: add complex herbal compound (safe blend)
+
+<a id="f90v1-3-f90v1-3-p0"></a>
 
 ### f90v1.3,+P0
 
@@ -177,6 +198,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheey: add main plant (safe substitute) → duration level 2 → state: active extraction
 - tey: apply heat/cooking → duration level 1 → state: active extraction
 
+<a id="f90v1-4-f90v1-4-p0"></a>
+
 ### f90v1.4,+P0
 
 EVA: kos sheor chockhor qekeody cheody sy s olcheey cthhy qoky
@@ -218,6 +241,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - olcheey: add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
 - cthhy: add complex herbal compound (safe blend)
 - qoky: prepare liquid base → add fermentable sugars
+
+<a id="f90v1-5-f90v1-5-p0"></a>
 
 ### f90v1.5,+P0
 
@@ -261,6 +286,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sh: add secondary herb (safe substitute)
 - qokeys: prepare liquid base → add fermentable sugars → duration level 1 → state: active extraction
 
+<a id="f90v1-6-f90v1-6-p0"></a>
+
 ### f90v1.6,+P0
 
 EVA: shctheo ror sheol ol kaiin
@@ -297,6 +324,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheol: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - ol: mix / transfer
 - kaiin: add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f90v1-7-f90v1-7-p0"></a>
 
 ### f90v1.7,+P0
 
@@ -338,6 +367,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - podai: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - hey: duration level 1 → state: active extraction
 
+<a id="f90v1-8-f90v1-8-p0"></a>
+
 ### f90v1.8,+P0
 
 EVA: daiin okeeey cheo qotecheor cthodaim s cheol chor okeam
@@ -378,6 +409,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - chor: add main plant (safe substitute) → mix / transfer
 - okeam: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f90v1-9-f90v1-9-p0"></a>
 
 ### f90v1.9,+P0
 
@@ -421,6 +454,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - iin: duration level 2 → state: cooling/rest → medium fermentation phase
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f90v1-10-f90v1-10-p0"></a>
+
 ### f90v1.10,+P0
 
 EVA: ykeeor cheos qkhey cheos oteol okechod oeey keeos aiiin
@@ -459,6 +494,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oeey: mix / transfer → duration level 2 → state: active extraction
 - keeos: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
 - aiiin: duration level 1 → state: fermentation start → medium fermentation phase
+
+<a id="f90v1-11-f90v1-11-p0"></a>
 
 ### f90v1.11,+P0
 

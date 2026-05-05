@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 tshor shey qodckhy epho oltshey daiin qopchy
 okeey daiin sheekol shom shol cthy dchom do
 ydaiin cph[o:a]m chol dockhy cthol dam oty
@@ -33,6 +34,7 @@ ychocthy qodal shodaiin
 otsho or chear sheod chkodal
 ycheey kchy oky kody ydam
 yckhodaiin otoldy
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 10, 'secondary herb': 20, 'mix/transfer': 54, 'liquid base': 8, 'yeast fermentation': 43, 'complex herbal compound': 13, 'main herb': 16, 'sugars': 11}
@@ -49,7 +51,24 @@ yckhodaiin otoldy
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f53v.1,@P0](#f53v-1-f53v-1-p0)
+- [f53v.2,+P0](#f53v-2-f53v-2-p0)
+- [f53v.3,+P0](#f53v-3-f53v-3-p0)
+- [f53v.4,+P0](#f53v-4-f53v-4-p0)
+- [f53v.5,+P0](#f53v-5-f53v-5-p0)
+- [f53v.6,+P0](#f53v-6-f53v-6-p0)
+- [f53v.7,+P0](#f53v-7-f53v-7-p0)
+- [f53v.8,+P0](#f53v-8-f53v-8-p0)
+- [f53v.9,+P0](#f53v-9-f53v-9-p0)
+- [f53v.10,+P0](#f53v-10-f53v-10-p0)
+- [f53v.11,+P0](#f53v-11-f53v-11-p0)
+- [f53v.12,+P0](#f53v-12-f53v-12-p0)
+- [f53v.13,+P0](#f53v-13-f53v-13-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f53v-1-f53v-1-p0"></a>
 
 ### f53v.1,@P0
 
@@ -90,6 +109,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - qopchy: prepare liquid base → add main plant (safe substitute) → start fermentation (yeast)
 
+<a id="f53v-2-f53v-2-p0"></a>
+
 ### f53v.2,+P0
 
 EVA: okeey daiin sheekol shom shol cthy dchom do
@@ -129,6 +150,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthy: add complex herbal compound (safe blend)
 - dchom: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - do: mix / transfer → start fermentation (yeast)
+
+<a id="f53v-3-f53v-3-p0"></a>
 
 ### f53v.3,+P0
 
@@ -172,6 +195,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
 - oty: apply heat/cooking → mix / transfer
 
+<a id="f53v-4-f53v-4-p0"></a>
+
 ### f53v.4,+P0
 
 EVA: qokol daiiin qockhor okchor daiio dain d
@@ -211,6 +236,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - d: start fermentation (yeast)
 
+<a id="f53v-5-f53v-5-p0"></a>
+
 ### f53v.5,+P0
 
 EVA: ysheey ckhol chckhey daiin ctheody ydy
@@ -249,6 +276,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ctheody: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - ydy: start fermentation (yeast)
 
+<a id="f53v-6-f53v-6-p0"></a>
+
 ### f53v.6,+P0
 
 EVA: ochoiky dshey chol ykcheody choldam
@@ -283,6 +312,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - ykcheody: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - choldam: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f53v-7-f53v-7-p0"></a>
 
 ### f53v.7,+P0
 
@@ -322,6 +353,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotod: prepare liquid base → apply heat/cooking → mix / transfer → start fermentation (yeast)
 - odaiin: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f53v-8-f53v-8-p0"></a>
+
 ### f53v.8,+P0
 
 EVA: sheey kshody tsheody sheody sheetchy opod
@@ -357,6 +390,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheody: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - sheetchy: apply heat/cooking → add main plant (safe substitute) → add secondary herb (safe substitute) → duration level 2 → state: active extraction
 - opod: mix / transfer → start fermentation (yeast)
+
+<a id="f53v-9-f53v-9-p0"></a>
 
 ### f53v.9,+P0
 
@@ -396,6 +431,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheos: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - shodaiin: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f53v-10-f53v-10-p0"></a>
+
 ### f53v.10,+P0
 
 EVA: ychocthy qodal shodaiin
@@ -430,6 +467,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ychocthy: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
 - qodal: prepare liquid base → start fermentation (yeast) → duration level 1 → state: fermentation start
 - shodaiin: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f53v-11-f53v-11-p0"></a>
 
 ### f53v.11,+P0
 
@@ -466,6 +505,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheod: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - chkodal: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f53v-12-f53v-12-p0"></a>
+
 ### f53v.12,+P0
 
 EVA: ycheey kchy oky kody ydam
@@ -500,6 +541,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oky: add fermentable sugars → mix / transfer
 - kody: add fermentable sugars → mix / transfer → start fermentation (yeast)
 - ydam: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f53v-13-f53v-13-p0"></a>
 
 ### f53v.13,+P0
 

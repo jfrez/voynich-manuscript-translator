@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 keer[e:o]dal
 pcheody qofcheepy ofchdy cfhekchdy ypchedy chepchefy shdchdy qotal dar
 dshedy tchey s aiin shekey okedy okaly daiin okedy ykeeody choy keoy dam
@@ -32,6 +33,7 @@ ycheos olchey daiin or chol[a:o]laiin oteedy qoteol oteodar orain
 tadaiin ol cheos yteedy okal [o:a]ld oteol qokal or oteody
 ykeey okey ykeeol ckhdy chdal ykeo aiin okeody oly
 daiin olkeeo lkol chedy okeey
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'sugars': 26, 'mix/transfer': 47, 'yeast fermentation': 37, 'main herb': 16, 'liquid base': 8, 'aroma modifier': 3, 'complex herbal compound': 2, 'secondary herb': 4, 'heat': 9}
@@ -50,7 +52,19 @@ daiin olkeeo lkol chedy okeey
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f41v.1,@Lp](#f41v-1-f41v-1-lp)
+- [f41v.2,+P0](#f41v-2-f41v-2-p0)
+- [f41v.3,+P0](#f41v-3-f41v-3-p0)
+- [f41v.4,+P0](#f41v-4-f41v-4-p0)
+- [f41v.5,+P0](#f41v-5-f41v-5-p0)
+- [f41v.6,+P0](#f41v-6-f41v-6-p0)
+- [f41v.7,+P0](#f41v-7-f41v-7-p0)
+- [f41v.8,+P0](#f41v-8-f41v-8-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f41v-1-f41v-1-lp"></a>
 
 ### f41v.1,@Lp
 
@@ -85,6 +99,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - e: duration level 1 → state: active extraction
 - o: mix / transfer
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f41v-2-f41v-2-p0"></a>
 
 ### f41v.2,+P0
 
@@ -130,6 +146,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotal: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f41v-3-f41v-3-p0"></a>
+
 ### f41v.3,+P0
 
 EVA: dshedy tchey s aiin shekey okedy okaly daiin okedy ykeeody choy keoy dam
@@ -172,6 +190,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choy: add main plant (safe substitute) → mix / transfer
 - keoy: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f41v-4-f41v-4-p0"></a>
 
 ### f41v.4,+P0
 
@@ -216,6 +236,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokol: prepare liquid base → add fermentable sugars → mix / transfer
 - sheols: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f41v-5-f41v-5-p0"></a>
+
 ### f41v.5,+P0
 
 EVA: ycheos olchey daiin or chol[a:o]laiin oteedy qoteol oteodar orain
@@ -257,6 +279,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoteol: prepare liquid base → apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
 - oteodar: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - orain: mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f41v-6-f41v-6-p0"></a>
 
 ### f41v.6,+P0
 
@@ -300,6 +324,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - or: mix / transfer
 - oteody: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 
+<a id="f41v-7-f41v-7-p0"></a>
+
 ### f41v.7,+P0
 
 EVA: ykeey okey ykeeol ckhdy chdal ykeo aiin okeody oly
@@ -340,6 +366,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - okeody: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - oly: mix / transfer
+
+<a id="f41v-8-f41v-8-p0"></a>
 
 ### f41v.8,+P0
 

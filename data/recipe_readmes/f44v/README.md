@@ -19,6 +19,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 tsho qotshy cthol d chor otol shol tol qotshol otoldy
 yolkol cheol qokchain daly otchol daiin shol qotor ar
 tol okchor shcthy otol daiin cthy cthy
@@ -32,6 +33,7 @@ lsho qokchy tshy cphaiin cthal kal
 okal chol chol choky okaiin cthy otal
 ychey teol chaiin chcthy ctho cthol
 lchor shol dairl
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 24, 'secondary herb': 19, 'mix/transfer': 66, 'liquid base': 6, 'complex herbal compound': 19, 'yeast fermentation': 19, 'main herb': 23, 'sugars': 16}
@@ -48,7 +50,24 @@ lchor shol dairl
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f44v.1,@P0](#f44v-1-f44v-1-p0)
+- [f44v.2,+P0](#f44v-2-f44v-2-p0)
+- [f44v.3,+P0](#f44v-3-f44v-3-p0)
+- [f44v.4,+P0](#f44v-4-f44v-4-p0)
+- [f44v.5,+P0](#f44v-5-f44v-5-p0)
+- [f44v.6,+P0](#f44v-6-f44v-6-p0)
+- [f44v.7,+P0](#f44v-7-f44v-7-p0)
+- [f44v.8,+P0](#f44v-8-f44v-8-p0)
+- [f44v.9,+P0](#f44v-9-f44v-9-p0)
+- [f44v.10,+P0](#f44v-10-f44v-10-p0)
+- [f44v.11,+P0](#f44v-11-f44v-11-p0)
+- [f44v.12,+P0](#f44v-12-f44v-12-p0)
+- [f44v.13,+P0](#f44v-13-f44v-13-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f44v-1-f44v-1-p0"></a>
 
 ### f44v.1,@P0
 
@@ -92,6 +111,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotshol: prepare liquid base → apply heat/cooking → add secondary herb (safe substitute) → mix / transfer
 - otoldy: apply heat/cooking → mix / transfer → start fermentation (yeast)
 
+<a id="f44v-2-f44v-2-p0"></a>
+
 ### f44v.2,+P0
 
 EVA: yolkol cheol qokchain daly otchol daiin shol qotor ar
@@ -130,6 +151,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shol: add secondary herb (safe substitute) → mix / transfer
 - qotor: prepare liquid base → apply heat/cooking → mix / transfer
 - ar: duration level 1 → state: fermentation start
+
+<a id="f44v-3-f44v-3-p0"></a>
 
 ### f44v.3,+P0
 
@@ -170,6 +193,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthy: add complex herbal compound (safe blend)
 - cthy: add complex herbal compound (safe blend)
 
+<a id="f44v-4-f44v-4-p0"></a>
+
 ### f44v.4,+P0
 
 EVA: yokalod shaiin shor shorody shky sho y tchy opchod opy
@@ -209,6 +234,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchy: apply heat/cooking → add main plant (safe substitute)
 - opchod: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - opy: mix / transfer → start fermentation (yeast)
+
+<a id="f44v-5-f44v-5-p0"></a>
 
 ### f44v.5,+P0
 
@@ -251,6 +278,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ytchear: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
 - cthain: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
 
+<a id="f44v-6-f44v-6-p0"></a>
+
 ### f44v.6,+P0
 
 EVA: tol dair ytaiin dol y kchain oty keey otchol ytaiin dy
@@ -292,6 +321,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ytaiin: apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dy: start fermentation (yeast)
 
+<a id="f44v-7-f44v-7-p0"></a>
+
 ### f44v.7,+P0
 
 EVA: ok[y:o] tchaiin cthol dy cheol ololy
@@ -331,6 +362,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dy: start fermentation (yeast)
 - cheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - ololy: mix / transfer
+
+<a id="f44v-8-f44v-8-p0"></a>
 
 ### f44v.8,+P0
 
@@ -372,6 +405,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykoda: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - ol: mix / transfer
 
+<a id="f44v-9-f44v-9-p0"></a>
+
 ### f44v.9,+P0
 
 EVA: dshor cthees l o lkeees ckhy chcthy lo
@@ -412,6 +447,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chcthy: add main plant (safe substitute) → add complex herbal compound (safe blend)
 - lo: mix / transfer
 
+<a id="f44v-10-f44v-10-p0"></a>
+
 ### f44v.10,+P0
 
 EVA: lsho qokchy tshy cphaiin cthal kal
@@ -449,6 +486,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cphaiin: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - cthal: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
 - kal: add fermentable sugars → duration level 1 → state: fermentation start
+
+<a id="f44v-11-f44v-11-p0"></a>
 
 ### f44v.11,+P0
 
@@ -489,6 +528,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthy: add complex herbal compound (safe blend)
 - otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f44v-12-f44v-12-p0"></a>
+
 ### f44v.12,+P0
 
 EVA: ychey teol chaiin chcthy ctho cthol
@@ -526,6 +567,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chcthy: add main plant (safe substitute) → add complex herbal compound (safe blend)
 - ctho: mix / transfer → add complex herbal compound (safe blend)
 - cthol: mix / transfer → add complex herbal compound (safe blend)
+
+<a id="f44v-13-f44v-13-p0"></a>
 
 ### f44v.13,+P0
 

@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 tchody podar shody qofaiin ofchdy otedy qotedaiin shor olsain
 sol shedy qotchey alor chdyty olor ok[a:o]dy chody qotaiin y kaipy
 archytaiin shekoiin okar or aiin chckhy okal otain okalody
@@ -31,6 +32,7 @@ daiin olkain qokan shar shekydy dain alkain okalaiin s
 tar fcheey shos aiin okar olkaiin otalain okaiin ar
 dain ykaly chals shedain olaiin y okain ldy
 qokeey dar chdykain ytasal otain
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 12, 'main herb': 10, 'mix/transfer': 31, 'yeast fermentation': 21, 'secondary herb': 8, 'liquid base': 6, 'aroma modifier': 3, 'sugars': 18, 'complex herbal compound': 1}
@@ -49,7 +51,18 @@ qokeey dar chdykain ytasal otain
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f95v2.1,@P0](#f95v2-1-f95v2-1-p0)
+- [f95v2.2,+P0](#f95v2-2-f95v2-2-p0)
+- [f95v2.3,+P0](#f95v2-3-f95v2-3-p0)
+- [f95v2.4,+P0](#f95v2-4-f95v2-4-p0)
+- [f95v2.5,+P0](#f95v2-5-f95v2-5-p0)
+- [f95v2.6,+P0](#f95v2-6-f95v2-6-p0)
+- [f95v2.7,+P0](#f95v2-7-f95v2-7-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f95v2-1-f95v2-1-p0"></a>
 
 ### f95v2.1,@P0
 
@@ -92,6 +105,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotedaiin: prepare liquid base → apply heat/cooking → start fermentation (yeast) → duration level 1 → state: active extraction → long fermentation / aging phase
 - shor: add secondary herb (safe substitute) → mix / transfer
 - olsain: mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f95v2-2-f95v2-2-p0"></a>
 
 ### f95v2.2,+P0
 
@@ -137,6 +152,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - kaipy: add fermentable sugars → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f95v2-3-f95v2-3-p0"></a>
+
 ### f95v2.3,+P0
 
 EVA: archytaiin shekoiin okar or aiin chckhy okal otain okalody
@@ -178,6 +195,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otain: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - okalody: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f95v2-4-f95v2-4-p0"></a>
+
 ### f95v2.4,+P0
 
 EVA: daiin olkain qokan shar shekydy dain alkain okalaiin s
@@ -216,6 +235,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - alkain: add fermentable sugars → duration level 1 → state: fermentation start
 - okalaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - s: [unparsed]
+
+<a id="f95v2-5-f95v2-5-p0"></a>
 
 ### f95v2.5,+P0
 
@@ -259,6 +280,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - ar: duration level 1 → state: fermentation start
 
+<a id="f95v2-6-f95v2-6-p0"></a>
+
 ### f95v2.6,+P0
 
 EVA: dain ykaly chals shedain olaiin y okain ldy
@@ -296,6 +319,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - okain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - ldy: start fermentation (yeast)
+
+<a id="f95v2-7-f95v2-7-p0"></a>
 
 ### f95v2.7,+P0
 

@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 pdair chdy fdykain or air sheykaiiin ofchy kar or aiin dolky o[sh:i'h]dy
 sor shy kar chol qoty kchdy olky dar chdy ykar olkedaiin ody dy
 daiin chor okain okaii fchody saiin or aiin qokaiin ytodaiin okam
@@ -38,6 +39,7 @@ sarol chedy shekam q[o:e]kar chl ykeedy chckhy dalor dy
 paiin alaiin otal chd okar am okar cheodal ockhy
 dain ockhedy otedy okedy lchdy okaiin daiiin y
 tar aiin okaiin cholody
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 53, 'main herb': 26, 'aroma modifier': 6, 'sugars': 47, 'mix/transfer': 68, 'secondary herb': 15, 'liquid base': 7, 'heat': 9, 'complex herbal compound': 6, 'general base': 1}
@@ -56,7 +58,25 @@ tar aiin okaiin cholody
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f39v.1,@P0](#f39v-1-f39v-1-p0)
+- [f39v.2,+P0](#f39v-2-f39v-2-p0)
+- [f39v.3,+P0](#f39v-3-f39v-3-p0)
+- [f39v.4,+P0](#f39v-4-f39v-4-p0)
+- [f39v.5,+P0](#f39v-5-f39v-5-p0)
+- [f39v.6,+P0](#f39v-6-f39v-6-p0)
+- [f39v.7,+P0](#f39v-7-f39v-7-p0)
+- [f39v.8,+P0](#f39v-8-f39v-8-p0)
+- [f39v.9,+P0](#f39v-9-f39v-9-p0)
+- [f39v.10,+P0](#f39v-10-f39v-10-p0)
+- [f39v.11,+P0](#f39v-11-f39v-11-p0)
+- [f39v.12,+P0](#f39v-12-f39v-12-p0)
+- [f39v.13,+P0](#f39v-13-f39v-13-p0)
+- [f39v.14,+P0](#f39v-14-f39v-14-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f39v-1-f39v-1-p0"></a>
 
 ### f39v.1,@P0
 
@@ -107,6 +127,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - h: [unparsed]
 - dy: start fermentation (yeast)
 
+<a id="f39v-2-f39v-2-p0"></a>
+
 ### f39v.2,+P0
 
 EVA: sor shy kar chol qoty kchdy olky dar chdy ykar olkedaiin ody dy
@@ -149,6 +171,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - olkedaiin: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction → long fermentation / aging phase
 - ody: mix / transfer → start fermentation (yeast)
 - dy: start fermentation (yeast)
+
+<a id="f39v-3-f39v-3-p0"></a>
 
 ### f39v.3,+P0
 
@@ -194,6 +218,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ytodaiin: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - okam: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f39v-4-f39v-4-p0"></a>
+
 ### f39v.4,+P0
 
 EVA: y okeey chody cheor aiin okody chodal ykedy qokedy dal o [d:?] aiin shky
@@ -237,6 +263,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - d: start fermentation (yeast)
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - shky: add fermentable sugars → add secondary herb (safe substitute)
+
+<a id="f39v-5-f39v-5-p0"></a>
 
 ### f39v.5,+P0
 
@@ -287,6 +315,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - r: [unparsed]
 - ofchy: add main plant (safe substitute) → add aroma modifier → mix / transfer
 
+<a id="f39v-6-f39v-6-p0"></a>
+
 ### f39v.6,+P0
 
 EVA: lkedy okchey shor qoykam cho ckhcfhhy or aly shody
@@ -328,6 +358,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aly: duration level 1 → state: fermentation start
 - shody: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
 
+<a id="f39v-7-f39v-7-p0"></a>
+
 ### f39v.7,+P0
 
 EVA: pardy shedy qokar sheedy oraly olaiir okar ar
@@ -365,6 +397,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - olaiir: mix / transfer → duration level 1 → state: fermentation start
 - okar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - ar: duration level 1 → state: fermentation start
+
+<a id="f39v-8-f39v-8-p0"></a>
 
 ### f39v.8,+P0
 
@@ -406,6 +440,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokchy: prepare liquid base → add fermentable sugars → add main plant (safe substitute)
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 - ain: duration level 1 → state: fermentation start
+
+<a id="f39v-9-f39v-9-p0"></a>
 
 ### f39v.9,+P0
 
@@ -449,6 +485,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - kshy: add fermentable sugars → add secondary herb (safe substitute)
 - or: mix / transfer
+
+<a id="f39v-10-f39v-10-p0"></a>
 
 ### f39v.10,+P0
 
@@ -494,6 +532,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 2 → state: active extraction
 - olchef: add main plant (safe substitute) → add aroma modifier → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f39v-11-f39v-11-p0"></a>
+
 ### f39v.11,+P0
 
 EVA: sarol chedy shekam q[o:e]kar chl ykeedy chckhy dalor dy
@@ -538,6 +578,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dalor: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - dy: start fermentation (yeast)
 
+<a id="f39v-12-f39v-12-p0"></a>
+
 ### f39v.12,+P0
 
 EVA: paiin alaiin otal chd okar am okar cheodal ockhy
@@ -579,6 +621,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheodal: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - ockhy: mix / transfer → add complex herbal compound (safe blend)
 
+<a id="f39v-13-f39v-13-p0"></a>
+
 ### f39v.13,+P0
 
 EVA: dain ockhedy otedy okedy lchdy okaiin daiiin y
@@ -618,6 +662,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - daiiin: start fermentation (yeast) → duration level 1 → state: fermentation start → medium fermentation phase
 - y: [unparsed]
+
+<a id="f39v-14-f39v-14-p0"></a>
 
 ### f39v.14,+P0
 

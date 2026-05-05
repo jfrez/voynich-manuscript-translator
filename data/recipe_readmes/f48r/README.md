@@ -19,6 +19,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 pshdaiin ypchdy opchey c@162;hy dal sheodaiin sheokeol ykeeody olaiin opaldy
 daiin yteeol cheody kechodshey qotedy chtaiin otchdy tedain okain ckhy
 sheody she teoteey oteodaiin ody qoteo l kedy dol odal qotar opchety ldy
@@ -28,6 +29,7 @@ alshey lkeedy ytchedy qokedy lotal qotol otal ched o key ykeey da[l:?]dy
 tocthy qokeol yteedy lolkeol otolches al ar ykeeodam okedy okam
 otchdain shol oteol oteoly ykeey dam dr
 yteched ar olkey okeoam
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 46, 'secondary herb': 10, 'main herb': 16, 'mix/transfer': 54, 'sugars': 23, 'heat': 32, 'liquid base': 8, 'complex herbal compound': 6}
@@ -44,7 +46,20 @@ yteched ar olkey okeoam
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f48r.1,@P0](#f48r-1-f48r-1-p0)
+- [f48r.2,+P0](#f48r-2-f48r-2-p0)
+- [f48r.3,+P0](#f48r-3-f48r-3-p0)
+- [f48r.4,+P0](#f48r-4-f48r-4-p0)
+- [f48r.5,+P0](#f48r-5-f48r-5-p0)
+- [f48r.6,+P0](#f48r-6-f48r-6-p0)
+- [f48r.7,+P0](#f48r-7-f48r-7-p0)
+- [f48r.8,+Pr](#f48r-8-f48r-8-pr)
+- [f48r.9,+Pc](#f48r-9-f48r-9-pc)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f48r-1-f48r-1-p0"></a>
 
 ### f48r.1,@P0
 
@@ -86,6 +101,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykeeody: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
 - olaiin: mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - opaldy: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f48r-2-f48r-2-p0"></a>
 
 ### f48r.2,+P0
 
@@ -129,6 +146,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - ckhy: add complex herbal compound (safe blend)
 
+<a id="f48r-3-f48r-3-p0"></a>
+
 ### f48r.3,+P0
 
 EVA: sheody she teoteey oteodaiin ody qoteo l kedy dol odal qotar opchety ldy
@@ -171,6 +190,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotar: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
 - opchety: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - ldy: start fermentation (yeast)
+
+<a id="f48r-4-f48r-4-p0"></a>
 
 ### f48r.4,+P0
 
@@ -216,6 +237,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ctheety: apply heat/cooking → add complex herbal compound (safe blend) → duration level 2 → state: active extraction
 - r: [unparsed]
 
+<a id="f48r-5-f48r-5-p0"></a>
+
 ### f48r.5,+P0
 
 EVA: yteey teol okeody cheockhy olsheey qoekaiin octhey cholkar aiin cthar od
@@ -258,6 +281,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - cthar: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
 - od: mix / transfer → start fermentation (yeast)
+
+<a id="f48r-6-f48r-6-p0"></a>
 
 ### f48r.6,+P0
 
@@ -303,6 +328,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - l: [unparsed]
 - dy: start fermentation (yeast)
 
+<a id="f48r-7-f48r-7-p0"></a>
+
 ### f48r.7,+P0
 
 EVA: tocthy qokeol yteedy lolkeol otolches al ar ykeeodam okedy okam
@@ -345,6 +372,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okedy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - okam: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f48r-8-f48r-8-pr"></a>
+
 ### f48r.8,+Pr
 
 EVA: otchdain shol oteol oteoly ykeey dam dr
@@ -381,6 +410,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykeey: add fermentable sugars → duration level 2 → state: active extraction
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dr: start fermentation (yeast)
+
+<a id="f48r-9-f48r-9-pc"></a>
 
 ### f48r.9,+Pc
 

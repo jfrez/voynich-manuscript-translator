@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 fcholdy soshy daiin cky shody daiin ocholdy cpholdy sy
 otor chor chsky chotchy shair qod sh[a:o]chy kchy chkain
 qotchy qotshy cheesees sheear s chain daiin chain dan
@@ -31,6 +32,7 @@ dchckhy shocthy ytchey cthor s chan chaiin qotchain
 qotcheaiin dchain cthain daiin daiin cthain qotaiin
 okal chotaiin
 dair otaiir otosy
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'aroma modifier': 1, 'main herb': 21, 'mix/transfer': 18, 'yeast fermentation': 14, 'secondary herb': 7, 'sugars': 5, 'complex herbal compound': 6, 'heat': 11, 'liquid base': 6}
@@ -49,7 +51,18 @@ dair otaiir otosy
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f25r.1,@P0](#f25r-1-f25r-1-p0)
+- [f25r.2,+P0](#f25r-2-f25r-2-p0)
+- [f25r.3,+P0](#f25r-3-f25r-3-p0)
+- [f25r.4,+P0](#f25r-4-f25r-4-p0)
+- [f25r.5,+P0](#f25r-5-f25r-5-p0)
+- [f25r.6,+P0](#f25r-6-f25r-6-p0)
+- [f25r.7,=Pt](#f25r-7-f25r-7-pt)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f25r-1-f25r-1-p0"></a>
 
 ### f25r.1,@P0
 
@@ -95,6 +108,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cpholdy: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend)
 - sy: [unparsed]
 
+<a id="f25r-2-f25r-2-p0"></a>
+
 ### f25r.2,+P0
 
 EVA: otor chor chsky chotchy shair qod sh[a:o]chy kchy chkain
@@ -137,6 +152,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kchy: add fermentable sugars → add main plant (safe substitute)
 - chkain: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: fermentation start
 
+<a id="f25r-3-f25r-3-p0"></a>
+
 ### f25r.3,+P0
 
 EVA: qotchy qotshy cheesees sheear s chain daiin chain dan
@@ -175,6 +192,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - chain: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - dan: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f25r-4-f25r-4-p0"></a>
 
 ### f25r.4,+P0
 
@@ -216,6 +235,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chaiin: add main plant (safe substitute) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - qotchain: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: fermentation start
 
+<a id="f25r-5-f25r-5-p0"></a>
+
 ### f25r.5,+P0
 
 EVA: qotcheaiin dchain cthain daiin daiin cthain qotaiin
@@ -255,6 +276,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthain: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
 - qotaiin: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f25r-6-f25r-6-p0"></a>
+
 ### f25r.6,+P0
 
 EVA: okal chotaiin
@@ -286,6 +309,8 @@ Does It Make Sense?: yes
 Direct Gloss (Procedural, Not a Real Translation):
 - okal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - chotaiin: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f25r-7-f25r-7-pt"></a>
 
 ### f25r.7,=Pt
 

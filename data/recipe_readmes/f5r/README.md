@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['cucumber']
 
 ## EVA Text (Transliteration)
+```text
 kchody fchoy chkoy oaiin oar olsy chody dkshy dy
 ochey okey qokaiin sho ckhoy cthey chey ok[a:y]@131;os otol
 qoaiin otan chy daiin oteeeb chocthy otchy qotchody
@@ -31,6 +32,7 @@ otain sheody chan s cheor chocthy
 tchy shody qoaiin cholols sho qotcheo daiin shodaiin
 sho cheor chey qoeeey qoykeeey qoeor cthy shotshy dy
 qotoeey keey cheo kchy shody
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'sugars': 9, 'main herb': 20, 'mix/transfer': 37, 'yeast fermentation': 12, 'aroma modifier': 1, 'secondary herb': 10, 'liquid base': 9, 'complex herbal compound': 5, 'heat': 10}
@@ -49,7 +51,18 @@ qotoeey keey cheo kchy shody
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f5r.1,@P0](#f5r-1-f5r-1-p0)
+- [f5r.2,+P0](#f5r-2-f5r-2-p0)
+- [f5r.3,+P0](#f5r-3-f5r-3-p0)
+- [f5r.4,+P0](#f5r-4-f5r-4-p0)
+- [f5r.5,+P0](#f5r-5-f5r-5-p0)
+- [f5r.6,+P0](#f5r-6-f5r-6-p0)
+- [f5r.7,+P0](#f5r-7-f5r-7-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f5r-1-f5r-1-p0"></a>
 
 ### f5r.1,@P0
 
@@ -92,6 +105,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - dkshy: add fermentable sugars → add secondary herb (safe substitute) → start fermentation (yeast)
 - dy: start fermentation (yeast)
+
+<a id="f5r-2-f5r-2-p0"></a>
 
 ### f5r.2,+P0
 
@@ -137,6 +152,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - os: mix / transfer
 - otol: apply heat/cooking → mix / transfer
 
+<a id="f5r-3-f5r-3-p0"></a>
+
 ### f5r.3,+P0
 
 EVA: qoaiin otan chy daiin oteeeb chocthy otchy qotchody
@@ -177,6 +194,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otchy: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - qotchody: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 
+<a id="f5r-4-f5r-4-p0"></a>
+
 ### f5r.4,+P0
 
 EVA: otain sheody chan s cheor chocthy
@@ -215,6 +234,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheor: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - chocthy: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
 
+<a id="f5r-5-f5r-5-p0"></a>
+
 ### f5r.5,+P0
 
 EVA: tchy shody qoaiin cholols sho qotcheo daiin shodaiin
@@ -252,6 +273,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotcheo: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - shodaiin: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f5r-6-f5r-6-p0"></a>
 
 ### f5r.6,+P0
 
@@ -293,6 +316,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthy: add complex herbal compound (safe blend)
 - shotshy: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer
 - dy: start fermentation (yeast)
+
+<a id="f5r-7-f5r-7-p0"></a>
 
 ### f5r.7,+P0
 

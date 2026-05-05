@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 por or y chor opchar she cheol daiin or
 qotaiin char odaiin okaiikhal oky
 ycthar cthal okol qotar ckhy
@@ -40,6 +41,7 @@ sshey otam sham cthoj oky
 ycheol chol daiin chol s
 yol kol chol shom otacphy
 sam chorly
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 20, 'mix/transfer': 55, 'main herb': 26, 'secondary herb': 5, 'liquid base': 14, 'heat': 10, 'sugars': 15, 'complex herbal compound': 18, 'general base': 2}
@@ -56,7 +58,31 @@ sam chorly
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f24r.1,@P0](#f24r-1-f24r-1-p0)
+- [f24r.2,+P0](#f24r-2-f24r-2-p0)
+- [f24r.3,+P0](#f24r-3-f24r-3-p0)
+- [f24r.4,+P0](#f24r-4-f24r-4-p0)
+- [f24r.5,+P0](#f24r-5-f24r-5-p0)
+- [f24r.6,+P0](#f24r-6-f24r-6-p0)
+- [f24r.7,+P0](#f24r-7-f24r-7-p0)
+- [f24r.8,+P0](#f24r-8-f24r-8-p0)
+- [f24r.9,+P0](#f24r-9-f24r-9-p0)
+- [f24r.10,+P0](#f24r-10-f24r-10-p0)
+- [f24r.11,+P0](#f24r-11-f24r-11-p0)
+- [f24r.12,+P0](#f24r-12-f24r-12-p0)
+- [f24r.13,+P0](#f24r-13-f24r-13-p0)
+- [f24r.14,+P0](#f24r-14-f24r-14-p0)
+- [f24r.15,+P0](#f24r-15-f24r-15-p0)
+- [f24r.16,+P0](#f24r-16-f24r-16-p0)
+- [f24r.17,+P0](#f24r-17-f24r-17-p0)
+- [f24r.18,+P0](#f24r-18-f24r-18-p0)
+- [f24r.19,+P0](#f24r-19-f24r-19-p0)
+- [f24r.20,+Pc](#f24r-20-f24r-20-pc)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f24r-1-f24r-1-p0"></a>
 
 ### f24r.1,@P0
 
@@ -97,6 +123,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - or: mix / transfer
 
+<a id="f24r-2-f24r-2-p0"></a>
+
 ### f24r.2,+P0
 
 EVA: qotaiin char odaiin okaiikhal oky
@@ -131,6 +159,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - odaiin: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - okaiikhal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - oky: add fermentable sugars → mix / transfer
+
+<a id="f24r-3-f24r-3-p0"></a>
 
 ### f24r.3,+P0
 
@@ -169,6 +199,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotar: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
 - ckhy: add complex herbal compound (safe blend)
 
+<a id="f24r-4-f24r-4-p0"></a>
+
 ### f24r.4,+P0
 
 EVA: or chckhaly cthar eeor chees da
@@ -206,6 +238,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - eeor: mix / transfer → duration level 2 → state: active extraction
 - chees: add main plant (safe substitute) → duration level 2 → state: active extraction
 - da: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f24r-5-f24r-5-p0"></a>
 
 ### f24r.5,+P0
 
@@ -246,6 +280,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthe: add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - keom: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f24r-6-f24r-6-p0"></a>
+
 ### f24r.6,+P0
 
 EVA: oeeeos cthor otal qocthol qoky
@@ -282,6 +318,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - qocthol: prepare liquid base → mix / transfer → add complex herbal compound (safe blend)
 - qoky: prepare liquid base → add fermentable sugars
+
+<a id="f24r-7-f24r-7-p0"></a>
 
 ### f24r.7,+P0
 
@@ -322,6 +360,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthol: mix / transfer → add complex herbal compound (safe blend)
 - qodol: prepare liquid base → mix / transfer → start fermentation (yeast)
 
+<a id="f24r-8-f24r-8-p0"></a>
+
 ### f24r.8,+P0
 
 EVA: ychor s om qoear daiin qokeol
@@ -357,6 +397,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoear: prepare liquid base → duration level 1 → state: active extraction
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - qokeol: prepare liquid base → add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f24r-9-f24r-9-p0"></a>
 
 ### f24r.9,+P0
 
@@ -394,6 +436,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qodaiikhy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 1 → state: fermentation start
 - dol: mix / transfer → start fermentation (yeast)
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f24r-10-f24r-10-p0"></a>
 
 ### f24r.10,+P0
 
@@ -436,6 +480,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chotaiin: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dy: start fermentation (yeast)
 
+<a id="f24r-11-f24r-11-p0"></a>
+
 ### f24r.11,+P0
 
 EVA: sar cheoiees okeem cheor qokain
@@ -470,6 +516,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okeem: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
 - cheor: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+
+<a id="f24r-12-f24r-12-p0"></a>
 
 ### f24r.12,+P0
 
@@ -507,6 +555,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tol: apply heat/cooking → mix / transfer
 - tod: apply heat/cooking → mix / transfer → start fermentation (yeast)
 - ckhy: add complex herbal compound (safe blend)
+
+<a id="f24r-13-f24r-13-p0"></a>
 
 ### f24r.13,+P0
 
@@ -547,6 +597,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - ar: duration level 1 → state: fermentation start
 
+<a id="f24r-14-f24r-14-p0"></a>
+
 ### f24r.14,+P0
 
 EVA: qor cheey qod char cthal
@@ -583,6 +635,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qod: prepare liquid base → start fermentation (yeast)
 - char: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - cthal: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
+
+<a id="f24r-15-f24r-15-p0"></a>
 
 ### f24r.15,+P0
 
@@ -621,6 +675,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 - s: [unparsed]
 
+<a id="f24r-16-f24r-16-p0"></a>
+
 ### f24r.16,+P0
 
 EVA: sham okeal dal dam dal
@@ -655,6 +711,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f24r-17-f24r-17-p0"></a>
 
 ### f24r.17,+P0
 
@@ -693,6 +751,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthoj: mix / transfer → add complex herbal compound (safe blend)
 - oky: add fermentable sugars → mix / transfer
 
+<a id="f24r-18-f24r-18-p0"></a>
+
 ### f24r.18,+P0
 
 EVA: ycheol chol daiin chol s
@@ -727,6 +787,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - chol: add main plant (safe substitute) → mix / transfer
 - s: [unparsed]
+
+<a id="f24r-19-f24r-19-p0"></a>
 
 ### f24r.19,+P0
 
@@ -764,6 +826,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - shom: add secondary herb (safe substitute) → mix / transfer
 - otacphy: apply heat/cooking → mix / transfer → add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
+
+<a id="f24r-20-f24r-20-pc"></a>
 
 ### f24r.20,+Pc
 

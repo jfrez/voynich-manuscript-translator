@@ -19,6 +19,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 pcheol sheol ol shey qockhol shor yteol sheockhey qpol chear s aiin oleeey qkeey chopcheey checkhey cpheocthy ykchy cheey chekeey dal chey
 dol chokeey chkey cthey okalchol kol o keey r or ol okol ol olchey qok chal okey qokeol kar shey teol or oiiin chol daiin
 @183;olc@133;heol okeor r sheol qokol shey dol shey okeey ctheey yteeoldy kchol ol sheody or ol sheor qotoiir otol sheey s sheo tchey ol dar am
@@ -29,6 +30,7 @@ cphoar oaiin ypcholy daiin otaiin otaiin yfolaiin @184;cheolain ypchey yphody sh
 olaiin oteol chor oteey chokchey kor daiin shok chol chol qoky daiin ol s al ydar daiin or ory okeey daiin shey daiin okol cheor
 daiin okeol qokcheol ykeor dar ol otechy ykeor dor aiin chl s cheol okeol shey qodar soiin choko qokeol daiin [o:y] dar okchol cheo rcheky
 ysho qykeeol chol sho odor dor chees ykeol chol dol kor aithy ol chso sha olcheeol kolshey okeoly oiin aiioly
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 46, 'main herb': 60, 'mix/transfer': 178, 'secondary herb': 33, 'liquid base': 11, 'complex herbal compound': 13, 'heat': 18, 'general base': 3, 'sugars': 54, 'aroma modifier': 1}
@@ -47,7 +49,21 @@ ysho qykeeol chol sho odor dor chees ykeol chol dol kor aithy ol chso sha olchee
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f101r.1,@P0](#f101r-1-f101r-1-p0)
+- [f101r.2,+P0](#f101r-2-f101r-2-p0)
+- [f101r.3,+P0](#f101r-3-f101r-3-p0)
+- [f101r.4,+P0](#f101r-4-f101r-4-p0)
+- [f101r.5,+P0](#f101r-5-f101r-5-p0)
+- [f101r.6,+P0](#f101r-6-f101r-6-p0)
+- [f101r.7,+P0](#f101r-7-f101r-7-p0)
+- [f101r.8,+P0](#f101r-8-f101r-8-p0)
+- [f101r.9,+P0](#f101r-9-f101r-9-p0)
+- [f101r.10,+P0](#f101r-10-f101r-10-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f101r-1-f101r-1-p0"></a>
 
 ### f101r.1,@P0
 
@@ -102,6 +118,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chekeey: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 - chey: add main plant (safe substitute) → duration level 1 → state: active extraction
+
+<a id="f101r-2-f101r-2-p0"></a>
 
 ### f101r.2,+P0
 
@@ -159,6 +177,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oiiin: mix / transfer → duration level 3 → state: cooling/rest → medium fermentation phase
 - chol: add main plant (safe substitute) → mix / transfer
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f101r-3-f101r-3-p0"></a>
 
 ### f101r.3,+P0
 
@@ -219,6 +239,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 - am: duration level 1 → state: fermentation start
 
+<a id="f101r-4-f101r-4-p0"></a>
+
 ### f101r.4,+P0
 
 EVA: ycheeo or sheeol daiin sheeol okeol ctheol c'ykeeo qockheol daiin shy chol okeeor ctody chkchol dateody okeol dairin okeey okeey dairin
@@ -272,6 +294,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okeey: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
 - okeey: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
 - dairin: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f101r-5-f101r-5-p0"></a>
 
 ### f101r.5,+P0
 
@@ -333,6 +357,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chosaiin: add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - sheam: add secondary herb (safe substitute) → duration level 1 → state: active extraction
 
+<a id="f101r-6-f101r-6-p0"></a>
+
 ### f101r.6,+P0
 
 EVA: okeeol sho shody sho shol okeeeol che[a:y]s sheokeey sheeor chchy chodaiin cheeckhey teeol s cheol rar oeeor
@@ -384,6 +410,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - rar: duration level 1 → state: fermentation start
 - oeeor: mix / transfer → duration level 2 → state: active extraction
+
+<a id="f101r-7-f101r-7-p0"></a>
 
 ### f101r.7,+P0
 
@@ -443,6 +471,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - dy: start fermentation (yeast)
 
+<a id="f101r-8-f101r-8-p0"></a>
+
 ### f101r.8,+P0
 
 EVA: olaiin oteol chor oteey chokchey kor daiin shok chol chol qoky daiin ol s al ydar daiin or ory okeey daiin shey daiin okol cheor
@@ -497,6 +527,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - okol: add fermentable sugars → mix / transfer
 - cheor: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f101r-9-f101r-9-p0"></a>
 
 ### f101r.9,+P0
 
@@ -553,6 +585,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okchol: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - cheo: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - rcheky: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction
+
+<a id="f101r-10-f101r-10-p0"></a>
 
 ### f101r.10,+P0
 

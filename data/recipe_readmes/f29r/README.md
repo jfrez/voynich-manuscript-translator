@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 posaiin she aiin chep oty chy qotchy qoty cheecthy
 dshe ykchy choty oky cho l chchoty choky chy ty dy
 qokchy qoty kchaiin shear cthor dchor choly
@@ -29,6 +30,7 @@ chokshy shocthy shor shor daiin qokaiiin
 qokchy chol shokchy qokaiin choety choty kaiin
 shor chor shosheky shy qoty kody daiin cthy
 qokshe qor chey kor cheod ychom
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 10, 'mix/transfer': 33, 'secondary herb': 16, 'main herb': 29, 'heat': 12, 'liquid base': 11, 'complex herbal compound': 5, 'sugars': 16}
@@ -45,7 +47,20 @@ qokshe qor chey kor cheod ychom
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f29r.1,@P0](#f29r-1-f29r-1-p0)
+- [f29r.2,+P0](#f29r-2-f29r-2-p0)
+- [f29r.3,+P0](#f29r-3-f29r-3-p0)
+- [f29r.4,+P0](#f29r-4-f29r-4-p0)
+- [f29r.5,+P0](#f29r-5-f29r-5-p0)
+- [f29r.6,+P0](#f29r-6-f29r-6-p0)
+- [f29r.7,+P0](#f29r-7-f29r-7-p0)
+- [f29r.8,+P0](#f29r-8-f29r-8-p0)
+- [f29r.9,+P0](#f29r-9-f29r-9-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f29r-1-f29r-1-p0"></a>
 
 ### f29r.1,@P0
 
@@ -88,6 +103,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoty: prepare liquid base → apply heat/cooking
 - cheecthy: add main plant (safe substitute) → add complex herbal compound (safe blend) → duration level 2 → state: active extraction
 
+<a id="f29r-2-f29r-2-p0"></a>
+
 ### f29r.2,+P0
 
 EVA: dshe ykchy choty oky cho l chchoty choky chy ty dy
@@ -129,6 +146,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ty: apply heat/cooking
 - dy: start fermentation (yeast)
 
+<a id="f29r-3-f29r-3-p0"></a>
+
 ### f29r.3,+P0
 
 EVA: qokchy qoty kchaiin shear cthor dchor choly
@@ -168,6 +187,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dchor: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - choly: add main plant (safe substitute) → mix / transfer
 
+<a id="f29r-4-f29r-4-p0"></a>
+
 ### f29r.4,+P0
 
 EVA: chocthy qoos chos
@@ -202,6 +223,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chocthy: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
 - qoos: prepare liquid base → mix / transfer
 - chos: add main plant (safe substitute) → mix / transfer
+
+<a id="f29r-5-f29r-5-p0"></a>
 
 ### f29r.5,+P0
 
@@ -243,6 +266,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shos: add secondary herb (safe substitute) → mix / transfer
 - octy: apply heat/cooking → mix / transfer
 
+<a id="f29r-6-f29r-6-p0"></a>
+
 ### f29r.6,+P0
 
 EVA: chokshy shocthy shor shor daiin qokaiiin
@@ -281,6 +306,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - qokaiiin: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → medium fermentation phase
 
+<a id="f29r-7-f29r-7-p0"></a>
+
 ### f29r.7,+P0
 
 EVA: qokchy chol shokchy qokaiin choety choty kaiin
@@ -317,6 +344,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choety: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - choty: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - kaiin: add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f29r-8-f29r-8-p0"></a>
 
 ### f29r.8,+P0
 
@@ -357,6 +386,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kody: add fermentable sugars → mix / transfer → start fermentation (yeast)
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - cthy: add complex herbal compound (safe blend)
+
+<a id="f29r-9-f29r-9-p0"></a>
 
 ### f29r.9,+P0
 

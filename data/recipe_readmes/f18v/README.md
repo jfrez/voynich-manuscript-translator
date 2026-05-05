@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 told shor ytshy otchdal dchal dchy ytdg
 qoeees or oaiin shy@140; okshy qokchy qokchy s g
 orshy qoky qoky chkchy qokshy qokam
@@ -30,6 +31,7 @@ ychol dor chod qokol daiin qokol dar dy
 tolol sh cphoy daror ddy ytor ykam
 okchor qotchy qokchy ytol doky dy
 yk[o:a] dshy dair ykol dom
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 12, 'mix/transfer': 31, 'yeast fermentation': 21, 'secondary herb': 8, 'main herb': 22, 'liquid base': 18, 'sugars': 23, 'complex herbal compound': 1}
@@ -46,7 +48,21 @@ yk[o:a] dshy dair ykol dom
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f18v.1,@P0](#f18v-1-f18v-1-p0)
+- [f18v.2,+P0](#f18v-2-f18v-2-p0)
+- [f18v.3,+P0](#f18v-3-f18v-3-p0)
+- [f18v.4,+P0](#f18v-4-f18v-4-p0)
+- [f18v.5,+P0](#f18v-5-f18v-5-p0)
+- [f18v.6,+P0](#f18v-6-f18v-6-p0)
+- [f18v.7,+P0](#f18v-7-f18v-7-p0)
+- [f18v.8,+P0](#f18v-8-f18v-8-p0)
+- [f18v.9,+P0](#f18v-9-f18v-9-p0)
+- [f18v.10,+P0](#f18v-10-f18v-10-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f18v-1-f18v-1-p0"></a>
 
 ### f18v.1,@P0
 
@@ -84,6 +100,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dchal: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
 - dchy: add main plant (safe substitute) → start fermentation (yeast)
 - ytdg: apply heat/cooking → start fermentation (yeast)
+
+<a id="f18v-2-f18v-2-p0"></a>
 
 ### f18v.2,+P0
 
@@ -124,6 +142,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - g: [unparsed]
 
+<a id="f18v-3-f18v-3-p0"></a>
+
 ### f18v.3,+P0
 
 EVA: orshy qoky qoky chkchy qokshy qokam
@@ -159,6 +179,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chkchy: add fermentable sugars → add main plant (safe substitute)
 - qokshy: prepare liquid base → add fermentable sugars → add secondary herb (safe substitute)
 - qokam: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+
+<a id="f18v-4-f18v-4-p0"></a>
 
 ### f18v.4,+P0
 
@@ -196,6 +218,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ydl: start fermentation (yeast)
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f18v-5-f18v-5-p0"></a>
+
 ### f18v.5,+P0
 
 EVA: ychoees ykchy qol kchy qotchol daiir om
@@ -232,6 +256,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotchol: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - daiir: start fermentation (yeast) → duration level 1 → state: fermentation start
 - om: mix / transfer
+
+<a id="f18v-6-f18v-6-p0"></a>
 
 ### f18v.6,+P0
 
@@ -271,6 +297,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ar: duration level 1 → state: fermentation start
 - ykar: add fermentable sugars → duration level 1 → state: fermentation start
 
+<a id="f18v-7-f18v-7-p0"></a>
+
 ### f18v.7,+P0
 
 EVA: ychol dor chod qokol daiin qokol dar dy
@@ -308,6 +336,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokol: prepare liquid base → add fermentable sugars → mix / transfer
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dy: start fermentation (yeast)
+
+<a id="f18v-8-f18v-8-p0"></a>
 
 ### f18v.8,+P0
 
@@ -348,6 +378,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ytor: apply heat/cooking → mix / transfer
 - ykam: add fermentable sugars → duration level 1 → state: fermentation start
 
+<a id="f18v-9-f18v-9-p0"></a>
+
 ### f18v.9,+P0
 
 EVA: okchor qotchy qokchy ytol doky dy
@@ -383,6 +415,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ytol: apply heat/cooking → mix / transfer
 - doky: add fermentable sugars → mix / transfer → start fermentation (yeast)
 - dy: start fermentation (yeast)
+
+<a id="f18v-10-f18v-10-p0"></a>
 
 ### f18v.10,+P0
 

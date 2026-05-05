@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 poeeaiin qo ky shy daiin qopchey otchey qofchor sos
 dchor cthor chor daiin s okeeaiin daiin ckhey daiin
 orcho kchor chol daiin sh[cfh:ckh]o r daiin dshey daiity
@@ -31,6 +32,7 @@ qokaiin qokcho shol daiin ckhear ckhol daiin chkear
 dar chokeey dshor dshey qochol dol cho daiin daiin
 qokcho r ochy qotchy qotoral cho @147; chain deeaiir s
 oc'o chkey daiiol daiin shckh orchaiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 22, 'mix/transfer': 29, 'liquid base': 9, 'sugars': 9, 'secondary herb': 7, 'main herb': 20, 'heat': 4, 'aroma modifier': 1, 'complex herbal compound': 7}
@@ -49,7 +51,18 @@ oc'o chkey daiiol daiin shckh orchaiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f25v.1,@P0](#f25v-1-f25v-1-p0)
+- [f25v.2,+P0](#f25v-2-f25v-2-p0)
+- [f25v.3,+P0](#f25v-3-f25v-3-p0)
+- [f25v.4,+P0](#f25v-4-f25v-4-p0)
+- [f25v.5,+P0](#f25v-5-f25v-5-p0)
+- [f25v.6,+P0](#f25v-6-f25v-6-p0)
+- [f25v.7,+P0](#f25v-7-f25v-7-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f25v-1-f25v-1-p0"></a>
 
 ### f25v.1,@P0
 
@@ -93,6 +106,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qofchor: prepare liquid base → add main plant (safe substitute) → add aroma modifier → mix / transfer
 - sos: mix / transfer
 
+<a id="f25v-2-f25v-2-p0"></a>
+
 ### f25v.2,+P0
 
 EVA: dchor cthor chor daiin s okeeaiin daiin ckhey daiin
@@ -133,6 +148,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - ckhey: add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f25v-3-f25v-3-p0"></a>
 
 ### f25v.3,+P0
 
@@ -178,6 +195,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dshey: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - daiity: apply heat/cooking → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f25v-4-f25v-4-p0"></a>
+
 ### f25v.4,+P0
 
 EVA: qokaiin qokcho shol daiin ckhear ckhol daiin chkear
@@ -218,6 +237,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - chkear: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction
 
+<a id="f25v-5-f25v-5-p0"></a>
+
 ### f25v.5,+P0
 
 EVA: dar chokeey dshor dshey qochol dol cho daiin daiin
@@ -257,6 +278,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f25v-6-f25v-6-p0"></a>
+
 ### f25v.6,+P0
 
 EVA: qokcho r ochy qotchy qotoral cho @147; chain deeaiir s
@@ -295,6 +318,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chain: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - deeaiir: start fermentation (yeast) → duration level 2 → state: active extraction
 - s: [unparsed]
+
+<a id="f25v-7-f25v-7-p0"></a>
 
 ### f25v.7,+P0
 

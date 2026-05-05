@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 torshor opchy shol dy qopchy shol opchor dypchy dchg
 dchol chol dol shkchy ydal shy ykchy qot[?:ch]y daiin s y
 s y dchor shaiin oeees ykor chor ytshy ykchy kchy dar
@@ -34,6 +35,7 @@ dchy qoky chol dy qokhy d oldy okchor doaiin
 shochy qokchy torchy kchky s okchey daiin
 oldy shey chol d[o:a]iin ykoly okchal daldy
 sotchy kchy okorory
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 11, 'mix/transfer': 47, 'secondary herb': 12, 'yeast fermentation': 32, 'main herb': 38, 'liquid base': 8, 'sugars': 19, 'complex herbal compound': 2}
@@ -50,7 +52,21 @@ sotchy kchy okorory
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f13r.1,@P0](#f13r-1-f13r-1-p0)
+- [f13r.2,+P0](#f13r-2-f13r-2-p0)
+- [f13r.3,+P0](#f13r-3-f13r-3-p0)
+- [f13r.4,+P0](#f13r-4-f13r-4-p0)
+- [f13r.5,+P0](#f13r-5-f13r-5-p0)
+- [f13r.6,+P0](#f13r-6-f13r-6-p0)
+- [f13r.7,+P0](#f13r-7-f13r-7-p0)
+- [f13r.8,+P0](#f13r-8-f13r-8-p0)
+- [f13r.9,+P0](#f13r-9-f13r-9-p0)
+- [f13r.10,+P0](#f13r-10-f13r-10-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f13r-1-f13r-1-p0"></a>
 
 ### f13r.1,@P0
 
@@ -90,6 +106,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - opchor: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - dypchy: add main plant (safe substitute) → start fermentation (yeast)
 - dchg: add main plant (safe substitute) → start fermentation (yeast)
+
+<a id="f13r-2-f13r-2-p0"></a>
 
 ### f13r.2,+P0
 
@@ -134,6 +152,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - y: [unparsed]
 
+<a id="f13r-3-f13r-3-p0"></a>
+
 ### f13r.3,+P0
 
 EVA: s y dchor shaiin oeees ykor chor ytshy ykchy kchy dar
@@ -175,6 +195,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kchy: add fermentable sugars → add main plant (safe substitute)
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f13r-4-f13r-4-p0"></a>
+
 ### f13r.4,+P0
 
 EVA: qodchy ytchy otchor
@@ -207,6 +229,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qodchy: prepare liquid base → add main plant (safe substitute) → start fermentation (yeast)
 - ytchy: apply heat/cooking → add main plant (safe substitute)
 - otchor: apply heat/cooking → add main plant (safe substitute) → mix / transfer
+
+<a id="f13r-5-f13r-5-p0"></a>
 
 ### f13r.5,+P0
 
@@ -247,6 +271,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qopchy: prepare liquid base → add main plant (safe substitute) → start fermentation (yeast)
 - otchol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - cfholdy: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend)
+
+<a id="f13r-6-f13r-6-p0"></a>
 
 ### f13r.6,+P0
 
@@ -289,6 +315,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chckhy: add main plant (safe substitute) → add complex herbal compound (safe blend)
 - d: start fermentation (yeast)
 
+<a id="f13r-7-f13r-7-p0"></a>
+
 ### f13r.7,+P0
 
 EVA: dchy qoky chol dy qokhy d oldy okchor doaiin
@@ -328,6 +356,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okchor: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - doaiin: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f13r-8-f13r-8-p0"></a>
+
 ### f13r.8,+P0
 
 EVA: shochy qokchy torchy kchky s okchey daiin
@@ -364,6 +394,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - okchey: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f13r-9-f13r-9-p0"></a>
 
 ### f13r.9,+P0
 
@@ -404,6 +436,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykoly: add fermentable sugars → mix / transfer
 - okchal: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
 - daldy: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f13r-10-f13r-10-p0"></a>
 
 ### f13r.10,+P0
 

@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 koair chtoiin otchy kchod otol otchy octhos
 oko qokol chodal otchol cphol choty
 qokchy qokod chy otchy cthody
@@ -34,6 +35,7 @@ dain okal chy qokchory dchy kok[y:a]daiin shon
 otchy daiin y dain ykol okchy o kald d y taiin
 tchtod otal cthor ytal y cho tal sho qocthy
 y ol chy kchey kchor dal
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'sugars': 19, 'mix/transfer': 46, 'main herb': 21, 'heat': 16, 'yeast fermentation': 19, 'complex herbal compound': 6, 'liquid base': 8, 'secondary herb': 5, 'aroma modifier': 1}
@@ -52,7 +54,21 @@ y ol chy kchey kchor dal
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f13v.1,@P0](#f13v-1-f13v-1-p0)
+- [f13v.2,+P0](#f13v-2-f13v-2-p0)
+- [f13v.3,+P0](#f13v-3-f13v-3-p0)
+- [f13v.4,+P0](#f13v-4-f13v-4-p0)
+- [f13v.5,+P0](#f13v-5-f13v-5-p0)
+- [f13v.6,+P0](#f13v-6-f13v-6-p0)
+- [f13v.7,+P0](#f13v-7-f13v-7-p0)
+- [f13v.8,+P0](#f13v-8-f13v-8-p0)
+- [f13v.9,+P0](#f13v-9-f13v-9-p0)
+- [f13v.10,+P0](#f13v-10-f13v-10-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f13v-1-f13v-1-p0"></a>
 
 ### f13v.1,@P0
 
@@ -93,6 +109,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otchy: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - octhos: mix / transfer → add complex herbal compound (safe blend)
 
+<a id="f13v-2-f13v-2-p0"></a>
+
 ### f13v.2,+P0
 
 EVA: oko qokol chodal otchol cphol choty
@@ -131,6 +149,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cphol: mix / transfer → add complex herbal compound (safe blend)
 - choty: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 
+<a id="f13v-3-f13v-3-p0"></a>
+
 ### f13v.3,+P0
 
 EVA: qokchy qokod chy otchy cthody
@@ -167,6 +187,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chy: add main plant (safe substitute)
 - otchy: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - cthody: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend)
+
+<a id="f13v-4-f13v-4-p0"></a>
 
 ### f13v.4,+P0
 
@@ -208,6 +230,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okshy: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer
 - qocky: prepare liquid base → add fermentable sugars
 
+<a id="f13v-5-f13v-5-p0"></a>
+
 ### f13v.5,+P0
 
 EVA: qoky daiin
@@ -239,6 +263,8 @@ Does It Make Sense?: yes
 Direct Gloss (Procedural, Not a Real Translation):
 - qoky: prepare liquid base → add fermentable sugars
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f13v-6-f13v-6-p0"></a>
 
 ### f13v.6,+P0
 
@@ -283,6 +309,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotyd: prepare liquid base → apply heat/cooking → start fermentation (yeast)
 - dairod: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f13v-7-f13v-7-p0"></a>
+
 ### f13v.7,+P0
 
 EVA: dain okal chy qokchory dchy kok[y:a]daiin shon
@@ -322,6 +350,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - a: duration level 1 → state: fermentation start
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - shon: add secondary herb (safe substitute) → mix / transfer
+
+<a id="f13v-8-f13v-8-p0"></a>
 
 ### f13v.8,+P0
 
@@ -364,6 +394,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - taiin: apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f13v-9-f13v-9-p0"></a>
+
 ### f13v.9,+P0
 
 EVA: tchtod otal cthor ytal y cho tal sho qocthy
@@ -404,6 +436,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tal: apply heat/cooking → duration level 1 → state: fermentation start
 - sho: add secondary herb (safe substitute) → mix / transfer
 - qocthy: prepare liquid base → add complex herbal compound (safe blend)
+
+<a id="f13v-10-f13v-10-p0"></a>
 
 ### f13v.10,+P0
 

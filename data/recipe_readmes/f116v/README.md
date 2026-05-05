@@ -18,7 +18,9 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 oror sheey
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'mix/transfer': 2, 'secondary herb': 1}
@@ -34,7 +36,12 @@ oror sheey
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f116v.1,@Lx](#f116v-1-f116v-1-lx)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f116v-1-f116v-1-lx"></a>
 
 ### f116v.1,@Lx
 

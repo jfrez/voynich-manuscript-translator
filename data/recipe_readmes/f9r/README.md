@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['chelidonium']
 
 ## EVA Text (Transliteration)
+```text
 tydlo choly cthor orchey s shy odaiin sary shor cthy
 oykeey chol ytaiin okchody toeoky okoiin dy or chaiin
 toiin cphy qotod otaiin cthy okor chey ctho d ram
@@ -34,6 +35,7 @@ or chol chy tchy tchol ytor qotol chyky chodar aiin
 qotcho qokchy cthey koraiin okain d dal s olshocth[y:g]
 ocho cthy choctoy chodykchy saiin dchy daiin
 ytcha[s:r] oraiin chkor
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 18, 'yeast fermentation': 23, 'mix/transfer': 61, 'main herb': 28, 'complex herbal compound': 11, 'secondary herb': 11, 'sugars': 14, 'liquid base': 4}
@@ -50,7 +52,21 @@ ytcha[s:r] oraiin chkor
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f9r.1,@P0](#f9r-1-f9r-1-p0)
+- [f9r.2,+P0](#f9r-2-f9r-2-p0)
+- [f9r.3,+P0](#f9r-3-f9r-3-p0)
+- [f9r.4,+P0](#f9r-4-f9r-4-p0)
+- [f9r.5,+P0](#f9r-5-f9r-5-p0)
+- [f9r.6,+P0](#f9r-6-f9r-6-p0)
+- [f9r.7,+P0](#f9r-7-f9r-7-p0)
+- [f9r.8,+P0](#f9r-8-f9r-8-p0)
+- [f9r.9,+P0](#f9r-9-f9r-9-p0)
+- [f9r.10,+Pc](#f9r-10-f9r-10-pc)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f9r-1-f9r-1-p0"></a>
 
 ### f9r.1,@P0
 
@@ -94,6 +110,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shor: add secondary herb (safe substitute) → mix / transfer
 - cthy: add complex herbal compound (safe blend)
 
+<a id="f9r-2-f9r-2-p0"></a>
+
 ### f9r.2,+P0
 
 EVA: oykeey chol ytaiin okchody toeoky okoiin dy or chaiin
@@ -132,6 +150,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dy: start fermentation (yeast)
 - or: mix / transfer
 - chaiin: add main plant (safe substitute) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f9r-3-f9r-3-p0"></a>
 
 ### f9r.3,+P0
 
@@ -174,6 +194,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ctho: mix / transfer → add complex herbal compound (safe blend)
 - d: start fermentation (yeast)
 - ram: duration level 1 → state: fermentation start
+
+<a id="f9r-4-f9r-4-p0"></a>
 
 ### f9r.4,+P0
 
@@ -218,6 +240,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ytol: apply heat/cooking → mix / transfer
 - dayty: apply heat/cooking → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f9r-5-f9r-5-p0"></a>
+
 ### f9r.5,+P0
 
 EVA: daiin chor sor cthy chokoiin shol dsholdy otchol ot dy
@@ -260,6 +284,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ot: apply heat/cooking → mix / transfer
 - dy: start fermentation (yeast)
 
+<a id="f9r-6-f9r-6-p0"></a>
+
 ### f9r.6,+P0
 
 EVA: pshoain cthoaiin okaiir c@134;hodoral shar sy shydal chdy
@@ -301,6 +327,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shydal: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
 - chdy: add main plant (safe substitute) → start fermentation (yeast)
 
+<a id="f9r-7-f9r-7-p0"></a>
+
 ### f9r.7,+P0
 
 EVA: or chol chy tchy tchol ytor qotol chyky chodar aiin
@@ -340,6 +368,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chyky: add fermentable sugars → add main plant (safe substitute)
 - chodar: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f9r-8-f9r-8-p0"></a>
 
 ### f9r.8,+P0
 
@@ -384,6 +414,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - g: [unparsed]
 
+<a id="f9r-9-f9r-9-p0"></a>
+
 ### f9r.9,+P0
 
 EVA: ocho cthy choctoy chodykchy saiin dchy daiin
@@ -422,6 +454,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - saiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - dchy: add main plant (safe substitute) → start fermentation (yeast)
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f9r-10-f9r-10-pc"></a>
 
 ### f9r.10,+Pc
 

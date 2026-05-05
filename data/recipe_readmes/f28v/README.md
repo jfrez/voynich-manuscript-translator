@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 kshol qooiiin shor pshoiiin shepchy qoty dy shory
 ykcholy qoty chy dy qokchol chor tchy qokchody cheor o
 chor chol chy choiin
@@ -29,6 +30,7 @@ daiin chkaiin
 pchol oiir chol tsho daiin sho tco chy chtshy dair am
 okain chan chain cthor dain yk chy daiin cthol
 sor chear chl [c':s] choly dar
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'sugars': 8, 'secondary herb': 13, 'mix/transfer': 36, 'liquid base': 9, 'yeast fermentation': 15, 'main herb': 29, 'heat': 13, 'complex herbal compound': 2}
@@ -45,7 +47,20 @@ sor chear chl [c':s] choly dar
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f28v.1,@P0](#f28v-1-f28v-1-p0)
+- [f28v.2,+P0](#f28v-2-f28v-2-p0)
+- [f28v.3,+P0](#f28v-3-f28v-3-p0)
+- [f28v.4,+P0](#f28v-4-f28v-4-p0)
+- [f28v.5,+P0](#f28v-5-f28v-5-p0)
+- [f28v.6,+Pr](#f28v-6-f28v-6-pr)
+- [f28v.7,*P0](#f28v-7-f28v-7-p0)
+- [f28v.8,+P0](#f28v-8-f28v-8-p0)
+- [f28v.9,+P0](#f28v-9-f28v-9-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f28v-1-f28v-1-p0"></a>
 
 ### f28v.1,@P0
 
@@ -84,6 +99,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoty: prepare liquid base → apply heat/cooking
 - dy: start fermentation (yeast)
 - shory: add secondary herb (safe substitute) → mix / transfer
+
+<a id="f28v-2-f28v-2-p0"></a>
 
 ### f28v.2,+P0
 
@@ -125,6 +142,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheor: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - o: mix / transfer
 
+<a id="f28v-3-f28v-3-p0"></a>
+
 ### f28v.3,+P0
 
 EVA: chor chol chy choiin
@@ -158,6 +177,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - chy: add main plant (safe substitute)
 - choiin: add main plant (safe substitute) → mix / transfer → duration level 2 → state: cooling/rest → medium fermentation phase
+
+<a id="f28v-4-f28v-4-p0"></a>
 
 ### f28v.4,+P0
 
@@ -199,6 +220,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - qoty: prepare liquid base → apply heat/cooking
 
+<a id="f28v-5-f28v-5-p0"></a>
+
 ### f28v.5,+P0
 
 EVA: otol chol daiin chkaiin shoiin qotchey qotshey daiiin
@@ -237,6 +260,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotshey: prepare liquid base → apply heat/cooking → add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - daiiin: start fermentation (yeast) → duration level 1 → state: fermentation start → medium fermentation phase
 
+<a id="f28v-6-f28v-6-pr"></a>
+
 ### f28v.6,+Pr
 
 EVA: daiin chkaiin
@@ -268,6 +293,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - chkaiin: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f28v-7-f28v-7-p0"></a>
 
 ### f28v.7,*P0
 
@@ -310,6 +337,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dair: start fermentation (yeast) → duration level 1 → state: fermentation start
 - am: duration level 1 → state: fermentation start
 
+<a id="f28v-8-f28v-8-p0"></a>
+
 ### f28v.8,+P0
 
 EVA: okain chan chain cthor dain yk chy daiin cthol
@@ -350,6 +379,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chy: add main plant (safe substitute)
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - cthol: mix / transfer → add complex herbal compound (safe blend)
+
+<a id="f28v-9-f28v-9-p0"></a>
 
 ### f28v.9,+P0
 

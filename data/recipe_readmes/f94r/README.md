@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 tchedy opaiir chedaiin dsheedy qopchedal keodaiin otalaiin oar
 dor cheody okaiin odor okal okair oky daiir qotar okar olaiin
 todal cholky qokal shdy qoky otody qokolchey qokair opary
@@ -33,6 +34,7 @@ saiin choky qotchdy otaly chedy dal dy chckhaiin chk qof
 pchedar oraiin cheor kas or als o xockhhy olkain am
 yty qokaiin ykal chdy qoky osain chykaidy dam
 otar chdy dytchdy
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 11, 'main herb': 23, 'yeast fermentation': 37, 'mix/transfer': 42, 'secondary herb': 3, 'liquid base': 10, 'sugars': 29, 'complex herbal compound': 2, 'aroma modifier': 1}
@@ -51,7 +53,20 @@ otar chdy dytchdy
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f94r.1,@P0](#f94r-1-f94r-1-p0)
+- [f94r.2,+P0](#f94r-2-f94r-2-p0)
+- [f94r.3,+P0](#f94r-3-f94r-3-p0)
+- [f94r.4,+P0](#f94r-4-f94r-4-p0)
+- [f94r.5,+P0](#f94r-5-f94r-5-p0)
+- [f94r.6,+P0](#f94r-6-f94r-6-p0)
+- [f94r.7,+P0](#f94r-7-f94r-7-p0)
+- [f94r.8,+P0](#f94r-8-f94r-8-p0)
+- [f94r.9,+Pc](#f94r-9-f94r-9-pc)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f94r-1-f94r-1-p0"></a>
 
 ### f94r.1,@P0
 
@@ -90,6 +105,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - keodaiin: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction → long fermentation / aging phase
 - otalaiin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - oar: mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f94r-2-f94r-2-p0"></a>
 
 ### f94r.2,+P0
 
@@ -132,6 +149,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - olaiin: mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f94r-3-f94r-3-p0"></a>
+
 ### f94r.3,+P0
 
 EVA: todal cholky qokal shdy qoky otody qokolchey qokair opary
@@ -170,6 +189,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokolchey: prepare liquid base → add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - qokair: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - opary: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f94r-4-f94r-4-p0"></a>
 
 ### f94r.4,+P0
 
@@ -212,6 +233,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kar: add fermentable sugars → duration level 1 → state: fermentation start
 - am: duration level 1 → state: fermentation start
 
+<a id="f94r-5-f94r-5-p0"></a>
+
 ### f94r.5,+P0
 
 EVA: daiin chekar olkaiin olkeody ykaiin otain dar okeed[y:o] ykaro
@@ -252,6 +275,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - o: mix / transfer
 - ykaro: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f94r-6-f94r-6-p0"></a>
 
 ### f94r.6,+P0
 
@@ -298,6 +323,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chk: add fermentable sugars → add main plant (safe substitute)
 - qof: prepare liquid base → add aroma modifier
 
+<a id="f94r-7-f94r-7-p0"></a>
+
 ### f94r.7,+P0
 
 EVA: pchedar oraiin cheor kas or als o xockhhy olkain am
@@ -340,6 +367,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - am: duration level 1 → state: fermentation start
 
+<a id="f94r-8-f94r-8-p0"></a>
+
 ### f94r.8,+P0
 
 EVA: yty qokaiin ykal chdy qoky osain chykaidy dam
@@ -377,6 +406,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - osain: mix / transfer → duration level 1 → state: fermentation start
 - chykaidy: add fermentable sugars → add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f94r-9-f94r-9-pc"></a>
 
 ### f94r.9,+Pc
 

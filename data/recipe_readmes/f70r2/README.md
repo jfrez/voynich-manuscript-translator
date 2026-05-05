@@ -19,6 +19,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 otchey sheol chkey shep al r ar chly sheteal aram
 dair cheey s cheotey dshy dam chchet al ykec'y
 ykeeo y s ald shey cthy shekey qokal aiir oteog
@@ -38,6 +39,7 @@ otar ar chedal oaral aldaiin ykeeedaiis sheo l dar chol ykees aiir dl cheey [s:r
 oches air chese ctheey sheeody shopcho yteody ykaldy oteeos aiin sh[e:?]y shee farar aim cheoteeodal sho choetchaldy dal aiir ches otesar dalol chtam opaiir chokeo oteedy oteeo okol chotal otol al dl
 otoy ar arodchedy cheocphey oteeos ees cheal sheeey okeedaly cheeoekey yk[ee:ei]d[cr:ar] oteey s al s air oteody oteody dar aiir ody cheeos chey daiin otoeeseor air chedy okodar al sho chotol dal dy
 oteesy ol chy oteo sal ol keey oteol choky otcho[sh:ch]a
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'mix/transfer': 133, 'heat': 52, 'main herb': 65, 'secondary herb': 31, 'sugars': 46, 'yeast fermentation': 72, 'complex herbal compound': 10, 'liquid base': 7, 'aroma modifier': 1}
@@ -56,7 +58,30 @@ oteesy ol chy oteo sal ol keey oteol choky otcho[sh:ch]a
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f70r2.1,@P1](#f70r2-1-f70r2-1-p1)
+- [f70r2.2,+P1](#f70r2-2-f70r2-2-p1)
+- [f70r2.3,+P1](#f70r2-3-f70r2-3-p1)
+- [f70r2.4,+P1](#f70r2-4-f70r2-4-p1)
+- [f70r2.5,+P1](#f70r2-5-f70r2-5-p1)
+- [f70r2.6,+P1](#f70r2-6-f70r2-6-p1)
+- [f70r2.7,+P1](#f70r2-7-f70r2-7-p1)
+- [f70r2.8,+P1](#f70r2-8-f70r2-8-p1)
+- [f70r2.9,+P1](#f70r2-9-f70r2-9-p1)
+- [f70r2.10,+P1](#f70r2-10-f70r2-10-p1)
+- [f70r2.11,+P1](#f70r2-11-f70r2-11-p1)
+- [f70r2.12,+P1](#f70r2-12-f70r2-12-p1)
+- [f70r2.13,+P1](#f70r2-13-f70r2-13-p1)
+- [f70r2.14,+P1](#f70r2-14-f70r2-14-p1)
+- [f70r2.15,@Cc](#f70r2-15-f70r2-15-cc)
+- [f70r2.16,+Cc](#f70r2-16-f70r2-16-cc)
+- [f70r2.17,+Cc](#f70r2-17-f70r2-17-cc)
+- [f70r2.18,+Cc](#f70r2-18-f70r2-18-cc)
+- [f70r2.19,@Cc](#f70r2-19-f70r2-19-cc)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f70r2-1-f70r2-1-p1"></a>
 
 ### f70r2.1,@P1
 
@@ -98,6 +123,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheteal: apply heat/cooking → add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - aram: duration level 1 → state: fermentation start
 
+<a id="f70r2-2-f70r2-2-p1"></a>
+
 ### f70r2.2,+P1
 
 EVA: dair cheey s cheotey dshy dam chchet al ykec'y
@@ -137,6 +164,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - al: duration level 1 → state: fermentation start
 - ykec: add fermentable sugars → duration level 1 → state: active extraction
 - y: [unparsed]
+
+<a id="f70r2-3-f70r2-3-p1"></a>
 
 ### f70r2.3,+P1
 
@@ -180,6 +209,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiir: duration level 1 → state: fermentation start
 - oteog: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f70r2-4-f70r2-4-p1"></a>
+
 ### f70r2.4,+P1
 
 EVA: daiin okeey shoaiin ckhhey otal shshy tal dam
@@ -219,6 +250,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shshy: add secondary herb (safe substitute)
 - tal: apply heat/cooking → duration level 1 → state: fermentation start
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f70r2-5-f70r2-5-p1"></a>
 
 ### f70r2.5,+P1
 
@@ -263,6 +296,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chal: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f70r2-6-f70r2-6-p1"></a>
+
 ### f70r2.6,+P1
 
 EVA: ytar ar al yol al aloees ytaiir otaldal
@@ -300,6 +335,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aloees: mix / transfer → duration level 1 → state: fermentation start
 - ytaiir: apply heat/cooking → duration level 1 → state: fermentation start
 - otaldal: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f70r2-7-f70r2-7-p1"></a>
 
 ### f70r2.7,+P1
 
@@ -340,6 +377,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cholckhhy: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
 - dy: start fermentation (yeast)
 
+<a id="f70r2-8-f70r2-8-p1"></a>
+
 ### f70r2.8,+P1
 
 EVA: ytals alal dalam dal cthol oparam
@@ -377,6 +416,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 - cthol: mix / transfer → add complex herbal compound (safe blend)
 - oparam: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f70r2-9-f70r2-9-p1"></a>
 
 ### f70r2.9,+P1
 
@@ -416,6 +457,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dalal: start fermentation (yeast) → duration level 1 → state: fermentation start
 - y: [unparsed]
 
+<a id="f70r2-10-f70r2-10-p1"></a>
+
 ### f70r2.10,+P1
 
 EVA: shokal chol kshody tol cheey okal
@@ -452,6 +495,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheey: add main plant (safe substitute) → duration level 2 → state: active extraction
 - okal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f70r2-11-f70r2-11-p1"></a>
+
 ### f70r2.11,+P1
 
 EVA: daiin chotal qokal chol chotals
@@ -486,6 +531,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - chol: add main plant (safe substitute) → mix / transfer
 - chotals: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f70r2-12-f70r2-12-p1"></a>
 
 ### f70r2.12,+P1
 
@@ -522,6 +569,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shy: add secondary herb (safe substitute)
 - qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - chdy: add main plant (safe substitute) → start fermentation (yeast)
+
+<a id="f70r2-13-f70r2-13-p1"></a>
 
 ### f70r2.13,+P1
 
@@ -560,6 +609,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chdy: add main plant (safe substitute) → start fermentation (yeast)
 - cham: add main plant (safe substitute) → duration level 1 → state: fermentation start
 
+<a id="f70r2-14-f70r2-14-p1"></a>
+
 ### f70r2.14,+P1
 
 EVA: okaiin chcthhy s or ary
@@ -596,6 +647,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - or: mix / transfer
 - ary: duration level 1 → state: fermentation start
+
+<a id="f70r2-15-f70r2-15-cc"></a>
 
 ### f70r2.15,@Cc
 
@@ -666,6 +719,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ar: duration level 1 → state: fermentation start
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f70r2-16-f70r2-16-cc"></a>
+
 ### f70r2.16,+Cc
 
 EVA: otar ar chedal oaral aldaiin ykeeedaiis sheo l dar chol ykees aiir dl cheey [s:r]keeod oteeodar aiin aral daiir sheedal sheodaiin choar chol chot[e:i]oly cho oteey chotey choeky chedy choteosam oteodar ockhh
@@ -734,6 +789,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choteosam: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - oteodar: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - ockhh: mix / transfer → add complex herbal compound (safe blend)
+
+<a id="f70r2-17-f70r2-17-cc"></a>
 
 ### f70r2.17,+Cc
 
@@ -804,6 +861,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - al: duration level 1 → state: fermentation start
 - dl: start fermentation (yeast)
 
+<a id="f70r2-18-f70r2-18-cc"></a>
+
 ### f70r2.18,+Cc
 
 EVA: otoy ar arodchedy cheocphey oteeos ees cheal sheeey okeedaly cheeoekey yk[ee:ei]d[cr:ar] oteey s al s air oteody oteody dar aiir ody cheeos chey daiin otoeeseor air chedy okodar al sho chotol dal dy
@@ -873,6 +932,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chotol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dy: start fermentation (yeast)
+
+<a id="f70r2-19-f70r2-19-cc"></a>
 
 ### f70r2.19,@Cc
 

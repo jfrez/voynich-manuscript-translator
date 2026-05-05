@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 c@181;hdai@133;hy qocfhey opolraiin ofchedal s? shese shodaiin shea[s:r]
 podchey ctheod ikheeos cheey ykeey s o[is:?] qokchas s oin sam
 saiin sheom sheey keeos ol cheeor chy shy tchody okeeo[m:g]
@@ -32,6 +33,7 @@ tcheody cpheal qoar cheol chos olols dshcheal sheol qodar
 sal sheol shey qokeey qokeol cheody s ykeeol dar chody y
 shey s shee[y:a]l sheol sheody tol sheocty oteey chodar chog
 teeas qkeody qokchy oteeol daiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 18, 'liquid base': 7, 'complex herbal compound': 3, 'mix/transfer': 40, 'aroma modifier': 1, 'main herb': 17, 'secondary herb': 15, 'sugars': 11, 'heat': 9, 'general base': 1}
@@ -50,7 +52,19 @@ teeas qkeody qokchy oteeol daiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f90v2.1,@P0](#f90v2-1-f90v2-1-p0)
+- [f90v2.2,+P0](#f90v2-2-f90v2-2-p0)
+- [f90v2.3,+P0](#f90v2-3-f90v2-3-p0)
+- [f90v2.4,+P0](#f90v2-4-f90v2-4-p0)
+- [f90v2.5,+P0](#f90v2-5-f90v2-5-p0)
+- [f90v2.6,+P0](#f90v2-6-f90v2-6-p0)
+- [f90v2.7,+P0](#f90v2-7-f90v2-7-p0)
+- [f90v2.8,+P0](#f90v2-8-f90v2-8-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f90v2-1-f90v2-1-p0"></a>
 
 ### f90v2.1,@P0
 
@@ -99,6 +113,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - r: [unparsed]
 
+<a id="f90v2-2-f90v2-2-p0"></a>
+
 ### f90v2.2,+P0
 
 EVA: podchey ctheod ikheeos cheey ykeey s o[is:?] qokchas s oin sam
@@ -143,6 +159,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oin: mix / transfer → duration level 1 → state: cooling/rest
 - sam: duration level 1 → state: fermentation start
 
+<a id="f90v2-3-f90v2-3-p0"></a>
+
 ### f90v2.3,+P0
 
 EVA: saiin sheom sheey keeos ol cheeor chy shy tchody okeeo[m:g]
@@ -185,6 +203,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - m: [unparsed]
 - g: [unparsed]
 
+<a id="f90v2-4-f90v2-4-p0"></a>
+
 ### f90v2.4,+P0
 
 EVA: tchos oteey saiin okeeey
@@ -218,6 +238,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oteey: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
 - saiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - okeeey: add fermentable sugars → mix / transfer → duration level 3 → state: active extraction
+
+<a id="f90v2-5-f90v2-5-p0"></a>
 
 ### f90v2.5,+P0
 
@@ -260,6 +282,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheol: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - qodar: prepare liquid base → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f90v2-6-f90v2-6-p0"></a>
+
 ### f90v2.6,+P0
 
 EVA: sal sheol shey qokeey qokeol cheody s ykeeol dar chody y
@@ -300,6 +324,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 - chody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - y: [unparsed]
+
+<a id="f90v2-7-f90v2-7-p0"></a>
 
 ### f90v2.7,+P0
 
@@ -343,6 +369,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oteey: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
 - chodar: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - chog: add main plant (safe substitute) → mix / transfer
+
+<a id="f90v2-8-f90v2-8-p0"></a>
 
 ### f90v2.8,+P0
 

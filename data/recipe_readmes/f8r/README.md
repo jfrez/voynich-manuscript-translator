@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['atriplex', 'praenanthes', 'spinach']
 
 ## EVA Text (Transliteration)
+```text
 pshol chor otshal chopy cph[o:a]l chody shy cfhodar shor
 tchty sh kcheals sho okche do dchy dain al
 chodar shy sy chodaiin shokchy chor dy
@@ -45,6 +46,7 @@ okar cfhaiin chaiin cl daiin chor cha rchealcham
 sair cheain cphol dar shol kaiin shol kaiin dai kam
 or cho kesey shey o kal chal
 schol saim
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 48, 'secondary herb': 25, 'mix/transfer': 84, 'main herb': 70, 'heat': 18, 'complex herbal compound': 9, 'sugars': 27, 'liquid base': 3, 'aroma modifier': 3}
@@ -63,7 +65,32 @@ schol saim
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f8r.1,@P0](#f8r-1-f8r-1-p0)
+- [f8r.2,+P0](#f8r-2-f8r-2-p0)
+- [f8r.3,+P0](#f8r-3-f8r-3-p0)
+- [f8r.4,+P0](#f8r-4-f8r-4-p0)
+- [f8r.5,+P0](#f8r-5-f8r-5-p0)
+- [f8r.6,+P0](#f8r-6-f8r-6-p0)
+- [f8r.7,+P0](#f8r-7-f8r-7-p0)
+- [f8r.8,=Pt](#f8r-8-f8r-8-pt)
+- [f8r.9,*P0](#f8r-9-f8r-9-p0)
+- [f8r.10,+P0](#f8r-10-f8r-10-p0)
+- [f8r.11,+P0](#f8r-11-f8r-11-p0)
+- [f8r.12,+P0](#f8r-12-f8r-12-p0)
+- [f8r.13,=Pt](#f8r-13-f8r-13-pt)
+- [f8r.14,*P0](#f8r-14-f8r-14-p0)
+- [f8r.15,+P0](#f8r-15-f8r-15-p0)
+- [f8r.16,+P0](#f8r-16-f8r-16-p0)
+- [f8r.17,+P0](#f8r-17-f8r-17-p0)
+- [f8r.18,+P0](#f8r-18-f8r-18-p0)
+- [f8r.19,+P0](#f8r-19-f8r-19-p0)
+- [f8r.20,+P0](#f8r-20-f8r-20-p0)
+- [f8r.21,=Pt](#f8r-21-f8r-21-pt)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f8r-1-f8r-1-p0"></a>
 
 ### f8r.1,@P0
 
@@ -109,6 +136,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cfhodar: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
 - shor: add secondary herb (safe substitute) → mix / transfer
 
+<a id="f8r-2-f8r-2-p0"></a>
+
 ### f8r.2,+P0
 
 EVA: tchty sh kcheals sho okche do dchy dain al
@@ -148,6 +177,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - al: duration level 1 → state: fermentation start
 
+<a id="f8r-3-f8r-3-p0"></a>
+
 ### f8r.3,+P0
 
 EVA: chodar shy sy chodaiin shokchy chor dy
@@ -184,6 +215,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shokchy: add fermentable sugars → add main plant (safe substitute) → add secondary herb (safe substitute) → mix / transfer
 - chor: add main plant (safe substitute) → mix / transfer
 - dy: start fermentation (yeast)
+
+<a id="f8r-4-f8r-4-p0"></a>
 
 ### f8r.4,+P0
 
@@ -226,6 +259,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chof: add main plant (safe substitute) → add aroma modifier → mix / transfer
 - chy: add main plant (safe substitute)
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f8r-5-f8r-5-p0"></a>
 
 ### f8r.5,+P0
 
@@ -270,6 +305,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - a: duration level 1 → state: fermentation start
 - taiin: apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f8r-6-f8r-6-p0"></a>
+
 ### f8r.6,+P0
 
 EVA: tosh ckcheey koltoldy shy choety cheeody sol
@@ -307,6 +344,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheeody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
 - sol: mix / transfer
 
+<a id="f8r-7-f8r-7-p0"></a>
+
 ### f8r.7,+P0
 
 EVA: choto kchoan choor dain
@@ -341,6 +380,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choor: add main plant (safe substitute) → mix / transfer
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f8r-8-f8r-8-pt"></a>
+
 ### f8r.8,=Pt
 
 EVA: dcho dain
@@ -372,6 +413,8 @@ Does It Make Sense?: yes
 Direct Gloss (Procedural, Not a Real Translation):
 - dcho: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f8r-9-f8r-9-p0"></a>
 
 ### f8r.9,*P0
 
@@ -414,6 +457,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sholdaiin: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - shor: add secondary herb (safe substitute) → mix / transfer
 
+<a id="f8r-10-f8r-10-p0"></a>
+
 ### f8r.10,+P0
 
 EVA: daiin cheey teeodan dy cheocthy oksheo dol dairg
@@ -454,6 +499,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dol: mix / transfer → start fermentation (yeast)
 - dairg: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f8r-11-f8r-11-p0"></a>
+
 ### f8r.11,+P0
 
 EVA: shol cheodaiin daiin do y tchody chot choty otariin
@@ -493,6 +540,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choty: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - otariin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → medium fermentation phase
 
+<a id="f8r-12-f8r-12-p0"></a>
+
 ### f8r.12,+P0
 
 EVA: qo chodaiin shotokody chotol
@@ -527,6 +576,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shotokody: add fermentable sugars → apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
 - chotol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 
+<a id="f8r-13-f8r-13-pt"></a>
+
 ### f8r.13,=Pt
 
 EVA: okokchodg
@@ -557,6 +608,8 @@ Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okokchodg: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+
+<a id="f8r-14-f8r-14-p0"></a>
 
 ### f8r.14,*P0
 
@@ -601,6 +654,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kshey: add fermentable sugars → add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - lody: mix / transfer → start fermentation (yeast)
 - cholal: add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f8r-15-f8r-15-p0"></a>
 
 ### f8r.15,+P0
 
@@ -647,6 +702,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - ckhy: add complex herbal compound (safe blend)
 
+<a id="f8r-16-f8r-16-p0"></a>
+
 ### f8r.16,+P0
 
 EVA: ychey kch[e:o]kchy chsey kchy scheaiin cthaiihar cthy dar
@@ -690,6 +747,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthy: add complex herbal compound (safe blend)
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f8r-17-f8r-17-p0"></a>
+
 ### f8r.17,+P0
 
 EVA: chol dchy qokar chl aiin chean cky char chaiin
@@ -728,6 +787,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cky: add fermentable sugars
 - char: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - chaiin: add main plant (safe substitute) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f8r-18-f8r-18-p0"></a>
 
 ### f8r.18,+P0
 
@@ -768,6 +829,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chor: add main plant (safe substitute) → mix / transfer
 - cha: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - rchealcham: add main plant (safe substitute) → duration level 1 → state: active extraction
+
+<a id="f8r-19-f8r-19-p0"></a>
 
 ### f8r.19,+P0
 
@@ -811,6 +874,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dai: start fermentation (yeast) → duration level 1 → state: fermentation start
 - kam: add fermentable sugars → duration level 1 → state: fermentation start
 
+<a id="f8r-20-f8r-20-p0"></a>
+
 ### f8r.20,+P0
 
 EVA: or cho kesey shey o kal chal
@@ -847,6 +912,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - kal: add fermentable sugars → duration level 1 → state: fermentation start
 - chal: add main plant (safe substitute) → duration level 1 → state: fermentation start
+
+<a id="f8r-21-f8r-21-pt"></a>
 
 ### f8r.21,=Pt
 

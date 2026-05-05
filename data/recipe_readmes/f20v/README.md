@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 faiis ar okoy shy pofochey opchy qopy choldy opydy cphy
 sos ykoiin cheol chol choiin checthy otol chol chodaiin oty
 okchy sho kchol shol chcthy qoty chy tolshy qotchy
@@ -31,6 +32,7 @@ shain choraly sho ar chy daiin d s
 ykchy keody cho cthy chol shd qoty d@244;
 shokaiin chocthy chol daiin chy chor ety
 okoiin chey @200;phol chory
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'aroma modifier': 4, 'mix/transfer': 56, 'sugars': 9, 'secondary herb': 18, 'yeast fermentation': 20, 'main herb': 33, 'liquid base': 4, 'complex herbal compound': 10, 'heat': 12}
@@ -49,7 +51,22 @@ okoiin chey @200;phol chory
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f20v.1,@P0](#f20v-1-f20v-1-p0)
+- [f20v.2,+P0](#f20v-2-f20v-2-p0)
+- [f20v.3,+P0](#f20v-3-f20v-3-p0)
+- [f20v.4,+P0](#f20v-4-f20v-4-p0)
+- [f20v.5,+P0](#f20v-5-f20v-5-p0)
+- [f20v.6,+P0](#f20v-6-f20v-6-p0)
+- [f20v.7,+P0](#f20v-7-f20v-7-p0)
+- [f20v.8,+P0](#f20v-8-f20v-8-p0)
+- [f20v.9,+P0](#f20v-9-f20v-9-p0)
+- [f20v.10,+P0](#f20v-10-f20v-10-p0)
+- [f20v.11,+P0](#f20v-11-f20v-11-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f20v-1-f20v-1-p0"></a>
 
 ### f20v.1,@P0
 
@@ -96,6 +113,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - opydy: mix / transfer → start fermentation (yeast)
 - cphy: add complex herbal compound (safe blend)
 
+<a id="f20v-2-f20v-2-p0"></a>
+
 ### f20v.2,+P0
 
 EVA: sos ykoiin cheol chol choiin checthy otol chol chodaiin oty
@@ -138,6 +157,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chodaiin: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - oty: apply heat/cooking → mix / transfer
 
+<a id="f20v-3-f20v-3-p0"></a>
+
 ### f20v.3,+P0
 
 EVA: okchy sho kchol shol chcthy qoty chy tolshy qotchy
@@ -179,6 +200,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tolshy: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer
 - qotchy: prepare liquid base → apply heat/cooking → add main plant (safe substitute)
 
+<a id="f20v-4-f20v-4-p0"></a>
+
 ### f20v.4,+P0
 
 EVA: sho or aiin shol daiin
@@ -213,6 +236,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - shol: add secondary herb (safe substitute) → mix / transfer
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f20v-5-f20v-5-p0"></a>
 
 ### f20v.5,+P0
 
@@ -258,6 +283,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chcphy: add main plant (safe substitute) → add complex herbal compound (safe blend)
 - dy: start fermentation (yeast)
 
+<a id="f20v-6-f20v-6-p0"></a>
+
 ### f20v.6,+P0
 
 EVA: doiiin chockhy da[n:r] cheoikhy shos cheos char [ith:cth]aiin
@@ -302,6 +329,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cth: add complex herbal compound (safe blend)
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f20v-7-f20v-7-p0"></a>
+
 ### f20v.7,+P0
 
 EVA: shocthy sho cthy daiin sheoy tey s soaiin
@@ -342,6 +371,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - soaiin: mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f20v-8-f20v-8-p0"></a>
+
 ### f20v.8,+P0
 
 EVA: shain choraly sho ar chy daiin d s
@@ -379,6 +410,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - d: start fermentation (yeast)
 - s: [unparsed]
+
+<a id="f20v-9-f20v-9-p0"></a>
 
 ### f20v.9,+P0
 
@@ -420,6 +453,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoty: prepare liquid base → apply heat/cooking
 - d: start fermentation (yeast)
 
+<a id="f20v-10-f20v-10-p0"></a>
+
 ### f20v.10,+P0
 
 EVA: shokaiin chocthy chol daiin chy chor ety
@@ -458,6 +493,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chy: add main plant (safe substitute)
 - chor: add main plant (safe substitute) → mix / transfer
 - ety: apply heat/cooking → duration level 1 → state: active extraction
+
+<a id="f20v-11-f20v-11-p0"></a>
 
 ### f20v.11,+P0
 

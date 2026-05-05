@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 poleeol qokeol qokchod choly ctho[g:m]
 yshol tor sheor qotchor qoky darala
 dair shkeea s sary okar ykorshy lkaldy
@@ -29,6 +30,7 @@ tol otchol shorydar qokeos okeoschso chol ytod qokeos dolshy
 dar chos qocthy qokcha shko qokol oteey chofy ykeody qokod
 kor sheol qodar oko ykeey qokeey qodar qokeed s choky
 ykodar qoekchy shokol okam
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 21, 'mix/transfer': 56, 'liquid base': 17, 'sugars': 29, 'main herb': 22, 'complex herbal compound': 5, 'secondary herb': 11, 'heat': 8, 'aroma modifier': 2}
@@ -47,7 +49,20 @@ ykodar qoekchy shokol okam
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f90r1.1,@P0](#f90r1-1-f90r1-1-p0)
+- [f90r1.2,+P0](#f90r1-2-f90r1-2-p0)
+- [f90r1.3,+P0](#f90r1-3-f90r1-3-p0)
+- [f90r1.4,+P0](#f90r1-4-f90r1-4-p0)
+- [f90r1.5,+P0](#f90r1-5-f90r1-5-p0)
+- [f90r1.6,+P0](#f90r1-6-f90r1-6-p0)
+- [f90r1.7,+P0](#f90r1-7-f90r1-7-p0)
+- [f90r1.8,+P0](#f90r1-8-f90r1-8-p0)
+- [f90r1.9,+Pr](#f90r1-9-f90r1-9-pr)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f90r1-1-f90r1-1-p0"></a>
 
 ### f90r1.1,@P0
 
@@ -88,6 +103,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - g: [unparsed]
 - m: [unparsed]
 
+<a id="f90r1-2-f90r1-2-p0"></a>
+
 ### f90r1.2,+P0
 
 EVA: yshol tor sheor qotchor qoky darala
@@ -123,6 +140,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotchor: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - qoky: prepare liquid base → add fermentable sugars
 - darala: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f90r1-3-f90r1-3-p0"></a>
 
 ### f90r1.3,+P0
 
@@ -160,6 +179,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - ykorshy: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer
 - lkaldy: add fermentable sugars → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f90r1-4-f90r1-4-p0"></a>
 
 ### f90r1.4,+P0
 
@@ -202,6 +223,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chockhy: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
 - okchod: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - qofchol: prepare liquid base → add main plant (safe substitute) → add aroma modifier → mix / transfer
+
+<a id="f90r1-5-f90r1-5-p0"></a>
 
 ### f90r1.5,+P0
 
@@ -247,6 +270,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dchy: add main plant (safe substitute) → start fermentation (yeast)
 - dasady: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f90r1-6-f90r1-6-p0"></a>
+
 ### f90r1.6,+P0
 
 EVA: tol otchol shorydar qokeos okeoschso chol ytod qokeos dolshy
@@ -285,6 +310,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ytod: apply heat/cooking → mix / transfer → start fermentation (yeast)
 - qokeos: prepare liquid base → add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 - dolshy: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
+
+<a id="f90r1-7-f90r1-7-p0"></a>
 
 ### f90r1.7,+P0
 
@@ -331,6 +358,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykeody: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - qokod: prepare liquid base → add fermentable sugars → mix / transfer → start fermentation (yeast)
 
+<a id="f90r1-8-f90r1-8-p0"></a>
+
 ### f90r1.8,+P0
 
 EVA: kor sheol qodar oko ykeey qokeey qodar qokeed s choky
@@ -370,6 +399,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokeed: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
 - s: [unparsed]
 - choky: add fermentable sugars → add main plant (safe substitute) → mix / transfer
+
+<a id="f90r1-9-f90r1-9-pr"></a>
 
 ### f90r1.9,+Pr
 

@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['collocasia', 'lotus', 'nymph', 'nymphoides', 'peltata', 'water_lily/egyptian_lotus']
 
 ## EVA Text (Transliteration)
+```text
 kooiin cheo pchor otaiin odain chor dair shty
 kcho kchy sho shol qotcho loeees qoty chor daiin
 otchy chor lshy chol chody chodain chcthy daiin
@@ -32,6 +33,7 @@ kchor shy daiiin chckom s shey dor chol daiin
 dor chol chor chol keol chy chty daiin o tchor chan
 daiin chotchey qoteeey chokeos chees chr cheaiin
 chokoishe chor cheol chol dolody
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'sugars': 8, 'mix/transfer': 44, 'main herb': 36, 'yeast fermentation': 16, 'heat': 9, 'secondary herb': 8, 'liquid base': 3, 'complex herbal compound': 1}
@@ -48,7 +50,19 @@ chokoishe chor cheol chol dolody
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f2v.1,@P0](#f2v-1-f2v-1-p0)
+- [f2v.2,+P0](#f2v-2-f2v-2-p0)
+- [f2v.3,+P0](#f2v-3-f2v-3-p0)
+- [f2v.4,+P0](#f2v-4-f2v-4-p0)
+- [f2v.5,+P0](#f2v-5-f2v-5-p0)
+- [f2v.6,+P0](#f2v-6-f2v-6-p0)
+- [f2v.7,+P0](#f2v-7-f2v-7-p0)
+- [f2v.8,+P0](#f2v-8-f2v-8-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f2v-1-f2v-1-p0"></a>
 
 ### f2v.1,@P0
 
@@ -88,6 +102,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dair: start fermentation (yeast) → duration level 1 → state: fermentation start
 - shty: apply heat/cooking → add secondary herb (safe substitute)
 
+<a id="f2v-2-f2v-2-p0"></a>
+
 ### f2v.2,+P0
 
 EVA: kcho kchy sho shol qotcho loeees qoty chor daiin
@@ -126,6 +142,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoty: prepare liquid base → apply heat/cooking
 - chor: add main plant (safe substitute) → mix / transfer
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f2v-3-f2v-3-p0"></a>
 
 ### f2v.3,+P0
 
@@ -167,6 +185,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chcthy: add main plant (safe substitute) → add complex herbal compound (safe blend)
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f2v-4-f2v-4-p0"></a>
+
 ### f2v.4,+P0
 
 EVA: sho cholo cheor chodaiin
@@ -200,6 +220,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cholo: add main plant (safe substitute) → mix / transfer
 - cheor: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - chodaiin: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f2v-5-f2v-5-p0"></a>
 
 ### f2v.5,+P0
 
@@ -239,6 +261,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dor: mix / transfer → start fermentation (yeast)
 - chol: add main plant (safe substitute) → mix / transfer
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f2v-6-f2v-6-p0"></a>
 
 ### f2v.6,+P0
 
@@ -281,6 +305,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchor: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - chan: add main plant (safe substitute) → duration level 1 → state: fermentation start
 
+<a id="f2v-7-f2v-7-p0"></a>
+
 ### f2v.7,+P0
 
 EVA: daiin chotchey qoteeey chokeos chees chr cheaiin
@@ -317,6 +343,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chees: add main plant (safe substitute) → duration level 2 → state: active extraction
 - chr: add main plant (safe substitute)
 - cheaiin: add main plant (safe substitute) → duration level 1 → state: active extraction → long fermentation / aging phase
+
+<a id="f2v-8-f2v-8-p0"></a>
 
 ### f2v.8,+P0
 

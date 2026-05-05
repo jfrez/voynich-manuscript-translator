@@ -18,6 +18,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 dalalody oteoshey okoksheo shokey raiin otor ochy s a[ir:is] cheody cheey oteo [ch:ee]y daiir chcthy dlal oteodaiin ykeody oteody sheo daiin oteedy chetalchs zar shoteeody okeeo dal cheody okchoteees oteeody cheokeo otaiin shes to ar oly daly sheal
 otalchy tar am dy
 opchey sal
@@ -35,6 +36,7 @@ otalaiin
 oteo alals araly
 oteoeey otal okealar
 otear araydy
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 27, 'mix/transfer': 78, 'heat': 29, 'secondary herb': 13, 'sugars': 20, 'main herb': 20, 'complex herbal compound': 1, 'liquid base': 1}
@@ -51,7 +53,28 @@ otear araydy
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f70v1.1,@Cc](#f70v1-1-f70v1-1-cc)
+- [f70v1.2,@Lz](#f70v1-2-f70v1-2-lz)
+- [f70v1.3,&Lz](#f70v1-3-f70v1-3-lz)
+- [f70v1.4,&Lz](#f70v1-4-f70v1-4-lz)
+- [f70v1.5,&Lz](#f70v1-5-f70v1-5-lz)
+- [f70v1.6,&Lz](#f70v1-6-f70v1-6-lz)
+- [f70v1.7,&Lz](#f70v1-7-f70v1-7-lz)
+- [f70v1.8,&Lz](#f70v1-8-f70v1-8-lz)
+- [f70v1.9,&Lz](#f70v1-9-f70v1-9-lz)
+- [f70v1.10,&Lz](#f70v1-10-f70v1-10-lz)
+- [f70v1.11,&Lz](#f70v1-11-f70v1-11-lz)
+- [f70v1.12,@Cc](#f70v1-12-f70v1-12-cc)
+- [f70v1.13,@Lz](#f70v1-13-f70v1-13-lz)
+- [f70v1.14,&Lz](#f70v1-14-f70v1-14-lz)
+- [f70v1.15,&Lz](#f70v1-15-f70v1-15-lz)
+- [f70v1.16,&Lz](#f70v1-16-f70v1-16-lz)
+- [f70v1.17,&Lz](#f70v1-17-f70v1-17-lz)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f70v1-1-f70v1-1-cc"></a>
 
 ### f70v1.1,@Cc
 
@@ -127,6 +150,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daly: start fermentation (yeast) → duration level 1 → state: fermentation start
 - sheal: add secondary herb (safe substitute) → duration level 1 → state: active extraction
 
+<a id="f70v1-2-f70v1-2-lz"></a>
+
 ### f70v1.2,@Lz
 
 EVA: otalchy tar am dy
@@ -161,6 +186,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - am: duration level 1 → state: fermentation start
 - dy: start fermentation (yeast)
 
+<a id="f70v1-3-f70v1-3-lz"></a>
+
 ### f70v1.3,&Lz
 
 EVA: opchey sal
@@ -193,6 +220,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - opchey: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - sal: duration level 1 → state: fermentation start
 
+<a id="f70v1-4-f70v1-4-lz"></a>
+
 ### f70v1.4,&Lz
 
 EVA: otakaizan
@@ -223,6 +252,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otakaizan: add fermentable sugars → apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f70v1-5-f70v1-5-lz"></a>
 
 ### f70v1.5,&Lz
 
@@ -255,6 +286,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okalal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f70v1-6-f70v1-6-lz"></a>
+
 ### f70v1.6,&Lz
 
 EVA: otaly
@@ -285,6 +318,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otaly: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f70v1-7-f70v1-7-lz"></a>
 
 ### f70v1.7,&Lz
 
@@ -317,6 +352,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - oalcheg: add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f70v1-8-f70v1-8-lz"></a>
+
 ### f70v1.8,&Lz
 
 EVA: otchodals
@@ -347,6 +384,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otchodals: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f70v1-9-f70v1-9-lz"></a>
 
 ### f70v1.9,&Lz
 
@@ -379,6 +418,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okolshy: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer
 
+<a id="f70v1-10-f70v1-10-lz"></a>
+
 ### f70v1.10,&Lz
 
 EVA: otshshdy
@@ -409,6 +450,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otshshdy: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
+
+<a id="f70v1-11-f70v1-11-lz"></a>
 
 ### f70v1.11,&Lz
 
@@ -441,6 +484,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - ypsharal: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f70v1-12-f70v1-12-cc"></a>
 
 ### f70v1.12,@Cc
 
@@ -496,6 +541,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otecheo: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f70v1-13-f70v1-13-lz"></a>
+
 ### f70v1.13,@Lz
 
 EVA: okoly
@@ -527,6 +574,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okoly: add fermentable sugars → mix / transfer
 
+<a id="f70v1-14-f70v1-14-lz"></a>
+
 ### f70v1.14,&Lz
 
 EVA: otalaiin
@@ -557,6 +606,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otalaiin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f70v1-15-f70v1-15-lz"></a>
 
 ### f70v1.15,&Lz
 
@@ -591,6 +642,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - alals: duration level 1 → state: fermentation start
 - araly: duration level 1 → state: fermentation start
 
+<a id="f70v1-16-f70v1-16-lz"></a>
+
 ### f70v1.16,&Lz
 
 EVA: oteoeey otal okealar
@@ -623,6 +676,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oteoeey: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
 - otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - okealar: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f70v1-17-f70v1-17-lz"></a>
 
 ### f70v1.17,&Lz
 

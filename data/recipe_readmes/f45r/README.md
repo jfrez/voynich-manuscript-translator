@@ -19,6 +19,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 pykydal shaikhy oty shey qop char opchal ypchor ofchar
 shor cthy qoky qokol qokaiin chol chol ykaiin dar om
 qo chcthy kchol daiin qoaiin cthy chaiin ykeey cthom
@@ -30,6 +31,7 @@ tchol cthy qodaiin cthy dain @246;thhey otydal daiin [g:d]
 @201;or or chain dain ykolody ytaiin qotchol kol dy
 okaiin shar yky oky kair daldy dalor cheol dal
 l okaiin okcho laldan daldaiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 32, 'sugars': 24, 'secondary herb': 6, 'mix/transfer': 41, 'heat': 12, 'liquid base': 10, 'main herb': 24, 'aroma modifier': 1, 'complex herbal compound': 6}
@@ -48,7 +50,22 @@ l okaiin okcho laldan daldaiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f45r.1,@P0](#f45r-1-f45r-1-p0)
+- [f45r.2,+P0](#f45r-2-f45r-2-p0)
+- [f45r.3,+P0](#f45r-3-f45r-3-p0)
+- [f45r.4,+P0](#f45r-4-f45r-4-p0)
+- [f45r.5,+P0](#f45r-5-f45r-5-p0)
+- [f45r.6,+P0](#f45r-6-f45r-6-p0)
+- [f45r.7,+P0](#f45r-7-f45r-7-p0)
+- [f45r.8,+P0](#f45r-8-f45r-8-p0)
+- [f45r.9,+P0](#f45r-9-f45r-9-p0)
+- [f45r.10,+P0](#f45r-10-f45r-10-p0)
+- [f45r.11,+P0](#f45r-11-f45r-11-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f45r-1-f45r-1-p0"></a>
 
 ### f45r.1,@P0
 
@@ -92,6 +109,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ypchor: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - ofchar: add main plant (safe substitute) → add aroma modifier → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f45r-2-f45r-2-p0"></a>
+
 ### f45r.2,+P0
 
 EVA: shor cthy qoky qokol qokaiin chol chol ykaiin dar om
@@ -134,6 +153,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 - om: mix / transfer
 
+<a id="f45r-3-f45r-3-p0"></a>
+
 ### f45r.3,+P0
 
 EVA: qo chcthy kchol daiin qoaiin cthy chaiin ykeey cthom
@@ -175,6 +196,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykeey: add fermentable sugars → duration level 2 → state: active extraction
 - cthom: mix / transfer → add complex herbal compound (safe blend)
 
+<a id="f45r-4-f45r-4-p0"></a>
+
 ### f45r.4,+P0
 
 EVA: lor y kaiin ykeol ykeol cham
@@ -210,6 +233,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykeol: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 - ykeol: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 - cham: add main plant (safe substitute) → duration level 1 → state: fermentation start
+
+<a id="f45r-5-f45r-5-p0"></a>
 
 ### f45r.5,+P0
 
@@ -251,6 +276,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dol: mix / transfer → start fermentation (yeast)
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f45r-6-f45r-6-p0"></a>
+
 ### f45r.6,+P0
 
 EVA: otchar okchar daiin ytchody tcholol otar dal dary
@@ -289,6 +316,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dary: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f45r-7-f45r-7-p0"></a>
+
 ### f45r.7,+P0
 
 EVA: lchar qor y kar dar
@@ -323,6 +352,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - kar: add fermentable sugars → duration level 1 → state: fermentation start
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f45r-8-f45r-8-p0"></a>
 
 ### f45r.8,+P0
 
@@ -366,6 +397,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - g: [unparsed]
 - d: start fermentation (yeast)
 
+<a id="f45r-9-f45r-9-p0"></a>
+
 ### f45r.9,+P0
 
 EVA: @201;or or chain dain ykolody ytaiin qotchol kol dy
@@ -405,6 +438,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kol: add fermentable sugars → mix / transfer
 - dy: start fermentation (yeast)
 
+<a id="f45r-10-f45r-10-p0"></a>
+
 ### f45r.10,+P0
 
 EVA: okaiin shar yky oky kair daldy dalor cheol dal
@@ -443,6 +478,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dalor: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - cheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f45r-11-f45r-11-p0"></a>
 
 ### f45r.11,+P0
 

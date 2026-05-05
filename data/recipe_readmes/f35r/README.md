@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 c@132;hoo r choly c@196;hy choty char dy
 qokeeaiin chokaiin qo tchy daiin
 dchaiin cthey qotchey taiin cthory
@@ -39,6 +40,7 @@ olor chy chaiin chy taiin kchey koldy chetchaiin
 qokoiin chaiin qokchaiin lshy lodaly oteey taiin
 cthol chol aiin qotchy otchor daiin shol qotaiin
 ochor s chiin daiin ytain
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'mix/transfer': 32, 'main herb': 42, 'heat': 17, 'yeast fermentation': 18, 'liquid base': 9, 'sugars': 10, 'complex herbal compound': 6, 'secondary herb': 7}
@@ -55,7 +57,26 @@ ochor s chiin daiin ytain
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f35r.1,@P0](#f35r-1-f35r-1-p0)
+- [f35r.2,+P0](#f35r-2-f35r-2-p0)
+- [f35r.3,+P0](#f35r-3-f35r-3-p0)
+- [f35r.4,+P0](#f35r-4-f35r-4-p0)
+- [f35r.5,+P0](#f35r-5-f35r-5-p0)
+- [f35r.6,+P0](#f35r-6-f35r-6-p0)
+- [f35r.7,+P0](#f35r-7-f35r-7-p0)
+- [f35r.8,+P0](#f35r-8-f35r-8-p0)
+- [f35r.9,+P0](#f35r-9-f35r-9-p0)
+- [f35r.10,+P0](#f35r-10-f35r-10-p0)
+- [f35r.11,+P0](#f35r-11-f35r-11-p0)
+- [f35r.12,+P0](#f35r-12-f35r-12-p0)
+- [f35r.13,+P0](#f35r-13-f35r-13-p0)
+- [f35r.14,+P0](#f35r-14-f35r-14-p0)
+- [f35r.15,+P0](#f35r-15-f35r-15-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f35r-1-f35r-1-p0"></a>
 
 ### f35r.1,@P0
 
@@ -96,6 +117,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - char: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - dy: start fermentation (yeast)
 
+<a id="f35r-2-f35r-2-p0"></a>
+
 ### f35r.2,+P0
 
 EVA: qokeeaiin chokaiin qo tchy daiin
@@ -130,6 +153,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qo: prepare liquid base
 - tchy: apply heat/cooking → add main plant (safe substitute)
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f35r-3-f35r-3-p0"></a>
 
 ### f35r.3,+P0
 
@@ -167,6 +192,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotchey: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
 - taiin: apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
 - cthory: mix / transfer → add complex herbal compound (safe blend)
+
+<a id="f35r-4-f35r-4-p0"></a>
 
 ### f35r.4,+P0
 
@@ -207,6 +234,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dainl: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f35r-5-f35r-5-p0"></a>
+
 ### f35r.5,+P0
 
 EVA: otchor sho tcheey scheey daiin dain or
@@ -244,6 +273,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - or: mix / transfer
 
+<a id="f35r-6-f35r-6-p0"></a>
+
 ### f35r.6,+P0
 
 EVA: schaiin char chan daiin
@@ -278,6 +309,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chan: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f35r-7-f35r-7-p0"></a>
+
 ### f35r.7,+P0
 
 EVA: shosaiin tchor choky
@@ -310,6 +343,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shosaiin: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - tchor: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - choky: add fermentable sugars → add main plant (safe substitute) → mix / transfer
+
+<a id="f35r-8-f35r-8-p0"></a>
 
 ### f35r.8,+P0
 
@@ -345,6 +380,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kaiin: add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f35r-9-f35r-9-p0"></a>
+
 ### f35r.9,+P0
 
 EVA: paiin chear aiin chear shorchaiin
@@ -379,6 +416,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - chear: add main plant (safe substitute) → duration level 1 → state: active extraction
 - shorchaiin: add main plant (safe substitute) → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f35r-10-f35r-10-p0"></a>
 
 ### f35r.10,+P0
 
@@ -420,6 +459,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - chochy: add main plant (safe substitute) → mix / transfer
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f35r-11-f35r-11-p0"></a>
 
 ### f35r.11,+P0
 
@@ -466,6 +507,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aldy: start fermentation (yeast) → duration level 1 → state: fermentation start
 - n: [unparsed]
 
+<a id="f35r-12-f35r-12-p0"></a>
+
 ### f35r.12,+P0
 
 EVA: olor chy chaiin chy taiin kchey koldy chetchaiin
@@ -504,6 +547,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - koldy: add fermentable sugars → mix / transfer → start fermentation (yeast)
 - chetchaiin: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction → long fermentation / aging phase
 
+<a id="f35r-13-f35r-13-p0"></a>
+
 ### f35r.13,+P0
 
 EVA: qokoiin chaiin qokchaiin lshy lodaly oteey taiin
@@ -540,6 +585,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - lodaly: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - oteey: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
 - taiin: apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f35r-14-f35r-14-p0"></a>
 
 ### f35r.14,+P0
 
@@ -580,6 +627,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - shol: add secondary herb (safe substitute) → mix / transfer
 - qotaiin: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f35r-15-f35r-15-p0"></a>
 
 ### f35r.15,+P0
 

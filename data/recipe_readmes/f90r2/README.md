@@ -20,12 +20,14 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 toealchs shakol sheo qoekeey soeeol qoteody
 saiin ckheo saiin qockhey s ykeeody s cheey chos ckhs
 dsheeos qokeod qokeo chol ol okal saiin ctheo s ar
 al s oin cheo ro sokeey qokeeas al aral oy[r:s]
 ychor ckhor qoeeor okaiin dom olcheo rodaiin
 daiin qokor okoiin daiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 2, 'mix/transfer': 32, 'main herb': 7, 'secondary herb': 3, 'sugars': 11, 'liquid base': 8, 'yeast fermentation': 8, 'complex herbal compound': 5}
@@ -42,7 +44,17 @@ daiin qokor okoiin daiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f90r2.1,@P0](#f90r2-1-f90r2-1-p0)
+- [f90r2.2,+P0](#f90r2-2-f90r2-2-p0)
+- [f90r2.3,+P0](#f90r2-3-f90r2-3-p0)
+- [f90r2.4,+P0](#f90r2-4-f90r2-4-p0)
+- [f90r2.5,+P0](#f90r2-5-f90r2-5-p0)
+- [f90r2.6,+P0](#f90r2-6-f90r2-6-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f90r2-1-f90r2-1-p0"></a>
 
 ### f90r2.1,@P0
 
@@ -79,6 +91,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoekeey: prepare liquid base → add fermentable sugars → duration level 1 → state: active extraction
 - soeeol: mix / transfer → duration level 2 → state: active extraction
 - qoteody: prepare liquid base → apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f90r2-2-f90r2-2-p0"></a>
 
 ### f90r2.2,+P0
 
@@ -122,6 +136,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chos: add main plant (safe substitute) → mix / transfer
 - ckhs: add complex herbal compound (safe blend)
 
+<a id="f90r2-3-f90r2-3-p0"></a>
+
 ### f90r2.3,+P0
 
 EVA: dsheeos qokeod qokeo chol ol okal saiin ctheo s ar
@@ -163,6 +179,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ctheo: mix / transfer → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - s: [unparsed]
 - ar: duration level 1 → state: fermentation start
+
+<a id="f90r2-4-f90r2-4-p0"></a>
 
 ### f90r2.4,+P0
 
@@ -206,6 +224,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - r: [unparsed]
 - s: [unparsed]
 
+<a id="f90r2-5-f90r2-5-p0"></a>
+
 ### f90r2.5,+P0
 
 EVA: ychor ckhor qoeeor okaiin dom olcheo rodaiin
@@ -244,6 +264,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dom: mix / transfer → start fermentation (yeast)
 - olcheo: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - rodaiin: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f90r2-6-f90r2-6-p0"></a>
 
 ### f90r2.6,+P0
 

@@ -19,12 +19,14 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 cphy fchecfhy dy dchepain shety qopy fol chpdy
 daiin sheek l ody yteo qop[s:r] air cheot[ee:ch]y dal[o:a]m
 ytal cheot shky y [s:?]as cheody
 toeedy otar shedy yteey sheody qok[es:?]d yfchey
 dshedy okeody qokd shckhy choky chokeody okey dy
 qo ytchey sh ckhhcphy ykchedy chedy shckhdy
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'complex herbal compound': 6, 'aroma modifier': 3, 'main herb': 13, 'yeast fermentation': 24, 'secondary herb': 9, 'heat': 9, 'liquid base': 5, 'mix/transfer': 16, 'sugars': 9}
@@ -43,7 +45,17 @@ qo ytchey sh ckhhcphy ykchedy chedy shckhdy
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f65v.1,@P0](#f65v-1-f65v-1-p0)
+- [f65v.2,+P0](#f65v-2-f65v-2-p0)
+- [f65v.3,+P0](#f65v-3-f65v-3-p0)
+- [f65v.4,+P0](#f65v-4-f65v-4-p0)
+- [f65v.5,+P0](#f65v-5-f65v-5-p0)
+- [f65v.6,+P0](#f65v-6-f65v-6-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f65v-1-f65v-1-p0"></a>
 
 ### f65v.1,@P0
 
@@ -87,6 +99,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qopy: prepare liquid base → start fermentation (yeast)
 - fol: add aroma modifier → mix / transfer
 - chpdy: add main plant (safe substitute) → start fermentation (yeast)
+
+<a id="f65v-2-f65v-2-p0"></a>
 
 ### f65v.2,+P0
 
@@ -135,6 +149,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - a: duration level 1 → state: fermentation start
 - m: [unparsed]
 
+<a id="f65v-3-f65v-3-p0"></a>
+
 ### f65v.3,+P0
 
 EVA: ytal cheot shky y [s:?]as cheody
@@ -171,6 +187,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - as: duration level 1 → state: fermentation start
 - cheody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f65v-4-f65v-4-p0"></a>
 
 ### f65v.4,+P0
 
@@ -214,6 +232,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - d: start fermentation (yeast)
 - yfchey: add main plant (safe substitute) → add aroma modifier → duration level 1 → state: active extraction
 
+<a id="f65v-5-f65v-5-p0"></a>
+
 ### f65v.5,+P0
 
 EVA: dshedy okeody qokd shckhy choky chokeody okey dy
@@ -253,6 +273,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chokeody: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - okey: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 - dy: start fermentation (yeast)
+
+<a id="f65v-6-f65v-6-p0"></a>
 
 ### f65v.6,+P0
 

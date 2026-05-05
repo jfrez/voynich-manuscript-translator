@@ -23,6 +23,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['cucumber']
 
 ## EVA Text (Transliteration)
+```text
 @159;chair oly sheaiin shol daiin chdy
 chokchol chol choldy dair cha[d:j] aiin
 dor chol chy chaiin ckhey chol dain okaiin
@@ -34,6 +35,7 @@ shokeey chy tchod choy sho chtchy @161;char ctham
 qoko kor chaiin okal chol daiin okcho kcho[r:s]sy
 shy otcho keey tor chey otchy tchol dain dam
 dsho cphy daiin daiiny
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'main herb': 40, 'mix/transfer': 46, 'secondary herb': 10, 'yeast fermentation': 18, 'sugars': 15, 'complex herbal compound': 5, 'liquid base': 2, 'aroma modifier': 1, 'heat': 6}
@@ -52,7 +54,22 @@ dsho cphy daiin daiiny
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f47r.1,@P0](#f47r-1-f47r-1-p0)
+- [f47r.2,+P0](#f47r-2-f47r-2-p0)
+- [f47r.3,+P0](#f47r-3-f47r-3-p0)
+- [f47r.4,+P0](#f47r-4-f47r-4-p0)
+- [f47r.5,+P0](#f47r-5-f47r-5-p0)
+- [f47r.6,+P0](#f47r-6-f47r-6-p0)
+- [f47r.7,+P0](#f47r-7-f47r-7-p0)
+- [f47r.8,+P0](#f47r-8-f47r-8-p0)
+- [f47r.9,+P0](#f47r-9-f47r-9-p0)
+- [f47r.10,+P0](#f47r-10-f47r-10-p0)
+- [f47r.11,+P0](#f47r-11-f47r-11-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f47r-1-f47r-1-p0"></a>
 
 ### f47r.1,@P0
 
@@ -89,6 +106,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shol: add secondary herb (safe substitute) → mix / transfer
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - chdy: add main plant (safe substitute) → start fermentation (yeast)
+
+<a id="f47r-2-f47r-2-p0"></a>
 
 ### f47r.2,+P0
 
@@ -127,6 +146,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - d: start fermentation (yeast)
 - j: [unparsed]
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f47r-3-f47r-3-p0"></a>
 
 ### f47r.3,+P0
 
@@ -168,6 +189,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - okaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f47r-4-f47r-4-p0"></a>
+
 ### f47r.4,+P0
 
 EVA: qokcheo cthey chokain chol daiin kchdal
@@ -206,6 +229,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - kchdal: add fermentable sugars → add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f47r-5-f47r-5-p0"></a>
+
 ### f47r.5,+P0
 
 EVA: dain olshey chokolg
@@ -238,6 +263,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - olshey: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - chokolg: add fermentable sugars → add main plant (safe substitute) → mix / transfer
+
+<a id="f47r-6-f47r-6-p0"></a>
 
 ### f47r.6,+P0
 
@@ -282,6 +309,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chdy: add main plant (safe substitute) → start fermentation (yeast)
 - cholol: add main plant (safe substitute) → mix / transfer
 
+<a id="f47r-7-f47r-7-p0"></a>
+
 ### f47r.7,+P0
 
 EVA: schesy kchor cthaiin chol chol chol chor ck@191;hey
@@ -323,6 +352,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ck: add fermentable sugars
 - hey: duration level 1 → state: active extraction
 
+<a id="f47r-8-f47r-8-p0"></a>
+
 ### f47r.8,+P0
 
 EVA: shokeey chy tchod choy sho chtchy @161;char ctham
@@ -362,6 +393,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chtchy: apply heat/cooking → add main plant (safe substitute)
 - char: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - ctham: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
+
+<a id="f47r-9-f47r-9-p0"></a>
 
 ### f47r.9,+P0
 
@@ -404,6 +437,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - sy: [unparsed]
 
+<a id="f47r-10-f47r-10-p0"></a>
+
 ### f47r.10,+P0
 
 EVA: shy otcho keey tor chey otchy tchol dain dam
@@ -442,6 +477,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f47r-11-f47r-11-p0"></a>
 
 ### f47r.11,+P0
 

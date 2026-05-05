@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 pchor qodchy qotshy dy tchy qotchy qoky daiin dchydy
 dshy chor y tchy chol dytchy chordy daiin dyty @241; cho@242;
 oscheor shy tdaiin chol dor yky
@@ -33,6 +34,7 @@ daiin cthor chol ykchor chordy
 qotchy qolody choldy cthyd
 ykchor chor daiin daiinol
 os octhor ytchor
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 32, 'main herb': 33, 'mix/transfer': 35, 'liquid base': 10, 'heat': 15, 'secondary herb': 8, 'sugars': 11, 'complex herbal compound': 5}
@@ -49,7 +51,24 @@ os octhor ytchor
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f19r.1,@P0](#f19r-1-f19r-1-p0)
+- [f19r.2,+P0](#f19r-2-f19r-2-p0)
+- [f19r.3,+P0](#f19r-3-f19r-3-p0)
+- [f19r.4,+P0](#f19r-4-f19r-4-p0)
+- [f19r.5,+P0](#f19r-5-f19r-5-p0)
+- [f19r.6,+P0](#f19r-6-f19r-6-p0)
+- [f19r.7,+P0](#f19r-7-f19r-7-p0)
+- [f19r.8,+P0](#f19r-8-f19r-8-p0)
+- [f19r.9,+P0](#f19r-9-f19r-9-p0)
+- [f19r.10,+P0](#f19r-10-f19r-10-p0)
+- [f19r.11,+P0](#f19r-11-f19r-11-p0)
+- [f19r.12,+P0](#f19r-12-f19r-12-p0)
+- [f19r.13,+P0](#f19r-13-f19r-13-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f19r-1-f19r-1-p0"></a>
 
 ### f19r.1,@P0
 
@@ -89,6 +108,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoky: prepare liquid base → add fermentable sugars
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dchydy: add main plant (safe substitute) → start fermentation (yeast)
+
+<a id="f19r-2-f19r-2-p0"></a>
 
 ### f19r.2,+P0
 
@@ -130,6 +151,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dyty: apply heat/cooking → start fermentation (yeast)
 - cho: add main plant (safe substitute) → mix / transfer
 
+<a id="f19r-3-f19r-3-p0"></a>
+
 ### f19r.3,+P0
 
 EVA: oscheor shy tdaiin chol dor yky
@@ -165,6 +188,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - dor: mix / transfer → start fermentation (yeast)
 - yky: add fermentable sugars
+
+<a id="f19r-4-f19r-4-p0"></a>
 
 ### f19r.4,+P0
 
@@ -203,6 +228,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shy: add secondary herb (safe substitute)
 - kchor: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 
+<a id="f19r-5-f19r-5-p0"></a>
+
 ### f19r.5,+P0
 
 EVA: otchy tchy qoky daiin @243;
@@ -236,6 +263,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchy: apply heat/cooking → add main plant (safe substitute)
 - qoky: prepare liquid base → add fermentable sugars
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f19r-6-f19r-6-p0"></a>
 
 ### f19r.6,+P0
 
@@ -271,6 +300,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - otytchy: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f19r-7-f19r-7-p0"></a>
 
 ### f19r.7,+P0
 
@@ -312,6 +343,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chan: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f19r-8-f19r-8-p0"></a>
+
 ### f19r.8,+P0
 
 EVA: or chor daky dal chor dorl shy
@@ -348,6 +381,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chor: add main plant (safe substitute) → mix / transfer
 - dorl: mix / transfer → start fermentation (yeast)
 - shy: add secondary herb (safe substitute)
+
+<a id="f19r-9-f19r-9-p0"></a>
 
 ### f19r.9,+P0
 
@@ -386,6 +421,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kchy: add fermentable sugars → add main plant (safe substitute)
 - shdaiin: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f19r-10-f19r-10-p0"></a>
+
 ### f19r.10,+P0
 
 EVA: daiin cthor chol ykchor chordy
@@ -423,6 +460,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykchor: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - chordy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 
+<a id="f19r-11-f19r-11-p0"></a>
+
 ### f19r.11,+P0
 
 EVA: qotchy qolody choldy cthyd
@@ -459,6 +498,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choldy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - cthyd: start fermentation (yeast) → add complex herbal compound (safe blend)
 
+<a id="f19r-12-f19r-12-p0"></a>
+
 ### f19r.12,+P0
 
 EVA: ykchor chor daiin daiinol
@@ -492,6 +533,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chor: add main plant (safe substitute) → mix / transfer
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - daiinol: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f19r-13-f19r-13-p0"></a>
 
 ### f19r.13,+P0
 

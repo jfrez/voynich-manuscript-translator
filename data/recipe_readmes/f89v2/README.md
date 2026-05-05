@@ -19,6 +19,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 choeesy
 okam
 darcheor
@@ -46,6 +47,7 @@ otaram
 chtchy
 sada?
 daseky
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'main herb': 42, 'mix/transfer': 118, 'sugars': 36, 'yeast fermentation': 69, 'secondary herb': 12, 'heat': 17, 'liquid base': 14, 'aroma modifier': 4, 'complex herbal compound': 10, 'general base': 1}
@@ -64,7 +66,38 @@ daseky
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f89v2.1,@Lc](#f89v2-1-f89v2-1-lc)
+- [f89v2.2,@Lf](#f89v2-2-f89v2-2-lf)
+- [f89v2.3,@Lf](#f89v2-3-f89v2-3-lf)
+- [f89v2.4,@Lf](#f89v2-4-f89v2-4-lf)
+- [f89v2.5,@Lf](#f89v2-5-f89v2-5-lf)
+- [f89v2.6,@Lf](#f89v2-6-f89v2-6-lf)
+- [f89v2.7,@P0](#f89v2-7-f89v2-7-p0)
+- [f89v2.8,+P0](#f89v2-8-f89v2-8-p0)
+- [f89v2.9,+P0](#f89v2-9-f89v2-9-p0)
+- [f89v2.10,+P0](#f89v2-10-f89v2-10-p0)
+- [f89v2.11,@Lc](#f89v2-11-f89v2-11-lc)
+- [f89v2.12,@Lf](#f89v2-12-f89v2-12-lf)
+- [f89v2.13,@Lf](#f89v2-13-f89v2-13-lf)
+- [f89v2.14,@Lf](#f89v2-14-f89v2-14-lf)
+- [f89v2.15,@P0](#f89v2-15-f89v2-15-p0)
+- [f89v2.16,+P0](#f89v2-16-f89v2-16-p0)
+- [f89v2.17,+P0](#f89v2-17-f89v2-17-p0)
+- [f89v2.18,+P0](#f89v2-18-f89v2-18-p0)
+- [f89v2.19,+P0](#f89v2-19-f89v2-19-p0)
+- [f89v2.20,+P0](#f89v2-20-f89v2-20-p0)
+- [f89v2.21,+P0](#f89v2-21-f89v2-21-p0)
+- [f89v2.22,+P0](#f89v2-22-f89v2-22-p0)
+- [f89v2.23,@Lc](#f89v2-23-f89v2-23-lc)
+- [f89v2.24,@Lf](#f89v2-24-f89v2-24-lf)
+- [f89v2.25,@Lf](#f89v2-25-f89v2-25-lf)
+- [f89v2.27,@Lf](#f89v2-26-f89v2-27-lf)
+- [f89v2.28,@Lf](#f89v2-27-f89v2-28-lf)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f89v2-1-f89v2-1-lc"></a>
 
 ### f89v2.1,@Lc
 
@@ -97,6 +130,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - choeesy: add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
 
+<a id="f89v2-2-f89v2-2-lf"></a>
+
 ### f89v2.2,@Lf
 
 EVA: okam
@@ -127,6 +162,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okam: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f89v2-3-f89v2-3-lf"></a>
 
 ### f89v2.3,@Lf
 
@@ -159,6 +196,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - darcheor: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f89v2-4-f89v2-4-lf"></a>
+
 ### f89v2.4,@Lf
 
 EVA: chokaro
@@ -189,6 +228,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - chokaro: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f89v2-5-f89v2-5-lf"></a>
 
 ### f89v2.5,@Lf
 
@@ -221,6 +262,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - sheol: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f89v2-6-f89v2-6-lf"></a>
+
 ### f89v2.6,@Lf
 
 EVA: chokam
@@ -251,6 +294,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - chokam: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f89v2-7-f89v2-7-p0"></a>
 
 ### f89v2.7,@P0
 
@@ -303,6 +348,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cfheol: mix / transfer → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f89v2-8-f89v2-8-p0"></a>
+
 ### f89v2.8,+P0
 
 EVA: dain ykodaiir okor chear otees eeckhy s aiin ckhey otaiin okar dain okol ol chor dar
@@ -351,6 +398,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chor: add main plant (safe substitute) → mix / transfer
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f89v2-9-f89v2-9-p0"></a>
+
 ### f89v2.9,+P0
 
 EVA: ychey okeey qoeol daiin chor chos cheos qol e eeey dal chody cheor chey qoaiin chody
@@ -397,6 +446,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoaiin: prepare liquid base → duration level 1 → state: fermentation start → long fermentation / aging phase
 - chody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 
+<a id="f89v2-10-f89v2-10-p0"></a>
+
 ### f89v2.10,+P0
 
 EVA: dair or cheol chom qol cheo lcho l or cheo daiin chkam
@@ -439,6 +490,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - chkam: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: fermentation start
 
+<a id="f89v2-11-f89v2-11-lc"></a>
+
 ### f89v2.11,@Lc
 
 EVA: otory
@@ -469,6 +522,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otory: apply heat/cooking → mix / transfer
+
+<a id="f89v2-12-f89v2-12-lf"></a>
 
 ### f89v2.12,@Lf
 
@@ -502,6 +557,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otair: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - chody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 
+<a id="f89v2-13-f89v2-13-lf"></a>
+
 ### f89v2.13,@Lf
 
 EVA: dykaran
@@ -533,6 +590,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - dykaran: add fermentable sugars → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f89v2-14-f89v2-14-lf"></a>
+
 ### f89v2.14,@Lf
 
 EVA: opcheedey
@@ -563,6 +622,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - opcheedey: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
+
+<a id="f89v2-15-f89v2-15-p0"></a>
 
 ### f89v2.15,@P0
 
@@ -602,6 +663,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - eais: duration level 1 → state: active extraction
 - sheotain: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - ytodaiin: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f89v2-16-f89v2-16-p0"></a>
 
 ### f89v2.16,+P0
 
@@ -648,6 +711,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dosal: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 - am: duration level 1 → state: fermentation start
+
+<a id="f89v2-17-f89v2-17-p0"></a>
 
 ### f89v2.17,+P0
 
@@ -700,6 +765,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - yteos: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f89v2-18-f89v2-18-p0"></a>
+
 ### f89v2.18,+P0
 
 EVA: yokor chor cthy daiin chos chey dar aiin choeeer okar chcthy darai[?:l]s
@@ -745,6 +812,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - darai: start fermentation (yeast) → duration level 1 → state: fermentation start
 - l: [unparsed]
 - s: [unparsed]
+
+<a id="f89v2-19-f89v2-19-p0"></a>
 
 ### f89v2.19,+P0
 
@@ -792,6 +861,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheey: add secondary herb (safe substitute) → duration level 2 → state: active extraction
 - daldaiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f89v2-20-f89v2-20-p0"></a>
+
 ### f89v2.20,+P0
 
 EVA: dol dair chey okaiin shy daiin odor sheos aiin daikeody qokorar sheody qoko ltcheody otal
@@ -836,6 +907,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoko: prepare liquid base → add fermentable sugars → mix / transfer
 - ltcheody: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f89v2-21-f89v2-21-p0"></a>
 
 ### f89v2.21,+P0
 
@@ -884,6 +957,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokos: prepare liquid base → add fermentable sugars → mix / transfer
 - okeom: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f89v2-22-f89v2-22-p0"></a>
+
 ### f89v2.22,+P0
 
 EVA: ockhody daiin ykam s chty chy cthey dair air chool loy dair cheo daiin
@@ -930,6 +1005,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheo: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f89v2-23-f89v2-23-lc"></a>
+
 ### f89v2.23,@Lc
 
 EVA: opaloiiry
@@ -960,6 +1037,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - opaloiiry: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f89v2-24-f89v2-24-lf"></a>
 
 ### f89v2.24,@Lf
 
@@ -992,6 +1071,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - otaram: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f89v2-25-f89v2-25-lf"></a>
+
 ### f89v2.25,@Lf
 
 EVA: chtchy
@@ -1023,6 +1104,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - chtchy: apply heat/cooking → add main plant (safe substitute)
 
+<a id="f89v2-26-f89v2-27-lf"></a>
+
 ### f89v2.27,@Lf
 
 EVA: sada?
@@ -1053,6 +1136,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - sada: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f89v2-27-f89v2-28-lf"></a>
 
 ### f89v2.28,@Lf
 

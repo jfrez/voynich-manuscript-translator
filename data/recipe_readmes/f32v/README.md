@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 kcheodaiin chol kechy qotaiin daiioam o chofchody
 daiin odar chy daiin chey tch[y:o] l dy dain teor
 shor daiin chckhy dsho dain daiin s shokey ka
@@ -35,6 +36,7 @@ otchol daiin daiin ctho daiin qotaiin otchy d shan
 qotchy cfhy skey chocthy daiin cthaiin daiin
 sho keol chor chol daiin cpho l cthol da ar
 ol sho chy
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'sugars': 10, 'main herb': 30, 'mix/transfer': 41, 'yeast fermentation': 30, 'liquid base': 5, 'heat': 9, 'aroma modifier': 1, 'secondary herb': 13, 'complex herbal compound': 10}
@@ -53,7 +55,22 @@ ol sho chy
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f32v.1,@P0](#f32v-1-f32v-1-p0)
+- [f32v.2,+P0](#f32v-2-f32v-2-p0)
+- [f32v.3,+P0](#f32v-3-f32v-3-p0)
+- [f32v.4,+P0](#f32v-4-f32v-4-p0)
+- [f32v.5,+P0](#f32v-5-f32v-5-p0)
+- [f32v.6,+P0](#f32v-6-f32v-6-p0)
+- [f32v.7,+P0](#f32v-7-f32v-7-p0)
+- [f32v.8,+P0](#f32v-8-f32v-8-p0)
+- [f32v.9,+P0](#f32v-9-f32v-9-p0)
+- [f32v.10,+P0](#f32v-10-f32v-10-p0)
+- [f32v.11,+P0](#f32v-11-f32v-11-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f32v-1-f32v-1-p0"></a>
 
 ### f32v.1,@P0
 
@@ -94,6 +111,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiioam: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 - o: mix / transfer
 - chofchody: add main plant (safe substitute) → add aroma modifier → mix / transfer → start fermentation (yeast)
+
+<a id="f32v-2-f32v-2-p0"></a>
 
 ### f32v.2,+P0
 
@@ -137,6 +156,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - teor: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f32v-3-f32v-3-p0"></a>
+
 ### f32v.3,+P0
 
 EVA: shor daiin chckhy dsho dain daiin s shokey ka
@@ -177,6 +198,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - shokey: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - ka: add fermentable sugars → duration level 1 → state: fermentation start
+
+<a id="f32v-4-f32v-4-p0"></a>
 
 ### f32v.4,+P0
 
@@ -220,6 +243,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - a: duration level 1 → state: fermentation start
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f32v-5-f32v-5-p0"></a>
+
 ### f32v.5,+P0
 
 EVA: chokchy daiin shy chor qo kaiin dain dchol dosg
@@ -259,6 +284,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dchol: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - dosg: mix / transfer → start fermentation (yeast)
 
+<a id="f32v-6-f32v-6-p0"></a>
+
 ### f32v.6,+P0
 
 EVA: o kchan chol shal dchcthy
@@ -295,6 +322,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - shal: add secondary herb (safe substitute) → duration level 1 → state: fermentation start
 - dchcthy: add main plant (safe substitute) → start fermentation (yeast) → add complex herbal compound (safe blend)
+
+<a id="f32v-7-f32v-7-p0"></a>
 
 ### f32v.7,+P0
 
@@ -340,6 +369,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - odan: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f32v-8-f32v-8-p0"></a>
+
 ### f32v.8,+P0
 
 EVA: otchol daiin daiin ctho daiin qotaiin otchy d shan
@@ -381,6 +412,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - d: start fermentation (yeast)
 - shan: add secondary herb (safe substitute) → duration level 1 → state: fermentation start
 
+<a id="f32v-9-f32v-9-p0"></a>
+
 ### f32v.9,+P0
 
 EVA: qotchy cfhy skey chocthy daiin cthaiin daiin
@@ -419,6 +452,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - cthaiin: add complex herbal compound (safe blend) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f32v-10-f32v-10-p0"></a>
 
 ### f32v.10,+P0
 
@@ -461,6 +496,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthol: mix / transfer → add complex herbal compound (safe blend)
 - da: start fermentation (yeast) → duration level 1 → state: fermentation start
 - ar: duration level 1 → state: fermentation start
+
+<a id="f32v-11-f32v-11-p0"></a>
 
 ### f32v.11,+P0
 

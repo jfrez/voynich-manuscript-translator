@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 toldshy chofchy qofshey shckhol odaiin shey ckholy
 oeeesoy qokchy chody qotchy qokchy choty tchol daiin
 qotol keeees chotchy tcho choty chor qotol daiin dal
@@ -28,6 +29,7 @@ osho deey ctho l sho cthy daiin dait oky
 sho tsho chotshol chol todaiin daiin
 ykcho lchol cho l chaiin otchy s sheaiin
 cho l kchochaiin
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 17, 'mix/transfer': 38, 'yeast fermentation': 14, 'secondary herb': 11, 'main herb': 28, 'aroma modifier': 2, 'liquid base': 6, 'complex herbal compound': 4, 'sugars': 6}
@@ -46,7 +48,19 @@ cho l kchochaiin
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f21v.1,@P0](#f21v-1-f21v-1-p0)
+- [f21v.2,+P0](#f21v-2-f21v-2-p0)
+- [f21v.3,+P0](#f21v-3-f21v-3-p0)
+- [f21v.4,+P0](#f21v-4-f21v-4-p0)
+- [f21v.5,+P0](#f21v-5-f21v-5-p0)
+- [f21v.6,+P0](#f21v-6-f21v-6-p0)
+- [f21v.7,+P0](#f21v-7-f21v-7-p0)
+- [f21v.8,+P0](#f21v-8-f21v-8-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f21v-1-f21v-1-p0"></a>
 
 ### f21v.1,@P0
 
@@ -90,6 +104,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - ckholy: mix / transfer → add complex herbal compound (safe blend)
 
+<a id="f21v-2-f21v-2-p0"></a>
+
 ### f21v.2,+P0
 
 EVA: oeeesoy qokchy chody qotchy qokchy choty tchol daiin
@@ -127,6 +143,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choty: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - tchol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f21v-3-f21v-3-p0"></a>
 
 ### f21v.3,+P0
 
@@ -167,6 +185,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f21v-4-f21v-4-p0"></a>
+
 ### f21v.4,+P0
 
 EVA: sho chodaiin choty chol daiin daiin chty chtol
@@ -204,6 +224,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - chty: apply heat/cooking → add main plant (safe substitute)
 - chtol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
+
+<a id="f21v-5-f21v-5-p0"></a>
 
 ### f21v.5,+P0
 
@@ -246,6 +268,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dait: apply heat/cooking → start fermentation (yeast) → duration level 1 → state: fermentation start
 - oky: add fermentable sugars → mix / transfer
 
+<a id="f21v-6-f21v-6-p0"></a>
+
 ### f21v.6,+P0
 
 EVA: sho tsho chotshol chol todaiin daiin
@@ -281,6 +305,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - todaiin: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f21v-7-f21v-7-p0"></a>
 
 ### f21v.7,+P0
 
@@ -319,6 +345,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otchy: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - s: [unparsed]
 - sheaiin: add secondary herb (safe substitute) → duration level 1 → state: active extraction → long fermentation / aging phase
+
+<a id="f21v-8-f21v-8-p0"></a>
 
 ### f21v.8,+P0
 

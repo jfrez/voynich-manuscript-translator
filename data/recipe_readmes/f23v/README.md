@@ -20,6 +20,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 podairol odaiiily sho al dy opchol otol ol chcphy qotchar s
 qotcotor chy okchaldy qokchey dol otchol chal otchg
 ycho okaiin okeol eees o l daiin okeeor daiin qotcholg
@@ -32,6 +33,7 @@ otshy dal dar oldar ar or qoto l chees g
 dor chy kshol chol ctho[?:l] otol oloiir
 y okaiin doroiin olols oiin ol cheeb ols
 ol aiios oloro eeeoly
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 26, 'mix/transfer': 79, 'secondary herb': 12, 'main herb': 19, 'heat': 14, 'complex herbal compound': 2, 'liquid base': 8, 'sugars': 14}
@@ -48,7 +50,23 @@ ol aiios oloro eeeoly
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f23v.1,@P0](#f23v-1-f23v-1-p0)
+- [f23v.2,+P0](#f23v-2-f23v-2-p0)
+- [f23v.3,+P0](#f23v-3-f23v-3-p0)
+- [f23v.4,+P0](#f23v-4-f23v-4-p0)
+- [f23v.5,+P0](#f23v-5-f23v-5-p0)
+- [f23v.6,+P0](#f23v-6-f23v-6-p0)
+- [f23v.7,+P0](#f23v-7-f23v-7-p0)
+- [f23v.8,+P0](#f23v-8-f23v-8-p0)
+- [f23v.9,+P0](#f23v-9-f23v-9-p0)
+- [f23v.10,+P0](#f23v-10-f23v-10-p0)
+- [f23v.11,+P0](#f23v-11-f23v-11-p0)
+- [f23v.12,+P0](#f23v-12-f23v-12-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f23v-1-f23v-1-p0"></a>
 
 ### f23v.1,@P0
 
@@ -93,6 +111,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotchar: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: fermentation start
 - s: [unparsed]
 
+<a id="f23v-2-f23v-2-p0"></a>
+
 ### f23v.2,+P0
 
 EVA: qotcotor chy okchaldy qokchey dol otchol chal otchg
@@ -130,6 +150,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otchol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - chal: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - otchg: apply heat/cooking → add main plant (safe substitute) → mix / transfer
+
+<a id="f23v-3-f23v-3-p0"></a>
 
 ### f23v.3,+P0
 
@@ -171,6 +193,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - qotcholg: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → mix / transfer
 
+<a id="f23v-4-f23v-4-p0"></a>
+
 ### f23v.4,+P0
 
 EVA: okchey dair sholol ol dal otchor [d:g]ar
@@ -210,6 +234,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - g: [unparsed]
 - ar: duration level 1 → state: fermentation start
 
+<a id="f23v-5-f23v-5-p0"></a>
+
 ### f23v.5,+P0
 
 EVA: dor chear shor dol oaldary
@@ -244,6 +270,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shor: add secondary herb (safe substitute) → mix / transfer
 - dol: mix / transfer → start fermentation (yeast)
 - oaldary: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f23v-6-f23v-6-p0"></a>
 
 ### f23v.6,+P0
 
@@ -281,6 +309,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - otshor: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer
 - olsar: mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f23v-7-f23v-7-p0"></a>
 
 ### f23v.7,+P0
 
@@ -321,6 +351,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - ylg: [unparsed]
 
+<a id="f23v-8-f23v-8-p0"></a>
+
 ### f23v.8,+P0
 
 EVA: qokaiin dain qokor okal g dam chor olol dam
@@ -359,6 +391,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chor: add main plant (safe substitute) → mix / transfer
 - olol: mix / transfer
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f23v-9-f23v-9-p0"></a>
 
 ### f23v.9,+P0
 
@@ -400,6 +434,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chees: add main plant (safe substitute) → duration level 2 → state: active extraction
 - g: [unparsed]
 
+<a id="f23v-10-f23v-10-p0"></a>
+
 ### f23v.10,+P0
 
 EVA: dor chy kshol chol ctho[?:l] otol oloiir
@@ -440,6 +476,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otol: apply heat/cooking → mix / transfer
 - oloiir: mix / transfer → duration level 2 → state: cooling/rest
 
+<a id="f23v-11-f23v-11-p0"></a>
+
 ### f23v.11,+P0
 
 EVA: y okaiin doroiin olols oiin ol cheeb ols
@@ -477,6 +515,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ol: mix / transfer
 - cheeb: add main plant (safe substitute) → duration level 2 → state: active extraction
 - ols: mix / transfer
+
+<a id="f23v-12-f23v-12-p0"></a>
 
 ### f23v.12,+P0
 

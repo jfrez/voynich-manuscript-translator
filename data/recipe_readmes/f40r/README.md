@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 pchey k eodar aldydy qoky okal shdy olkedy opches ar ordaiin
 qokar okar okedy dar ykchey kaiin ok[a:o]s chedy okar a ralos
 shy qokal chdy chckhd otor aiir o ky okolchy qokar okam
@@ -35,6 +36,7 @@ ksheo keeey dar ai[g:m] kcheo cfhdy or ain chefal daiin dg
 taiin ol olaiin or dain okaiin okaiin okaiin daram
 saiin olcheey chdy ychey ka@154;ar oky ykedy okair ody
 toar ykaiin ory dal
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 31, 'main herb': 18, 'sugars': 43, 'mix/transfer': 54, 'liquid base': 8, 'secondary herb': 5, 'complex herbal compound': 2, 'heat': 4, 'aroma modifier': 1}
@@ -53,7 +55,22 @@ toar ykaiin ory dal
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f40r.1,@P0](#f40r-1-f40r-1-p0)
+- [f40r.2,+P0](#f40r-2-f40r-2-p0)
+- [f40r.3,+P0](#f40r-3-f40r-3-p0)
+- [f40r.4,+P0](#f40r-4-f40r-4-p0)
+- [f40r.5,+P0](#f40r-5-f40r-5-p0)
+- [f40r.6,+P0](#f40r-6-f40r-6-p0)
+- [f40r.7,+P0](#f40r-7-f40r-7-p0)
+- [f40r.8,+P0](#f40r-8-f40r-8-p0)
+- [f40r.9,+P0](#f40r-9-f40r-9-p0)
+- [f40r.10,+P0](#f40r-10-f40r-10-p0)
+- [f40r.11,+P0](#f40r-11-f40r-11-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f40r-1-f40r-1-p0"></a>
 
 ### f40r.1,@P0
 
@@ -95,6 +112,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - opches: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - ar: duration level 1 → state: fermentation start
 - ordaiin: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f40r-2-f40r-2-p0"></a>
 
 ### f40r.2,+P0
 
@@ -140,6 +159,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - a: duration level 1 → state: fermentation start
 - ralos: mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f40r-3-f40r-3-p0"></a>
+
 ### f40r.3,+P0
 
 EVA: shy qokal chdy chckhd otor aiir o ky okolchy qokar okam
@@ -183,6 +204,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokar: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
 - okam: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f40r-4-f40r-4-p0"></a>
+
 ### f40r.4,+P0
 
 EVA: or aiin chekody dar qokol okaiin okar oky okoldy ol
@@ -222,6 +245,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oky: add fermentable sugars → mix / transfer
 - okoldy: add fermentable sugars → mix / transfer → start fermentation (yeast)
 - ol: mix / transfer
+
+<a id="f40r-5-f40r-5-p0"></a>
 
 ### f40r.5,+P0
 
@@ -266,6 +291,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - g: [unparsed]
 - m: [unparsed]
 
+<a id="f40r-6-f40r-6-p0"></a>
+
 ### f40r.6,+P0
 
 EVA: tor or ar shok or am o lshedy qokam chdy kar oraiin
@@ -308,6 +335,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kar: add fermentable sugars → duration level 1 → state: fermentation start
 - oraiin: mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f40r-7-f40r-7-p0"></a>
+
 ### f40r.7,+P0
 
 EVA: yaiin chekaiin oky ycheey
@@ -341,6 +370,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chekaiin: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction → long fermentation / aging phase
 - oky: add fermentable sugars → mix / transfer
 - ycheey: add main plant (safe substitute) → duration level 2 → state: active extraction
+
+<a id="f40r-8-f40r-8-p0"></a>
 
 ### f40r.8,+P0
 
@@ -390,6 +421,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dg: start fermentation (yeast)
 
+<a id="f40r-9-f40r-9-p0"></a>
+
 ### f40r.9,+P0
 
 EVA: taiin ol olaiin or dain okaiin okaiin okaiin daram
@@ -428,6 +461,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - okaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - daram: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f40r-10-f40r-10-p0"></a>
 
 ### f40r.10,+P0
 
@@ -468,6 +503,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ykedy: add fermentable sugars → start fermentation (yeast) → duration level 1 → state: active extraction
 - okair: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - ody: mix / transfer → start fermentation (yeast)
+
+<a id="f40r-11-f40r-11-p0"></a>
 
 ### f40r.11,+P0
 

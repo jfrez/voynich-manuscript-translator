@@ -24,6 +24,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 podair sheedy otedy oteedy qotolcheo s ar ar oteey dk[ch:a]rar als
 ytchos [o:a]ckhey okeeo s cheody okeey keeody daiin cheody keedy
 ykeeo daiin shedal okedy okey keo dy okchey sair okees o lkedy
@@ -35,6 +36,7 @@ ykaiin chee ksheey ychekeeor cheor o r checthy okechoked lchey okam
 ytecheol sheoeky okeos aiin a[ikh:ckh]edy chkaiin chetchey ctheey okear
 dar choar al kar oeeeos cheos aiin o ckhey okeo kor okeol ain
 saiin ar ckheos chedy okeey qoear oraiin cheam
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 35, 'mix/transfer': 70, 'secondary herb': 5, 'heat': 9, 'liquid base': 4, 'main herb': 32, 'sugars': 40, 'complex herbal compound': 10, 'aroma modifier': 2}
@@ -53,7 +55,22 @@ saiin ar ckheos chedy okeey qoear oraiin cheam
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f31v.1,@P0](#f31v-1-f31v-1-p0)
+- [f31v.2,+P0](#f31v-2-f31v-2-p0)
+- [f31v.3,+P0](#f31v-3-f31v-3-p0)
+- [f31v.4,+P0](#f31v-4-f31v-4-p0)
+- [f31v.5,+P0](#f31v-5-f31v-5-p0)
+- [f31v.6,+P0](#f31v-6-f31v-6-p0)
+- [f31v.7,+P0](#f31v-7-f31v-7-p0)
+- [f31v.8,+P0](#f31v-8-f31v-8-p0)
+- [f31v.9,+P0](#f31v-9-f31v-9-p0)
+- [f31v.10,+P0](#f31v-10-f31v-10-p0)
+- [f31v.11,+P0](#f31v-11-f31v-11-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f31v-1-f31v-1-p0"></a>
 
 ### f31v.1,@P0
 
@@ -99,6 +116,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - rar: duration level 1 → state: fermentation start
 - als: duration level 1 → state: fermentation start
 
+<a id="f31v-2-f31v-2-p0"></a>
+
 ### f31v.2,+P0
 
 EVA: ytchos [o:a]ckhey okeeo s cheody okeey keeody daiin cheody keedy
@@ -143,6 +162,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - keedy: add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
 
+<a id="f31v-3-f31v-3-p0"></a>
+
 ### f31v.3,+P0
 
 EVA: ykeeo daiin shedal okedy okey keo dy okchey sair okees o lkedy
@@ -184,6 +205,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okees: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
 - o: mix / transfer
 - lkedy: add fermentable sugars → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f31v-4-f31v-4-p0"></a>
 
 ### f31v.4,+P0
 
@@ -229,6 +252,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - d: start fermentation (yeast)
 
+<a id="f31v-5-f31v-5-p0"></a>
+
 ### f31v.5,+P0
 
 EVA: ykeos cheeoy or aiin
@@ -262,6 +287,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheeoy: add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
 - or: mix / transfer
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f31v-6-f31v-6-p0"></a>
 
 ### f31v.6,+P0
 
@@ -309,6 +336,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheo: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - otar: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f31v-7-f31v-7-p0"></a>
+
 ### f31v.7,+P0
 
 EVA: olkeedam ches chol keeol checkhy okeol okal oky cheokar okor ary
@@ -352,6 +381,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okor: add fermentable sugars → mix / transfer
 - ary: duration level 1 → state: fermentation start
 
+<a id="f31v-8-f31v-8-p0"></a>
+
 ### f31v.8,+P0
 
 EVA: ykaiin chee ksheey ychekeeor cheor o r checthy okechoked lchey okam
@@ -394,6 +425,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okechoked: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - lchey: add main plant (safe substitute) → duration level 1 → state: active extraction
 - okam: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f31v-9-f31v-9-p0"></a>
 
 ### f31v.9,+P0
 
@@ -439,6 +472,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ctheey: add complex herbal compound (safe blend) → duration level 2 → state: active extraction
 - okear: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f31v-10-f31v-10-p0"></a>
+
 ### f31v.10,+P0
 
 EVA: dar choar al kar oeeeos cheos aiin o ckhey okeo kor okeol ain
@@ -483,6 +518,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kor: add fermentable sugars → mix / transfer
 - okeol: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 - ain: duration level 1 → state: fermentation start
+
+<a id="f31v-11-f31v-11-p0"></a>
 
 ### f31v.11,+P0
 

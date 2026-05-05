@@ -19,6 +19,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 pchdol dar chedain chodalr fcheey dchedy qocphdy otdady qotedar daiin
 dshedal qoteody choddy otol chedal otain chedol chedain shedy qotched dl
 oeos qotcheo odain qotain otar qotchd dol qotchedy choty ol lchdaiin dal
@@ -60,6 +61,7 @@ oteey okedaiin otaiin qotchey qoteeody otaiin okal dals
 qo [?:o]eecheedy o kecheokeo oteo daiin okaiin choty odaiin otam
 eeo cheo y ot[ee:a]y qotaiin cheo l oteeey daiin oteey teeedy dm
 yaiin o?oy [o:a]keey cheody qokaiin otain al kain choty
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'yeast fermentation': 199, 'main herb': 143, 'mix/transfer': 192, 'aroma modifier': 3, 'liquid base': 84, 'complex herbal compound': 16, 'heat': 105, 'secondary herb': 30, 'sugars': 64, 'general base': 2}
@@ -78,7 +80,52 @@ yaiin o?oy [o:a]keey cheody qokaiin otain al kain choty
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f114v.1,@P0](#f114v-1-f114v-1-p0)
+- [f114v.2,+P0](#f114v-2-f114v-2-p0)
+- [f114v.3,+P0](#f114v-3-f114v-3-p0)
+- [f114v.4,+P0](#f114v-4-f114v-4-p0)
+- [f114v.5,+P0](#f114v-5-f114v-5-p0)
+- [f114v.6,+P0](#f114v-6-f114v-6-p0)
+- [f114v.7,+P0](#f114v-7-f114v-7-p0)
+- [f114v.8,+P0](#f114v-8-f114v-8-p0)
+- [f114v.9,+P0](#f114v-9-f114v-9-p0)
+- [f114v.10,+P0](#f114v-10-f114v-10-p0)
+- [f114v.11,+P0](#f114v-11-f114v-11-p0)
+- [f114v.12,+P0](#f114v-12-f114v-12-p0)
+- [f114v.13,+P0](#f114v-13-f114v-13-p0)
+- [f114v.14,+P0](#f114v-14-f114v-14-p0)
+- [f114v.15,+P0](#f114v-15-f114v-15-p0)
+- [f114v.16,+P0](#f114v-16-f114v-16-p0)
+- [f114v.17,+P0](#f114v-17-f114v-17-p0)
+- [f114v.18,+P0](#f114v-18-f114v-18-p0)
+- [f114v.19,+P0](#f114v-19-f114v-19-p0)
+- [f114v.20,+P0](#f114v-20-f114v-20-p0)
+- [f114v.21,+P0](#f114v-21-f114v-21-p0)
+- [f114v.22,+P0](#f114v-22-f114v-22-p0)
+- [f114v.23,+P0](#f114v-23-f114v-23-p0)
+- [f114v.24,+P0](#f114v-24-f114v-24-p0)
+- [f114v.25,+P0](#f114v-25-f114v-25-p0)
+- [f114v.26,+P0](#f114v-26-f114v-26-p0)
+- [f114v.27,+P0](#f114v-27-f114v-27-p0)
+- [f114v.28,+P0](#f114v-28-f114v-28-p0)
+- [f114v.29,+P0](#f114v-29-f114v-29-p0)
+- [f114v.30,+P0](#f114v-30-f114v-30-p0)
+- [f114v.31,+P0](#f114v-31-f114v-31-p0)
+- [f114v.32,+P0](#f114v-32-f114v-32-p0)
+- [f114v.33,+P0](#f114v-33-f114v-33-p0)
+- [f114v.34,+P0](#f114v-34-f114v-34-p0)
+- [f114v.35,+P0](#f114v-35-f114v-35-p0)
+- [f114v.36,+P0](#f114v-36-f114v-36-p0)
+- [f114v.37,+P0](#f114v-37-f114v-37-p0)
+- [f114v.38,+P0](#f114v-38-f114v-38-p0)
+- [f114v.39,+P0](#f114v-39-f114v-39-p0)
+- [f114v.40,+P0](#f114v-40-f114v-40-p0)
+- [f114v.41,+P0](#f114v-41-f114v-41-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f114v-1-f114v-1-p0"></a>
 
 ### f114v.1,@P0
 
@@ -125,6 +172,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotedar: prepare liquid base → apply heat/cooking → start fermentation (yeast) → duration level 1 → state: active extraction
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f114v-2-f114v-2-p0"></a>
+
 ### f114v.2,+P0
 
 EVA: dshedal qoteody choddy otol chedal otain chedol chedain shedy qotched dl
@@ -165,6 +214,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - qotched: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - dl: start fermentation (yeast)
+
+<a id="f114v-3-f114v-3-p0"></a>
 
 ### f114v.3,+P0
 
@@ -208,6 +259,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - lchdaiin: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f114v-4-f114v-4-p0"></a>
+
 ### f114v.4,+P0
 
 EVA: qokedy cheocthedy qoted qotedol chedar qotedy okeedy daiin chedaiin oky
@@ -250,6 +303,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chedaiin: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction → long fermentation / aging phase
 - oky: add fermentable sugars → mix / transfer
 
+<a id="f114v-5-f114v-5-p0"></a>
+
 ### f114v.5,+P0
 
 EVA: chedy qokeedy okaly cheedain shedy
@@ -284,6 +339,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okaly: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - cheedain: add main plant (safe substitute) → start fermentation (yeast) → duration level 2 → state: active extraction
 - shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f114v-6-f114v-6-p0"></a>
 
 ### f114v.6,+P0
 
@@ -326,6 +383,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qepoepy: prepare base (generic) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - chedar: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - dairy: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f114v-7-f114v-7-p0"></a>
 
 ### f114v.7,+P0
 
@@ -370,6 +429,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shod: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
 - chokchedy: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 
+<a id="f114v-8-f114v-8-p0"></a>
+
 ### f114v.8,+P0
 
 EVA: pchedchdy qoteedy qokedain chdaiin qokedy chedain qoeedy qotey qotaiin
@@ -408,6 +469,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoeedy: prepare liquid base → start fermentation (yeast) → duration level 2 → state: active extraction
 - qotey: prepare liquid base → apply heat/cooking → duration level 1 → state: active extraction
 - qotaiin: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f114v-9-f114v-9-p0"></a>
 
 ### f114v.9,+P0
 
@@ -452,6 +515,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotal: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
 - chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 
+<a id="f114v-10-f114v-10-p0"></a>
+
 ### f114v.10,+P0
 
 EVA: olkees chedaiin qotaiin olchedaiin chedain dain chcthdy
@@ -490,6 +555,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chedain: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - chcthdy: add main plant (safe substitute) → start fermentation (yeast) → add complex herbal compound (safe blend)
+
+<a id="f114v-11-f114v-11-p0"></a>
 
 ### f114v.11,+P0
 
@@ -530,6 +597,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shedain: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - pol: mix / transfer → start fermentation (yeast)
 - otam: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f114v-12-f114v-12-p0"></a>
 
 ### f114v.12,+P0
 
@@ -574,6 +643,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - q: prepare base (generic)
 - og: mix / transfer
 
+<a id="f114v-13-f114v-13-p0"></a>
+
 ### f114v.13,+P0
 
 EVA: sheedy qoteeo s oiiin chcthain
@@ -610,6 +681,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: [unparsed]
 - oiiin: mix / transfer → duration level 3 → state: cooling/rest → medium fermentation phase
 - chcthain: add main plant (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: fermentation start
+
+<a id="f114v-14-f114v-14-p0"></a>
 
 ### f114v.14,+P0
 
@@ -655,6 +728,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qotaiin: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
 - ofcheds: add main plant (safe substitute) → add aroma modifier → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 
+<a id="f114v-15-f114v-15-p0"></a>
+
 ### f114v.15,+P0
 
 EVA: ochedain chedy okal chaiin qokod qokol cheedy qotody cheol kchedy ldy
@@ -695,6 +770,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - kchedy: add fermentable sugars → add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - ldy: start fermentation (yeast)
+
+<a id="f114v-16-f114v-16-p0"></a>
 
 ### f114v.16,+P0
 
@@ -738,6 +815,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - dam: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f114v-17-f114v-17-p0"></a>
+
 ### f114v.17,+P0
 
 EVA: sheoal chos oaiir alchedy chcphedy okary
@@ -775,6 +854,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - alchedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
 - chcphedy: add main plant (safe substitute) → start fermentation (yeast) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - okary: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f114v-18-f114v-18-p0"></a>
 
 ### f114v.18,+P0
 
@@ -815,6 +896,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoto: prepare liquid base → apply heat/cooking → mix / transfer
 - shxam: add secondary herb (safe substitute) → duration level 1 → state: fermentation start
 
+<a id="f114v-19-f114v-19-p0"></a>
+
 ### f114v.19,+P0
 
 EVA: o sh[s:?]odaiin chotain qotar
@@ -850,6 +933,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - odaiin: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - chotain: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
 - qotar: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
+
+<a id="f114v-20-f114v-20-p0"></a>
 
 ### f114v.20,+P0
 
@@ -894,6 +979,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chdy: add main plant (safe substitute) → start fermentation (yeast)
 - dary: start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f114v-21-f114v-21-p0"></a>
+
 ### f114v.21,+P0
 
 EVA: dair cheeo chy chdaiin qokedy otcheodaiin qokchdy otedal dain aral
@@ -933,6 +1020,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otedal: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - dain: start fermentation (yeast) → duration level 1 → state: fermentation start
 - aral: duration level 1 → state: fermentation start
+
+<a id="f114v-22-f114v-22-p0"></a>
 
 ### f114v.22,+P0
 
@@ -974,6 +1063,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otechy: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - ykedckhy: add fermentable sugars → start fermentation (yeast) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 
+<a id="f114v-23-f114v-23-p0"></a>
+
 ### f114v.23,+P0
 
 EVA: pshedy qopcheos okaiin qotchedy qotchdar cheeos olteody otoydy
@@ -1011,6 +1102,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheeos: add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
 - olteody: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - otoydy: apply heat/cooking → mix / transfer → start fermentation (yeast)
+
+<a id="f114v-24-f114v-24-p0"></a>
 
 ### f114v.24,+P0
 
@@ -1051,6 +1144,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - am: duration level 1 → state: fermentation start
 
+<a id="f114v-25-f114v-25-p0"></a>
+
 ### f114v.25,+P0
 
 EVA: sor aiin otchedy otaiin alkain okeedy
@@ -1086,6 +1181,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otaiin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - alkain: add fermentable sugars → duration level 1 → state: fermentation start
 - okeedy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
+
+<a id="f114v-26-f114v-26-p0"></a>
 
 ### f114v.26,+P0
 
@@ -1130,6 +1227,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoeedy: prepare liquid base → start fermentation (yeast) → duration level 2 → state: active extraction
 - chcthey: add main plant (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 
+<a id="f114v-27-f114v-27-p0"></a>
+
 ### f114v.27,+P0
 
 EVA: o sheeo l kchee okeey qoteor chokaiin chdy qokaiin chokeey tainary
@@ -1171,6 +1270,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chokeey: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
 - tainary: apply heat/cooking → duration level 1 → state: fermentation start
 
+<a id="f114v-28-f114v-28-p0"></a>
+
 ### f114v.28,+P0
 
 EVA: tchedy shdo qotched chees ar aiin chetam
@@ -1207,6 +1308,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ar: duration level 1 → state: fermentation start
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - chetam: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
+
+<a id="f114v-29-f114v-29-p0"></a>
 
 ### f114v.29,+P0
 
@@ -1250,6 +1353,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - opchdy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - qopairam: prepare liquid base → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f114v-30-f114v-30-p0"></a>
+
 ### f114v.30,+P0
 
 EVA: y cheey qooeey qolcheey qoteey qotaiin otal otaiin oteeo teey rain
@@ -1291,6 +1396,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - teey: apply heat/cooking → duration level 2 → state: active extraction
 - rain: duration level 1 → state: fermentation start
 
+<a id="f114v-31-f114v-31-p0"></a>
+
 ### f114v.31,+P0
 
 EVA: olaiin cheo otcheody lkchedy okol okaiin otaiin otal qotar
@@ -1330,6 +1437,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - qotar: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
 
+<a id="f114v-32-f114v-32-p0"></a>
+
 ### f114v.32,+P0
 
 EVA: y cheol oleey cheoaiin chetaiin sheeodain
@@ -1365,6 +1474,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheoaiin: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction → long fermentation / aging phase
 - chetaiin: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction → long fermentation / aging phase
 - sheeodain: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
+
+<a id="f114v-33-f114v-33-p0"></a>
 
 ### f114v.33,+P0
 
@@ -1408,6 +1519,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokeeo: prepare liquid base → add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
 - lkealy: add fermentable sugars → duration level 1 → state: active extraction
 
+<a id="f114v-34-f114v-34-p0"></a>
+
 ### f114v.34,+P0
 
 EVA: olkeechy ol oaiin aiin chocthey qotedal octhy sotey cheos air
@@ -1450,6 +1563,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheos: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - air: duration level 1 → state: fermentation start
 
+<a id="f114v-35-f114v-35-p0"></a>
+
 ### f114v.35,+P0
 
 EVA: yshey kair yteeey qokaiin chckhy chodaiin olkaim
@@ -1488,6 +1603,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chckhy: add main plant (safe substitute) → add complex herbal compound (safe blend)
 - chodaiin: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - olkaim: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f114v-36-f114v-36-p0"></a>
 
 ### f114v.36,+P0
 
@@ -1530,6 +1647,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kal: add fermentable sugars → duration level 1 → state: fermentation start
 - ram: duration level 1 → state: fermentation start
 
+<a id="f114v-37-f114v-37-p0"></a>
+
 ### f114v.37,+P0
 
 EVA: dcheey ol cheodaiiin qokar otaiin otal o kaiin chey tar arody
@@ -1571,6 +1690,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tar: apply heat/cooking → duration level 1 → state: fermentation start
 - arody: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f114v-38-f114v-38-p0"></a>
+
 ### f114v.38,+P0
 
 EVA: oteey okedaiin otaiin qotchey qoteeody otaiin okal dals
@@ -1608,6 +1729,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otaiin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - okal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - dals: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f114v-39-f114v-39-p0"></a>
 
 ### f114v.39,+P0
 
@@ -1649,6 +1772,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choty: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - odaiin: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - otam: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+<a id="f114v-40-f114v-40-p0"></a>
 
 ### f114v.40,+P0
 
@@ -1694,6 +1819,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oteey: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
 - teeedy: apply heat/cooking → start fermentation (yeast) → duration level 3 → state: active extraction
 - dm: start fermentation (yeast)
+
+<a id="f114v-41-f114v-41-p0"></a>
 
 ### f114v.41,+P0
 

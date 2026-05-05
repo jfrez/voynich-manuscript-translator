@@ -23,6 +23,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
+```text
 tchodar chocfhey opom shod chcphy opshody ocphoraiin o k o@146;am
 ydals ckhor shy cho dch[o:a]r otol otaiir otchos okchom okcho
 octh[y:o]l odchees oesearies okam chcth
@@ -39,6 +40,7 @@ oeeey cheol chol odor sho do otolodal
 do[iir:ar] cheeodam sho sho dy
 dchey kchod dch[a:o]l ochdy
 otchol odaiim
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'heat': 9, 'main herb': 31, 'mix/transfer': 86, 'yeast fermentation': 29, 'complex herbal compound': 8, 'secondary herb': 10, 'sugars': 16, 'aroma modifier': 2, 'liquid base': 2}
@@ -57,7 +59,27 @@ otchol odaiim
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f24v.1,@P0](#f24v-1-f24v-1-p0)
+- [f24v.2,+P0](#f24v-2-f24v-2-p0)
+- [f24v.3,+P0](#f24v-3-f24v-3-p0)
+- [f24v.4,+P0](#f24v-4-f24v-4-p0)
+- [f24v.5,+P0](#f24v-5-f24v-5-p0)
+- [f24v.6,+P0](#f24v-6-f24v-6-p0)
+- [f24v.7,+P0](#f24v-7-f24v-7-p0)
+- [f24v.8,+P0](#f24v-8-f24v-8-p0)
+- [f24v.9,+P0](#f24v-9-f24v-9-p0)
+- [f24v.10,+P0](#f24v-10-f24v-10-p0)
+- [f24v.11,+P0](#f24v-11-f24v-11-p0)
+- [f24v.12,+P0](#f24v-12-f24v-12-p0)
+- [f24v.13,+P0](#f24v-13-f24v-13-p0)
+- [f24v.14,+P0](#f24v-14-f24v-14-p0)
+- [f24v.15,+P0](#f24v-15-f24v-15-p0)
+- [f24v.16,+P0](#f24v-16-f24v-16-p0)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f24v-1-f24v-1-p0"></a>
 
 ### f24v.1,@P0
 
@@ -101,6 +123,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - k: add fermentable sugars
 - o: mix / transfer
 - am: duration level 1 → state: fermentation start
+
+<a id="f24v-2-f24v-2-p0"></a>
 
 ### f24v.2,+P0
 
@@ -147,6 +171,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okchom: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - okcho: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 
+<a id="f24v-3-f24v-3-p0"></a>
+
 ### f24v.3,+P0
 
 EVA: octh[y:o]l odchees oesearies okam chcth
@@ -187,6 +213,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okam: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 - chcth: add main plant (safe substitute) → add complex herbal compound (safe blend)
 
+<a id="f24v-4-f24v-4-p0"></a>
+
 ### f24v.4,+P0
 
 EVA: ydal sh okol okaiin odaiin dlos
@@ -223,6 +251,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - odaiin: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - dlos: mix / transfer → start fermentation (yeast)
 
+<a id="f24v-5-f24v-5-p0"></a>
+
 ### f24v.5,+P0
 
 EVA: oeor oraiin tchar oro
@@ -256,6 +286,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oraiin: mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - tchar: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: fermentation start
 - oro: mix / transfer
+
+<a id="f24v-6-f24v-6-p0"></a>
 
 ### f24v.6,+P0
 
@@ -294,6 +326,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cfarsa: add aroma modifier → duration level 1 → state: fermentation start
 - r: [unparsed]
 
+<a id="f24v-7-f24v-7-p0"></a>
+
 ### f24v.7,+P0
 
 EVA: ycheol daid dar olom
@@ -327,6 +361,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - daid: start fermentation (yeast) → duration level 1 → state: fermentation start
 - dar: start fermentation (yeast) → duration level 1 → state: fermentation start
 - olom: mix / transfer
+
+<a id="f24v-8-f24v-8-p0"></a>
 
 ### f24v.8,+P0
 
@@ -364,6 +400,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shol: add secondary herb (safe substitute) → mix / transfer
 - sain: duration level 1 → state: fermentation start
 
+<a id="f24v-9-f24v-9-p0"></a>
+
 ### f24v.9,+P0
 
 EVA: ychol chol or chor om
@@ -398,6 +436,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - or: mix / transfer
 - chor: add main plant (safe substitute) → mix / transfer
 - om: mix / transfer
+
+<a id="f24v-10-f24v-10-p0"></a>
 
 ### f24v.10,+P0
 
@@ -435,6 +475,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - choy: add main plant (safe substitute) → mix / transfer
 - keol: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f24v-11-f24v-11-p0"></a>
+
 ### f24v.11,+P0
 
 EVA: ydaiin chear qodom okodaiin
@@ -468,6 +510,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chear: add main plant (safe substitute) → duration level 1 → state: active extraction
 - qodom: prepare liquid base → mix / transfer → start fermentation (yeast)
 - okodaiin: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+<a id="f24v-12-f24v-12-p0"></a>
 
 ### f24v.12,+P0
 
@@ -511,6 +555,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ok: add fermentable sugars → mix / transfer
 - okchal: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f24v-13-f24v-13-p0"></a>
+
 ### f24v.13,+P0
 
 EVA: oeeey cheol chol odor sho do otolodal
@@ -547,6 +593,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sho: add secondary herb (safe substitute) → mix / transfer
 - do: mix / transfer → start fermentation (yeast)
 - otolodal: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+<a id="f24v-14-f24v-14-p0"></a>
 
 ### f24v.14,+P0
 
@@ -585,6 +633,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sho: add secondary herb (safe substitute) → mix / transfer
 - dy: start fermentation (yeast)
 
+<a id="f24v-15-f24v-15-p0"></a>
+
 ### f24v.15,+P0
 
 EVA: dchey kchod dch[a:o]l ochdy
@@ -621,6 +671,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - l: [unparsed]
 - ochdy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+
+<a id="f24v-16-f24v-16-p0"></a>
 
 ### f24v.16,+P0
 

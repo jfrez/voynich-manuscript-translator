@@ -18,6 +18,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
 
 ## EVA Text (Transliteration)
+```text
 otos chs oty oteos oty chotey dchy chopchy otychal ctheo l shey tchol s choraiin chekaiphy oteeos aly okeedy cheockhy ar?k?aly che?? okedl okedy sheos okeeor cheey okeey teey cheeey okeolol sheeoeky oekeeo r aiin olalka[in:ir] okolsaiin
 oeedey
 oeeodaiin
@@ -51,6 +52,7 @@ yteedy
 o[n:r]aiin
 okeorar
 otaiin otshedy chokeedy otes al al ar chetolain sheodaly sheokey okealy rary
+```
 
 ## Page Summary (Procedural, Aggregated)
 - compound_counts: {'mix/transfer': 99, 'heat': 31, 'main herb': 27, 'yeast fermentation': 31, 'complex herbal compound': 3, 'secondary herb': 11, 'sugars': 30, 'aroma modifier': 2, 'liquid base': 1}
@@ -69,7 +71,44 @@ otaiin otshedy chokeedy otes al al ar chetolain sheodaly sheokey okealy rary
 - water_l: 0.5
 - yeast_g: 1
 
+## Recipes Index (This Page)
+- [f72v2.1,@Cc](#f72v2-1-f72v2-1-cc)
+- [f72v2.2,@Lz](#f72v2-2-f72v2-2-lz)
+- [f72v2.3,&Lz](#f72v2-3-f72v2-3-lz)
+- [f72v2.4,&Lz](#f72v2-4-f72v2-4-lz)
+- [f72v2.5,&Lz](#f72v2-5-f72v2-5-lz)
+- [f72v2.6,&Lz](#f72v2-6-f72v2-6-lz)
+- [f72v2.7,&Lz](#f72v2-7-f72v2-7-lz)
+- [f72v2.8,&Lz](#f72v2-8-f72v2-8-lz)
+- [f72v2.9,&Lz](#f72v2-9-f72v2-9-lz)
+- [f72v2.10,&Lz](#f72v2-10-f72v2-10-lz)
+- [f72v2.11,&Lz](#f72v2-11-f72v2-11-lz)
+- [f72v2.12,&Lz](#f72v2-12-f72v2-12-lz)
+- [f72v2.13,&Lz](#f72v2-13-f72v2-13-lz)
+- [f72v2.14,&Lz](#f72v2-14-f72v2-14-lz)
+- [f72v2.15,&Lz](#f72v2-15-f72v2-15-lz)
+- [f72v2.16,&Lz](#f72v2-16-f72v2-16-lz)
+- [f72v2.17,&Lz](#f72v2-17-f72v2-17-lz)
+- [f72v2.18,&Lz](#f72v2-18-f72v2-18-lz)
+- [f72v2.19,&Lz](#f72v2-19-f72v2-19-lz)
+- [f72v2.20,@Cc](#f72v2-20-f72v2-20-cc)
+- [f72v2.21,@Lz](#f72v2-21-f72v2-21-lz)
+- [f72v2.22,&Lz](#f72v2-22-f72v2-22-lz)
+- [f72v2.23,&Lz](#f72v2-23-f72v2-23-lz)
+- [f72v2.24,&Lz](#f72v2-24-f72v2-24-lz)
+- [f72v2.25,&Lz](#f72v2-25-f72v2-25-lz)
+- [f72v2.26,&Lz](#f72v2-26-f72v2-26-lz)
+- [f72v2.27,&Lz](#f72v2-27-f72v2-27-lz)
+- [f72v2.28,&Lz](#f72v2-28-f72v2-28-lz)
+- [f72v2.29,&Lz](#f72v2-29-f72v2-29-lz)
+- [f72v2.30,&Lz](#f72v2-30-f72v2-30-lz)
+- [f72v2.31,&Lz](#f72v2-31-f72v2-31-lz)
+- [f72v2.32,&Lz](#f72v2-32-f72v2-32-lz)
+- [f72v2.33,@Cc](#f72v2-33-f72v2-33-cc)
+
 ## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+<a id="f72v2-1-f72v2-1-cc"></a>
 
 ### f72v2.1,@Cc
 
@@ -144,6 +183,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ir: duration level 1 → state: cooling/rest
 - okolsaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f72v2-2-f72v2-2-lz"></a>
+
 ### f72v2.2,@Lz
 
 EVA: oeedey
@@ -174,6 +215,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - oeedey: mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
+
+<a id="f72v2-3-f72v2-3-lz"></a>
 
 ### f72v2.3,&Lz
 
@@ -206,6 +249,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - oeeodaiin: mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction → long fermentation / aging phase
 
+<a id="f72v2-4-f72v2-4-lz"></a>
+
 ### f72v2.4,&Lz
 
 EVA: okeoram
@@ -236,6 +281,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okeoram: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f72v2-5-f72v2-5-lz"></a>
 
 ### f72v2.5,&Lz
 
@@ -269,6 +316,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - air: duration level 1 → state: fermentation start
 - aim: duration level 1 → state: fermentation start
 
+<a id="f72v2-6-f72v2-6-lz"></a>
+
 ### f72v2.6,&Lz
 
 EVA: oshesy
@@ -299,6 +348,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - oshesy: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f72v2-7-f72v2-7-lz"></a>
 
 ### f72v2.7,&Lz
 
@@ -334,6 +385,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - ry: [unparsed]
 
+<a id="f72v2-8-f72v2-8-lz"></a>
+
 ### f72v2.8,&Lz
 
 EVA: cheoetey
@@ -364,6 +417,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - cheoetey: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f72v2-9-f72v2-9-lz"></a>
 
 ### f72v2.9,&Lz
 
@@ -398,6 +453,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - d: start fermentation (yeast)
 - y: [unparsed]
 
+<a id="f72v2-10-f72v2-10-lz"></a>
+
 ### f72v2.10,&Lz
 
 EVA: sheoeky
@@ -429,6 +486,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - sheoeky: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f72v2-11-f72v2-11-lz"></a>
+
 ### f72v2.11,&Lz
 
 EVA: oteodar
@@ -459,6 +518,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - oteodar: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f72v2-12-f72v2-12-lz"></a>
 
 ### f72v2.12,&Lz
 
@@ -494,6 +555,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - ofchdysd: add main plant (safe substitute) → add aroma modifier → mix / transfer → start fermentation (yeast)
 
+<a id="f72v2-13-f72v2-13-lz"></a>
+
 ### f72v2.13,&Lz
 
 EVA: oteoyd
@@ -524,6 +587,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - oteoyd: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f72v2-14-f72v2-14-lz"></a>
 
 ### f72v2.14,&Lz
 
@@ -556,6 +621,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - yteody: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 
+<a id="f72v2-15-f72v2-15-lz"></a>
+
 ### f72v2.15,&Lz
 
 EVA: okeody
@@ -586,6 +653,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okeody: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f72v2-16-f72v2-16-lz"></a>
 
 ### f72v2.16,&Lz
 
@@ -618,6 +687,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okeoldy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 
+<a id="f72v2-17-f72v2-17-lz"></a>
+
 ### f72v2.17,&Lz
 
 EVA: ykeeor
@@ -648,6 +719,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - ykeeor: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
+
+<a id="f72v2-18-f72v2-18-lz"></a>
 
 ### f72v2.18,&Lz
 
@@ -682,6 +755,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - m: [unparsed]
 - r: [unparsed]
 
+<a id="f72v2-19-f72v2-19-lz"></a>
+
 ### f72v2.19,&Lz
 
 EVA: cheoldy
@@ -712,6 +787,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - cheoldy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+
+<a id="f72v2-20-f72v2-20-cc"></a>
 
 ### f72v2.20,@Cc
 
@@ -771,6 +848,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oltar: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 - ar: duration level 1 → state: fermentation start
 
+<a id="f72v2-21-f72v2-21-lz"></a>
+
 ### f72v2.21,@Lz
 
 EVA: okaiin[:y]
@@ -802,6 +881,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - okaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
 - y: [unparsed]
+
+<a id="f72v2-22-f72v2-22-lz"></a>
 
 ### f72v2.22,&Lz
 
@@ -836,6 +917,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - ockhol: mix / transfer → add complex herbal compound (safe blend)
 
+<a id="f72v2-23-f72v2-23-lz"></a>
+
 ### f72v2.23,&Lz
 
 EVA: oeedy
@@ -866,6 +949,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - oeedy: mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
+
+<a id="f72v2-24-f72v2-24-lz"></a>
 
 ### f72v2.24,&Lz
 
@@ -898,6 +983,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - opalg: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
 
+<a id="f72v2-25-f72v2-25-lz"></a>
+
 ### f72v2.25,&Lz
 
 EVA: okeeom
@@ -928,6 +1015,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okeeom: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
+
+<a id="f72v2-26-f72v2-26-lz"></a>
 
 ### f72v2.26,&Lz
 
@@ -960,6 +1049,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - olkar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
 
+<a id="f72v2-27-f72v2-27-lz"></a>
+
 ### f72v2.27,&Lz
 
 EVA: oeedaly
@@ -991,6 +1082,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - oeedaly: mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
 
+<a id="f72v2-28-f72v2-28-lz"></a>
+
 ### f72v2.28,&Lz
 
 EVA: cheosy
@@ -1021,6 +1114,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - cheosy: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f72v2-29-f72v2-29-lz"></a>
 
 ### f72v2.29,&Lz
 
@@ -1056,6 +1151,8 @@ Does It Make Sense?: partial
 Direct Gloss (Procedural, Not a Real Translation):
 - ofcheay: add main plant (safe substitute) → add aroma modifier → mix / transfer → duration level 1 → state: active extraction
 
+<a id="f72v2-30-f72v2-30-lz"></a>
+
 ### f72v2.30,&Lz
 
 EVA: yteedy
@@ -1086,6 +1183,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - yteedy: apply heat/cooking → start fermentation (yeast) → duration level 2 → state: active extraction
+
+<a id="f72v2-31-f72v2-31-lz"></a>
 
 ### f72v2.31,&Lz
 
@@ -1121,6 +1220,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - r: [unparsed]
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 
+<a id="f72v2-32-f72v2-32-lz"></a>
+
 ### f72v2.32,&Lz
 
 EVA: okeorar
@@ -1151,6 +1252,8 @@ Does It Make Sense?: partial
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okeorar: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
+
+<a id="f72v2-33-f72v2-33-cc"></a>
 
 ### f72v2.33,@Cc
 
