@@ -1,0 +1,71 @@
+{
+  "folio": "f7r",
+  "page_number": 13,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Pland ID: Nymphaea alba",
+    "10 lines in two paragraphs, both cut by plant"
+  ],
+  "loci_count": 10,
+  "loci": [
+    {
+      "locus": "f7r.1,@P0",
+      "raw": "<%>fchodaiin.shopchey.qko<->shey.qoos.sheey.charochy",
+      "eva": "fchodaiin shopchey qko shey qoos sheey charochy"
+    },
+    {
+      "locus": "f7r.2,+P0",
+      "raw": "dcheey.keo.r.shor.dold<->dchey.kchey.otchy.cheody",
+      "eva": "dcheey keo r shor dold dchey kchey otchy cheody"
+    },
+    {
+      "locus": "f7r.3,+P0",
+      "raw": "oeeees.cheodaiin.sheey<->ytcheey.qotchy.chald",
+      "eva": "oeeees cheodaiin sheey ytcheey qotchy chald"
+    },
+    {
+      "locus": "f7r.4,+P0",
+      "raw": "qokcho.cho.lochey.daiin<->ychey.kchos.odaiin",
+      "eva": "qokcho cho lochey daiin ychey kchos odaiin"
+    },
+    {
+      "locus": "f7r.5,+P0",
+      "raw": "oaiir<->otaiin<$>",
+      "eva": "oaiir otaiin"
+    },
+    {
+      "locus": "f7r.6,+P0",
+      "raw": "<%>ksholo,chey.qotoees.chkoldy<->otchor.choaiin",
+      "eva": "ksholo chey qotoees chkoldy otchor choaiin"
+    },
+    {
+      "locus": "f7r.7,+P0",
+      "raw": "dshoy.cthol.chol.otchol.dain<->shody.shol.chotchy",
+      "eva": "dshoy cthol chol otchol dain shody shol chotchy"
+    },
+    {
+      "locus": "f7r.8,+P0",
+      "raw": "okchey.deeeese.choty.qokchy<->shol.keey.choty.dain",
+      "eva": "okchey deeeese choty qokchy shol keey choty dain"
+    },
+    {
+      "locus": "f7r.9,+P0",
+      "raw": "qokechy.ol,choiin.chol.cphey<->shckhy.chochy.kchod",
+      "eva": "qokechy ol choiin chol cphey shckhy chochy kchod"
+    },
+    {
+      "locus": "f7r.10,+P0",
+      "raw": "s,chain.chor.daiin.chckhy<$>",
+      "eva": "s chain chor daiin chckhy"
+    }
+  ],
+  "eva_text": "fchodaiin shopchey qko shey qoos sheey charochy\ndcheey keo r shor dold dchey kchey otchy cheody\noeeees cheodaiin sheey ytcheey qotchy chald\nqokcho cho lochey daiin ychey kchos odaiin\noaiir otaiin\nksholo chey qotoees chkoldy otchor choaiin\ndshoy cthol chol otchol dain shody shol chotchy\nokchey deeeese choty qokchy shol keey choty dain\nqokechy ol choiin chol cphey shckhy chochy kchod\ns chain chor daiin chckhy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,71 @@
+{
+  "folio": "f2v",
+  "page_number": 4,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Collocasia, Egyptian lotus, Nymphoides Peltata (R. Zandbergen)",
+  "plant_candidates": [
+    "Collocasia",
+    "Egyptian lotus",
+    "Nymphoides Peltata"
+  ],
+  "plant_category_guess": "aquatic",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "collocasia",
+    "lotus",
+    "nymph",
+    "nymphoides",
+    "peltata",
+    "water_lily/egyptian_lotus"
+  ],
+  "refs": [],
+  "notes": [
+    "Just 8 lines, all cut by plant"
+  ],
+  "loci_count": 8,
+  "loci": [
+    {
+      "locus": "f2v.1,@P0",
+      "raw": "<%>kooiin.cheo,pchor.otaiin,odain.chor<->dair.shty",
+      "eva": "kooiin cheo pchor otaiin odain chor dair shty"
+    },
+    {
+      "locus": "f2v.2,+P0",
+      "raw": "kcho,kchy.sho.shol.qotcho.loeees.qoty<->chor.daiin",
+      "eva": "kcho kchy sho shol qotcho loeees qoty chor daiin"
+    },
+    {
+      "locus": "f2v.3,+P0",
+      "raw": "otchy.chor.lshy.chol.chody.chodain<->chcthy.daiin",
+      "eva": "otchy chor lshy chol chody chodain chcthy daiin"
+    },
+    {
+      "locus": "f2v.4,+P0",
+      "raw": "sho.cholo.cheor.chodaiin<$>",
+      "eva": "sho cholo cheor chodaiin"
+    },
+    {
+      "locus": "f2v.5,+P0",
+      "raw": "<%>kchor<!mark above o>.shy.daiiin.ch{cko}m<->s,shey.dor,chol,daiin",
+      "eva": "kchor shy daiiin chckom s shey dor chol daiin"
+    },
+    {
+      "locus": "f2v.6,+P0",
+      "raw": "dor.chol.chor.chol.keol.chy.chty<->daiin.o,tchor.chan",
+      "eva": "dor chol chor chol keol chy chty daiin o tchor chan"
+    },
+    {
+      "locus": "f2v.7,+P0",
+      "raw": "daiin.chotchey.qoteeey.chokeos<->chees.chr.cheaiin",
+      "eva": "daiin chotchey qoteeey chokeos chees chr cheaiin"
+    },
+    {
+      "locus": "f2v.8,+P0",
+      "raw": "chokoishe.chor.cheol.chol.dolody<$>",
+      "eva": "chokoishe chor cheol chol dolody"
+    }
+  ],
+  "eva_text": "kooiin cheo pchor otaiin odain chor dair shty\nkcho kchy sho shol qotcho loeees qoty chor daiin\notchy chor lshy chol chody chodain chcthy daiin\nsho cholo cheor chodaiin\nkchor shy daiiin chckom s shey dor chol daiin\ndor chol chor chol keol chy chty daiin o tchor chan\ndaiin chotchey qoteeey chokeos chees chr cheaiin\nchokoishe chor cheol chol dolody",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

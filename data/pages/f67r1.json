@@ -1,0 +1,122 @@
+{
+  "folio": "f67r1",
+  "page_number": null,
+  "section": "astronomical",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "page 119, 120",
+    "\"moon @ circles\"",
+    "Has gathering mark 9",
+    "Has 'a' in upper right corner",
+    "Newbold plate III, Brumbaugh p66, both of whom call it f67r",
+    "There is a noticeable gap in the word-rings at 11:45",
+    "Rings numbered C1 to C3, outer to inner",
+    "Radii of the circle, clockwise, starting from the North"
+  ],
+  "loci_count": 19,
+  "loci": [
+    {
+      "locus": "f67r1.1,@P0",
+      "raw": "<%>teeodaiin.shey.epairody.osaiin.yteeoey.shey.epaiin.o.aiin",
+      "eva": "teeodaiin shey epairody osaiin yteeoey shey epaiin o aiin"
+    },
+    {
+      "locus": "f67r1.2,+P0",
+      "raw": "daiir.okeody.qoekeey.sar.oeteody.oteey.keey.keo.keeoda[l:?]",
+      "eva": "daiir okeody qoekeey sar oeteody oteey keey keo keeoda[l:?]"
+    },
+    {
+      "locus": "f67r1.3,+P0",
+      "raw": "ycheo.s.o,iim.[che:eee]os.aiin.okesoe.ar.am.shees.dalaiin.dam",
+      "eva": "ycheo s o iim [che:eee]os aiin okesoe ar am shees dalaiin dam"
+    },
+    {
+      "locus": "f67r1.4,+P0",
+      "raw": "cheodaiin.[ch:a]ekeey.s.ar.air.s,o,ar.cheey.dair.cthey<$>",
+      "eva": "cheodaiin [ch:a]ekeey s ar air s o ar cheey dair cthey"
+    },
+    {
+      "locus": "f67r1.5,@Cc",
+      "raw": "<!00:00>soairol.shdy.chokeody.ykeedal.ol.oteodaiin.cho{ikh}edy.ot.chteokaiin.choteedy.otor.epchy.chpar.ar.sheees.deedy.soeteed.octheey.s.o.eokeot.y.choteoky.chockhy.okees.sor.aiin.daram.schdes.chdar.dar.dchschdy.dar.dar.ar.otardar.ykaros",
+      "eva": "soairol shdy chokeody ykeedal ol oteodaiin choikhedy ot chteokaiin choteedy otor epchy chpar ar sheees deedy soeteed octheey s o eokeot y choteoky chockhy okees sor aiin daram schdes chdar dar dchschdy dar dar ar otardar ykaros"
+    },
+    {
+      "locus": "f67r1.6,+Cc",
+      "raw": "<!00:00>dair.al.cheol.dal.oekaiin.sol.daiin.eetees.saiin.ykeos.l.chy.otodaiin.chetejy.otar.dair.ar.chedar.okeedy.ot[e:i]odaiin.ychsy.chekeey.ot.dol.al.cheor.okeo,r.oiin.cheeky.ary.okeo,keds.oshey.shchey.chol.dair.dain.cho.dar.aldy",
+      "eva": "dair al cheol dal oekaiin sol daiin eetees saiin ykeos l chy otodaiin chetejy otar dair ar chedar okeedy ot[e:i]odaiin ychsy chekeey ot dol al cheor okeo r oiin cheeky ary okeo keds oshey shchey chol dair dain cho dar aldy"
+    },
+    {
+      "locus": "f67r1.7,+Cc",
+      "raw": "<!00:00>archeo,r.qoikeey.oteeos.cheockhey.oteochedy.okechdar.dararal.okeorar.sotey.dair.yteey.oteo.s.oteees.oteo.otee[s:e']y.sheokeey.oteodal.chokeed.sar.ain.y<!subscript>.oto.keedais.deeety.okeey.teodain.chekchy.dair.chparam",
+      "eva": "archeo r qoikeey oteeos cheockhey oteochedy okechdar dararal okeorar sotey dair yteey oteo s oteees oteo otee[s:e']y sheokeey oteodal chokeed sar ain y oto keedais deeety okeey teodain chekchy dair chparam"
+    },
+    {
+      "locus": "f67r1.8,@Ri",
+      "raw": "otaldy",
+      "eva": "otaldy"
+    },
+    {
+      "locus": "f67r1.9,@Ri",
+      "raw": "otoky",
+      "eva": "otoky"
+    },
+    {
+      "locus": "f67r1.10,@Ri",
+      "raw": "seeaiir",
+      "eva": "seeaiir"
+    },
+    {
+      "locus": "f67r1.11,@Ri",
+      "raw": "ykees.ary",
+      "eva": "ykees ary"
+    },
+    {
+      "locus": "f67r1.12,@Ri",
+      "raw": "sosaiir",
+      "eva": "sosaiir"
+    },
+    {
+      "locus": "f67r1.13,@Ri",
+      "raw": "oteey.dar",
+      "eva": "oteey dar"
+    },
+    {
+      "locus": "f67r1.14,@Ri",
+      "raw": "yto,daiir",
+      "eva": "yto daiir"
+    },
+    {
+      "locus": "f67r1.15,@Ri",
+      "raw": "sheosam",
+      "eva": "sheosam"
+    },
+    {
+      "locus": "f67r1.16,@Ri",
+      "raw": "ykeeody",
+      "eva": "ykeeody"
+    },
+    {
+      "locus": "f67r1.17,@Ri",
+      "raw": "okeol.sal",
+      "eva": "okeol sal"
+    },
+    {
+      "locus": "f67r1.18,@Ri",
+      "raw": "okeey.sar",
+      "eva": "okeey sar"
+    },
+    {
+      "locus": "f67r1.19,@Ri",
+      "raw": "dalary",
+      "eva": "dalary"
+    }
+  ],
+  "eva_text": "teeodaiin shey epairody osaiin yteeoey shey epaiin o aiin\ndaiir okeody qoekeey sar oeteody oteey keey keo keeoda[l:?]\nycheo s o iim [che:eee]os aiin okesoe ar am shees dalaiin dam\ncheodaiin [ch:a]ekeey s ar air s o ar cheey dair cthey\nsoairol shdy chokeody ykeedal ol oteodaiin choikhedy ot chteokaiin choteedy otor epchy chpar ar sheees deedy soeteed octheey s o eokeot y choteoky chockhy okees sor aiin daram schdes chdar dar dchschdy dar dar ar otardar ykaros\ndair al cheol dal oekaiin sol daiin eetees saiin ykeos l chy otodaiin chetejy otar dair ar chedar okeedy ot[e:i]odaiin ychsy chekeey ot dol al cheor okeo r oiin cheeky ary okeo keds oshey shchey chol dair dain cho dar aldy\narcheo r qoikeey oteeos cheockhey oteochedy okechdar dararal okeorar sotey dair yteey oteo s oteees oteo otee[s:e']y sheokeey oteodal chokeed sar ain y oto keedais deeety okeey teodain chekchy dair chparam\notaldy\notoky\nseeaiir\nykees ary\nsosaiir\noteey dar\nyto daiir\nsheosam\nykeeody\nokeol sal\nokeey sar\ndalary",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,72 @@
+{
+  "folio": "f50r",
+  "page_number": 97,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Artichoke, (species of sunflower?)",
+  "plant_candidates": [
+    "Artichoke"
+  ],
+  "plant_category_guess": "flower",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "flower"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 10,
+  "loci": [
+    {
+      "locus": "f50r.1,@P0",
+      "raw": "<%>psheor.olkair.olfchedy.qop[eee:che]dar.opchey.dair.o,laiin.chefchdy",
+      "eva": "psheor olkair olfchedy qop[eee:che]dar opchey dair o laiin chefchdy"
+    },
+    {
+      "locus": "f50r.2,+P0",
+      "raw": "sor.orsheckhy.ockhody.shos.alol.dy.kar.oky.daiiin.okar.ar.okam",
+      "eva": "sor orsheckhy ockhody shos alol dy kar oky daiiin okar ar okam"
+    },
+    {
+      "locus": "f50r.3,+P0",
+      "raw": "tshol.kar.sheedy.okeody.qokedy.chody.kchdy.pchdy.chkaiin.odam",
+      "eva": "tshol kar sheedy okeody qokedy chody kchdy pchdy chkaiin odam"
+    },
+    {
+      "locus": "f50r.4,+P0",
+      "raw": "tchdy.qokas.chedy.qokchdy.qokaiin.or.ar.alol.keodaiin.ols",
+      "eva": "tchdy qokas chedy qokchdy qokaiin or ar alol keodaiin ols"
+    },
+    {
+      "locus": "f50r.5,+P0",
+      "raw": "solkchy.chckhy.qokchdy.qokchdy.okar.ar.y.qokchdy.kar.ar.okain",
+      "eva": "solkchy chckhy qokchdy qokchdy okar ar y qokchdy kar ar okain"
+    },
+    {
+      "locus": "f50r.6,+P0",
+      "raw": "ykain.[sh:{c's}]ear.ol,kchedy.okal.qotor.cheeor.olk[ee:a]dy.daiin.qoky",
+      "eva": "ykain [sh:c's]ear ol kchedy okal qotor cheeor olk[ee:a]dy daiin qoky"
+    },
+    {
+      "locus": "f50r.7,+P0",
+      "raw": "todalain.qotal.kaiin.otaiin.otal.she.ka[r:s].ariin.okchedy.dariin",
+      "eva": "todalain qotal kaiin otaiin otal she ka[r:s] ariin okchedy dariin"
+    },
+    {
+      "locus": "f50r.8,+P0",
+      "raw": "yk,ykaiin.sheekar.otchdy.dar.kar.shedain.taipar.orolkain",
+      "eva": "yk ykaiin sheekar otchdy dar kar shedain taipar orolkain"
+    },
+    {
+      "locus": "f50r.9,+P0",
+      "raw": "ytchdy.kchedy<->ykeey.kaiin.qokain.ald,[a:y]lo[s:r]am",
+      "eva": "ytchdy kchedy ykeey kaiin qokain ald [a:y]lo[s:r]am"
+    },
+    {
+      "locus": "f50r.10,+P0",
+      "raw": "solkaiin<->opalke,chckhy.darin.chky<$>",
+      "eva": "solkaiin opalke chckhy darin chky"
+    }
+  ],
+  "eva_text": "psheor olkair olfchedy qop[eee:che]dar opchey dair o laiin chefchdy\nsor orsheckhy ockhody shos alol dy kar oky daiiin okar ar okam\ntshol kar sheedy okeody qokedy chody kchdy pchdy chkaiin odam\ntchdy qokas chedy qokchdy qokaiin or ar alol keodaiin ols\nsolkchy chckhy qokchdy qokchdy okar ar y qokchdy kar ar okain\nykain [sh:c's]ear ol kchedy okal qotor cheeor olk[ee:a]dy daiin qoky\ntodalain qotal kaiin otaiin otal she ka[r:s] ariin okchedy dariin\nyk ykaiin sheekar otchdy dar kar shedain taipar orolkain\nytchdy kchedy ykeey kaiin qokain ald [a:y]lo[s:r]am\nsolkaiin opalke chckhy darin chky",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

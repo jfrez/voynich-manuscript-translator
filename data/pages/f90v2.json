@@ -1,0 +1,64 @@
+{
+  "folio": "f90v2",
+  "page_number": 189,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Xerantrium? Leaves of Osmuda regalis",
+  "plant_candidates": [
+    "Xerantrium? Leaves of Osmuda regalis"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "Same plant as f100r[1,3] ? (Stolfi)"
+  ],
+  "loci_count": 8,
+  "loci": [
+    {
+      "locus": "f90v2.1,@P0",
+      "raw": "<%>{c@181;h}da{i@133;h}y.qocfhey.opolraiin.ofchedal.s?<->shese.shodaiin.shea[s:r]",
+      "eva": "c@181;hdai@133;hy qocfhey opolraiin ofchedal s? shese shodaiin shea[s:r]"
+    },
+    {
+      "locus": "f90v2.2,+P0",
+      "raw": "podchey.ctheod.{ikh}eeos.cheey.ykeey.s.o[is:?]<->qokchas.s,oin.sam",
+      "eva": "podchey ctheod ikheeos cheey ykeey s o[is:?] qokchas s oin sam"
+    },
+    {
+      "locus": "f90v2.3,+P0",
+      "raw": "saiin.sheom.sheey.keeos.ol.cheeor.chy<->shy.tchody.okeeo[m:g]",
+      "eva": "saiin sheom sheey keeos ol cheeor chy shy tchody okeeo[m:g]"
+    },
+    {
+      "locus": "f90v2.4,+P0",
+      "raw": "tchos.oteey.saiin.okeeey<$>",
+      "eva": "tchos oteey saiin okeeey"
+    },
+    {
+      "locus": "f90v2.5,+P0",
+      "raw": "<%>tcheody.cpheal.qoar.cheol.chos,olols<->dshcheal.sheol.qodar",
+      "eva": "tcheody cpheal qoar cheol chos olols dshcheal sheol qodar"
+    },
+    {
+      "locus": "f90v2.6,+P0",
+      "raw": "sal.sheol.shey.qokeey.qokeol.cheody.s<->ykeeol,dar,chody.y",
+      "eva": "sal sheol shey qokeey qokeol cheody s ykeeol dar chody y"
+    },
+    {
+      "locus": "f90v2.7,+P0",
+      "raw": "shey.s.shee[y:a]l.sheol.sheody.tol.sheo{cty}<->oteey.chodar.chog",
+      "eva": "shey s shee[y:a]l sheol sheody tol sheocty oteey chodar chog"
+    },
+    {
+      "locus": "f90v2.8,+P0",
+      "raw": "teeas.qkeody.qokchy.oteeol.daiin<$>",
+      "eva": "teeas qkeody qokchy oteeol daiin"
+    }
+  ],
+  "eva_text": "c@181;hdai@133;hy qocfhey opolraiin ofchedal s? shese shodaiin shea[s:r]\npodchey ctheod ikheeos cheey ykeey s o[is:?] qokchas s oin sam\nsaiin sheom sheey keeos ol cheeor chy shy tchody okeeo[m:g]\ntchos oteey saiin okeeey\ntcheody cpheal qoar cheol chos olols dshcheal sheol qodar\nsal sheol shey qokeey qokeol cheody s ykeeol dar chody y\nshey s shee[y:a]l sheol sheody tol sheocty oteey chodar chog\nteeas qkeody qokchy oteeol daiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

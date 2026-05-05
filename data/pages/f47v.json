@@ -1,0 +1,95 @@
+{
+  "folio": "f47v",
+  "page_number": 92,
+  "section": "herbal",
+  "currier": null,
+  "plant_id": "Toronicum Pardalianchus (Holm) [Gemswurtz]",
+  "plant_candidates": [
+    "Toronicum Pardalianchus Gemswurtz"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "Curriers language A, hand 1",
+    "Same plant as f102r2[1,1] (Petersen)"
+  ],
+  "loci_count": 14,
+  "loci": [
+    {
+      "locus": "f47v.1,@P0",
+      "raw": "<%>psheot.cheor.cholsho.chopchy.sal<->sary",
+      "eva": "psheot cheor cholsho chopchy sal sary"
+    },
+    {
+      "locus": "f47v.2,+P0",
+      "raw": "dsheey.shy.cphy.otchey.daiidy.chory<->daiiy",
+      "eva": "dsheey shy cphy otchey daiidy chory daiiy"
+    },
+    {
+      "locus": "f47v.3,+P0",
+      "raw": "shol.char.oteol.dor.otchol.chkchy<->daiin",
+      "eva": "shol char oteol dor otchol chkchy daiin"
+    },
+    {
+      "locus": "f47v.4,+P0",
+      "raw": "qotol.sheey.kol.sho.keechy.qoty<->cthy",
+      "eva": "qotol sheey kol sho keechy qoty cthy"
+    },
+    {
+      "locus": "f47v.5,+P0",
+      "raw": "dsholy.shees.chor.ody.shy.sy<->sary",
+      "eva": "dsholy shees chor ody shy sy sary"
+    },
+    {
+      "locus": "f47v.6,+P0",
+      "raw": "chody.cheor.saiin.dochod<->chol<$>",
+      "eva": "chody cheor saiin dochod chol"
+    },
+    {
+      "locus": "f47v.7,+P0",
+      "raw": "<%>pchodaiin.dair.dcthy",
+      "eva": "pchodaiin dair dcthy"
+    },
+    {
+      "locus": "f47v.8,+P0",
+      "raw": "daiin.cheotar.chodaly.sal",
+      "eva": "daiin cheotar chodaly sal"
+    },
+    {
+      "locus": "f47v.9,+P0",
+      "raw": "qotcheey.chety.chol.chol.dain",
+      "eva": "qotcheey chety chol chol dain"
+    },
+    {
+      "locus": "f47v.10,+P0",
+      "raw": "chotcho,ltchey.[o:y].tcho,tchy.dy<->chol.chody.dar",
+      "eva": "chotcho ltchey [o:y] tcho tchy dy chol chody dar"
+    },
+    {
+      "locus": "f47v.11,+P0",
+      "raw": "ot[ee:a:ei]y.cho.chdy.chy.key.chyky<->dchy.daiin.chy",
+      "eva": "ot[ee:a:ei]y cho chdy chy key chyky dchy daiin chy"
+    },
+    {
+      "locus": "f47v.12,+P0",
+      "raw": "ch[y:o].cho,keesy.chy.chy.cheky<->chochy.daiin",
+      "eva": "ch[y:o] cho keesy chy chy cheky chochy daiin"
+    },
+    {
+      "locus": "f47v.13,+P0",
+      "raw": "dshy.daiin.chdlety.chaiin<->dcheey.otald",
+      "eva": "dshy daiin chdlety chaiin dcheey otald"
+    },
+    {
+      "locus": "f47v.14,+P0",
+      "raw": "chol.{ct}chey<$>",
+      "eva": "chol ctchey"
+    }
+  ],
+  "eva_text": "psheot cheor cholsho chopchy sal sary\ndsheey shy cphy otchey daiidy chory daiiy\nshol char oteol dor otchol chkchy daiin\nqotol sheey kol sho keechy qoty cthy\ndsholy shees chor ody shy sy sary\nchody cheor saiin dochod chol\npchodaiin dair dcthy\ndaiin cheotar chodaly sal\nqotcheey chety chol chol dain\nchotcho ltchey [o:y] tcho tchy dy chol chody dar\not[ee:a:ei]y cho chdy chy key chyky dchy daiin chy\nch[y:o] cho keesy chy chy cheky chochy daiin\ndshy daiin chdlety chaiin dcheey otald\nchol ctchey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,86 @@
+{
+  "folio": "f9v",
+  "page_number": 18,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Herba Trinitatis, Freyschamkraut(sp?) (O'Neill)",
+  "plant_candidates": [
+    "Herba Trinitatis",
+    "Freyschamkraut"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "Viola Tricoloris, Jacca sive Flos Trinitatis",
+    "RZ: Viola allright but all upside down"
+  ],
+  "loci_count": 12,
+  "loci": [
+    {
+      "locus": "f9v.1,@P0",
+      "raw": "<%>fochor.oporody.opy.shor.daiin.qopchypcho.qofol.shol.cfhol.daiin",
+      "eva": "fochor oporody opy shor daiin qopchypcho qofol shol cfhol daiin"
+    },
+    {
+      "locus": "f9v.2,+P0",
+      "raw": "dchor.qoaiin.chkaiin.cthor.chol.chor.cphol.dy<->oty.qokaiin.dy",
+      "eva": "dchor qoaiin chkaiin cthor chol chor cphol dy oty qokaiin dy"
+    },
+    {
+      "locus": "f9v.3,+P0",
+      "raw": "ykey.chor.ykaiin.daiin.cthy.otaiin.oky<->oeees.daiin",
+      "eva": "ykey chor ykaiin daiin cthy otaiin oky oeees daiin"
+    },
+    {
+      "locus": "f9v.4,+P0",
+      "raw": "ytey,tch,y.kaiin.cthor.otol.oty.toldy<$>",
+      "eva": "ytey tch y kaiin cthor otol oty toldy"
+    },
+    {
+      "locus": "f9v.5,+P0",
+      "raw": "<%>pchor.ypcheey.qotor.ypchy.olcfholy.t[o:e]<->ar<->chty.daiiin",
+      "eva": "pchor ypcheey qotor ypchy olcfholy t[o:e] ar chty daiiin"
+    },
+    {
+      "locus": "f9v.6,+P0",
+      "raw": "odol.choy.ksheody.chody<->da[in:iin]<->otchy.cthod<->yko",
+      "eva": "odol choy ksheody chody da[in:iin] otchy cthod yko"
+    },
+    {
+      "locus": "f9v.7,+P0",
+      "raw": "qo.chol.chol.{ct}chy.daiin<->otal<->dor<->daim",
+      "eva": "qo chol chol ctchy daiin otal dor daim"
+    },
+    {
+      "locus": "f9v.8,+P0",
+      "raw": "soiin.daiin.qokcho.rokyd<->daly",
+      "eva": "soiin daiin qokcho rokyd daly"
+    },
+    {
+      "locus": "f9v.9,+P0",
+      "raw": "daiin.chy.tor.chyty.dary<->ytoldy",
+      "eva": "daiin chy tor chyty dary ytoldy"
+    },
+    {
+      "locus": "f9v.10,+P0",
+      "raw": "oty.kchol.chol.chy.kyty",
+      "eva": "oty kchol chol chy kyty"
+    },
+    {
+      "locus": "f9v.11,+P0",
+      "raw": "ychor.chshoty.oky,kaiin",
+      "eva": "ychor chshoty oky kaiin"
+    },
+    {
+      "locus": "f9v.12,+P0",
+      "raw": "chkaiin.ckhy.chor<$>",
+      "eva": "chkaiin ckhy chor"
+    }
+  ],
+  "eva_text": "fochor oporody opy shor daiin qopchypcho qofol shol cfhol daiin\ndchor qoaiin chkaiin cthor chol chor cphol dy oty qokaiin dy\nykey chor ykaiin daiin cthy otaiin oky oeees daiin\nytey tch y kaiin cthor otol oty toldy\npchor ypcheey qotor ypchy olcfholy t[o:e] ar chty daiiin\nodol choy ksheody chody da[in:iin] otchy cthod yko\nqo chol chol ctchy daiin otal dor daim\nsoiin daiin qokcho rokyd daly\ndaiin chy tor chyty dary ytoldy\noty kchol chol chy kyty\nychor chshoty oky kaiin\nchkaiin ckhy chor",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

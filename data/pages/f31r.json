@@ -1,0 +1,102 @@
+{
+  "folio": "f31r",
+  "page_number": 59,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Hyrcio[unreadable] Arabum",
+  "plant_candidates": [
+    "Hyrciounreadable Arabum"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 16,
+  "loci": [
+    {
+      "locus": "f31r.1,@P0",
+      "raw": "<%>keedey.qofchedy.shee,s.aiin.qokee@149;.chepakeo",
+      "eva": "keedey qofchedy shee s aiin qokee@149; chepakeo"
+    },
+    {
+      "locus": "f31r.2,+P0",
+      "raw": "dcheey.daiin.okeedy.qokees.s.aiin.shekeey.qef",
+      "eva": "dcheey daiin okeedy qokees s aiin shekeey qef"
+    },
+    {
+      "locus": "f31r.3,+P0",
+      "raw": "qokeey.chey.daiin.qokeey.[s:r]air.chekey.s,aiin.da?",
+      "eva": "qokeey chey daiin qokeey [s:r]air chekey s aiin da?"
+    },
+    {
+      "locus": "f31r.4,+P0",
+      "raw": "qotar.chy.dar.lo,r,ar.cheey.keeol,chedy.qokey",
+      "eva": "qotar chy dar lo r ar cheey keeol chedy qokey"
+    },
+    {
+      "locus": "f31r.5,+P0",
+      "raw": "daiin.sheeody.qokeor<$>",
+      "eva": "daiin sheeody qokeor"
+    },
+    {
+      "locus": "f31r.6,+P0",
+      "raw": "<%>tshokeody.qokedy.qotedy.chep[o:a]s.cheda,[s:r].aiin.dal",
+      "eva": "tshokeody qokedy qotedy chep[o:a]s cheda [s:r] aiin dal"
+    },
+    {
+      "locus": "f31r.7,+P0",
+      "raw": "ykeedar.saiin.checkhey.sheol.qokedy.ykeedy.chedy.ldy",
+      "eva": "ykeedar saiin checkhey sheol qokedy ykeedy chedy ldy"
+    },
+    {
+      "locus": "f31r.8,+P0",
+      "raw": "shedy.qokedy.cheol.cheod.qokeody.cheol.checthy",
+      "eva": "shedy qokedy cheol cheod qokeody cheol checthy"
+    },
+    {
+      "locus": "f31r.9,+P0",
+      "raw": "daiir.sheeo.shcthey.okeol<$>",
+      "eva": "daiir sheeo shcthey okeol"
+    },
+    {
+      "locus": "f31r.10,+P0",
+      "raw": "<%>tol,shso.okedy.okedy.qokedy.qokeedy.dar.shedshey",
+      "eva": "tol shso okedy okedy qokedy qokeedy dar shedshey"
+    },
+    {
+      "locus": "f31r.11,+P0",
+      "raw": "olsheol.qokchy.dal,chey.deey.kchy.keey.okaiiin.ykeey",
+      "eva": "olsheol qokchy dal chey deey kchy keey okaiiin ykeey"
+    },
+    {
+      "locus": "f31r.12,+P0",
+      "raw": "qoaiin.yches.okedy.sheey.chedaiin.dar",
+      "eva": "qoaiin yches okedy sheey chedaiin dar"
+    },
+    {
+      "locus": "f31r.13,+P0",
+      "raw": "olsheor.qoekedy.otedy.ykedy.dals",
+      "eva": "olsheor qoekedy otedy ykedy dals"
+    },
+    {
+      "locus": "f31r.14,+P0",
+      "raw": "saii[s:r].or.chedy.daiin.okeedy",
+      "eva": "saii[s:r] or chedy daiin okeedy"
+    },
+    {
+      "locus": "f31r.15,+P0",
+      "raw": "yshedair.sheol,cheky.okedam",
+      "eva": "yshedair sheol cheky okedam"
+    },
+    {
+      "locus": "f31r.16,+Pc",
+      "raw": "oteor.aiicthy<$>",
+      "eva": "oteor aiicthy"
+    }
+  ],
+  "eva_text": "keedey qofchedy shee s aiin qokee@149; chepakeo\ndcheey daiin okeedy qokees s aiin shekeey qef\nqokeey chey daiin qokeey [s:r]air chekey s aiin da?\nqotar chy dar lo r ar cheey keeol chedy qokey\ndaiin sheeody qokeor\ntshokeody qokedy qotedy chep[o:a]s cheda [s:r] aiin dal\nykeedar saiin checkhey sheol qokedy ykeedy chedy ldy\nshedy qokedy cheol cheod qokeody cheol checthy\ndaiir sheeo shcthey okeol\ntol shso okedy okedy qokedy qokeedy dar shedshey\nolsheol qokchy dal chey deey kchy keey okaiiin ykeey\nqoaiin yches okedy sheey chedaiin dar\nolsheor qoekedy otedy ykedy dals\nsaii[s:r] or chedy daiin okeedy\nyshedair sheol cheky okedam\noteor aiicthy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

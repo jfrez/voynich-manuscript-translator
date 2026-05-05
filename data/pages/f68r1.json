@@ -1,0 +1,210 @@
+{
+  "folio": "f68r1",
+  "page_number": 125,
+  "section": "astronomical",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Has star names",
+    "Has 'a' in upper left corner",
+    "Krauss plate 31(top)",
+    "Blocked text near top Sun/Moon",
+    "Labeled stars. Numbers one less than Petersen's",
+    "Moon circle"
+  ],
+  "loci_count": 37,
+  "loci": [
+    {
+      "locus": "f68r1.1,@P0",
+      "raw": "<%>shokchy.chteey.choteey.cphol.cheor.opcheeol.otor.choctheeey.okchoal",
+      "eva": "shokchy chteey choteey cphol cheor opcheeol otor choctheeey okchoal"
+    },
+    {
+      "locus": "f68r1.2,+P0",
+      "raw": "tochso.otchl.qokeeedy.cheey.cheeteey.yteody.chpor.cheokorchey.chod",
+      "eva": "tochso otchl qokeeedy cheey cheeteey yteody chpor cheokorchey chod"
+    },
+    {
+      "locus": "f68r1.3,+P0",
+      "raw": "ykor.shey.qocheey.chokal<->okeey.ror.eckhear.daram",
+      "eva": "ykor shey qocheey chokal okeey ror eckhear daram"
+    },
+    {
+      "locus": "f68r1.4,+P0",
+      "raw": "dchor.okaiiin<$>",
+      "eva": "dchor okaiiin"
+    },
+    {
+      "locus": "f68r1.5,@Pb",
+      "raw": "yky",
+      "eva": "yky"
+    },
+    {
+      "locus": "f68r1.6,+Pb",
+      "raw": "dary",
+      "eva": "dary"
+    },
+    {
+      "locus": "f68r1.7,+Pb",
+      "raw": "chkchykoly",
+      "eva": "chkchykoly"
+    },
+    {
+      "locus": "f68r1.8,@Ls",
+      "raw": "okodaly",
+      "eva": "okodaly"
+    },
+    {
+      "locus": "f68r1.9,@Ls",
+      "raw": "odchecthy",
+      "eva": "odchecthy"
+    },
+    {
+      "locus": "f68r1.10,@Ls",
+      "raw": "otcheody",
+      "eva": "otcheody"
+    },
+    {
+      "locus": "f68r1.11,@Ls",
+      "raw": "okoaly",
+      "eva": "okoaly"
+    },
+    {
+      "locus": "f68r1.12,@Ls",
+      "raw": "chocfhy",
+      "eva": "chocfhy"
+    },
+    {
+      "locus": "f68r1.13,@Ls",
+      "raw": "octhey",
+      "eva": "octhey"
+    },
+    {
+      "locus": "f68r1.14,@Ls",
+      "raw": "otshey",
+      "eva": "otshey"
+    },
+    {
+      "locus": "f68r1.15,@Ls",
+      "raw": "otydy",
+      "eva": "otydy"
+    },
+    {
+      "locus": "f68r1.16,@Ls",
+      "raw": "okear",
+      "eva": "okear"
+    },
+    {
+      "locus": "f68r1.17,@Ls",
+      "raw": "cphocthy",
+      "eva": "cphocthy"
+    },
+    {
+      "locus": "f68r1.18,@Ls",
+      "raw": "ytchody",
+      "eva": "ytchody"
+    },
+    {
+      "locus": "f68r1.19,@Ls",
+      "raw": "otys",
+      "eva": "otys"
+    },
+    {
+      "locus": "f68r1.20,@Ls",
+      "raw": "olor",
+      "eva": "olor"
+    },
+    {
+      "locus": "f68r1.21,@Ls",
+      "raw": "ockhy",
+      "eva": "ockhy"
+    },
+    {
+      "locus": "f68r1.22,@Ls",
+      "raw": "ofcheor",
+      "eva": "ofcheor"
+    },
+    {
+      "locus": "f68r1.23,@Ls",
+      "raw": "otchdy",
+      "eva": "otchdy"
+    },
+    {
+      "locus": "f68r1.24,@Ls",
+      "raw": "otykchs",
+      "eva": "otykchs"
+    },
+    {
+      "locus": "f68r1.25,@Ls",
+      "raw": "otol",
+      "eva": "otol"
+    },
+    {
+      "locus": "f68r1.26,@Ls",
+      "raw": "otor",
+      "eva": "otor"
+    },
+    {
+      "locus": "f68r1.27,@Ls",
+      "raw": "oiinar",
+      "eva": "oiinar"
+    },
+    {
+      "locus": "f68r1.28,@Ls",
+      "raw": "okoldy",
+      "eva": "okoldy"
+    },
+    {
+      "locus": "f68r1.29,@Ls",
+      "raw": "ykchdy",
+      "eva": "ykchdy"
+    },
+    {
+      "locus": "f68r1.30,@Ls",
+      "raw": "@167;oeeod{c@196;h}y",
+      "eva": "@167;oeeodc@196;hy"
+    },
+    {
+      "locus": "f68r1.31,@Ls",
+      "raw": "ocphy",
+      "eva": "ocphy"
+    },
+    {
+      "locus": "f68r1.32,@Ls",
+      "raw": "okeeodal",
+      "eva": "okeeodal"
+    },
+    {
+      "locus": "f68r1.33,@Ls",
+      "raw": "okshor",
+      "eva": "okshor"
+    },
+    {
+      "locus": "f68r1.34,@Ls",
+      "raw": "osdaiin",
+      "eva": "osdaiin"
+    },
+    {
+      "locus": "f68r1.35,@Ls",
+      "raw": "otochedy",
+      "eva": "otochedy"
+    },
+    {
+      "locus": "f68r1.36,@Ls",
+      "raw": "dolchedy",
+      "eva": "dolchedy"
+    },
+    {
+      "locus": "f68r1.37,@Cc",
+      "raw": "<!08:30>oky.okchdy.okardy.q[?:k]ear.oygy",
+      "eva": "oky okchdy okardy q[?:k]ear oygy"
+    }
+  ],
+  "eva_text": "shokchy chteey choteey cphol cheor opcheeol otor choctheeey okchoal\ntochso otchl qokeeedy cheey cheeteey yteody chpor cheokorchey chod\nykor shey qocheey chokal okeey ror eckhear daram\ndchor okaiiin\nyky\ndary\nchkchykoly\nokodaly\nodchecthy\notcheody\nokoaly\nchocfhy\nocthey\notshey\notydy\nokear\ncphocthy\nytchody\notys\nolor\nockhy\nofcheor\notchdy\notykchs\notol\notor\noiinar\nokoldy\nykchdy\n@167;oeeodc@196;hy\nocphy\nokeeodal\nokshor\nosdaiin\notochedy\ndolchedy\noky okchdy okardy q[?:k]ear oygy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,2217 @@
+{
+  "folio": "f19r",
+  "page_number": 35,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "source": {
+    "transliteration": "IVTFF/EVA (ZL file as downloaded by scripts/build_pages.py)",
+    "pages_file": "data/pages/f19r.json"
+  },
+  "page_pantry_max_per_line_recipe": {
+    "water_l": 0.5,
+    "sugar_or_honey_g": 25,
+    "main_plant_substitute": [
+      "chamomile (safe default substitute)"
+    ],
+    "main_plant_dry_g": 5,
+    "secondary_herb_substitute": [
+      "mint"
+    ],
+    "secondary_herb_dry_g": 2,
+    "yeast_g": 1,
+    "safe_complex_herbal_blend": [
+      "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
+    ]
+  },
+  "page_summary_procedural": {
+    "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+    "plant_category_guess": "unknown",
+    "procedural_summary": {
+      "compound_counts": {
+        "yeast fermentation": 32,
+        "main herb": 33,
+        "mix/transfer": 35,
+        "liquid base": 10,
+        "heat": 15,
+        "secondary herb": 8,
+        "sugars": 11,
+        "complex herbal compound": 5
+      },
+      "dose_level": 1,
+      "fermentation_estimate": "7–14 days"
+    },
+    "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+    "does_it_make_sense": "partial",
+    "risks": [
+      "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+      "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+      "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+      "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+      "No medical claims: this is an experimental beverage."
+    ],
+    "recommended_adjustments": [
+      "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+      "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+      "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+    ]
+  },
+  "line_recipes": [
+    {
+      "locus": "f19r.1,@P0",
+      "eva_line": "pchor qodchy qotshy dy tchy qotchy qoky daiin dchydy",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "pchor",
+            "normalized": "pchor",
+            "tokens": [
+              "p",
+              "ch",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer → start fermentation (yeast)"
+          },
+          {
+            "word": "qodchy",
+            "normalized": "qopch",
+            "tokens": [
+              "qo",
+              "p",
+              "ch"
+            ],
+            "compounds": [
+              "liquid base",
+              "yeast fermentation",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "prepare liquid base → add main plant (safe substitute) → start fermentation (yeast)"
+          },
+          {
+            "word": "qotshy",
+            "normalized": "qotsh",
+            "tokens": [
+              "qo",
+              "t",
+              "sh"
+            ],
+            "compounds": [
+              "liquid base",
+              "heat",
+              "secondary herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "prepare liquid base → apply heat/cooking → add secondary herb (safe substitute)"
+          },
+          {
+            "word": "dy",
+            "normalized": "p",
+            "tokens": [
+              "p"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "start fermentation (yeast)"
+          },
+          {
+            "word": "tchy",
+            "normalized": "tch",
+            "tokens": [
+              "t",
+              "ch"
+            ],
+            "compounds": [
+              "heat",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "apply heat/cooking → add main plant (safe substitute)"
+          },
+          {
+            "word": "qotchy",
+            "normalized": "qotch",
+            "tokens": [
+              "qo",
+              "t",
+              "ch"
+            ],
+            "compounds": [
+              "liquid base",
+              "heat",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "prepare liquid base → apply heat/cooking → add main plant (safe substitute)"
+          },
+          {
+            "word": "qoky",
+            "normalized": "qok",
+            "tokens": [
+              "qo",
+              "k"
+            ],
+            "compounds": [
+              "liquid base",
+              "sugars"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "prepare liquid base → add fermentable sugars"
+          },
+          {
+            "word": "daiin",
+            "normalized": "paiin",
+            "tokens": [
+              "p",
+              "aiin"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          },
+          {
+            "word": "dchydy",
+            "normalized": "pchp",
+            "tokens": [
+              "p",
+              "ch",
+              "p"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "main herb",
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → start fermentation (yeast)"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "yeast fermentation": 6,
+            "main herb": 5,
+            "mix/transfer": 1,
+            "liquid base": 4,
+            "heat": 3,
+            "secondary herb": 1,
+            "sugars": 1
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "7–14 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 25,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 2,
+          "yeast_g": 1
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 25 g sugar or honey.",
+          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~2 g dried).",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.2,+P0",
+      "eva_line": "dshy chor y tchy chol dytchy chordy daiin dyty @241; cho@242;",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "dshy",
+            "normalized": "psh",
+            "tokens": [
+              "p",
+              "sh"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "secondary herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add secondary herb (safe substitute) → start fermentation (yeast)"
+          },
+          {
+            "word": "chor",
+            "normalized": "chor",
+            "tokens": [
+              "ch",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "y",
+            "normalized": "",
+            "tokens": [],
+            "compounds": [],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "[unparsed]"
+          },
+          {
+            "word": "tchy",
+            "normalized": "tch",
+            "tokens": [
+              "t",
+              "ch"
+            ],
+            "compounds": [
+              "heat",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "apply heat/cooking → add main plant (safe substitute)"
+          },
+          {
+            "word": "chol",
+            "normalized": "chol",
+            "tokens": [
+              "ch",
+              "o",
+              "l"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "l"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "dytchy",
+            "normalized": "ptch",
+            "tokens": [
+              "p",
+              "t",
+              "ch"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "heat",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "apply heat/cooking → add main plant (safe substitute) → start fermentation (yeast)"
+          },
+          {
+            "word": "chordy",
+            "normalized": "chorp",
+            "tokens": [
+              "ch",
+              "o",
+              "r",
+              "p"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer",
+              "yeast fermentation"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer → start fermentation (yeast)"
+          },
+          {
+            "word": "daiin",
+            "normalized": "paiin",
+            "tokens": [
+              "p",
+              "aiin"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          },
+          {
+            "word": "dyty",
+            "normalized": "pt",
+            "tokens": [
+              "p",
+              "t"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "heat"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "apply heat/cooking → start fermentation (yeast)"
+          },
+          {
+            "word": "cho",
+            "normalized": "cho",
+            "tokens": [
+              "ch",
+              "o"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "yeast fermentation": 5,
+            "secondary herb": 1,
+            "main herb": 6,
+            "mix/transfer": 4,
+            "heat": 3
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "7–14 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 12,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 2,
+          "yeast_g": 1
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 12 g sugar or honey.",
+          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~2 g dried).",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.3,+P0",
+      "eva_line": "oscheor shy tdaiin chol dor yky",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "oscheor",
+            "normalized": "oscheor",
+            "tokens": [
+              "o",
+              "s",
+              "ch",
+              "e",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "mix/transfer",
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "s",
+              "r"
+            ],
+            "vowel_run": "e",
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction"
+          },
+          {
+            "word": "shy",
+            "normalized": "sh",
+            "tokens": [
+              "sh"
+            ],
+            "compounds": [
+              "secondary herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add secondary herb (safe substitute)"
+          },
+          {
+            "word": "tdaiin",
+            "normalized": "tpaiin",
+            "tokens": [
+              "t",
+              "p",
+              "aiin"
+            ],
+            "compounds": [
+              "heat",
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "apply heat/cooking → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          },
+          {
+            "word": "chol",
+            "normalized": "chol",
+            "tokens": [
+              "ch",
+              "o",
+              "l"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "l"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "dor",
+            "normalized": "por",
+            "tokens": [
+              "p",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "mix / transfer → start fermentation (yeast)"
+          },
+          {
+            "word": "yky",
+            "normalized": "k",
+            "tokens": [
+              "k"
+            ],
+            "compounds": [
+              "sugars"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add fermentable sugars"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "mix/transfer": 4,
+            "main herb": 2,
+            "secondary herb": 1,
+            "heat": 1,
+            "yeast fermentation": 2,
+            "sugars": 1
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "7–14 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 25,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 2,
+          "yeast_g": 1
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 25 g sugar or honey.",
+          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~2 g dried).",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.4,+P0",
+      "eva_line": "qokorar daiin chckhy shy kchor",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "qokorar",
+            "normalized": "qokorar",
+            "tokens": [
+              "qo",
+              "k",
+              "o",
+              "r",
+              "a",
+              "r"
+            ],
+            "compounds": [
+              "liquid base",
+              "sugars",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r",
+              "r"
+            ],
+            "vowel_run": "a",
+            "suffix": null,
+            "interpretation": "prepare liquid base → add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start"
+          },
+          {
+            "word": "daiin",
+            "normalized": "paiin",
+            "tokens": [
+              "p",
+              "aiin"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          },
+          {
+            "word": "chckhy",
+            "normalized": "chckh",
+            "tokens": [
+              "ch",
+              "ckh"
+            ],
+            "compounds": [
+              "main herb",
+              "complex herbal compound"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → add complex herbal compound (safe blend)"
+          },
+          {
+            "word": "shy",
+            "normalized": "sh",
+            "tokens": [
+              "sh"
+            ],
+            "compounds": [
+              "secondary herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add secondary herb (safe substitute)"
+          },
+          {
+            "word": "kchor",
+            "normalized": "kchor",
+            "tokens": [
+              "k",
+              "ch",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "sugars",
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add fermentable sugars → add main plant (safe substitute) → mix / transfer"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "liquid base": 1,
+            "sugars": 2,
+            "mix/transfer": 2,
+            "yeast fermentation": 1,
+            "main herb": 2,
+            "complex herbal compound": 1,
+            "secondary herb": 1
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "7–14 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 25,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 2,
+          "yeast_g": 1,
+          "safe_complex_herbal_blend": "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 25 g sugar or honey.",
+          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~2 g dried).",
+          "If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.5,+P0",
+      "eva_line": "otchy tchy qoky daiin @243;",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "otchy",
+            "normalized": "otch",
+            "tokens": [
+              "o",
+              "t",
+              "ch"
+            ],
+            "compounds": [
+              "mix/transfer",
+              "heat",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "apply heat/cooking → add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "tchy",
+            "normalized": "tch",
+            "tokens": [
+              "t",
+              "ch"
+            ],
+            "compounds": [
+              "heat",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "apply heat/cooking → add main plant (safe substitute)"
+          },
+          {
+            "word": "qoky",
+            "normalized": "qok",
+            "tokens": [
+              "qo",
+              "k"
+            ],
+            "compounds": [
+              "liquid base",
+              "sugars"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "prepare liquid base → add fermentable sugars"
+          },
+          {
+            "word": "daiin",
+            "normalized": "paiin",
+            "tokens": [
+              "p",
+              "aiin"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "mix/transfer": 1,
+            "heat": 2,
+            "main herb": 2,
+            "liquid base": 1,
+            "sugars": 1,
+            "yeast fermentation": 1
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "7–14 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 25,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 1,
+          "yeast_g": 1
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 25 g sugar or honey.",
+          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~1 g dried).",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.6,+P0",
+      "eva_line": "yshor shy daiin otytchy daiin",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "yshor",
+            "normalized": "shor",
+            "tokens": [
+              "sh",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "secondary herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add secondary herb (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "shy",
+            "normalized": "sh",
+            "tokens": [
+              "sh"
+            ],
+            "compounds": [
+              "secondary herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add secondary herb (safe substitute)"
+          },
+          {
+            "word": "daiin",
+            "normalized": "paiin",
+            "tokens": [
+              "p",
+              "aiin"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          },
+          {
+            "word": "otytchy",
+            "normalized": "ottch",
+            "tokens": [
+              "o",
+              "t",
+              "t",
+              "ch"
+            ],
+            "compounds": [
+              "mix/transfer",
+              "heat",
+              "heat",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "apply heat/cooking → add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "daiin",
+            "normalized": "paiin",
+            "tokens": [
+              "p",
+              "aiin"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "secondary herb": 2,
+            "mix/transfer": 2,
+            "yeast fermentation": 2,
+            "heat": 2,
+            "main herb": 1
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "7–14 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 12,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 2,
+          "yeast_g": 1
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 12 g sugar or honey.",
+          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~2 g dried).",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.7,+P0",
+      "eva_line": "qo'k cho ky cthar dor chan dar",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "qo",
+            "normalized": "qo",
+            "tokens": [
+              "qo"
+            ],
+            "compounds": [
+              "liquid base"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "prepare liquid base"
+          },
+          {
+            "word": "k",
+            "normalized": "k",
+            "tokens": [
+              "k"
+            ],
+            "compounds": [
+              "sugars"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add fermentable sugars"
+          },
+          {
+            "word": "cho",
+            "normalized": "cho",
+            "tokens": [
+              "ch",
+              "o"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "ky",
+            "normalized": "k",
+            "tokens": [
+              "k"
+            ],
+            "compounds": [
+              "sugars"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add fermentable sugars"
+          },
+          {
+            "word": "cthar",
+            "normalized": "cthar",
+            "tokens": [
+              "cth",
+              "a",
+              "r"
+            ],
+            "compounds": [
+              "complex herbal compound"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": "a",
+            "suffix": null,
+            "interpretation": "add complex herbal compound (safe blend) → duration level 1 → state: fermentation start"
+          },
+          {
+            "word": "dor",
+            "normalized": "por",
+            "tokens": [
+              "p",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "mix / transfer → start fermentation (yeast)"
+          },
+          {
+            "word": "chan",
+            "normalized": "chan",
+            "tokens": [
+              "ch",
+              "a",
+              "n"
+            ],
+            "compounds": [
+              "main herb"
+            ],
+            "connectors": [
+              "n"
+            ],
+            "vowel_run": "a",
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → duration level 1 → state: fermentation start"
+          },
+          {
+            "word": "dar",
+            "normalized": "par",
+            "tokens": [
+              "p",
+              "a",
+              "r"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": "a",
+            "suffix": null,
+            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "liquid base": 1,
+            "sugars": 2,
+            "main herb": 2,
+            "mix/transfer": 2,
+            "complex herbal compound": 1,
+            "yeast fermentation": 2
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "2–4 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 25,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 1,
+          "yeast_g": 1,
+          "safe_complex_herbal_blend": "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 25 g sugar or honey.",
+          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~1 g dried).",
+          "If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 2–4 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.8,+P0",
+      "eva_line": "or chor daky dal chor dorl shy",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "or",
+            "normalized": "or",
+            "tokens": [
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "mix / transfer"
+          },
+          {
+            "word": "chor",
+            "normalized": "chor",
+            "tokens": [
+              "ch",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "daky",
+            "normalized": "pak",
+            "tokens": [
+              "p",
+              "a",
+              "k"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "sugars"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": null,
+            "interpretation": "add fermentable sugars → start fermentation (yeast) → duration level 1 → state: fermentation start"
+          },
+          {
+            "word": "dal",
+            "normalized": "pal",
+            "tokens": [
+              "p",
+              "a",
+              "l"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [
+              "l"
+            ],
+            "vowel_run": "a",
+            "suffix": null,
+            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+          },
+          {
+            "word": "chor",
+            "normalized": "chor",
+            "tokens": [
+              "ch",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "dorl",
+            "normalized": "porl",
+            "tokens": [
+              "p",
+              "o",
+              "r",
+              "l"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r",
+              "l"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "mix / transfer → start fermentation (yeast)"
+          },
+          {
+            "word": "shy",
+            "normalized": "sh",
+            "tokens": [
+              "sh"
+            ],
+            "compounds": [
+              "secondary herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add secondary herb (safe substitute)"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "mix/transfer": 4,
+            "main herb": 2,
+            "yeast fermentation": 3,
+            "sugars": 1,
+            "secondary herb": 1
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "2–4 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 25,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 2,
+          "yeast_g": 1
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 25 g sugar or honey.",
+          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~2 g dried).",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 2–4 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.9,+P0",
+      "eva_line": "qotchor dy dor y tchy kchy shdaiin",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "qotchor",
+            "normalized": "qotchor",
+            "tokens": [
+              "qo",
+              "t",
+              "ch",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "liquid base",
+              "heat",
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "prepare liquid base → apply heat/cooking → add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "dy",
+            "normalized": "p",
+            "tokens": [
+              "p"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "start fermentation (yeast)"
+          },
+          {
+            "word": "dor",
+            "normalized": "por",
+            "tokens": [
+              "p",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "mix / transfer → start fermentation (yeast)"
+          },
+          {
+            "word": "y",
+            "normalized": "",
+            "tokens": [],
+            "compounds": [],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "[unparsed]"
+          },
+          {
+            "word": "tchy",
+            "normalized": "tch",
+            "tokens": [
+              "t",
+              "ch"
+            ],
+            "compounds": [
+              "heat",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "apply heat/cooking → add main plant (safe substitute)"
+          },
+          {
+            "word": "kchy",
+            "normalized": "kch",
+            "tokens": [
+              "k",
+              "ch"
+            ],
+            "compounds": [
+              "sugars",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add fermentable sugars → add main plant (safe substitute)"
+          },
+          {
+            "word": "shdaiin",
+            "normalized": "shpaiin",
+            "tokens": [
+              "sh",
+              "p",
+              "aiin"
+            ],
+            "compounds": [
+              "secondary herb",
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "liquid base": 1,
+            "heat": 2,
+            "main herb": 3,
+            "mix/transfer": 2,
+            "yeast fermentation": 3,
+            "sugars": 1,
+            "secondary herb": 1
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "7–14 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 25,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 2,
+          "yeast_g": 1
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 25 g sugar or honey.",
+          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~2 g dried).",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.10,+P0",
+      "eva_line": "daiin cthor chol ykchor chordy",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "daiin",
+            "normalized": "paiin",
+            "tokens": [
+              "p",
+              "aiin"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          },
+          {
+            "word": "cthor",
+            "normalized": "cthor",
+            "tokens": [
+              "cth",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "complex herbal compound",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "mix / transfer → add complex herbal compound (safe blend)"
+          },
+          {
+            "word": "chol",
+            "normalized": "chol",
+            "tokens": [
+              "ch",
+              "o",
+              "l"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "l"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "ykchor",
+            "normalized": "kchor",
+            "tokens": [
+              "k",
+              "ch",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "sugars",
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add fermentable sugars → add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "chordy",
+            "normalized": "chorp",
+            "tokens": [
+              "ch",
+              "o",
+              "r",
+              "p"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer",
+              "yeast fermentation"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer → start fermentation (yeast)"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "yeast fermentation": 2,
+            "complex herbal compound": 1,
+            "mix/transfer": 4,
+            "main herb": 3,
+            "sugars": 1
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "7–14 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 25,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 1,
+          "yeast_g": 1,
+          "safe_complex_herbal_blend": "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 25 g sugar or honey.",
+          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~1 g dried).",
+          "If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.11,+P0",
+      "eva_line": "qotchy qolody choldy cthyd",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "qotchy",
+            "normalized": "qotch",
+            "tokens": [
+              "qo",
+              "t",
+              "ch"
+            ],
+            "compounds": [
+              "liquid base",
+              "heat",
+              "main herb"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "prepare liquid base → apply heat/cooking → add main plant (safe substitute)"
+          },
+          {
+            "word": "qolody",
+            "normalized": "qolop",
+            "tokens": [
+              "qo",
+              "l",
+              "o",
+              "p"
+            ],
+            "compounds": [
+              "liquid base",
+              "mix/transfer",
+              "yeast fermentation"
+            ],
+            "connectors": [
+              "l"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "prepare liquid base → mix / transfer → start fermentation (yeast)"
+          },
+          {
+            "word": "choldy",
+            "normalized": "cholp",
+            "tokens": [
+              "ch",
+              "o",
+              "l",
+              "p"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer",
+              "yeast fermentation"
+            ],
+            "connectors": [
+              "l"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer → start fermentation (yeast)"
+          },
+          {
+            "word": "cthyd",
+            "normalized": "cthp",
+            "tokens": [
+              "cth",
+              "p"
+            ],
+            "compounds": [
+              "complex herbal compound",
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "start fermentation (yeast) → add complex herbal compound (safe blend)"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "liquid base": 2,
+            "heat": 1,
+            "main herb": 2,
+            "mix/transfer": 2,
+            "yeast fermentation": 3,
+            "complex herbal compound": 1
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "2–4 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 12,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 1,
+          "yeast_g": 1,
+          "safe_complex_herbal_blend": "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 12 g sugar or honey.",
+          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~1 g dried).",
+          "If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 2–4 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.12,+P0",
+      "eva_line": "ykchor chor daiin daiinol",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "ykchor",
+            "normalized": "kchor",
+            "tokens": [
+              "k",
+              "ch",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "sugars",
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add fermentable sugars → add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "chor",
+            "normalized": "chor",
+            "tokens": [
+              "ch",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "add main plant (safe substitute) → mix / transfer"
+          },
+          {
+            "word": "daiin",
+            "normalized": "paiin",
+            "tokens": [
+              "p",
+              "aiin"
+            ],
+            "compounds": [
+              "yeast fermentation"
+            ],
+            "connectors": [],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          },
+          {
+            "word": "daiinol",
+            "normalized": "paiinol",
+            "tokens": [
+              "p",
+              "aiin",
+              "o",
+              "l"
+            ],
+            "compounds": [
+              "yeast fermentation",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "l"
+            ],
+            "vowel_run": "a",
+            "suffix": "long fermentation (aging)",
+            "interpretation": "mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "sugars": 1,
+            "main herb": 2,
+            "mix/transfer": 3,
+            "yeast fermentation": 2
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "7–14 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 25,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 1,
+          "yeast_g": 1
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 25 g sugar or honey.",
+          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~1 g dried).",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    },
+    {
+      "locus": "f19r.13,+P0",
+      "eva_line": "os octhor ytchor",
+      "recipe": {
+        "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
+        "plant_category_guess": "unknown",
+        "parsing": [
+          {
+            "word": "os",
+            "normalized": "os",
+            "tokens": [
+              "o",
+              "s"
+            ],
+            "compounds": [
+              "mix/transfer"
+            ],
+            "connectors": [
+              "s"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "mix / transfer"
+          },
+          {
+            "word": "octhor",
+            "normalized": "octhor",
+            "tokens": [
+              "o",
+              "cth",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "mix/transfer",
+              "complex herbal compound",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "mix / transfer → add complex herbal compound (safe blend)"
+          },
+          {
+            "word": "ytchor",
+            "normalized": "tchor",
+            "tokens": [
+              "t",
+              "ch",
+              "o",
+              "r"
+            ],
+            "compounds": [
+              "heat",
+              "main herb",
+              "mix/transfer"
+            ],
+            "connectors": [
+              "r"
+            ],
+            "vowel_run": null,
+            "suffix": null,
+            "interpretation": "apply heat/cooking → add main plant (safe substitute) → mix / transfer"
+          }
+        ],
+        "procedural_summary": {
+          "compound_counts": {
+            "mix/transfer": 4,
+            "complex herbal compound": 1,
+            "heat": 1,
+            "main herb": 1
+          },
+          "dose_level": 1,
+          "fermentation_estimate": "2–4 days"
+        },
+        "ingredients": {
+          "water_l": 0.5,
+          "sugar_or_honey_g": 12,
+          "main_plant_substitute": "chamomile (safe default substitute)",
+          "main_plant_dry_g": 5,
+          "secondary_herb_substitute": "mint",
+          "secondary_herb_dry_g": 1,
+          "yeast_g": 1,
+          "safe_complex_herbal_blend": "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
+        },
+        "process": [
+          "Sanitize the jar/fermenter and utensils.",
+          "Base: combine 0.5 L water with 12 g sugar or honey.",
+          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
+          "Add secondary herb: mint (~1 g dried).",
+          "If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.",
+          "Pitch yeast: 1 g (ideally cider/beer yeast).",
+          "Ferment with an airlock: 2–4 days (guided by iin/aiin markers).",
+          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
+          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+        ],
+        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "does_it_make_sense": "partial",
+        "risks": [
+          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
+          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
+          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
+          "No medical claims: this is an experimental beverage."
+        ],
+        "recommended_adjustments": [
+          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
+          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
+          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+        ],
+        "plant_interpretation": {
+          "category": "unknown",
+          "confidence": 0.0,
+          "textual_evidence_terms": [],
+          "note": "Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1830 @@
+# Voynich Speculative Herbal Ferment Recipe — f80v
+
+IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.
+
+This file is generated automatically from IVTFF/EVA transliteration plus a user-defined procedural grammar.
+
+![f80v](../../images/q13/f080v_crd.jpg)
+
+## Page / Folio
+- currier: B
+- folio: f80v
+- page_number: 158
+- plant_category_confidence: 0.0
+- plant_category_guess: unknown
+- section: biological
+
+## Plant Interpretation (Heuristic)
+- category: unknown
+- confidence: 0.0
+- note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
+
+## EVA Text (Transliteration)
+pchedy dolfchedy qokeedy qotedy qotolfchedy roly
+tshedy qotedy olkain otal chckhy qoky daiin doly
+schedy qolchedy qokaiin chcthy otaiin sheeky qol
+qokedy qokar qokain chedy qol qol shectyhy qoly
+okeedy chedy olkeedy oithy qokaiin shckhy qotain ol
+tcheol kedy pcheol kain shedy qokaiin otey qokedy chedy
+polshol tchey qokol shedy qotshey saly kchey stolpchy
+olteedy qokaiin shedy qokain sheol qokchdy qokchdy qoty dy
+tchdy qol tol tal taldain chckhy qokal dol checthy qokal ly
+sol sheey qokaiin shcthy dolshedy qokal shecthy qotainol
+tol sheedy qokar olky rorcheey sheckhy qotain chedy rol
+ycheol kain shey qokain chedy qokol olkain shcthhy l
+lor ar ol olor chey koldy
+tshedy qokain shedy qokas otal qopshedy qoty lchedy qopalor
+qotaiin chty lchedy s aly tol chey qoteedy otal dain ol dal
+cheol key qotar dy qotal dy keedy qokain oty loldy tal
+solcheol qokaiin shecthy qokal cheol dy qotlolkal chedyr
+ychedy qol okaiin olkedy or okain
+psheoldy dkshey qokopy ror [o:a]por olpoikhy oltydy
+ysheeyqorar ol cheey daiin shey qokaiin ol okaiin
+tar kain okal y rchey qokal olor aiin okal otam
+dchedy qokal ol chey dal or shedy lshedy
+polteshol opy shey qopshedy qoteedy qotol shy kolshd qoky
+yshedy qokeey qokey qoty qotol otaiin ol chedy qoky daiin
+lshedy qoty olol cheey qokain okalchy tal or checthy sar
+qoty cheyqytaiin chey lchedy shedy olchey
+pshol kain olkar shey qokain dal oltaiin okain shal qoty
+olcheol qokain or al chain qokain ol kaiin okeedy qokey ly
+qokain olkain olkain ol keeol
+pol or olkain oikhy qokaiin okain okar shey qolky
+qol ol oiin olkain ol chedy qokain olshey qokain
+s olkain shol kair or arolkeedy olky qolkain shedy
+qokeedy qoker olkain olshedy qokey qokeey tchcthy lom
+dol sheyr shey olshey cthor ylchdy olkain shcthy qoly
+tol oltain olkar y qol qol kain okiin ol kain shey ldy
+soin okain sheor ol shey daly olshedy olal shedy lchy
+polshdy qokeedy shky ololchey
+polkedy lsheckhy olky ot olkchy rchey qcthy rchey ral
+sol aiin chey qokain ches ol chckhy qokeedy tchdy aral
+qokain ol cheeor olar chey t[ch:?]ar ol chedy qotal olchedy
+tor arol ar shckhy lkol otol chedy qokain chckhy qokal
+pol ol aiin olkal shar shedy qokol chdy ldol dar al
+sor ain shkain shar okshey dalar shokal dy
+qokal orol
+
+## Page Summary (Procedural, Aggregated)
+- compound_counts: {'yeast fermentation': 115, 'main herb': 68, 'mix/transfer': 160, 'aroma modifier': 2, 'liquid base': 94, 'sugars': 115, 'heat': 59, 'secondary herb': 63, 'complex herbal compound': 20, 'general base': 2}
+- dose_level: 2
+- fermentation_estimate: 7–14 days
+
+## Pantry (Max Needed For Any Single Line-Recipe)
+- aroma_modifier: ['lemon peel (optional)']
+- aroma_modifier_dose: ['2–5 g (or 1 strip of peel, avoiding the bitter pith)']
+- main_plant_dry_g: 10
+- main_plant_substitute: ['chamomile (safe default substitute)']
+- safe_complex_herbal_blend: ['gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend']
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: ['mint']
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+## Line Recipes (Each Line = One Recipe, 0.5L batch)
+
+### f80v.1,@P0
+
+EVA: pchedy dolfchedy qokeedy qotedy qotolfchedy roly
+
+## Ingredients
+- aroma_modifier: lemon peel (optional)
+- aroma_modifier_dose: 2–5 g (or 1 strip of peel, avoiding the bitter pith)
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Add aroma modifier (optional) in a low dose.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- pchedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- dolfchedy: add main plant (safe substitute) → add aroma modifier → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokeedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
+- qotedy: prepare liquid base → apply heat/cooking → start fermentation (yeast) → duration level 1 → state: active extraction
+- qotolfchedy: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → add aroma modifier → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- roly: mix / transfer
+
+### f80v.2,+P0
+
+EVA: tshedy qotedy olkain otal chckhy qoky daiin doly
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- tshedy: apply heat/cooking → add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qotedy: prepare liquid base → apply heat/cooking → start fermentation (yeast) → duration level 1 → state: active extraction
+- olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+- chckhy: add main plant (safe substitute) → add complex herbal compound (safe blend)
+- qoky: prepare liquid base → add fermentable sugars
+- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+- doly: mix / transfer → start fermentation (yeast)
+
+### f80v.3,+P0
+
+EVA: schedy qolchedy qokaiin chcthy otaiin sheeky qol
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- schedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qolchedy: prepare liquid base → add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokaiin: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+- chcthy: add main plant (safe substitute) → add complex herbal compound (safe blend)
+- otaiin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+- sheeky: add fermentable sugars → add secondary herb (safe substitute) → duration level 2 → state: active extraction
+- qol: prepare liquid base
+
+### f80v.4,+P0
+
+EVA: qokedy qokar qokain chedy qol qol shectyhy qoly
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- qokedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokar: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qol: prepare liquid base
+- qol: prepare liquid base
+- shectyhy: add secondary herb (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
+- qoly: prepare liquid base
+
+### f80v.5,+P0
+
+EVA: okeedy chedy olkeedy oithy qokaiin shckhy qotain ol
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- okeedy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
+- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- olkeedy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
+- oithy: apply heat/cooking → mix / transfer → duration level 1 → state: cooling/rest
+- qokaiin: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+- shckhy: add secondary herb (safe substitute) → add complex herbal compound (safe blend)
+- qotain: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
+- ol: mix / transfer
+
+### f80v.6,+P0
+
+EVA: tcheol kedy pcheol kain shedy qokaiin otey qokedy chedy
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- tcheol: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- kedy: add fermentable sugars → start fermentation (yeast) → duration level 1 → state: active extraction
+- pcheol: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- kain: add fermentable sugars → duration level 1 → state: fermentation start
+- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokaiin: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+- otey: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
+- qokedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 1 → state: active extraction
+- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+
+### f80v.7,+P0
+
+EVA: polshol tchey qokol shedy qotshey saly kchey stolpchy
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- polshol: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
+- tchey: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
+- qokol: prepare liquid base → add fermentable sugars → mix / transfer
+- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qotshey: prepare liquid base → apply heat/cooking → add secondary herb (safe substitute) → duration level 1 → state: active extraction
+- saly: duration level 1 → state: fermentation start
+- kchey: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction
+- stolpchy: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+
+### f80v.8,+P0
+
+EVA: olteedy qokaiin shedy qokain sheol qokchdy qokchdy qoty dy
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- olteedy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
+- qokaiin: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- sheol: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- qokchdy: prepare liquid base → add fermentable sugars → add main plant (safe substitute) → start fermentation (yeast)
+- qokchdy: prepare liquid base → add fermentable sugars → add main plant (safe substitute) → start fermentation (yeast)
+- qoty: prepare liquid base → apply heat/cooking
+- dy: start fermentation (yeast)
+
+### f80v.9,+P0
+
+EVA: tchdy qol tol tal taldain chckhy qokal dol checthy qokal ly
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 1
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~1 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- tchdy: apply heat/cooking → add main plant (safe substitute) → start fermentation (yeast)
+- qol: prepare liquid base
+- tol: apply heat/cooking → mix / transfer
+- tal: apply heat/cooking → duration level 1 → state: fermentation start
+- taldain: apply heat/cooking → start fermentation (yeast) → duration level 1 → state: fermentation start
+- chckhy: add main plant (safe substitute) → add complex herbal compound (safe blend)
+- qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- dol: mix / transfer → start fermentation (yeast)
+- checthy: add main plant (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
+- qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- ly: [unparsed]
+
+### f80v.10,+P0
+
+EVA: sol sheey qokaiin shcthy dolshedy qokal shecthy qotainol
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- sol: mix / transfer
+- sheey: add secondary herb (safe substitute) → duration level 2 → state: active extraction
+- qokaiin: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+- shcthy: add secondary herb (safe substitute) → add complex herbal compound (safe blend)
+- dolshedy: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- shecthy: add secondary herb (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
+- qotainol: prepare liquid base → apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+### f80v.11,+P0
+
+EVA: tol sheedy qokar olky rorcheey sheckhy qotain chedy rol
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- tol: apply heat/cooking → mix / transfer
+- sheedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 2 → state: active extraction
+- qokar: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- olky: add fermentable sugars → mix / transfer
+- rorcheey: add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
+- sheckhy: add secondary herb (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
+- qotain: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
+- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- rol: mix / transfer
+
+### f80v.12,+P0
+
+EVA: ycheol kain shey qokain chedy qokol olkain shcthhy l
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- ycheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- kain: add fermentable sugars → duration level 1 → state: fermentation start
+- shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokol: prepare liquid base → add fermentable sugars → mix / transfer
+- olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- shcthhy: add secondary herb (safe substitute) → add complex herbal compound (safe blend)
+- l: [unparsed]
+
+### f80v.13,+P0
+
+EVA: lor ar ol olor chey koldy
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 1
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~1 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- lor: mix / transfer
+- ar: duration level 1 → state: fermentation start
+- ol: mix / transfer
+- olor: mix / transfer
+- chey: add main plant (safe substitute) → duration level 1 → state: active extraction
+- koldy: add fermentable sugars → mix / transfer → start fermentation (yeast)
+
+### f80v.14,+P0
+
+EVA: tshedy qokain shedy qokas otal qopshedy qoty lchedy qopalor
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- tshedy: apply heat/cooking → add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokas: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+- qopshedy: prepare liquid base → add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qoty: prepare liquid base → apply heat/cooking
+- lchedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qopalor: prepare liquid base → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+
+### f80v.15,+P0
+
+EVA: qotaiin chty lchedy s aly tol chey qoteedy otal dain ol dal
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- qotaiin: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
+- chty: apply heat/cooking → add main plant (safe substitute)
+- lchedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- s: [unparsed]
+- aly: duration level 1 → state: fermentation start
+- tol: apply heat/cooking → mix / transfer
+- chey: add main plant (safe substitute) → duration level 1 → state: active extraction
+- qoteedy: prepare liquid base → apply heat/cooking → start fermentation (yeast) → duration level 2 → state: active extraction
+- otal: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+- dain: start fermentation (yeast) → duration level 1 → state: fermentation start
+- ol: mix / transfer
+- dal: start fermentation (yeast) → duration level 1 → state: fermentation start
+
+### f80v.16,+P0
+
+EVA: cheol key qotar dy qotal dy keedy qokain oty loldy tal
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- cheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- key: add fermentable sugars → duration level 1 → state: active extraction
+- qotar: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
+- dy: start fermentation (yeast)
+- qotal: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
+- dy: start fermentation (yeast)
+- keedy: add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- oty: apply heat/cooking → mix / transfer
+- loldy: mix / transfer → start fermentation (yeast)
+- tal: apply heat/cooking → duration level 1 → state: fermentation start
+
+### f80v.17,+P0
+
+EVA: solcheol qokaiin shecthy qokal cheol dy qotlolkal chedyr
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- solcheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- qokaiin: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+- shecthy: add secondary herb (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
+- qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- cheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- dy: start fermentation (yeast)
+- qotlolkal: prepare liquid base → add fermentable sugars → apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+- chedyr: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+
+### f80v.18,+P0
+
+EVA: ychedy qol okaiin olkedy or okain
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 1
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~1 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- ychedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qol: prepare liquid base
+- okaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+- olkedy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- or: mix / transfer
+- okain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+
+### f80v.19,+P0
+
+EVA: psheoldy dkshey qokopy ror [o:a]por olpoikhy oltydy
+
+## Ingredients
+- main_plant_dry_g: 2
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~2 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- psheoldy: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- dkshey: add fermentable sugars → add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokopy: prepare liquid base → add fermentable sugars → mix / transfer → start fermentation (yeast)
+- ror: mix / transfer
+- o: mix / transfer
+- a: duration level 1 → state: fermentation start
+- por: mix / transfer → start fermentation (yeast)
+- olpoikhy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: cooling/rest
+- oltydy: apply heat/cooking → mix / transfer → start fermentation (yeast)
+
+### f80v.20,+P0
+
+EVA: ysheeyqorar ol cheey daiin shey qokaiin ol okaiin
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- ysheeyqorar: prepare liquid base → add secondary herb (safe substitute) → duration level 2 → state: active extraction
+- ol: mix / transfer
+- cheey: add main plant (safe substitute) → duration level 2 → state: active extraction
+- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+- shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
+- qokaiin: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+- ol: mix / transfer
+- okaiin: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+### f80v.21,+P0
+
+EVA: tar kain okal y rchey qokal olor aiin okal otam
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 1
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~1 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- tar: apply heat/cooking → duration level 1 → state: fermentation start
+- kain: add fermentable sugars → duration level 1 → state: fermentation start
+- okal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- y: [unparsed]
+- rchey: add main plant (safe substitute) → duration level 1 → state: active extraction
+- qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- olor: mix / transfer
+- aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
+- okal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- otam: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+
+### f80v.22,+P0
+
+EVA: dchedy qokal ol chey dal or shedy lshedy
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- dchedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- ol: mix / transfer
+- chey: add main plant (safe substitute) → duration level 1 → state: active extraction
+- dal: start fermentation (yeast) → duration level 1 → state: fermentation start
+- or: mix / transfer
+- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- lshedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+
+### f80v.23,+P0
+
+EVA: polteshol opy shey qopshedy qoteedy qotol shy kolshd qoky
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- polteshol: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- opy: mix / transfer → start fermentation (yeast)
+- shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
+- qopshedy: prepare liquid base → add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qoteedy: prepare liquid base → apply heat/cooking → start fermentation (yeast) → duration level 2 → state: active extraction
+- qotol: prepare liquid base → apply heat/cooking → mix / transfer
+- shy: add secondary herb (safe substitute)
+- kolshd: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
+- qoky: prepare liquid base → add fermentable sugars
+
+### f80v.24,+P0
+
+EVA: yshedy qokeey qokey qoty qotol otaiin ol chedy qoky daiin
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- yshedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokeey: prepare liquid base → add fermentable sugars → duration level 2 → state: active extraction
+- qokey: prepare liquid base → add fermentable sugars → duration level 1 → state: active extraction
+- qoty: prepare liquid base → apply heat/cooking
+- qotol: prepare liquid base → apply heat/cooking → mix / transfer
+- otaiin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+- ol: mix / transfer
+- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qoky: prepare liquid base → add fermentable sugars
+- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+
+### f80v.25,+P0
+
+EVA: lshedy qoty olol cheey qokain okalchy tal or checthy sar
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- lshedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qoty: prepare liquid base → apply heat/cooking
+- olol: mix / transfer
+- cheey: add main plant (safe substitute) → duration level 2 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- okalchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
+- tal: apply heat/cooking → duration level 1 → state: fermentation start
+- or: mix / transfer
+- checthy: add main plant (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
+- sar: duration level 1 → state: fermentation start
+
+### f80v.26,+P0
+
+EVA: qoty cheyqytaiin chey lchedy shedy olchey
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 12
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 12 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- qoty: prepare liquid base → apply heat/cooking
+- cheyqytaiin: prepare base (generic) → apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction → long fermentation / aging phase
+- chey: add main plant (safe substitute) → duration level 1 → state: active extraction
+- lchedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- olchey: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+
+### f80v.27,+P0
+
+EVA: pshol kain olkar shey qokain dal oltaiin okain shal qoty
+
+## Ingredients
+- main_plant_dry_g: 2
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~2 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- pshol: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
+- kain: add fermentable sugars → duration level 1 → state: fermentation start
+- olkar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- dal: start fermentation (yeast) → duration level 1 → state: fermentation start
+- oltaiin: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
+- okain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- shal: add secondary herb (safe substitute) → duration level 1 → state: fermentation start
+- qoty: prepare liquid base → apply heat/cooking
+
+### f80v.28,+P0
+
+EVA: olcheol qokain or al chain qokain ol kaiin okeedy qokey ly
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- olcheol: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- or: mix / transfer
+- al: duration level 1 → state: fermentation start
+- chain: add main plant (safe substitute) → duration level 1 → state: fermentation start
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- ol: mix / transfer
+- kaiin: add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+- okeedy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
+- qokey: prepare liquid base → add fermentable sugars → duration level 1 → state: active extraction
+- ly: [unparsed]
+
+### f80v.29,+P0
+
+EVA: qokain olkain olkain ol keeol
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- ol: mix / transfer
+- keeol: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
+
+### f80v.30,+P0
+
+EVA: pol or olkain oikhy qokaiin okain okar shey qolky
+
+## Ingredients
+- main_plant_dry_g: 2
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~2 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- pol: mix / transfer → start fermentation (yeast)
+- or: mix / transfer
+- olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- oikhy: add fermentable sugars → mix / transfer → duration level 1 → state: cooling/rest
+- qokaiin: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+- okain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- okar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
+- qolky: prepare liquid base → add fermentable sugars
+
+### f80v.31,+P0
+
+EVA: qol ol oiin olkain ol chedy qokain olshey qokain
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 3–5 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- qol: prepare liquid base
+- ol: mix / transfer
+- oiin: mix / transfer → duration level 2 → state: cooling/rest → medium fermentation phase
+- olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- ol: mix / transfer
+- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- olshey: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+
+### f80v.32,+P0
+
+EVA: s olkain shol kair or arolkeedy olky qolkain shedy
+
+## Ingredients
+- main_plant_dry_g: 2
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~2 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- s: [unparsed]
+- olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- shol: add secondary herb (safe substitute) → mix / transfer
+- kair: add fermentable sugars → duration level 1 → state: fermentation start
+- or: mix / transfer
+- arolkeedy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+- olky: add fermentable sugars → mix / transfer
+- qolkain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+
+### f80v.33,+P0
+
+EVA: qokeedy qoker olkain olshedy qokey qokeey tchcthy lom
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- qokeedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
+- qoker: prepare liquid base → add fermentable sugars → duration level 1 → state: active extraction
+- olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- olshedy: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokey: prepare liquid base → add fermentable sugars → duration level 1 → state: active extraction
+- qokeey: prepare liquid base → add fermentable sugars → duration level 2 → state: active extraction
+- tchcthy: apply heat/cooking → add main plant (safe substitute) → add complex herbal compound (safe blend)
+- lom: mix / transfer
+
+### f80v.34,+P0
+
+EVA: dol sheyr shey olshey cthor ylchdy olkain shcthy qoly
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- dol: mix / transfer → start fermentation (yeast)
+- sheyr: add secondary herb (safe substitute) → duration level 1 → state: active extraction
+- shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
+- olshey: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- cthor: mix / transfer → add complex herbal compound (safe blend)
+- ylchdy: add main plant (safe substitute) → start fermentation (yeast)
+- olkain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- shcthy: add secondary herb (safe substitute) → add complex herbal compound (safe blend)
+- qoly: prepare liquid base
+
+### f80v.35,+P0
+
+EVA: tol oltain olkar y qol qol kain okiin ol kain shey ldy
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 3–5 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- tol: apply heat/cooking → mix / transfer
+- oltain: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
+- olkar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- y: [unparsed]
+- qol: prepare liquid base
+- qol: prepare liquid base
+- kain: add fermentable sugars → duration level 1 → state: fermentation start
+- okiin: add fermentable sugars → mix / transfer → duration level 2 → state: cooling/rest → medium fermentation phase
+- ol: mix / transfer
+- kain: add fermentable sugars → duration level 1 → state: fermentation start
+- shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
+- ldy: start fermentation (yeast)
+
+### f80v.36,+P0
+
+EVA: soin okain sheor ol shey daly olshedy olal shedy lchy
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- soin: mix / transfer → duration level 1 → state: cooling/rest
+- okain: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- sheor: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- ol: mix / transfer
+- shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
+- daly: start fermentation (yeast) → duration level 1 → state: fermentation start
+- olshedy: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- olal: mix / transfer → duration level 1 → state: fermentation start
+- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- lchy: add main plant (safe substitute)
+
+### f80v.37,+P0
+
+EVA: polshdy qokeedy shky ololchey
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 5
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~5 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- polshdy: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast)
+- qokeedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
+- shky: add fermentable sugars → add secondary herb (safe substitute)
+- ololchey: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+
+### f80v.38,+P0
+
+EVA: polkedy lsheckhy olky ot olkchy rchey qcthy rchey ral
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- polkedy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- lsheckhy: add secondary herb (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
+- olky: add fermentable sugars → mix / transfer
+- ot: apply heat/cooking → mix / transfer
+- olkchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer
+- rchey: add main plant (safe substitute) → duration level 1 → state: active extraction
+- qcthy: prepare base (generic) → add complex herbal compound (safe blend)
+- rchey: add main plant (safe substitute) → duration level 1 → state: active extraction
+- ral: duration level 1 → state: fermentation start
+
+### f80v.39,+P0
+
+EVA: sol aiin chey qokain ches ol chckhy qokeedy tchdy aral
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- sol: mix / transfer
+- aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
+- chey: add main plant (safe substitute) → duration level 1 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- ches: add main plant (safe substitute) → duration level 1 → state: active extraction
+- ol: mix / transfer
+- chckhy: add main plant (safe substitute) → add complex herbal compound (safe blend)
+- qokeedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
+- tchdy: apply heat/cooking → add main plant (safe substitute) → start fermentation (yeast)
+- aral: duration level 1 → state: fermentation start
+
+### f80v.40,+P0
+
+EVA: qokain ol cheeor olar chey t[ch:?]ar ol chedy qotal olchedy
+
+## Ingredients
+- main_plant_dry_g: 10
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 50
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 50 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~10 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- ol: mix / transfer
+- cheeor: add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
+- olar: mix / transfer → duration level 1 → state: fermentation start
+- chey: add main plant (safe substitute) → duration level 1 → state: active extraction
+- t: apply heat/cooking
+- ch: add main plant (safe substitute)
+- ar: duration level 1 → state: fermentation start
+- ol: mix / transfer
+- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qotal: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
+- olchedy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+
+### f80v.41,+P0
+
+EVA: tor arol ar shckhy lkol otol chedy qokain chckhy qokal
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
+7. Pitch yeast: 1 g (ideally cider/beer yeast).
+8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- tor: apply heat/cooking → mix / transfer
+- arol: mix / transfer → duration level 1 → state: fermentation start
+- ar: duration level 1 → state: fermentation start
+- shckhy: add secondary herb (safe substitute) → add complex herbal compound (safe blend)
+- lkol: add fermentable sugars → mix / transfer
+- otol: apply heat/cooking → mix / transfer
+- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokain: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- chckhy: add main plant (safe substitute) → add complex herbal compound (safe blend)
+- qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+
+### f80v.42,+P0
+
+EVA: pol ol aiin olkal shar shedy qokol chdy ldol dar al
+
+## Ingredients
+- main_plant_dry_g: 5
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~5 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- pol: mix / transfer → start fermentation (yeast)
+- ol: mix / transfer
+- aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
+- olkal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- shar: add secondary herb (safe substitute) → duration level 1 → state: fermentation start
+- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- qokol: prepare liquid base → add fermentable sugars → mix / transfer
+- chdy: add main plant (safe substitute) → start fermentation (yeast)
+- ldol: mix / transfer → start fermentation (yeast)
+- dar: start fermentation (yeast) → duration level 1 → state: fermentation start
+- al: duration level 1 → state: fermentation start
+
+### f80v.43,+P0
+
+EVA: sor ain shkain shar okshey dalar shokal dy
+
+## Ingredients
+- main_plant_dry_g: 2
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 2
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~2 g dried).
+5. Add secondary herb: mint (~2 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- sor: mix / transfer
+- ain: duration level 1 → state: fermentation start
+- shkain: add fermentable sugars → add secondary herb (safe substitute) → duration level 1 → state: fermentation start
+- shar: add secondary herb (safe substitute) → duration level 1 → state: fermentation start
+- okshey: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
+- dalar: start fermentation (yeast) → duration level 1 → state: fermentation start
+- shokal: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
+- dy: start fermentation (yeast)
+
+### f80v.44,+P0
+
+EVA: qokal orol
+
+## Ingredients
+- main_plant_dry_g: 2
+- main_plant_substitute: chamomile (safe default substitute)
+- secondary_herb_dry_g: 1
+- secondary_herb_substitute: mint
+- sugar_or_honey_g: 25
+- water_l: 0.5
+- yeast_g: 1
+
+Process:
+1. Sanitize the jar/fermenter and utensils.
+2. Base: combine 0.5 L water with 25 g sugar or honey.
+3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
+4. Add main plant: chamomile (safe default substitute) (~2 g dried).
+5. Add secondary herb: mint (~1 g dried).
+6. Pitch yeast: 1 g (ideally cider/beer yeast).
+7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
+8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
+9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
+
+Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
+
+Does It Make Sense?: partial
+
+Direct Gloss (Procedural, Not a Real Translation):
+- qokal: prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start
+- orol: mix / transfer
+
+## Risks & Warnings (Applies To All Line-Recipes)
+- Never use unidentified Voynich plants directly; only use known edible substitutes.
+- Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.
+- Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.
+- Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.
+- No medical claims: this is an experimental beverage.
+
+## Recommended Adjustments (General)
+- If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.
+- If too sweet, extend fermentation or reduce sugar by 25–50%.
+- For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented).

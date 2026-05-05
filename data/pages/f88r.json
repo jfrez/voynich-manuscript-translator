@@ -1,0 +1,180 @@
+{
+  "folio": "f88r",
+  "page_number": 181,
+  "section": null,
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "pharmaceutical",
+    "Washington Post, 5 Aug 62 (Sunday)",
+    "3 rows of labelled roots, with paragraphs under each...",
+    "top row of plants",
+    "middle row of plants",
+    "bottom row of plants"
+  ],
+  "loci_count": 31,
+  "loci": [
+    {
+      "locus": "f88r.1,@Lc",
+      "raw": "otorchety",
+      "eva": "otorchety"
+    },
+    {
+      "locus": "f88r.2,@Lf",
+      "raw": "osal",
+      "eva": "osal"
+    },
+    {
+      "locus": "f88r.3,@Lf",
+      "raw": "orald",
+      "eva": "orald"
+    },
+    {
+      "locus": "f88r.4,@Lf",
+      "raw": "oldar",
+      "eva": "oldar"
+    },
+    {
+      "locus": "f88r.5,@Lf",
+      "raw": "otoky",
+      "eva": "otoky"
+    },
+    {
+      "locus": "f88r.6,@Lf",
+      "raw": "otaly",
+      "eva": "otaly"
+    },
+    {
+      "locus": "f88r.7,@P0",
+      "raw": "<%>dorsheoy.ctheol.qockhey.dory.sheor.sholfchor.dal.chcthol",
+      "eva": "dorsheoy ctheol qockhey dory sheor sholfchor dal chcthol"
+    },
+    {
+      "locus": "f88r.8,+P0",
+      "raw": "[r:s]al,sheom.keol,chear.shekor.qokor.daiin.sar.s,aiin.oky.sam",
+      "eva": "[r:s]al sheom keol chear shekor qokor daiin sar s aiin oky sam"
+    },
+    {
+      "locus": "f88r.9,+P0",
+      "raw": "oain.or.om.otam.okeom.cheeor.qokeody.dar.or.om.cheody",
+      "eva": "oain or om otam okeom cheeor qokeody dar or om cheody"
+    },
+    {
+      "locus": "f88r.10,+P0",
+      "raw": "qokeol.cheol.saiin.cheos.cheol.doleeey.or.cheom.cheo[j:m]am",
+      "eva": "qokeol cheol saiin cheos cheol doleeey or cheom cheo[j:m]am"
+    },
+    {
+      "locus": "f88r.11,+P0",
+      "raw": "yokeody.cheom.qoor.cheeb.ykeor.shy.sam<$>",
+      "eva": "yokeody cheom qoor cheeb ykeor shy sam"
+    },
+    {
+      "locus": "f88r.12,@Lc",
+      "raw": "otaldy",
+      "eva": "otaldy"
+    },
+    {
+      "locus": "f88r.13,@Lf",
+      "raw": "oram",
+      "eva": "oram"
+    },
+    {
+      "locus": "f88r.14,@Lf",
+      "raw": "dary",
+      "eva": "dary"
+    },
+    {
+      "locus": "f88r.15,@Lf",
+      "raw": "okol",
+      "eva": "okol"
+    },
+    {
+      "locus": "f88r.16,@Lf",
+      "raw": "sorory",
+      "eva": "sorory"
+    },
+    {
+      "locus": "f88r.17,@Lf",
+      "raw": "otyda",
+      "eva": "otyda"
+    },
+    {
+      "locus": "f88r.18,@P0",
+      "raw": "<%>koa{iphh}y.cphol.orchor.pcheoly.otchol.oldy.salsaly",
+      "eva": "koaiphhy cphol orchor pcheoly otchol oldy salsaly"
+    },
+    {
+      "locus": "f88r.19,+P0",
+      "raw": "dchey.chokol.daiin.qoekol.qoekol.qockhol.okol.cheol",
+      "eva": "dchey chokol daiin qoekol qoekol qockhol okol cheol"
+    },
+    {
+      "locus": "f88r.20,+P0",
+      "raw": "dsheol.qokeey.s.chy.s,aiin.chor.oteor.aiin.chosals",
+      "eva": "dsheol qokeey s chy s aiin chor oteor aiin chosals"
+    },
+    {
+      "locus": "f88r.21,+P0",
+      "raw": "teol.chor.olsheody.qokeol.sho{ikh}y.ol.sheeol.sheoldg",
+      "eva": "teol chor olsheody qokeol shoikhy ol sheeol sheoldg"
+    },
+    {
+      "locus": "f88r.22,+P0",
+      "raw": "ychey.okaiin.chol.cheor.ol.chorcholsal<$>",
+      "eva": "ychey okaiin chol cheor ol chorcholsal"
+    },
+    {
+      "locus": "f88r.23,@Lc",
+      "raw": "ofyskydal",
+      "eva": "ofyskydal"
+    },
+    {
+      "locus": "f88r.24,@Lf",
+      "raw": "otor,am",
+      "eva": "otor am"
+    },
+    {
+      "locus": "f88r.25,@Lf",
+      "raw": "ofaldo",
+      "eva": "ofaldo"
+    },
+    {
+      "locus": "f88r.26,@P0",
+      "raw": "<%>poeear.sheoky.olkeey.cthol.poldy.s<->okoldy",
+      "eva": "poeear sheoky olkeey cthol poldy s okoldy"
+    },
+    {
+      "locus": "f88r.27,+P0",
+      "raw": "qokol.chol.qokol.qokol.chol.cheey.or.aiin.oldal",
+      "eva": "qokol chol qokol qokol chol cheey or aiin oldal"
+    },
+    {
+      "locus": "f88r.28,+P0",
+      "raw": "ykar.cheol.chol.chey.ckhey.s,or.shear.ar,alsy",
+      "eva": "ykar cheol chol chey ckhey s or shear ar alsy"
+    },
+    {
+      "locus": "f88r.29,+P0",
+      "raw": "kor,chey.qokol.cheol.chody.qokol.kchor.chol,dal",
+      "eva": "kor chey qokol cheol chody qokol kchor chol dal"
+    },
+    {
+      "locus": "f88r.30,+P0",
+      "raw": "ykeeey.cheor.cheotey.cheol.qokeor.chetchy.ofal",
+      "eva": "ykeeey cheor cheotey cheol qokeor chetchy ofal"
+    },
+    {
+      "locus": "f88r.31,+P0",
+      "raw": "dar.chear.chol.dol.qoekeor.cheom<$>",
+      "eva": "dar chear chol dol qoekeor cheom"
+    }
+  ],
+  "eva_text": "otorchety\nosal\norald\noldar\notoky\notaly\ndorsheoy ctheol qockhey dory sheor sholfchor dal chcthol\n[r:s]al sheom keol chear shekor qokor daiin sar s aiin oky sam\noain or om otam okeom cheeor qokeody dar or om cheody\nqokeol cheol saiin cheos cheol doleeey or cheom cheo[j:m]am\nyokeody cheom qoor cheeb ykeor shy sam\notaldy\noram\ndary\nokol\nsorory\notyda\nkoaiphhy cphol orchor pcheoly otchol oldy salsaly\ndchey chokol daiin qoekol qoekol qockhol okol cheol\ndsheol qokeey s chy s aiin chor oteor aiin chosals\nteol chor olsheody qokeol shoikhy ol sheeol sheoldg\nychey okaiin chol cheor ol chorcholsal\nofyskydal\notor am\nofaldo\npoeear sheoky olkeey cthol poldy s okoldy\nqokol chol qokol qokol chol cheey or aiin oldal\nykar cheol chol chey ckhey s or shear ar alsy\nkor chey qokol cheol chody qokol kchor chol dal\nykeeey cheor cheotey cheol qokeor chetchy ofal\ndar chear chol dol qoekeor cheom",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

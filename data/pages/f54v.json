@@ -1,0 +1,100 @@
+{
+  "folio": "f54v",
+  "page_number": 106,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "not found in FSG item 1609"
+  ],
+  "loci_count": 16,
+  "loci": [
+    {
+      "locus": "f54v.1,@P0",
+      "raw": "<%>pcheodar.chpal.oloiin.ckhey<!bar interrupted>.dar.qokeey.cpheeain.s,al",
+      "eva": "pcheodar chpal oloiin ckhey dar qokeey cpheeain s al"
+    },
+    {
+      "locus": "f54v.2,+P0",
+      "raw": "dcheain.cphaiin.s.ar.cheor.qodaiin.cthaildy.ypchal",
+      "eva": "dcheain cphaiin s ar cheor qodaiin cthaildy ypchal"
+    },
+    {
+      "locus": "f54v.3,+P0",
+      "raw": "yair.ykar.oky.cham.chody.ykoldam.cheol,am",
+      "eva": "yair ykar oky cham chody ykoldam cheol am"
+    },
+    {
+      "locus": "f54v.4,+P0",
+      "raw": "dar,chor.cheky.chol.okaiin.chody.chol,dy",
+      "eva": "dar chor cheky chol okaiin chody chol dy"
+    },
+    {
+      "locus": "f54v.5,+P0",
+      "raw": "o[d:?]aiin.ytaiin.qodaim.qokar.chy.s.am",
+      "eva": "o[d:?]aiin ytaiin qodaim qokar chy s am"
+    },
+    {
+      "locus": "f54v.6,+P0",
+      "raw": "tol.cheol.shocthy.qodaiin.k[ee:ch]ody",
+      "eva": "tol cheol shocthy qodaiin k[ee:ch]ody"
+    },
+    {
+      "locus": "f54v.7,+P0",
+      "raw": "daiin.sheody.qoctheol.s.aiin.qotchy",
+      "eva": "daiin sheody qoctheol s aiin qotchy"
+    },
+    {
+      "locus": "f54v.8,+P0",
+      "raw": "daiino,d,aim.qokaiin.yteal.okal.om",
+      "eva": "daiino d aim qokaiin yteal okal om"
+    },
+    {
+      "locus": "f54v.9,+P0",
+      "raw": "ydaiin.qockhey.qodal.ytam.okal,dy",
+      "eva": "ydaiin qockhey qodal ytam okal dy"
+    },
+    {
+      "locus": "f54v.10,+P0",
+      "raw": "kol.{ck}aiin.chckhy.qokal.dal.qocthy",
+      "eva": "kol ckaiin chckhy qokal dal qocthy"
+    },
+    {
+      "locus": "f54v.11,+P0",
+      "raw": "oaiin.qockhy.qokam",
+      "eva": "oaiin qockhy qokam"
+    },
+    {
+      "locus": "f54v.12,+P0",
+      "raw": "tol.chol.cthol.s",
+      "eva": "tol chol cthol s"
+    },
+    {
+      "locus": "f54v.13,+P0",
+      "raw": "y,chol.okal.yckhey",
+      "eva": "y chol okal yckhey"
+    },
+    {
+      "locus": "f54v.14,+P0",
+      "raw": "tar.cphey.tam.aldam",
+      "eva": "tar cphey tam aldam"
+    },
+    {
+      "locus": "f54v.15,+P0",
+      "raw": "or.alchy.ytal.dol.chodoldy",
+      "eva": "or alchy ytal dol chodoldy"
+    },
+    {
+      "locus": "f54v.16,+P0",
+      "raw": "daiin.chol.oldaiin<$>",
+      "eva": "daiin chol oldaiin"
+    }
+  ],
+  "eva_text": "pcheodar chpal oloiin ckhey dar qokeey cpheeain s al\ndcheain cphaiin s ar cheor qodaiin cthaildy ypchal\nyair ykar oky cham chody ykoldam cheol am\ndar chor cheky chol okaiin chody chol dy\no[d:?]aiin ytaiin qodaim qokar chy s am\ntol cheol shocthy qodaiin k[ee:ch]ody\ndaiin sheody qoctheol s aiin qotchy\ndaiino d aim qokaiin yteal okal om\nydaiin qockhey qodal ytam okal dy\nkol ckaiin chckhy qokal dal qocthy\noaiin qockhy qokam\ntol chol cthol s\ny chol okal yckhey\ntar cphey tam aldam\nor alchy ytal dol chodoldy\ndaiin chol oldaiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

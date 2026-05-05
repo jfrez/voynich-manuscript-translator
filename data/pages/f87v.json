@@ -1,0 +1,100 @@
+{
+  "folio": "f87v",
+  "page_number": 180,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Petersen has omitted the right-hand part of paragraph 2"
+  ],
+  "loci_count": 16,
+  "loci": [
+    {
+      "locus": "f87v.1,@P0",
+      "raw": "<%>@180;cheey.daiin.cpheodar.shody.dcheody.todor.oeeepchody<->oldar",
+      "eva": "@180;cheey daiin cpheodar shody dcheody todor oeeepchody oldar"
+    },
+    {
+      "locus": "f87v.2,+P0",
+      "raw": "schey.ctheey.qocthsy.s<->dcheoky.s,cth",
+      "eva": "schey ctheey qocthsy s dcheoky s cth"
+    },
+    {
+      "locus": "f87v.3,+P0",
+      "raw": "y,cheockhy.okey.cthy<->yteeor.{ct}os",
+      "eva": "y cheockhy okey cthy yteeor ctos"
+    },
+    {
+      "locus": "f87v.4,+P0",
+      "raw": "dcheecthey.cthosy<->ykeeor.oky",
+      "eva": "dcheecthey cthosy ykeeor oky"
+    },
+    {
+      "locus": "f87v.5,+P0",
+      "raw": "ycheey.keeo.salckhy<->eoiin.scheom",
+      "eva": "ycheey keeo salckhy eoiin scheom"
+    },
+    {
+      "locus": "f87v.6,+P0",
+      "raw": "dcheos.shey.solchiyd<->oteos.cthey",
+      "eva": "dcheos shey solchiyd oteos cthey"
+    },
+    {
+      "locus": "f87v.7,+P0",
+      "raw": "qotechoep.cheos.cthey<->qokeod.qokeog",
+      "eva": "qotechoep cheos cthey qokeod qokeog"
+    },
+    {
+      "locus": "f87v.8,+P0",
+      "raw": "shoeey.cthey.qo.cthodol<->yteodaiin.sheol",
+      "eva": "shoeey cthey qo cthodol yteodaiin sheol"
+    },
+    {
+      "locus": "f87v.9,+P0",
+      "raw": "techol.qoscheody.otol<$>",
+      "eva": "techol qoscheody otol"
+    },
+    {
+      "locus": "f87v.10,+P0",
+      "raw": "<%>opcheey.{cthh}y.cpheckhy<->cheo,r,chepcheol",
+      "eva": "opcheey cthhy cpheckhy cheo r chepcheol"
+    },
+    {
+      "locus": "f87v.11,+P0",
+      "raw": "kchor.ol.cheeol.qok,odal<->lseeey.keodam",
+      "eva": "kchor ol cheeol qok odal lseeey keodam"
+    },
+    {
+      "locus": "f87v.12,+P0",
+      "raw": "ytcheoq[o:y].chos.ckheos.cheoy<->s,cheol.sal.dain",
+      "eva": "ytcheoq[o:y] chos ckheos cheoy s cheol sal dain"
+    },
+    {
+      "locus": "f87v.13,+P0",
+      "raw": "ksheol.qoar.cfhs.ykaiin<->saral.aiim.am",
+      "eva": "ksheol qoar cfhs ykaiin saral aiim am"
+    },
+    {
+      "locus": "f87v.14,+P0",
+      "raw": "san.ainy.keol,dair.old<->ain.atolg",
+      "eva": "san ainy keol dair old ain atolg"
+    },
+    {
+      "locus": "f87v.15,+P0",
+      "raw": "yksho.qos<->arolor.or<->al.daraiing",
+      "eva": "yksho qos arolor or al daraiing"
+    },
+    {
+      "locus": "f87v.16,+P0",
+      "raw": "saiin.olcthr<!through plant><$>",
+      "eva": "saiin olcthr"
+    }
+  ],
+  "eva_text": "@180;cheey daiin cpheodar shody dcheody todor oeeepchody oldar\nschey ctheey qocthsy s dcheoky s cth\ny cheockhy okey cthy yteeor ctos\ndcheecthey cthosy ykeeor oky\nycheey keeo salckhy eoiin scheom\ndcheos shey solchiyd oteos cthey\nqotechoep cheos cthey qokeod qokeog\nshoeey cthey qo cthodol yteodaiin sheol\ntechol qoscheody otol\nopcheey cthhy cpheckhy cheo r chepcheol\nkchor ol cheeol qok odal lseeey keodam\nytcheoq[o:y] chos ckheos cheoy s cheol sal dain\nksheol qoar cfhs ykaiin saral aiim am\nsan ainy keol dair old ain atolg\nyksho qos arolor or al daraiing\nsaiin olcthr",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

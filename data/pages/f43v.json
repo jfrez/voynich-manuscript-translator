@@ -1,0 +1,100 @@
+{
+  "folio": "f43v",
+  "page_number": 84,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Two plants. Polygonum biatorta (sp?). Lunaria (RCAZ)?"
+  ],
+  "loci_count": 16,
+  "loci": [
+    {
+      "locus": "f43v.1,@P0",
+      "raw": "<%>pdsairy.dalteoshy.d[o:a]ly.sheet.or.arodl.lkeo.r.araiin.otedy.opolde",
+      "eva": "pdsairy dalteoshy d[o:a]ly sheet or arodl lkeo r araiin otedy opolde"
+    },
+    {
+      "locus": "f43v.2,+P0",
+      "raw": "shedy.octhy.otedy.chedy.dar.ches{kh}y.okeody.oky.okaldy.kchdy.okar",
+      "eva": "shedy octhy otedy chedy dar cheskhy okeody oky okaldy kchdy okar"
+    },
+    {
+      "locus": "f43v.3,+P0",
+      "raw": "tody.teedy.qot.chocthy.chky.oky.chdy.okedy.ykaiin.chey.ody.dary",
+      "eva": "tody teedy qot chocthy chky oky chdy okedy ykaiin chey ody dary"
+    },
+    {
+      "locus": "f43v.4,+P0",
+      "raw": "d{ch'h}ey,ykeedy.chees.ain.shy.qocthedy.chey.qokar.checkhy.okam",
+      "eva": "dch'hey ykeedy chees ain shy qocthedy chey qokar checkhy okam"
+    },
+    {
+      "locus": "f43v.5,+P0",
+      "raw": "qokchedy.oralody.otedol.chcthdy.chtey<$>",
+      "eva": "qokchedy oralody otedol chcthdy chtey"
+    },
+    {
+      "locus": "f43v.6,+P0",
+      "raw": "<%>tolkchdy.okedy.qoked[a:o]l.shedy.okedal.shedy.pchdol.otey.dalorain",
+      "eva": "tolkchdy okedy qoked[a:o]l shedy okedal shedy pchdol otey dalorain"
+    },
+    {
+      "locus": "f43v.7,+P0",
+      "raw": "ytshedy.ykeody.oykeedy.chedy.tedy.chcthy.otam.ot.ytaiin.otas",
+      "eva": "ytshedy ykeody oykeedy chedy tedy chcthy otam ot ytaiin otas"
+    },
+    {
+      "locus": "f43v.8,+P0",
+      "raw": "shetcheodchs.ochedy.oteody.chedy.chody.daiin.sheody.ykar.chef",
+      "eva": "shetcheodchs ochedy oteody chedy chody daiin sheody ykar chef"
+    },
+    {
+      "locus": "f43v.9,+P0",
+      "raw": "yt[ch:ee]dy.olos.aiin.ockhy<$>",
+      "eva": "yt[ch:ee]dy olos aiin ockhy"
+    },
+    {
+      "locus": "f43v.10,+P0",
+      "raw": "<%>tarchor.ar.aldar.chdy.daldar.chepy.yteedy.s,ypchey,pchedy.yfor",
+      "eva": "tarchor ar aldar chdy daldar chepy yteedy s ypchey pchedy yfor"
+    },
+    {
+      "locus": "f43v.11,+P0",
+      "raw": "ysheey.or,air.yteey.cheody.ar.sheo.qody.chckhy.chdy.choty.she{cthy}",
+      "eva": "ysheey or air yteey cheody ar sheo qody chckhy chdy choty shecthy"
+    },
+    {
+      "locus": "f43v.12,+P0",
+      "raw": "yshee.kedy.dar.chey.qotedy.etaiin.chedy.cthey.oteol.or,aiin.odain",
+      "eva": "yshee kedy dar chey qotedy etaiin chedy cthey oteol or aiin odain"
+    },
+    {
+      "locus": "f43v.13,+P0",
+      "raw": "dshedy.tedy.ckhedy.chekcheey.dy,keody.otedy.cheetam.okedar.amam",
+      "eva": "dshedy tedy ckhedy chekcheey dy keody otedy cheetam okedar amam"
+    },
+    {
+      "locus": "f43v.14,+P0",
+      "raw": "dykeedain.chedy.okeedy.chedal.olkey.cheky.cho[a:y]l,chedy.oteorom",
+      "eva": "dykeedain chedy okeedy chedal olkey cheky cho[a:y]l chedy oteorom"
+    },
+    {
+      "locus": "f43v.15,+P0",
+      "raw": "oteod.qolkeey.kaldy.chy.darod[y:?].qokeey.kol.dary.taros",
+      "eva": "oteod qolkeey kaldy chy darod[y:?] qokeey kol dary taros"
+    },
+    {
+      "locus": "f43v.16,+P0",
+      "raw": "ol.eees.aiin.oloaiin.oteos.qoky.chey<$>",
+      "eva": "ol eees aiin oloaiin oteos qoky chey"
+    }
+  ],
+  "eva_text": "pdsairy dalteoshy d[o:a]ly sheet or arodl lkeo r araiin otedy opolde\nshedy octhy otedy chedy dar cheskhy okeody oky okaldy kchdy okar\ntody teedy qot chocthy chky oky chdy okedy ykaiin chey ody dary\ndch'hey ykeedy chees ain shy qocthedy chey qokar checkhy okam\nqokchedy oralody otedol chcthdy chtey\ntolkchdy okedy qoked[a:o]l shedy okedal shedy pchdol otey dalorain\nytshedy ykeody oykeedy chedy tedy chcthy otam ot ytaiin otas\nshetcheodchs ochedy oteody chedy chody daiin sheody ykar chef\nyt[ch:ee]dy olos aiin ockhy\ntarchor ar aldar chdy daldar chepy yteedy s ypchey pchedy yfor\nysheey or air yteey cheody ar sheo qody chckhy chdy choty shecthy\nyshee kedy dar chey qotedy etaiin chedy cthey oteol or aiin odain\ndshedy tedy ckhedy chekcheey dy keody otedy cheetam okedar amam\ndykeedain chedy okeedy chedal olkey cheky cho[a:y]l chedy oteorom\noteod qolkeey kaldy chy darod[y:?] qokeey kol dary taros\nol eees aiin oloaiin oteos qoky chey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

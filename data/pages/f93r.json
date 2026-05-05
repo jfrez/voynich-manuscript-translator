@@ -1,0 +1,180 @@
+{
+  "folio": "f93r",
+  "page_number": 191,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Brumbaugh p80; O'Neill's \"American Sunflower\""
+  ],
+  "loci_count": 32,
+  "loci": [
+    {
+      "locus": "f93r.1,@P0",
+      "raw": "<%>kodshol.otolsheeos.octhodaly.opalepam.oepchksheey.qotodain.s.oar",
+      "eva": "kodshol otolsheeos octhodaly opalepam oepchksheey qotodain s oar"
+    },
+    {
+      "locus": "f93r.2,+P0",
+      "raw": "ycham.s.chol.chotom.cthodar.sheo.s.oteodal.s<->ofchoshy.cthoshol",
+      "eva": "ycham s chol chotom cthodar sheo s oteodal s ofchoshy cthoshol"
+    },
+    {
+      "locus": "f93r.3,+P0",
+      "raw": "dsho.dal.dalody.ytchchy.dam.chody.dal,ol<->schodchy.qotchd",
+      "eva": "dsho dal dalody ytchchy dam chody dal ol schodchy qotchd"
+    },
+    {
+      "locus": "f93r.4,+P0",
+      "raw": "sol.shotol.qokchodal.shody.chotol,s<->otol.ytchdg",
+      "eva": "sol shotol qokchodal shody chotol s otol ytchdg"
+    },
+    {
+      "locus": "f93r.5,+P0",
+      "raw": "ol.chody.cfhol.dol.qokol.otodar<->chodain",
+      "eva": "ol chody cfhol dol qokol otodar chodain"
+    },
+    {
+      "locus": "f93r.6,+P0",
+      "raw": "tar,otor.s.cho.s.chol.sheoees",
+      "eva": "tar otor s cho s chol sheoees"
+    },
+    {
+      "locus": "f93r.7,+P0",
+      "raw": "shor.shol.ody.cheodaiin.s",
+      "eva": "shor shol ody cheodaiin s"
+    },
+    {
+      "locus": "f93r.8,+P0",
+      "raw": "lor,sheeody.chodaiin.s.odar",
+      "eva": "lor sheeody chodaiin s odar"
+    },
+    {
+      "locus": "f93r.9,+P0",
+      "raw": "shodam.okcheody.cthoctho'l",
+      "eva": "shodam okcheody cthoctho'l"
+    },
+    {
+      "locus": "f93r.10,+P0",
+      "raw": "ychos.chey.keol.cheol.ckhody",
+      "eva": "ychos chey keol cheol ckhody"
+    },
+    {
+      "locus": "f93r.11,+P0",
+      "raw": "okeol.oteol.s,odam.sheo,al.sal",
+      "eva": "okeol oteol s odam sheo al sal"
+    },
+    {
+      "locus": "f93r.12,+P0",
+      "raw": "qokor.shey.okcheor.sheodom",
+      "eva": "qokor shey okcheor sheodom"
+    },
+    {
+      "locus": "f93r.13,+P0",
+      "raw": "shodaiin.qotchy.kchol,r",
+      "eva": "shodaiin qotchy kchol r"
+    },
+    {
+      "locus": "f93r.14,+P0",
+      "raw": "ychey.ckhos.okcheod.chr",
+      "eva": "ychey ckhos okcheod chr"
+    },
+    {
+      "locus": "f93r.15,+P0",
+      "raw": "ochol.shodal.dol.cheodam",
+      "eva": "ochol shodal dol cheodam"
+    },
+    {
+      "locus": "f93r.16,+P0",
+      "raw": "choshy.qokor.chckhs",
+      "eva": "choshy qokor chckhs"
+    },
+    {
+      "locus": "f93r.17,+P0",
+      "raw": "tcheo.l.cholchecthody",
+      "eva": "tcheo l cholchecthody"
+    },
+    {
+      "locus": "f93r.18,+P0",
+      "raw": "olkees.shodaiin.shody",
+      "eva": "olkees shodaiin shody"
+    },
+    {
+      "locus": "f93r.19,+P0",
+      "raw": "tchor.shol.r.sheoky",
+      "eva": "tchor shol r sheoky"
+    },
+    {
+      "locus": "f93r.20,+P0",
+      "raw": "ychockhy.cthol.osos",
+      "eva": "ychockhy cthol osos"
+    },
+    {
+      "locus": "f93r.21,+P0",
+      "raw": "dol.shol.daiin.shcthy",
+      "eva": "dol shol daiin shcthy"
+    },
+    {
+      "locus": "f93r.22,+P0",
+      "raw": "kchor.cthy.chakal.daiin",
+      "eva": "kchor cthy chakal daiin"
+    },
+    {
+      "locus": "f93r.23,+P0",
+      "raw": "oain.okor.shody.teols",
+      "eva": "oain okor shody teols"
+    },
+    {
+      "locus": "f93r.24,+P0",
+      "raw": "ychocthy.chotey.teey,s",
+      "eva": "ychocthy chotey teey s"
+    },
+    {
+      "locus": "f93r.25,+P0",
+      "raw": "ysaiin.chotar.shody",
+      "eva": "ysaiin chotar shody"
+    },
+    {
+      "locus": "f93r.26,+P0",
+      "raw": "ocheodaiin.tchos.sor",
+      "eva": "ocheodaiin tchos sor"
+    },
+    {
+      "locus": "f93r.27,+P0",
+      "raw": "qokor.cheo.los.ckheody",
+      "eva": "qokor cheo los ckheody"
+    },
+    {
+      "locus": "f93r.28,+P0",
+      "raw": "ychor.odol.chodaiin.s",
+      "eva": "ychor odol chodaiin s"
+    },
+    {
+      "locus": "f93r.29,+P0",
+      "raw": "dain.{ck}cho.ctho.ctho[s:e]g",
+      "eva": "dain ckcho ctho ctho[s:e]g"
+    },
+    {
+      "locus": "f93r.30,+P0",
+      "raw": "shodaiin.qokcho.cthol",
+      "eva": "shodaiin qokcho cthol"
+    },
+    {
+      "locus": "f93r.31,+P0",
+      "raw": "ol.chol.cthol.olchod",
+      "eva": "ol chol cthol olchod"
+    },
+    {
+      "locus": "f93r.32,+P0",
+      "raw": "dol.chokal.schos<$>",
+      "eva": "dol chokal schos"
+    }
+  ],
+  "eva_text": "kodshol otolsheeos octhodaly opalepam oepchksheey qotodain s oar\nycham s chol chotom cthodar sheo s oteodal s ofchoshy cthoshol\ndsho dal dalody ytchchy dam chody dal ol schodchy qotchd\nsol shotol qokchodal shody chotol s otol ytchdg\nol chody cfhol dol qokol otodar chodain\ntar otor s cho s chol sheoees\nshor shol ody cheodaiin s\nlor sheeody chodaiin s odar\nshodam okcheody cthoctho'l\nychos chey keol cheol ckhody\nokeol oteol s odam sheo al sal\nqokor shey okcheor sheodom\nshodaiin qotchy kchol r\nychey ckhos okcheod chr\nochol shodal dol cheodam\nchoshy qokor chckhs\ntcheo l cholchecthody\nolkees shodaiin shody\ntchor shol r sheoky\nychockhy cthol osos\ndol shol daiin shcthy\nkchor cthy chakal daiin\noain okor shody teols\nychocthy chotey teey s\nysaiin chotar shody\nocheodaiin tchos sor\nqokor cheo los ckheody\nychor odol chodaiin s\ndain ckcho ctho ctho[s:e]g\nshodaiin qokcho cthol\nol chol cthol olchod\ndol chokal schos",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

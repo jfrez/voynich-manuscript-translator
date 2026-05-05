@@ -1,0 +1,92 @@
+{
+  "folio": "f36v",
+  "page_number": 70,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Indian hemp",
+  "plant_candidates": [
+    "Indian hemp"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 14,
+  "loci": [
+    {
+      "locus": "f36v.1,@P0",
+      "raw": "<%>pchar,asy.qoforom.shoaiin.tchey.ch[{ckoh}:{ckhh}]y.otaiin.cphar.daiin",
+      "eva": "pchar asy qoforom shoaiin tchey ch[ckoh:ckhh]y otaiin cphar daiin"
+    },
+    {
+      "locus": "f36v.2,+P0",
+      "raw": "qotor.chol.daiin.otaiin.qotor.ytar.ochor.chety.ckh[o:a]r.dom",
+      "eva": "qotor chol daiin otaiin qotor ytar ochor chety ckh[o:a]r dom"
+    },
+    {
+      "locus": "f36v.3,+P0",
+      "raw": "dchytchy.ytor,s<->otaiin.qopchor.otar.otchaiin.s",
+      "eva": "dchytchy ytor s otaiin qopchor otar otchaiin s"
+    },
+    {
+      "locus": "f36v.4,+P0",
+      "raw": "qotchor.y,ky,ty,dy<->daiin.cthor<$>",
+      "eva": "qotchor y ky ty dy daiin cthor"
+    },
+    {
+      "locus": "f36v.5,+P1",
+      "raw": "<%>tchor.ckhoiin.daiin.cphchar",
+      "eva": "tchor ckhoiin daiin cphchar"
+    },
+    {
+      "locus": "f36v.6,+P1",
+      "raw": "daiin.cthor.daiin.dal.dys",
+      "eva": "daiin cthor daiin dal dys"
+    },
+    {
+      "locus": "f36v.7,+P1",
+      "raw": "qoky.keol.okchor.o,s,ch[y:a],shan",
+      "eva": "qoky keol okchor o s ch[y:a] shan"
+    },
+    {
+      "locus": "f36v.8,+P1",
+      "raw": "ykshy.ytchy.dol.y,tydy.yky",
+      "eva": "ykshy ytchy dol y tydy yky"
+    },
+    {
+      "locus": "f36v.9,+P1",
+      "raw": "okaiin.y,kcholqod.chory",
+      "eva": "okaiin y kcholqod chory"
+    },
+    {
+      "locus": "f36v.10,+P1",
+      "raw": "ykchotchy.daiin.daiild",
+      "eva": "ykchotchy daiin daiild"
+    },
+    {
+      "locus": "f36v.11,+P1",
+      "raw": "oty.chcthy.ytoryd",
+      "eva": "oty chcthy ytoryd"
+    },
+    {
+      "locus": "f36v.12,+P1",
+      "raw": "ytol.kchy.oty,chd",
+      "eva": "ytol kchy oty chd"
+    },
+    {
+      "locus": "f36v.13,+P1",
+      "raw": "oky.she.cthol.oty",
+      "eva": "oky she cthol oty"
+    },
+    {
+      "locus": "f36v.14,+P1",
+      "raw": "soiin.chtain<$>",
+      "eva": "soiin chtain"
+    }
+  ],
+  "eva_text": "pchar asy qoforom shoaiin tchey ch[ckoh:ckhh]y otaiin cphar daiin\nqotor chol daiin otaiin qotor ytar ochor chety ckh[o:a]r dom\ndchytchy ytor s otaiin qopchor otar otchaiin s\nqotchor y ky ty dy daiin cthor\ntchor ckhoiin daiin cphchar\ndaiin cthor daiin dal dys\nqoky keol okchor o s ch[y:a] shan\nykshy ytchy dol y tydy yky\nokaiin y kcholqod chory\nykchotchy daiin daiild\noty chcthy ytoryd\nytol kchy oty chd\noky she cthol oty\nsoiin chtain",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

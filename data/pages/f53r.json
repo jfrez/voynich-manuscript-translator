@@ -1,0 +1,67 @@
+{
+  "folio": "f53r",
+  "page_number": 103,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Elecampane",
+  "plant_candidates": [
+    "Elecampane"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 9,
+  "loci": [
+    {
+      "locus": "f53r.1,@P0",
+      "raw": "<%>k[o:a]dam,chocthody.oty",
+      "eva": "k[o:a]dam chocthody oty"
+    },
+    {
+      "locus": "f53r.2,+P0",
+      "raw": "dol.dain.s,cho,she.oty",
+      "eva": "dol dain s cho she oty"
+    },
+    {
+      "locus": "f53r.3,+P0",
+      "raw": "sho,[a:o][s:r].chokan.ody",
+      "eva": "sho [a:o][s:r] chokan ody"
+    },
+    {
+      "locus": "f53r.4,+P0",
+      "raw": "ytchodaiin.yky.otchey.otod",
+      "eva": "ytchodaiin yky otchey otod"
+    },
+    {
+      "locus": "f53r.5,+P0",
+      "raw": "ok[sh:?].otol.cfhy.cphodol.ykody.qokchod<->otcho.qot.oty",
+      "eva": "ok[sh:?] otol cfhy cphodol ykody qokchod otcho qot oty"
+    },
+    {
+      "locus": "f53r.6,+P0",
+      "raw": "ykeodar.oqoor.o{cki}.odor.chain.qokod<->ykchdy.chees.dal",
+      "eva": "ykeodar oqoor ocki odor chain qokod ykchdy chees dal"
+    },
+    {
+      "locus": "f53r.7,+P0",
+      "raw": "sodar.otos.qoy.tchy.otey.chos.okod<->ykchody.qok[ch:ee]y",
+      "eva": "sodar otos qoy tchy otey chos okod ykchody qok[ch:ee]y"
+    },
+    {
+      "locus": "f53r.8,+P0",
+      "raw": "qotchol.dar.qoty.chtor.oltsho.{cto}<->ykeeod.o.y,toyd",
+      "eva": "qotchol dar qoty chtor oltsho cto ykeeod o y toyd"
+    },
+    {
+      "locus": "f53r.9,+P0",
+      "raw": "otol.chol.ctheees.os.orol.chod.qoty<$>",
+      "eva": "otol chol ctheees os orol chod qoty"
+    }
+  ],
+  "eva_text": "k[o:a]dam chocthody oty\ndol dain s cho she oty\nsho [a:o][s:r] chokan ody\nytchodaiin yky otchey otod\nok[sh:?] otol cfhy cphodol ykody qokchod otcho qot oty\nykeodar oqoor ocki odor chain qokod ykchdy chees dal\nsodar otos qoy tchy otey chos okod ykchody qok[ch:ee]y\nqotchol dar qoty chtor oltsho cto ykeeod o y toyd\notol chol ctheees os orol chod qoty",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,230 @@
+{
+  "folio": "f58r",
+  "page_number": 113,
+  "section": "text only",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "has one star near each paragraph",
+    "I suspect a key-like sequence in the last paragraph",
+    "Six-pointed star at start of this paragraph",
+    "Seven-pointed star at start of this paragraph",
+    "Eight-pointed star at start of this paragraph",
+    "Most lines in para seem to have extra first char"
+  ],
+  "loci_count": 41,
+  "loci": [
+    {
+      "locus": "f58r.1,@P0",
+      "raw": "<%>kor,cholfy.shofchy.otoralchy.chofchol.sholy.otaly.dal,m",
+      "eva": "kor cholfy shofchy otoralchy chofchol sholy otaly dal m"
+    },
+    {
+      "locus": "f58r.2,+P0",
+      "raw": "dshodal.or.ckhy.olchear.char.tal.ytal.ytar.olchokal",
+      "eva": "dshodal or ckhy olchear char tal ytal ytar olchokal"
+    },
+    {
+      "locus": "f58r.3,+P0",
+      "raw": "ykechod.dalaldam.ytam.choty.otchy.otaly.shoty.s",
+      "eva": "ykechod dalaldam ytam choty otchy otaly shoty s"
+    },
+    {
+      "locus": "f58r.4,+P0",
+      "raw": "dshor.sholar.aiin,shalom.shaly.dalchy.oteom.dal.sholala@210;",
+      "eva": "dshor sholar aiin shalom shaly dalchy oteom dal sholala@210;"
+    },
+    {
+      "locus": "f58r.5,+P0",
+      "raw": "qor.dchair,am.otar.otar.char.ar.al.char.ar,ary.ytalar.cham",
+      "eva": "qor dchair am otar otar char ar al char ar ary ytalar cham"
+    },
+    {
+      "locus": "f58r.6,+P0",
+      "raw": "torchey.otaiin.chary.oteor,y.otal.dalchor.ykeey.choltam",
+      "eva": "torchey otaiin chary oteor y otal dalchor ykeey choltam"
+    },
+    {
+      "locus": "f58r.7,+P0",
+      "raw": "saiin.cholkeey.dal.shom.sholteol.ytalody.otey.cheoly.o.tchy",
+      "eva": "saiin cholkeey dal shom sholteol ytalody otey cheoly o tchy"
+    },
+    {
+      "locus": "f58r.8,+P0",
+      "raw": "toleeshal.oleeam.dalor.chy.oteodchy.yteochy.otey,kal,dy.alam",
+      "eva": "toleeshal oleeam dalor chy oteodchy yteochy otey kal dy alam"
+    },
+    {
+      "locus": "f58r.9,+P0",
+      "raw": "sholaiin.cheey.yteodaiin.qoar.aiin.arary.sheey.daiin.e,alam",
+      "eva": "sholaiin cheey yteodaiin qoar aiin arary sheey daiin e alam"
+    },
+    {
+      "locus": "f58r.10,+P0",
+      "raw": "tal.ar.am.shar.chepchey.otar.aldy.otal,cheam.qokaiin.ote.[s:r]y",
+      "eva": "tal ar am shar chepchey otar aldy otal cheam qokaiin ote [s:r]y"
+    },
+    {
+      "locus": "f58r.11,+P0",
+      "raw": "qocphody.qokalam.chairal.qo{ct}aiin.otalal.dalor.orar",
+      "eva": "qocphody qokalam chairal qoctaiin otalal dalor orar"
+    },
+    {
+      "locus": "f58r.12,+P0",
+      "raw": "shoar,ar.choldal.otalchal.dal.choldy.okalys.airaldy.shar",
+      "eva": "shoar ar choldal otalchal dal choldy okalys airaldy shar"
+    },
+    {
+      "locus": "f58r.13,+P0",
+      "raw": "ytar.sheear.cheoldy.ykeol.cheal.cheody.chal.chaiin.ol.oly",
+      "eva": "ytar sheear cheoldy ykeol cheal cheody chal chaiin ol oly"
+    },
+    {
+      "locus": "f58r.14,+P0",
+      "raw": "sharam.okair.chekaiin.ytchaly.dalchal.ykal.okalal.oly.chal",
+      "eva": "sharam okair chekaiin ytchaly dalchal ykal okalal oly chal"
+    },
+    {
+      "locus": "f58r.15,+P0",
+      "raw": "daiir.shal.qopaim.cholaly.dy.shedy<!rare 'ed' in A language><$>",
+      "eva": "daiir shal qopaim cholaly dy shedy"
+    },
+    {
+      "locus": "f58r.16,+P0",
+      "raw": "<%>typchey.ar.air.ytashy.qotyshey.pchdy.dshaly.pydaly.choky,opy",
+      "eva": "typchey ar air ytashy qotyshey pchdy dshaly pydaly choky opy"
+    },
+    {
+      "locus": "f58r.17,+P0",
+      "raw": "ysholshy.qotoly.daiin.ykal.dalchdy.qoky.dal.ytchody.s.olar,aly",
+      "eva": "ysholshy qotoly daiin ykal dalchdy qoky dal ytchody s olar aly"
+    },
+    {
+      "locus": "f58r.18,+P0",
+      "raw": "darar.shol.cholraly.cholaiin.odaiin.chaly.dalar.aiin.okal.otal",
+      "eva": "darar shol cholraly cholaiin odaiin chaly dalar aiin okal otal"
+    },
+    {
+      "locus": "f58r.19,+P0",
+      "raw": "todal.qotey.chaly.dal.qokaldy.otary.okalal.{ch'}ees.chal.[o:a]chaly",
+      "eva": "todal qotey chaly dal qokaldy otary okalal ch'ees chal [o:a]chaly"
+    },
+    {
+      "locus": "f58r.20,+P0",
+      "raw": "ysheockhy.olchey.oleesey.alaiin.olkeal.daldy.otalar.ar.aroda[i:?]m",
+      "eva": "ysheockhy olchey oleesey alaiin olkeal daldy otalar ar aroda[i:?]m"
+    },
+    {
+      "locus": "f58r.21,+P0",
+      "raw": "tcheos.ycheor.sheain.okey.qotaily.daiin.chy.cholkor.olkeol.oty",
+      "eva": "tcheos ycheor sheain okey qotaily daiin chy cholkor olkeol oty"
+    },
+    {
+      "locus": "f58r.22,+P0",
+      "raw": "dcholy.ytar.chol.dal.qoaiir.chalolky.osal.chotam.chal.olsee[g:m]",
+      "eva": "dcholy ytar chol dal qoaiir chalolky osal chotam chal olsee[g:m]"
+    },
+    {
+      "locus": "f58r.23,+P0",
+      "raw": "shol.[a:o]leedy.chotar.okeal.sheody.qokalchar.otal.choky.sar",
+      "eva": "shol [a:o]leedy chotar okeal sheody qokalchar otal choky sar"
+    },
+    {
+      "locus": "f58r.24,+P0",
+      "raw": "tazain.oteeos.okeal.ar.otalor.cheoekar.cheky.otaka[s:r]",
+      "eva": "tazain oteeos okeal ar otalor cheoekar cheky otaka[s:r]"
+    },
+    {
+      "locus": "f58r.25,+P0",
+      "raw": "oar.cheekey.oteeoaly.otar.alkar.or,aldar<$>",
+      "eva": "oar cheekey oteeoaly otar alkar or aldar"
+    },
+    {
+      "locus": "f58r.26,+P0",
+      "raw": "<%>kshar.shoky.opcheear.ofadain.opsheolaiin.opydaiin.podaiir",
+      "eva": "kshar shoky opcheear ofadain opsheolaiin opydaiin podaiir"
+    },
+    {
+      "locus": "f58r.27,+P0",
+      "raw": "yteor.oty.chaltar.ar.sheeetchy.tal,al,chear.chear.chor,ar,am",
+      "eva": "yteor oty chaltar ar sheeetchy tal al chear chear chor ar am"
+    },
+    {
+      "locus": "f58r.28,+P0",
+      "raw": "yshealkair.odalaly.dalal.chy.s,air.shokar.olaldy.okalody",
+      "eva": "yshealkair odalaly dalal chy s air shokar olaldy okalody"
+    },
+    {
+      "locus": "f58r.29,+P0",
+      "raw": "odalar.cheor.sar.alol,daly.cheom.chor,ar,aldam.chal.cheal.[r:s],omy",
+      "eva": "odalar cheor sar alol daly cheom chor ar aldam chal cheal [r:s] omy"
+    },
+    {
+      "locus": "f58r.30,+P0",
+      "raw": "ytor.ar.alom.qokalor.chdy.dair.chody.cheol.okolchy.otaldy",
+      "eva": "ytor ar alom qokalor chdy dair chody cheol okolchy otaldy"
+    },
+    {
+      "locus": "f58r.31,+P0",
+      "raw": "odshchol.taiin.okal,or.chol,ol,ekar.otarchol.chol.kam.qokal",
+      "eva": "odshchol taiin okal or chol ol ekar otarchol chol kam qokal"
+    },
+    {
+      "locus": "f58r.32,+P0",
+      "raw": "oqotaly.qokaiin.chtaldy.qoky.dar.al.chol,taly.qokaldy",
+      "eva": "oqotaly qokaiin chtaldy qoky dar al chol taly qokaldy"
+    },
+    {
+      "locus": "f58r.33,+P0",
+      "raw": "scho{cthh}y.dalols.qokalos.cheor.oekeody.qokaly.qokar.dy",
+      "eva": "schocthhy dalols qokalos cheor oekeody qokaly qokar dy"
+    },
+    {
+      "locus": "f58r.34,+P0",
+      "raw": "yssheol.chokey.dalol.shokalol.qokaly.kaldy.ytaipom",
+      "eva": "yssheol chokey dalol shokalol qokaly kaldy ytaipom"
+    },
+    {
+      "locus": "f58r.35,+P0",
+      "raw": "dto[s:r].sheol.qokor.sharal.ckhol.shol,ar.aiin.sheoctham",
+      "eva": "dto[s:r] sheol qokor sharal ckhol shol ar aiin sheoctham"
+    },
+    {
+      "locus": "f58r.36,+P0",
+      "raw": "skaiin.shokal.chockhy.qoky.chcthy.ykeeshy.shoekar",
+      "eva": "skaiin shokal chockhy qoky chcthy ykeeshy shoekar"
+    },
+    {
+      "locus": "f58r.37,+P0",
+      "raw": "opolkeor.olchocfhy.cphol.chykaldy.cholols.chkaiin,olfcham",
+      "eva": "opolkeor olchocfhy cphol chykaldy cholols chkaiin olfcham"
+    },
+    {
+      "locus": "f58r.38,+P0",
+      "raw": "s,ysheos.okaly.cheos.otey.ykar.ls.aiin.okaiin.ytolkal",
+      "eva": "s ysheos okaly cheos otey ykar ls aiin okaiin ytolkal"
+    },
+    {
+      "locus": "f58r.39,+P0",
+      "raw": "dtshol.dytal.okar,olol.sheol.qockhy.qokaly.salol.dalam",
+      "eva": "dtshol dytal okar olol sheol qockhy qokaly salol dalam"
+    },
+    {
+      "locus": "f58r.40,+P0",
+      "raw": "y[r:?]oleeey.ar,airaly.pchody.tshaly.alols.ykaly.kar.aram",
+      "eva": "y[r:?]oleeey ar airaly pchody tshaly alols ykaly kar aram"
+    },
+    {
+      "locus": "f58r.41,+P0",
+      "raw": "dchol.chokal.saiin.dal.okal,s,alchey<$>",
+      "eva": "dchol chokal saiin dal okal s alchey"
+    }
+  ],
+  "eva_text": "kor cholfy shofchy otoralchy chofchol sholy otaly dal m\ndshodal or ckhy olchear char tal ytal ytar olchokal\nykechod dalaldam ytam choty otchy otaly shoty s\ndshor sholar aiin shalom shaly dalchy oteom dal sholala@210;\nqor dchair am otar otar char ar al char ar ary ytalar cham\ntorchey otaiin chary oteor y otal dalchor ykeey choltam\nsaiin cholkeey dal shom sholteol ytalody otey cheoly o tchy\ntoleeshal oleeam dalor chy oteodchy yteochy otey kal dy alam\nsholaiin cheey yteodaiin qoar aiin arary sheey daiin e alam\ntal ar am shar chepchey otar aldy otal cheam qokaiin ote [s:r]y\nqocphody qokalam chairal qoctaiin otalal dalor orar\nshoar ar choldal otalchal dal choldy okalys airaldy shar\nytar sheear cheoldy ykeol cheal cheody chal chaiin ol oly\nsharam okair chekaiin ytchaly dalchal ykal okalal oly chal\ndaiir shal qopaim cholaly dy shedy\ntypchey ar air ytashy qotyshey pchdy dshaly pydaly choky opy\nysholshy qotoly daiin ykal dalchdy qoky dal ytchody s olar aly\ndarar shol cholraly cholaiin odaiin chaly dalar aiin okal otal\ntodal qotey chaly dal qokaldy otary okalal ch'ees chal [o:a]chaly\nysheockhy olchey oleesey alaiin olkeal daldy otalar ar aroda[i:?]m\ntcheos ycheor sheain okey qotaily daiin chy cholkor olkeol oty\ndcholy ytar chol dal qoaiir chalolky osal chotam chal olsee[g:m]\nshol [a:o]leedy chotar okeal sheody qokalchar otal choky sar\ntazain oteeos okeal ar otalor cheoekar cheky otaka[s:r]\noar cheekey oteeoaly otar alkar or aldar\nkshar shoky opcheear ofadain opsheolaiin opydaiin podaiir\nyteor oty chaltar ar sheeetchy tal al chear chear chor ar am\nyshealkair odalaly dalal chy s air shokar olaldy okalody\nodalar cheor sar alol daly cheom chor ar aldam chal cheal [r:s] omy\nytor ar alom qokalor chdy dair chody cheol okolchy otaldy\nodshchol taiin okal or chol ol ekar otarchol chol kam qokal\noqotaly qokaiin chtaldy qoky dar al chol taly qokaldy\nschocthhy dalols qokalos cheor oekeody qokaly qokar dy\nyssheol chokey dalol shokalol qokaly kaldy ytaipom\ndto[s:r] sheol qokor sharal ckhol shol ar aiin sheoctham\nskaiin shokal chockhy qoky chcthy ykeeshy shoekar\nopolkeor olchocfhy cphol chykaldy cholols chkaiin olfcham\ns ysheos okaly cheos otey ykar ls aiin okaiin ytolkal\ndtshol dytal okar olol sheol qockhy qokaly salol dalam\ny[r:?]oleeey ar airaly pchody tshaly alols ykaly kar aram\ndchol chokal saiin dal okal s alchey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

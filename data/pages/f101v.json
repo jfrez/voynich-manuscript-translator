@@ -1,0 +1,167 @@
+{
+  "folio": "f101v",
+  "page_number": 206,
+  "section": null,
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "pharmaceutical",
+    "Forms one logical page with f101v1, as can be seen from the",
+    "subdivision into paragraphs, and the last line which is",
+    "centered. All normal text loci are transcribed on this page.",
+    "The creases are badly damaged and all lines are interrupted.",
+    "Only the labels on f101v1 are transcribed as belonging to that page.",
+    "Labeled f100v in Brumbaugh.",
+    "Two rows of labels above normal text"
+  ],
+  "loci_count": 28,
+  "loci": [
+    {
+      "locus": "f101v.1,@Lf",
+      "raw": "[s:r]airaly",
+      "eva": "[s:r]airaly"
+    },
+    {
+      "locus": "f101v.2,@Lf",
+      "raw": "otaldy",
+      "eva": "otaldy"
+    },
+    {
+      "locus": "f101v.3,@Lf",
+      "raw": "otol",
+      "eva": "otol"
+    },
+    {
+      "locus": "f101v.4,@Lf",
+      "raw": "ytal",
+      "eva": "ytal"
+    },
+    {
+      "locus": "f101v.5,@Lf",
+      "raw": "dokor",
+      "eva": "dokor"
+    },
+    {
+      "locus": "f101v.6,@Lf",
+      "raw": "orar",
+      "eva": "orar"
+    },
+    {
+      "locus": "f101v.7,@Lf",
+      "raw": "otarar",
+      "eva": "otarar"
+    },
+    {
+      "locus": "f101v.8,@Lf",
+      "raw": "ot[o:a]ly",
+      "eva": "ot[o:a]ly"
+    },
+    {
+      "locus": "f101v.9,@Lf",
+      "raw": "soraly",
+      "eva": "soraly"
+    },
+    {
+      "locus": "f101v.10,@Lf",
+      "raw": "okol",
+      "eva": "okol"
+    },
+    {
+      "locus": "f101v.11,@Lf",
+      "raw": "arom",
+      "eva": "arom"
+    },
+    {
+      "locus": "f101v.12,@Lf",
+      "raw": "oraram",
+      "eva": "oraram"
+    },
+    {
+      "locus": "f101v.13,@Lf",
+      "raw": "oraeep",
+      "eva": "oraeep"
+    },
+    {
+      "locus": "f101v.14,@Lf",
+      "raw": "dytolg",
+      "eva": "dytolg"
+    },
+    {
+      "locus": "f101v.15,@Lf",
+      "raw": "olkor",
+      "eva": "olkor"
+    },
+    {
+      "locus": "f101v.16,@Lf",
+      "raw": "dolary",
+      "eva": "dolary"
+    },
+    {
+      "locus": "f101v.17,@Lf",
+      "raw": "odor",
+      "eva": "odor"
+    },
+    {
+      "locus": "f101v.18,@Lf",
+      "raw": "olaran",
+      "eva": "olaran"
+    },
+    {
+      "locus": "f101v.19,@P0",
+      "raw": "<%>tolchor.cheopor.or,ody.cphey,r.shee.fol,s,oiin.otsheey.otch???y,kcho,pcholy.chor.or.choror.sy<->dorar<->okoraiin.orolodain",
+      "eva": "tolchor cheopor or ody cphey r shee fol s oiin otsheey otch???y kcho pcholy chor or choror sy dorar okoraiin orolodain"
+    },
+    {
+      "locus": "f101v.20,+P0",
+      "raw": "or.aiin.or.o.or.odam.chor.s.aiin.okor.cheeor.sheeol.qokol.et???ol.qoor.cheey.qykeod.oeeo.r.choy.s<->okeeody<->chodaiin.cthy.okody.dar",
+      "eva": "or aiin or o or odam chor s aiin okor cheeor sheeol qokol et???ol qoor cheey qykeod oeeo r choy s okeeody chodaiin cthy okody dar"
+    },
+    {
+      "locus": "f101v.21,+P0",
+      "raw": "ycheor.o[?:e]o.dain.cheokal.{ykh}ody.cheeods.oraiin.qoeey.cthey.???eocthy.dain.cheod?.dydy<$>",
+      "eva": "ycheor o[?:e]o dain cheokal ykhody cheeods oraiin qoeey cthey ???eocthy dain cheod? dydy"
+    },
+    {
+      "locus": "f101v.22,+P0",
+      "raw": "<%>ksear.lol,keeol.otal.or.ol.aiin.okeod.{ykh}ey.dain.olcheol.???opcheol.cthey.qekeoldy.qocthor.sheody.qo{ckhh}ey.odaiin.shoytolaiin.?sodaiin,dy",
+      "eva": "ksear lol keeol otal or ol aiin okeod ykhey dain olcheol ???opcheol cthey qekeoldy qocthor sheody qockhhey odaiin shoytolaiin ?sodaiin dy"
+    },
+    {
+      "locus": "f101v.23,+P0",
+      "raw": "yaiin.ol,olor.daiin.okeey.qok.ykeol.daiin.qockhy.daiin.olch???dar.qokeol.dol.oraiin.oldaiin.keeol@138;,rch.qokeeeor.s,ydy.cheor.okeey.choldy.dar",
+      "eva": "yaiin ol olor daiin okeey qok ykeol daiin qockhy daiin olch???dar qokeol dol oraiin oldaiin keeol@138; rch qokeeeor s ydy cheor okeey choldy dar"
+    },
+    {
+      "locus": "f101v.24,+P0",
+      "raw": "teeeol.sheol.qokeor.{ykh}ol.olcho.r.chokey.chor.ctheey.daiin???daiin.cheeody.cheey,keo.cheol.daiiin.deeor.cheedy<$>",
+      "eva": "teeeol sheol qokeor ykhol olcho r chokey chor ctheey daiin???daiin cheeody cheey keo cheol daiiin deeor cheedy"
+    },
+    {
+      "locus": "f101v.25,+P0",
+      "raw": "<%>daiin.dair.yteol.chor.qockhol.daiin.ckheey.chey.kchey.da???oiin.okeey.ckheo,l,cheody.kcheol.daiin.etee[o:y]s.ctheody.ctheo.ckhosh[?:e].olchor",
+      "eva": "daiin dair yteol chor qockhol daiin ckheey chey kchey da???oiin okeey ckheo l cheody kcheol daiin etee[o:y]s ctheody ctheo ckhosh[?:e] olchor"
+    },
+    {
+      "locus": "f101v.26,+P0",
+      "raw": "olaiin.okeol.cheo.kol.ches.sheey.qoor.qokeody.cheor.okeo.???oiin.cheey.cthey.ory.ctheey.qokeey.shol.ody.cheol.oralar.shey.qokar,ary",
+      "eva": "olaiin okeol cheo kol ches sheey qoor qokeody cheor okeo ???oiin cheey cthey ory ctheey qokeey shol ody cheol oralar shey qokar ary"
+    },
+    {
+      "locus": "f101v.27,+P0",
+      "raw": "sal.chol.choly.okeey.dal.qol.shckheol.chol.cthear.keeol.???cheeo.ol,chs.oraiin.qokeeey.soiin.qodaiin.cheol.qokeey.daiin.cheodam",
+      "eva": "sal chol choly okeey dal qol shckheol chol cthear keeol ???cheeo ol chs oraiin qokeeey soiin qodaiin cheol qokeey daiin cheodam"
+    },
+    {
+      "locus": "f101v.28,+Pc",
+      "raw": "teol.cheol.etchey.???cheo,r.cheol.cthol.cholaiin.chol,qkar<$>",
+      "eva": "teol cheol etchey ???cheo r cheol cthol cholaiin chol qkar"
+    }
+  ],
+  "eva_text": "[s:r]airaly\notaldy\notol\nytal\ndokor\norar\notarar\not[o:a]ly\nsoraly\nokol\narom\noraram\noraeep\ndytolg\nolkor\ndolary\nodor\nolaran\ntolchor cheopor or ody cphey r shee fol s oiin otsheey otch???y kcho pcholy chor or choror sy dorar okoraiin orolodain\nor aiin or o or odam chor s aiin okor cheeor sheeol qokol et???ol qoor cheey qykeod oeeo r choy s okeeody chodaiin cthy okody dar\nycheor o[?:e]o dain cheokal ykhody cheeods oraiin qoeey cthey ???eocthy dain cheod? dydy\nksear lol keeol otal or ol aiin okeod ykhey dain olcheol ???opcheol cthey qekeoldy qocthor sheody qockhhey odaiin shoytolaiin ?sodaiin dy\nyaiin ol olor daiin okeey qok ykeol daiin qockhy daiin olch???dar qokeol dol oraiin oldaiin keeol@138; rch qokeeeor s ydy cheor okeey choldy dar\nteeeol sheol qokeor ykhol olcho r chokey chor ctheey daiin???daiin cheeody cheey keo cheol daiiin deeor cheedy\ndaiin dair yteol chor qockhol daiin ckheey chey kchey da???oiin okeey ckheo l cheody kcheol daiin etee[o:y]s ctheody ctheo ckhosh[?:e] olchor\nolaiin okeol cheo kol ches sheey qoor qokeody cheor okeo ???oiin cheey cthey ory ctheey qokeey shol ody cheol oralar shey qokar ary\nsal chol choly okeey dal qol shckheol chol cthear keeol ???cheeo ol chs oraiin qokeeey soiin qodaiin cheol qokeey daiin cheodam\nteol cheol etchey ???cheo r cheol cthol cholaiin chol qkar",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

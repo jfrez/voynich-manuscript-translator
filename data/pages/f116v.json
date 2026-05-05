@@ -1,0 +1,31 @@
+{
+  "folio": "f116v",
+  "page_number": 235,
+  "section": null,
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "has \"key-like\" sequence",
+    "has extraneous writing mixed with voynich script",
+    "eva in < >, approximately:",
+    "p*clabc* nomon nucor*v",
+    "+ nuchicon oladab<yd> + multo<d> + tc + c<h>vc + porta<d> + n +",
+    "fix + marix + mocix + vix + ahra + maria +",
+    "end of file"
+  ],
+  "loci_count": 1,
+  "loci": [
+    {
+      "locus": "f116v.1,@Lx",
+      "raw": "oror.sheey<!valsch vbren so nim gaf mich o>",
+      "eva": "oror sheey"
+    }
+  ],
+  "eva_text": "oror sheey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

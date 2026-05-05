@@ -1,0 +1,92 @@
+{
+  "folio": "f43r",
+  "page_number": 83,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Antennaria Gnaphalium",
+  "plant_candidates": [
+    "Antennaria Gnaphalium"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 14,
+  "loci": [
+    {
+      "locus": "f43r.1,@P0",
+      "raw": "<%>tarodaiin.ytedy.eeody.ofchtar.chcphedy.ypar.shol.folor.aiin.cphey.dar",
+      "eva": "tarodaiin ytedy eeody ofchtar chcphedy ypar shol folor aiin cphey dar"
+    },
+    {
+      "locus": "f43r.2,+P0",
+      "raw": "yteody.oteol.ytedy.ar.chety.dar.aiir.okaldy.daral.otchdy.daiin.dals",
+      "eva": "yteody oteol ytedy ar chety dar aiir okaldy daral otchdy daiin dals"
+    },
+    {
+      "locus": "f43r.3,+P0",
+      "raw": "yty.yty.oty.she.ody.shy.olor.yteedy.kaiin.chky.qotydy.dar.aiin.ykam",
+      "eva": "yty yty oty she ody shy olor yteedy kaiin chky qotydy dar aiin ykam"
+    },
+    {
+      "locus": "f43r.4,+P0",
+      "raw": "das,ar.ytey,tedy,kar.arar.she.kalchdy.cholky.qotaly.chedy.oty.otam",
+      "eva": "das ar ytey tedy kar arar she kalchdy cholky qotaly chedy oty otam"
+    },
+    {
+      "locus": "f43r.5,+P0",
+      "raw": "ykar.ch[e:i]dy.shekody.qotody.qotar.okedy.dar.choetchy.dam.otain.y,tam",
+      "eva": "ykar ch[e:i]dy shekody qotody qotar okedy dar choetchy dam otain y tam"
+    },
+    {
+      "locus": "f43r.6,+P0",
+      "raw": "kchedy.chedy.daly.cheody.cheolkeepchy<$>",
+      "eva": "kchedy chedy daly cheody cheolkeepchy"
+    },
+    {
+      "locus": "f43r.7,+P0",
+      "raw": "<%>pshesy.otey,kshdy.opchdy.kedar.okedy.chdy.sho{cphh}y.dyty,dy.pchdy.kedy.dam",
+      "eva": "pshesy otey kshdy opchdy kedar okedy chdy shocphhy dyty dy pchdy kedy dam"
+    },
+    {
+      "locus": "f43r.8,+P0",
+      "raw": "ytchedy.chedy.cheody.shy.qoiiin.sheeeky.chedy.dain.shy.ykolor.[o:a]taiin.old",
+      "eva": "ytchedy chedy cheody shy qoiiin sheeeky chedy dain shy ykolor [o:a]taiin old"
+    },
+    {
+      "locus": "f43r.9,+P0",
+      "raw": "dshedy.qotedy.dor.cheey.odain<$>",
+      "eva": "dshedy qotedy dor cheey odain"
+    },
+    {
+      "locus": "f43r.10,+P0",
+      "raw": "<%>pshdar.shed.ody.qotedy.yfchdy.qo{ckhh}dy.opchdy.daiin.qokedy.dydydy.qotar",
+      "eva": "pshdar shed ody qotedy yfchdy qockhhdy opchdy daiin qokedy dydydy qotar"
+    },
+    {
+      "locus": "f43r.11,+P0",
+      "raw": "ytchedy.ty.shol.t[o:a]ldy.shody.oteedy.shdy.otolol.shd.olky.ytol.otary.cheky,dy",
+      "eva": "ytchedy ty shol t[o:a]ldy shody oteedy shdy otolol shd olky ytol otary cheky dy"
+    },
+    {
+      "locus": "f43r.12,+P0",
+      "raw": "dor.shol.qokol,shedy.qotedy.qokeedy.qokody.okeedy.otedy.shedy.oty.yty,dy.saiin",
+      "eva": "dor shol qokol shedy qotedy qokeedy qokody okeedy otedy shedy oty yty dy saiin"
+    },
+    {
+      "locus": "f43r.13,+P0",
+      "raw": "tshed.qosheckhey.odeeedy.qeokeey.qotedy.daiin.shodody.shochol.chckhy.y,kedydy",
+      "eva": "tshed qosheckhey odeeedy qeokeey qotedy daiin shodody shochol chckhy y kedydy"
+    },
+    {
+      "locus": "f43r.14,+P0",
+      "raw": "ykeody.checkhy.choteey.odain.ch{ckhhh}y.chokoraiin<$>",
+      "eva": "ykeody checkhy choteey odain chckhhhy chokoraiin"
+    }
+  ],
+  "eva_text": "tarodaiin ytedy eeody ofchtar chcphedy ypar shol folor aiin cphey dar\nyteody oteol ytedy ar chety dar aiir okaldy daral otchdy daiin dals\nyty yty oty she ody shy olor yteedy kaiin chky qotydy dar aiin ykam\ndas ar ytey tedy kar arar she kalchdy cholky qotaly chedy oty otam\nykar ch[e:i]dy shekody qotody qotar okedy dar choetchy dam otain y tam\nkchedy chedy daly cheody cheolkeepchy\npshesy otey kshdy opchdy kedar okedy chdy shocphhy dyty dy pchdy kedy dam\nytchedy chedy cheody shy qoiiin sheeeky chedy dain shy ykolor [o:a]taiin old\ndshedy qotedy dor cheey odain\npshdar shed ody qotedy yfchdy qockhhdy opchdy daiin qokedy dydydy qotar\nytchedy ty shol t[o:a]ldy shody oteedy shdy otolol shd olky ytol otary cheky dy\ndor shol qokol shedy qotedy qokeedy qokody okeedy otedy shedy oty yty dy saiin\ntshed qosheckhey odeeedy qeokeey qotedy daiin shodody shochol chckhy y kedydy\nykeody checkhy choteey odain chckhhhy chokoraiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

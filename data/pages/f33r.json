@@ -1,0 +1,53 @@
+{
+  "folio": "f33r",
+  "page_number": 63,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 7,
+  "loci": [
+    {
+      "locus": "f33r.1,@P0",
+      "raw": "<%>tshdar.shd[o:a]r.shepchdy.cphody.yfoldy.qofo{ikh}dy.otchedy.lfchdy.daiin",
+      "eva": "tshdar shd[o:a]r shepchdy cphody yfoldy qofoikhdy otchedy lfchdy daiin"
+    },
+    {
+      "locus": "f33r.2,+P0",
+      "raw": "ytchedy.qokar.cheky.okaldy.qokaldy.otor.oldar.qotar.otar.otardam",
+      "eva": "ytchedy qokar cheky okaldy qokaldy otor oldar qotar otar otardam"
+    },
+    {
+      "locus": "f33r.3,+P0",
+      "raw": "laiin.y.cheky.qokedy.shedy.chdal.chechdaiin.qokchy.ody.chekeedy.yka[m:g]",
+      "eva": "laiin y cheky qokedy shedy chdal chechdaiin qokchy ody chekeedy yka[m:g]"
+    },
+    {
+      "locus": "f33r.4,+P0",
+      "raw": "taiin.chekey.or.al,aiiin.saiin.okaiin.dar.cheedy.chkeey.far.aiin.s",
+      "eva": "taiin chekey or al aiiin saiin okaiin dar cheedy chkeey far aiin s"
+    },
+    {
+      "locus": "f33r.5,+P0",
+      "raw": "pair.or.aiin.otaiin.ol,kor.aiin.okal.otal.chdal.shekal.qokar.ota[m:g]",
+      "eva": "pair or aiin otaiin ol kor aiin okal otal chdal shekal qokar ota[m:g]"
+    },
+    {
+      "locus": "f33r.6,+P0",
+      "raw": "yteey.shody.kchedy,dy.chekar.okaiin.okaiin.daiin.okal",
+      "eva": "yteey shody kchedy dy chekar okaiin okaiin daiin okal"
+    },
+    {
+      "locus": "f33r.7,+P0",
+      "raw": "dar.chos.aiin.or.aiin.cheekaiin.okain.ar.okeeey<$>",
+      "eva": "dar chos aiin or aiin cheekaiin okain ar okeeey"
+    }
+  ],
+  "eva_text": "tshdar shd[o:a]r shepchdy cphody yfoldy qofoikhdy otchedy lfchdy daiin\nytchedy qokar cheky okaldy qokaldy otor oldar qotar otar otardam\nlaiin y cheky qokedy shedy chdal chechdaiin qokchy ody chekeedy yka[m:g]\ntaiin chekey or al aiiin saiin okaiin dar cheedy chkeey far aiin s\npair or aiin otaiin ol kor aiin okal otal chdal shekal qokar ota[m:g]\nyteey shody kchedy dy chekar okaiin okaiin daiin okal\ndar chos aiin or aiin cheekaiin okain ar okeeey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,94 @@
+{
+  "folio": "f4v",
+  "page_number": 8,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Convulvula Ipomea? (climbing plant)",
+  "plant_candidates": [
+    "Convulvula Ipomea?"
+  ],
+  "plant_category_guess": "root",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "ipomea"
+  ],
+  "refs": [],
+  "notes": [
+    "Two paragraphs, top one split by plant"
+  ],
+  "loci_count": 14,
+  "loci": [
+    {
+      "locus": "f4v.1,@P0",
+      "raw": "<%>pchooiin.ksheo.kchoy.chopchy.dolds<->dlod",
+      "eva": "pchooiin ksheo kchoy chopchy dolds dlod"
+    },
+    {
+      "locus": "f4v.2,+P0",
+      "raw": "ol.chey.chy.cthy.shkchor.sheo.cheory<->choldy",
+      "eva": "ol chey chy cthy shkchor sheo cheory choldy"
+    },
+    {
+      "locus": "f4v.3,+P0",
+      "raw": "sho.sho.chaiin.shaiin.daiin.qodaiin<->o,aram",
+      "eva": "sho sho chaiin shaiin daiin qodaiin o aram"
+    },
+    {
+      "locus": "f4v.4,+P0",
+      "raw": "qok[sh:ch]y.qocthy.choteol.daiin.cthey<->choaiin",
+      "eva": "qok[sh:ch]y qocthy choteol daiin cthey choaiin"
+    },
+    {
+      "locus": "f4v.5,+P0",
+      "raw": "shor.sheey.{cto}.otoiin.shey.qotchoiin<->chodain",
+      "eva": "shor sheey cto otoiin shey qotchoiin chodain"
+    },
+    {
+      "locus": "f4v.6,+P0",
+      "raw": "ytchoy.shokchy.cphody<$>",
+      "eva": "ytchoy shokchy cphody"
+    },
+    {
+      "locus": "f4v.7,+P0",
+      "raw": "<%>torchy.sheeor.chor.chokch[y:e].cphydy",
+      "eva": "torchy sheeor chor chokch[y:e] cphydy"
+    },
+    {
+      "locus": "f4v.8,+P0",
+      "raw": "oleeeb.chor.cthol.sho.otor.cthory",
+      "eva": "oleeeb chor cthol sho otor cthory"
+    },
+    {
+      "locus": "f4v.9,+P0",
+      "raw": "qooko,iiin,cheog.chcthy.shoky.daiin",
+      "eva": "qooko iiin cheog chcthy shoky daiin"
+    },
+    {
+      "locus": "f4v.10,+P0",
+      "raw": "otaiin.sheo.okeody.chol,chokeody",
+      "eva": "otaiin sheo okeody chol chokeody"
+    },
+    {
+      "locus": "f4v.11,+P0",
+      "raw": "sho.kcheor.shody.shtaiin.qotol,daiin",
+      "eva": "sho kcheor shody shtaiin qotol daiin"
+    },
+    {
+      "locus": "f4v.12,+P0",
+      "raw": "qokey.sho.okeol.s,keey.shar,char,ody",
+      "eva": "qokey sho okeol s keey shar char ody"
+    },
+    {
+      "locus": "f4v.13,+P0",
+      "raw": "shody.s.cheor.chokody.shodaiin.qoty",
+      "eva": "shody s cheor chokody shodaiin qoty"
+    },
+    {
+      "locus": "f4v.14,+P0",
+      "raw": "ochody.chy,key.chtody<$>",
+      "eva": "ochody chy key chtody"
+    }
+  ],
+  "eva_text": "pchooiin ksheo kchoy chopchy dolds dlod\nol chey chy cthy shkchor sheo cheory choldy\nsho sho chaiin shaiin daiin qodaiin o aram\nqok[sh:ch]y qocthy choteol daiin cthey choaiin\nshor sheey cto otoiin shey qotchoiin chodain\nytchoy shokchy cphody\ntorchy sheeor chor chokch[y:e] cphydy\noleeeb chor cthol sho otor cthory\nqooko iiin cheog chcthy shoky daiin\notaiin sheo okeody chol chokeody\nsho kcheor shody shtaiin qotol daiin\nqokey sho okeol s keey shar char ody\nshody s cheor chokody shodaiin qoty\nochody chy key chtody",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

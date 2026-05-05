@@ -1,0 +1,133 @@
+{
+  "folio": "f8r",
+  "page_number": 15,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Praenanthes (O'Neill), Atriplex hastata (spinach?)(Voynich)",
+  "plant_candidates": [
+    "Praenanthes",
+    "Atriplex hastata"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "atriplex",
+    "praenanthes",
+    "spinach"
+  ],
+  "refs": [],
+  "notes": [
+    "Hedera Helix (RZ)",
+    "last word(s) in each paragraph flushed to the right (signatures?)"
+  ],
+  "loci_count": 21,
+  "loci": [
+    {
+      "locus": "f8r.1,@P0",
+      "raw": "<%>pshol.chor.otshal.chopy<->cph[o:a]l.chody.shy.cfhodar.shor",
+      "eva": "pshol chor otshal chopy cph[o:a]l chody shy cfhodar shor"
+    },
+    {
+      "locus": "f8r.2,+P0",
+      "raw": "tchty.sh,kcheals.sho<->okche.do.dchy.dain.al",
+      "eva": "tchty sh kcheals sho okche do dchy dain al"
+    },
+    {
+      "locus": "f8r.3,+P0",
+      "raw": "chodar.shy.sy<->chodaiin.shokchy.chor.dy",
+      "eva": "chodar shy sy chodaiin shokchy chor dy"
+    },
+    {
+      "locus": "f8r.4,+P0",
+      "raw": "qotor.chor.chor.sheey<->dchol.shesed.chof.chy.dam",
+      "eva": "qotor chor chor sheey dchol shesed chof chy dam"
+    },
+    {
+      "locus": "f8r.5,+P0",
+      "raw": "okchey.do.r.cheeey.dy.ky<->scho.chky.{ck}ooaiin.ch[y:a],taiin",
+      "eva": "okchey do r cheeey dy ky scho chky ckooaiin ch[y:a] taiin"
+    },
+    {
+      "locus": "f8r.6,+P0",
+      "raw": "tosh.{ck}cheey.koltoldy<->shy.choety.cheeody.sol",
+      "eva": "tosh ckcheey koltoldy shy choety cheeody sol"
+    },
+    {
+      "locus": "f8r.7,+P0",
+      "raw": "choto.kchoan.choor.dain",
+      "eva": "choto kchoan choor dain"
+    },
+    {
+      "locus": "f8r.8,=Pt",
+      "raw": "dcho.dain<$>",
+      "eva": "dcho dain"
+    },
+    {
+      "locus": "f8r.9,*P0",
+      "raw": "<%>tchoep.sho.pcheey.pchey<->ofchey.dsheey.sholdaiin.shor",
+      "eva": "tchoep sho pcheey pchey ofchey dsheey sholdaiin shor"
+    },
+    {
+      "locus": "f8r.10,+P0",
+      "raw": "daiin.cheey.teeodan.dy<->cheocthy.oksheo.dol.dairg",
+      "eva": "daiin cheey teeodan dy cheocthy oksheo dol dairg"
+    },
+    {
+      "locus": "f8r.11,+P0",
+      "raw": "shol.cheodaiin.daiin.do<->y,tchody.chot.choty.otariin",
+      "eva": "shol cheodaiin daiin do y tchody chot choty otariin"
+    },
+    {
+      "locus": "f8r.12,+P0",
+      "raw": "qo,chodaiin.shotokody<->chotol",
+      "eva": "qo chodaiin shotokody chotol"
+    },
+    {
+      "locus": "f8r.13,=Pt",
+      "raw": "okokchodg<$>",
+      "eva": "okokchodg"
+    },
+    {
+      "locus": "f8r.14,*P0",
+      "raw": "<%>{c@132;h}o.{c@196;h}ey.shol.chofydy<->sho.chey.kshey.lody.cholal",
+      "eva": "c@132;ho c@196;hey shol chofydy sho chey kshey lody cholal"
+    },
+    {
+      "locus": "f8r.15,+P0",
+      "raw": "dchey.ckhol.chol.chey.kc{cs}<->chy.{cto}daiin.dol.daiiir[{ih}:ch]y.ckhy",
+      "eva": "dchey ckhol chol chey kccs chy ctodaiin dol daiiir[ih:ch]y ckhy"
+    },
+    {
+      "locus": "f8r.16,+P0",
+      "raw": "ychey.kch[e:o]kchy.chsey,kchy<->scheaiin.cthai{ih}ar.cthy.dar",
+      "eva": "ychey kch[e:o]kchy chsey kchy scheaiin cthaiihar cthy dar"
+    },
+    {
+      "locus": "f8r.17,+P0",
+      "raw": "chol.dchy.qokar.chl<->aiin.chean.{ck}y.char.chaiin",
+      "eva": "chol dchy qokar chl aiin chean cky char chaiin"
+    },
+    {
+      "locus": "f8r.18,+P0",
+      "raw": "okar.cfhaiin.chaiin.{cl}<->daiin.chor.cha.rchealcham",
+      "eva": "okar cfhaiin chaiin cl daiin chor cha rchealcham"
+    },
+    {
+      "locus": "f8r.19,+P0",
+      "raw": "sair.cheain.cphol.dar<->shol.kaiin.shol.kaiin.dai,kam",
+      "eva": "sair cheain cphol dar shol kaiin shol kaiin dai kam"
+    },
+    {
+      "locus": "f8r.20,+P0",
+      "raw": "or.cho,kesey.shey.o.kal<->chal",
+      "eva": "or cho kesey shey o kal chal"
+    },
+    {
+      "locus": "f8r.21,=Pt",
+      "raw": "schol.saim<$>",
+      "eva": "schol saim"
+    }
+  ],
+  "eva_text": "pshol chor otshal chopy cph[o:a]l chody shy cfhodar shor\ntchty sh kcheals sho okche do dchy dain al\nchodar shy sy chodaiin shokchy chor dy\nqotor chor chor sheey dchol shesed chof chy dam\nokchey do r cheeey dy ky scho chky ckooaiin ch[y:a] taiin\ntosh ckcheey koltoldy shy choety cheeody sol\nchoto kchoan choor dain\ndcho dain\ntchoep sho pcheey pchey ofchey dsheey sholdaiin shor\ndaiin cheey teeodan dy cheocthy oksheo dol dairg\nshol cheodaiin daiin do y tchody chot choty otariin\nqo chodaiin shotokody chotol\nokokchodg\nc@132;ho c@196;hey shol chofydy sho chey kshey lody cholal\ndchey ckhol chol chey kccs chy ctodaiin dol daiiir[ih:ch]y ckhy\nychey kch[e:o]kchy chsey kchy scheaiin cthaiihar cthy dar\nchol dchy qokar chl aiin chean cky char chaiin\nokar cfhaiin chaiin cl daiin chor cha rchealcham\nsair cheain cphol dar shol kaiin shol kaiin dai kam\nor cho kesey shey o kal chal\nschol saim",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

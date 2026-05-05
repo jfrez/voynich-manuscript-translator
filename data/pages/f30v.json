@@ -1,0 +1,77 @@
+{
+  "folio": "f30v",
+  "page_number": 58,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Boragine",
+  "plant_candidates": [
+    "Boragine"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f30v.1,@P0",
+      "raw": "<%>{c@132;h}s{c@133;h}ain.shosaiin.chocthey.sho.chepchy.shor.sheaiin",
+      "eva": "c@132;hsc@133;hain shosaiin chocthey sho chepchy shor sheaiin"
+    },
+    {
+      "locus": "f30v.2,+P0",
+      "raw": "qotchor.chy.she.kchor.chory.keor,ol.chy.daiin.ctholdy",
+      "eva": "qotchor chy she kchor chory keor ol chy daiin ctholdy"
+    },
+    {
+      "locus": "f30v.3,+P0",
+      "raw": "chotchol.daiin.cthol.doiin.daiin.chokeor.dal.chto[{ith}:cth]y",
+      "eva": "chotchol daiin cthol doiin daiin chokeor dal chto[ith:cth]y"
+    },
+    {
+      "locus": "f30v.4,+P0",
+      "raw": "otchey.daiin.chor.checkhy.qotchod.daiin",
+      "eva": "otchey daiin chor checkhy qotchod daiin"
+    },
+    {
+      "locus": "f30v.5,+P0",
+      "raw": "dain.choty.chkol.ytor.cheoldy",
+      "eva": "dain choty chkol ytor cheoldy"
+    },
+    {
+      "locus": "f30v.6,+P0",
+      "raw": "qokeeor.chokol.chokeody.dair,y",
+      "eva": "qokeeor chokol chokeody dair y"
+    },
+    {
+      "locus": "f30v.7,+P0",
+      "raw": "ch[a:o]kchy.sho,kcho,tcho.ctho.sos",
+      "eva": "ch[a:o]kchy sho kcho tcho ctho sos"
+    },
+    {
+      "locus": "f30v.8,+P0",
+      "raw": "oyshy.cheotol.cphoaiin.cphey",
+      "eva": "oyshy cheotol cphoaiin cphey"
+    },
+    {
+      "locus": "f30v.9,+P0",
+      "raw": "qotchor.chor.sheey.cheolsos",
+      "eva": "qotchor chor sheey cheolsos"
+    },
+    {
+      "locus": "f30v.10,+P0",
+      "raw": "sho.sheoldy.otcheor.daiin",
+      "eva": "sho sheoldy otcheor daiin"
+    },
+    {
+      "locus": "f30v.11,+P0",
+      "raw": "sol.chokcheey.daiin.kchydy<$>",
+      "eva": "sol chokcheey daiin kchydy"
+    }
+  ],
+  "eva_text": "c@132;hsc@133;hain shosaiin chocthey sho chepchy shor sheaiin\nqotchor chy she kchor chory keor ol chy daiin ctholdy\nchotchol daiin cthol doiin daiin chokeor dal chto[ith:cth]y\notchey daiin chor checkhy qotchod daiin\ndain choty chkol ytor cheoldy\nqokeeor chokol chokeody dair y\nch[a:o]kchy sho kcho tcho ctho sos\noyshy cheotol cphoaiin cphey\nqotchor chor sheey cheolsos\nsho sheoldy otcheor daiin\nsol chokcheey daiin kchydy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

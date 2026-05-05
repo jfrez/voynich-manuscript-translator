@@ -1,0 +1,122 @@
+{
+  "folio": "f68v3",
+  "page_number": 128,
+  "section": "cosmological",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "The 'Spiral Nebula'",
+    "Way p140",
+    "Newbold XIII, XXI, XXII, who calls it f.68r",
+    "Outer Circle, starting at the marker",
+    "Spiralling lines, transcribed as radiating. Clock position indicated is that",
+    "of point at outer circle. 4 are long (up to central circe) and 4 are short",
+    "Inner circle",
+    "Inside circle. Top left and top right as L0 label, bottom as 3-line blocked paragraph"
+  ],
+  "loci_count": 19,
+  "loci": [
+    {
+      "locus": "f68v3.1,@P0",
+      "raw": "<%>tchedy.chepchy.daiidy.shol.kcheoly.choteol.shol.s.chey.shodaiin.chetshedy.otsho.qooto.seeey",
+      "eva": "tchedy chepchy daiidy shol kcheoly choteol shol s chey shodaiin chetshedy otsho qooto seeey"
+    },
+    {
+      "locus": "f68v3.2,+P0",
+      "raw": "sshey.kcheol.sheey.qety.sheey.otchol.chal,sheey.daiin.sheody.qokol.aiir.chor.cheoty.oty",
+      "eva": "sshey kcheol sheey qety sheey otchol chal sheey daiin sheody qokol aiir chor cheoty oty"
+    },
+    {
+      "locus": "f68v3.3,+P0",
+      "raw": "sho.chokar.sor.chor.cheky.daiin.dar.aiiin<->ytey.tol.cheeetchol.sam",
+      "eva": "sho chokar sor chor cheky daiin dar aiiin ytey tol cheeetchol sam"
+    },
+    {
+      "locus": "f68v3.4,+P0",
+      "raw": "dcheey.qo{ckhh}y.chydy<$>",
+      "eva": "dcheey qockhhy chydy"
+    },
+    {
+      "locus": "f68v3.5,@Cc",
+      "raw": "<!08:30>oky.otol.ees.choty.cheda[s:r].otchdy.s.ar.oekaiin.oteol.dar.cheo.dais.qoeeo,kaiin.okchey.dal.cheky.ykos.[y:q]akeg.s.ol.ay.ykoees.yty.dy.dy.chody.otol.ol,ees.oty.dar.qotay.otoy.chey.kodar.dar.sheody.shees.daiin.oteeoaly.oteeosol.ol.okol.olsey.tol.cheol.okeey.choekcheey.okchy.qokchshy.dchol.chshek",
+      "eva": "oky otol ees choty cheda[s:r] otchdy s ar oekaiin oteol dar cheo dais qoeeo kaiin okchey dal cheky ykos [y:q]akeg s ol ay ykoees yty dy dy chody otol ol ees oty dar qotay otoy chey kodar dar sheody shees daiin oteeoaly oteeosol ol okol olsey tol cheol okeey choekcheey okchy qokchshy dchol chshek"
+    },
+    {
+      "locus": "f68v3.6,@Ri",
+      "raw": "ocheal.qoeey.keody.cheoky.okeey.chody.dy.ote?m",
+      "eva": "ocheal qoeey keody cheoky okeey chody dy ote?m"
+    },
+    {
+      "locus": "f68v3.7,@Ri",
+      "raw": "r.al.chdail.schekol.okeody",
+      "eva": "r al chdail schekol okeody"
+    },
+    {
+      "locus": "f68v3.8,@Ri",
+      "raw": "okeol.cheody.qoekeey.ocheky.eeody.okchdy.oko.okos",
+      "eva": "okeol cheody qoekeey ocheky eeody okchdy oko okos"
+    },
+    {
+      "locus": "f68v3.9,@Ri",
+      "raw": "shoekechy.sheky.okolchey.okol[m:k]om",
+      "eva": "shoekechy sheky okolchey okol[m:k]om"
+    },
+    {
+      "locus": "f68v3.10,@Ri",
+      "raw": "qokeody.okeey.chekchy.chckhy.okal,ody.chedy",
+      "eva": "qokeody okeey chekchy chckhy okal ody chedy"
+    },
+    {
+      "locus": "f68v3.11,@Ri",
+      "raw": "ycheeo.key.qokal.okeeg",
+      "eva": "ycheeo key qokal okeeg"
+    },
+    {
+      "locus": "f68v3.12,@Ri",
+      "raw": "ochey.chekchy.dkeeeg.cheekey.teokechey.saiir",
+      "eva": "ochey chekchy dkeeeg cheekey teokechey saiir"
+    },
+    {
+      "locus": "f68v3.13,@Ri",
+      "raw": "ydaiil.ol.chek.okchyd",
+      "eva": "ydaiil ol chek okchyd"
+    },
+    {
+      "locus": "f68v3.14,@Cc",
+      "raw": "<!09:00>okosy.okchy.okol.choekey.okeoeeey.ol.yko[?n:in].otairo[s:r].orol.orkeeey.olkeeoly.ykeeol",
+      "eva": "okosy okchy okol choekey okeoeeey ol yko[?n:in] otairo[s:r] orol orkeeey olkeeoly ykeeol"
+    },
+    {
+      "locus": "f68v3.15,@L0",
+      "raw": "otodol",
+      "eva": "otodol"
+    },
+    {
+      "locus": "f68v3.16,=L0",
+      "raw": "opcholdg",
+      "eva": "opcholdg"
+    },
+    {
+      "locus": "f68v3.17,@Pb",
+      "raw": "<%>roar.ykeol.<!space>darol.daly",
+      "eva": "roar ykeol darol daly"
+    },
+    {
+      "locus": "f68v3.18,+Pb",
+      "raw": "solaiin.{ckhh}y.olekeey.dy",
+      "eva": "solaiin ckhhy olekeey dy"
+    },
+    {
+      "locus": "f68v3.19,+Pb",
+      "raw": "ykeol.ctheepoey.dar<$>",
+      "eva": "ykeol ctheepoey dar"
+    }
+  ],
+  "eva_text": "tchedy chepchy daiidy shol kcheoly choteol shol s chey shodaiin chetshedy otsho qooto seeey\nsshey kcheol sheey qety sheey otchol chal sheey daiin sheody qokol aiir chor cheoty oty\nsho chokar sor chor cheky daiin dar aiiin ytey tol cheeetchol sam\ndcheey qockhhy chydy\noky otol ees choty cheda[s:r] otchdy s ar oekaiin oteol dar cheo dais qoeeo kaiin okchey dal cheky ykos [y:q]akeg s ol ay ykoees yty dy dy chody otol ol ees oty dar qotay otoy chey kodar dar sheody shees daiin oteeoaly oteeosol ol okol olsey tol cheol okeey choekcheey okchy qokchshy dchol chshek\nocheal qoeey keody cheoky okeey chody dy ote?m\nr al chdail schekol okeody\nokeol cheody qoekeey ocheky eeody okchdy oko okos\nshoekechy sheky okolchey okol[m:k]om\nqokeody okeey chekchy chckhy okal ody chedy\nycheeo key qokal okeeg\nochey chekchy dkeeeg cheekey teokechey saiir\nydaiil ol chek okchyd\nokosy okchy okol choekey okeoeeey ol yko[?n:in] otairo[s:r] orol orkeeey olkeeoly ykeeol\notodol\nopcholdg\nroar ykeol darol daly\nsolaiin ckhhy olekeey dy\nykeol ctheepoey dar",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

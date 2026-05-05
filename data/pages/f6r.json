@@ -1,0 +1,96 @@
+{
+  "folio": "f6r",
+  "page_number": 11,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Asclepiades, but with wrong leaves (of Pediculum)",
+  "plant_candidates": [
+    "Asclepiades",
+    "but with wrong leaves"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "asclepiades",
+    "pediculum"
+  ],
+  "refs": [],
+  "notes": [
+    "One paragraph with 14 lines, plant cutting through"
+  ],
+  "loci_count": 14,
+  "loci": [
+    {
+      "locus": "f6r.1,@P0",
+      "raw": "<%>foar.y.shol.cholor.cphol.chor.ch{ck}<->chopchol.otcham",
+      "eva": "foar y shol cholor cphol chor chck chopchol otcham"
+    },
+    {
+      "locus": "f6r.2,+P0",
+      "raw": "daiin.chckhy.chor.chor.kar.cthy<->cthor.chotols",
+      "eva": "daiin chckhy chor chor kar cthy cthor chotols"
+    },
+    {
+      "locus": "f6r.3,+P0",
+      "raw": "foeear.kshor.choky.os.cheoeees<->ykeor.ytaiin.dam",
+      "eva": "foeear kshor choky os cheoeees ykeor ytaiin dam"
+    },
+    {
+      "locus": "f6r.4,+P0",
+      "raw": "dar.cho,s.sheor.cho{ith}y.otcham<->yaiir.chy",
+      "eva": "dar cho s sheor choithy otcham yaiir chy"
+    },
+    {
+      "locus": "f6r.5,+P0",
+      "raw": "t[a:o]r.okoiin.shees.ytaly.cthaiin<->odam",
+      "eva": "t[a:o]r okoiin shees ytaly cthaiin odam"
+    },
+    {
+      "locus": "f6r.6,+P0",
+      "raw": "or.al.daiin.ckham.okom.cthaiin<->ydaiin",
+      "eva": "or al daiin ckham okom cthaiin ydaiin"
+    },
+    {
+      "locus": "f6r.7,+P0",
+      "raw": "daiin.qodaiin.cho.s.chol.okaiin.s",
+      "eva": "daiin qodaiin cho s chol okaiin s"
+    },
+    {
+      "locus": "f6r.8,+P0",
+      "raw": "ychol.ckhor.pchar.sheo.ckhaiin",
+      "eva": "ychol ckhor pchar sheo ckhaiin"
+    },
+    {
+      "locus": "f6r.9,+P0",
+      "raw": "dar.sheol.skaiiodar.otaiin.chory",
+      "eva": "dar sheol skaiiodar otaiin chory"
+    },
+    {
+      "locus": "f6r.10,+P0",
+      "raw": "tchor.ctheod.chy.shor.od,she.od",
+      "eva": "tchor ctheod chy shor od she od"
+    },
+    {
+      "locus": "f6r.11,+P0",
+      "raw": "ychar.olchaj.ol.chokaiin",
+      "eva": "ychar olchaj ol chokaiin"
+    },
+    {
+      "locus": "f6r.12,+P0",
+      "raw": "or.shol.cthom.chor.cthy",
+      "eva": "or shol cthom chor cthy"
+    },
+    {
+      "locus": "f6r.13,+P0",
+      "raw": "qocthol.[y:q]odaiin.cthy",
+      "eva": "qocthol [y:q]odaiin cthy"
+    },
+    {
+      "locus": "f6r.14,+P0",
+      "raw": "ysho.taiin.y,kaiim<$>",
+      "eva": "ysho taiin y kaiim"
+    }
+  ],
+  "eva_text": "foar y shol cholor cphol chor chck chopchol otcham\ndaiin chckhy chor chor kar cthy cthor chotols\nfoeear kshor choky os cheoeees ykeor ytaiin dam\ndar cho s sheor choithy otcham yaiir chy\nt[a:o]r okoiin shees ytaly cthaiin odam\nor al daiin ckham okom cthaiin ydaiin\ndaiin qodaiin cho s chol okaiin s\nychol ckhor pchar sheo ckhaiin\ndar sheol skaiiodar otaiin chory\ntchor ctheod chy shor od she od\nychar olchaj ol chokaiin\nor shol cthom chor cthy\nqocthol [y:q]odaiin cthy\nysho taiin y kaiim",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

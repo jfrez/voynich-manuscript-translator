@@ -1,0 +1,68 @@
+{
+  "folio": "f93v",
+  "page_number": 192,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 10,
+  "loci": [
+    {
+      "locus": "f93v.1,@P0",
+      "raw": "<%>possheody.qoteeo.qoshocphy.opchody.opor<->opchy<->otchdal.or.shodaiin",
+      "eva": "possheody qoteeo qoshocphy opchody opor opchy otchdal or shodaiin"
+    },
+    {
+      "locus": "f93v.2,+P0",
+      "raw": "yteeody.qotody.qotchol.qocthody.ytey<->oky<->daiin<->dar.ctho[g:m]",
+      "eva": "yteeody qotody qotchol qocthody ytey oky daiin dar ctho[g:m]"
+    },
+    {
+      "locus": "f93v.3,+P0",
+      "raw": "dchos.chody.qockhol.oky.cheodaiin.oty<->daiin<->otal<->dair.okol",
+      "eva": "dchos chody qockhol oky cheodaiin oty daiin otal dair okol"
+    },
+    {
+      "locus": "f93v.4,+P0",
+      "raw": "sol.shol.shdchy.qokchol.qokchody.chol<->chol<->{cty}<->ykchy.dar",
+      "eva": "sol shol shdchy qokchol qokchody chol chol cty ykchy dar"
+    },
+    {
+      "locus": "f93v.5,+P0",
+      "raw": "tshoky.cthody.qotchol.ckhol.dchog.s<->olo.oteo[?:s].chodaiindy",
+      "eva": "tshoky cthody qotchol ckhol dchog s olo oteo[?:s] chodaiindy"
+    },
+    {
+      "locus": "f93v.6,+P0",
+      "raw": "ytch[?:o]l<!corr?>.ckhol.qochocthy.ctho.chkeey.cthody.s<->dar.she[y:q]okam",
+      "eva": "ytch[?:o]l ckhol qochocthy ctho chkeey cthody s dar she[y:q]okam"
+    },
+    {
+      "locus": "f93v.7,+P0",
+      "raw": "oees.ckheody.qkcheey.koldy.tchodaiin.ctheos<->shodain.qokeeam",
+      "eva": "oees ckheody qkcheey koldy tchodaiin ctheos shodain qokeeam"
+    },
+    {
+      "locus": "f93v.8,+P0",
+      "raw": "dcho.chody.teol.sheol.cheeoldair.okchey.cthey<->dsheog.okeey.dama",
+      "eva": "dcho chody teol sheol cheeoldair okchey cthey dsheog okeey dama"
+    },
+    {
+      "locus": "f93v.9,+P0",
+      "raw": "odeeeodl.cheodar.oksho.chody.okchey.cthol.oly<->ytchol<->sar<->dar",
+      "eva": "odeeeodl cheodar oksho chody okchey cthol oly ytchol sar dar"
+    },
+    {
+      "locus": "f93v.10,+P0",
+      "raw": "ychol.chs.ckhy.s,cheeol<$>",
+      "eva": "ychol chs ckhy s cheeol"
+    }
+  ],
+  "eva_text": "possheody qoteeo qoshocphy opchody opor opchy otchdal or shodaiin\nyteeody qotody qotchol qocthody ytey oky daiin dar ctho[g:m]\ndchos chody qockhol oky cheodaiin oty daiin otal dair okol\nsol shol shdchy qokchol qokchody chol chol cty ykchy dar\ntshoky cthody qotchol ckhol dchog s olo oteo[?:s] chodaiindy\nytch[?:o]l ckhol qochocthy ctho chkeey cthody s dar she[y:q]okam\noees ckheody qkcheey koldy tchodaiin ctheos shodain qokeeam\ndcho chody teol sheol cheeoldair okchey cthey dsheog okeey dama\nodeeeodl cheodar oksho chody okchey cthol oly ytchol sar dar\nychol chs ckhy s cheeol",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

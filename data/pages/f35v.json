@@ -1,0 +1,131 @@
+{
+  "folio": "f35v",
+  "page_number": 68,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "uva quercia (vitis), oak/quercus, gall apple?",
+  "plant_candidates": [
+    "uva quercia",
+    "oak/quercus",
+    "gall apple?"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "grape vine?, oak tree (RZ)"
+  ],
+  "loci_count": 21,
+  "loci": [
+    {
+      "locus": "f35v.1,@P0",
+      "raw": "<%>parchor.chocthy.roaiin.ar",
+      "eva": "parchor chocthy roaiin ar"
+    },
+    {
+      "locus": "f35v.2,+P0",
+      "raw": "qotchy.o,tchey.kchor.yty",
+      "eva": "qotchy o tchey kchor yty"
+    },
+    {
+      "locus": "f35v.3,+P0",
+      "raw": "dchor.choty.chyty.daiin",
+      "eva": "dchor choty chyty daiin"
+    },
+    {
+      "locus": "f35v.4,+P0",
+      "raw": "ytchy.qotchy.dchy.cthy",
+      "eva": "ytchy qotchy dchy cthy"
+    },
+    {
+      "locus": "f35v.5,+P0",
+      "raw": "dchokchy.chocthy.chckhor",
+      "eva": "dchokchy chocthy chckhor"
+    },
+    {
+      "locus": "f35v.6,+P0",
+      "raw": "shol.tcheey.chkcheeu.chcthaiin",
+      "eva": "shol tcheey chkcheeu chcthaiin"
+    },
+    {
+      "locus": "f35v.7,+P0",
+      "raw": "tcho,tchor.shol.sho.{co},kol.daiin",
+      "eva": "tcho tchor shol sho co kol daiin"
+    },
+    {
+      "locus": "f35v.8,+P0",
+      "raw": "oaiin.tchor.cho.chotchy.dchold",
+      "eva": "oaiin tchor cho chotchy dchold"
+    },
+    {
+      "locus": "f35v.9,+P0",
+      "raw": "qokchaiin.cho.ksho,l,choiin",
+      "eva": "qokchaiin cho ksho l choiin"
+    },
+    {
+      "locus": "f35v.10,+P0",
+      "raw": "okcheey.chosar.shory",
+      "eva": "okcheey chosar shory"
+    },
+    {
+      "locus": "f35v.11,+P0",
+      "raw": "qotcheeaiin.chodaiin",
+      "eva": "qotcheeaiin chodaiin"
+    },
+    {
+      "locus": "f35v.12,+P0",
+      "raw": "dchaiin.d.aiin.d.aiin,dal,s",
+      "eva": "dchaiin d aiin d aiin dal s"
+    },
+    {
+      "locus": "f35v.13,+P0",
+      "raw": "ol.char.od.ar.chear",
+      "eva": "ol char od ar chear"
+    },
+    {
+      "locus": "f35v.14,+P0",
+      "raw": "tcheain.shy.tar.dain",
+      "eva": "tcheain shy tar dain"
+    },
+    {
+      "locus": "f35v.15,+P0",
+      "raw": "ykol.cheol.okchy.tch",
+      "eva": "ykol cheol okchy tch"
+    },
+    {
+      "locus": "f35v.16,+P0",
+      "raw": "ydaiin.okeey.d,aiin",
+      "eva": "ydaiin okeey d aiin"
+    },
+    {
+      "locus": "f35v.17,+P0",
+      "raw": "daiin.dain.chkaly.choly",
+      "eva": "daiin dain chkaly choly"
+    },
+    {
+      "locus": "f35v.18,+P0",
+      "raw": "daiin.qokeeeb.chokee[o:y].r",
+      "eva": "daiin qokeeeb chokee[o:y] r"
+    },
+    {
+      "locus": "f35v.19,+P0",
+      "raw": "schokey.y,keol.chol.daiin",
+      "eva": "schokey y keol chol daiin"
+    },
+    {
+      "locus": "f35v.20,+P0",
+      "raw": "sodaiin.shy.dchy.ckhy.dan",
+      "eva": "sodaiin shy dchy ckhy dan"
+    },
+    {
+      "locus": "f35v.21,+P0",
+      "raw": "doiin.chor.chor<$>",
+      "eva": "doiin chor chor"
+    }
+  ],
+  "eva_text": "parchor chocthy roaiin ar\nqotchy o tchey kchor yty\ndchor choty chyty daiin\nytchy qotchy dchy cthy\ndchokchy chocthy chckhor\nshol tcheey chkcheeu chcthaiin\ntcho tchor shol sho co kol daiin\noaiin tchor cho chotchy dchold\nqokchaiin cho ksho l choiin\nokcheey chosar shory\nqotcheeaiin chodaiin\ndchaiin d aiin d aiin dal s\nol char od ar chear\ntcheain shy tar dain\nykol cheol okchy tch\nydaiin okeey d aiin\ndaiin dain chkaly choly\ndaiin qokeeeb chokee[o:y] r\nschokey y keol chol daiin\nsodaiin shy dchy ckhy dan\ndoiin chor chor",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

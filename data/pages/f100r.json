@@ -1,0 +1,163 @@
+{
+  "folio": "f100r",
+  "page_number": 203,
+  "section": null,
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "pharmaceutical",
+    "B@R p88, Brum Spec. p547, Brum p96, Way p138, Brumbaugh's s-=called",
+    "pepper is on locus 5.",
+    "two rows of plants, with (mostly) one word captions",
+    "4 line text paragraph",
+    "one row of plants with one word captions in staggered order",
+    "6 line text paragraph",
+    "First row of labels, Petersen nr. in curly brackets",
+    "Next row of plants, Petersen locus in curly brackets"
+  ],
+  "loci_count": 27,
+  "loci": [
+    {
+      "locus": "f100r.1,@Lf",
+      "raw": "<!115>chosaroshol",
+      "eva": "chosaroshol"
+    },
+    {
+      "locus": "f100r.2,@Lf",
+      "raw": "<!116>sochorcfhy",
+      "eva": "sochorcfhy"
+    },
+    {
+      "locus": "f100r.3,@Lf",
+      "raw": "<!117>otear",
+      "eva": "otear"
+    },
+    {
+      "locus": "f100r.4,@Lf",
+      "raw": "<!118>chofa[r:n]y",
+      "eva": "chofa[r:n]y"
+    },
+    {
+      "locus": "f100r.5,@Lf",
+      "raw": "<!119>sar,char<->daiindy",
+      "eva": "sar char daiindy"
+    },
+    {
+      "locus": "f100r.6,@Lf",
+      "raw": "<!120>o[r:s]aro",
+      "eva": "o[r:s]aro"
+    },
+    {
+      "locus": "f100r.7,@Lf",
+      "raw": "<!121>chalsain",
+      "eva": "chalsain"
+    },
+    {
+      "locus": "f100r.8,@Lf",
+      "raw": "<!122>soity",
+      "eva": "soity"
+    },
+    {
+      "locus": "f100r.9,@Lf",
+      "raw": "<!123>sosam",
+      "eva": "sosam"
+    },
+    {
+      "locus": "f100r.10,@Lf",
+      "raw": "<!124>dakocth",
+      "eva": "dakocth"
+    },
+    {
+      "locus": "f100r.11,@Lf",
+      "raw": "<!125>sofam",
+      "eva": "sofam"
+    },
+    {
+      "locus": "f100r.12,@P0",
+      "raw": "<%>pcheol.sheod.qocpheeckhy.shodol.{c@132;h}da,@168;oto.cho[?:ch]os.sheey.ch{cthh'}o.s",
+      "eva": "pcheol sheod qocpheeckhy shodol c@132;hda @168;oto cho[?:ch]os sheey chcthh'o s"
+    },
+    {
+      "locus": "f100r.13,+P0",
+      "raw": "dsheor.cthey.qokeey.oteey.ykeeodain.[r:s]orarydaiin.daiin.deeomchol",
+      "eva": "dsheor cthey qokeey oteey ykeeodain [r:s]orarydaiin daiin deeomchol"
+    },
+    {
+      "locus": "f100r.14,+P0",
+      "raw": "shor.chkeey.qoteey.qokeody.qoteold.qokeol.so.raiin.otal.yk[eee:ech]o",
+      "eva": "shor chkeey qoteey qokeody qoteold qokeol so raiin otal yk[eee:ech]o"
+    },
+    {
+      "locus": "f100r.15,+P0",
+      "raw": "dcheor.shol.qokeeol.chor.chol.qokeeody.dareu<$>",
+      "eva": "dcheor shol qokeeol chor chol qokeeody dareu"
+    },
+    {
+      "locus": "f100r.16,@Lf",
+      "raw": "<!126/1st half>okeeos",
+      "eva": "okeeos"
+    },
+    {
+      "locus": "f100r.17,@Lf",
+      "raw": "<!127>shockhey",
+      "eva": "shockhey"
+    },
+    {
+      "locus": "f100r.18,@Lf",
+      "raw": "<!126/2nd half>orol",
+      "eva": "orol"
+    },
+    {
+      "locus": "f100r.19,@Lf",
+      "raw": "<!128>olcheom",
+      "eva": "olcheom"
+    },
+    {
+      "locus": "f100r.20,@Lf",
+      "raw": "<!130>oteol",
+      "eva": "oteol"
+    },
+    {
+      "locus": "f100r.21,@Lf",
+      "raw": "<!129>okols",
+      "eva": "okols"
+    },
+    {
+      "locus": "f100r.22,@P0",
+      "raw": "<%>folshody.choldaiin.fchod,ycheol.cphol.qotees.shey.aseso,alcfhy",
+      "eva": "folshody choldaiin fchod ycheol cphol qotees shey aseso alcfhy"
+    },
+    {
+      "locus": "f100r.23,+P0",
+      "raw": "soiin.chol.cphol.shol.shol.qockhol.chor.chol.sho.keey.{chkhh}y.ykeeam",
+      "eva": "soiin chol cphol shol shol qockhol chor chol sho keey chkhhy ykeeam"
+    },
+    {
+      "locus": "f100r.24,+P0",
+      "raw": "saiichor.sheor.qockhody.odeor.yk,sheey.cholsheody.sai.cheol.raiin",
+      "eva": "saiichor sheor qockhody odeor yk sheey cholsheody sai cheol raiin"
+    },
+    {
+      "locus": "f100r.25,+P0",
+      "raw": "sheor.qkeeody.chol.daiin.ctheol.olcheol.cheky.cheol.cheockhy.okeol",
+      "eva": "sheor qkeeody chol daiin ctheol olcheol cheky cheol cheockhy okeol"
+    },
+    {
+      "locus": "f100r.26,+P0",
+      "raw": "yaiin.chekeey.chol.cholody.chos.olchor.qokeol.okeeol.cheols.al",
+      "eva": "yaiin chekeey chol cholody chos olchor qokeol okeeol cheols al"
+    },
+    {
+      "locus": "f100r.27,+P0",
+      "raw": "chol.cheol.cho.chckheody.otolchey<$>",
+      "eva": "chol cheol cho chckheody otolchey"
+    }
+  ],
+  "eva_text": "chosaroshol\nsochorcfhy\notear\nchofa[r:n]y\nsar char daiindy\no[r:s]aro\nchalsain\nsoity\nsosam\ndakocth\nsofam\npcheol sheod qocpheeckhy shodol c@132;hda @168;oto cho[?:ch]os sheey chcthh'o s\ndsheor cthey qokeey oteey ykeeodain [r:s]orarydaiin daiin deeomchol\nshor chkeey qoteey qokeody qoteold qokeol so raiin otal yk[eee:ech]o\ndcheor shol qokeeol chor chol qokeeody dareu\nokeeos\nshockhey\norol\nolcheom\noteol\nokols\nfolshody choldaiin fchod ycheol cphol qotees shey aseso alcfhy\nsoiin chol cphol shol shol qockhol chor chol sho keey chkhhy ykeeam\nsaiichor sheor qockhody odeor yk sheey cholsheody sai cheol raiin\nsheor qkeeody chol daiin ctheol olcheol cheky cheol cheockhy okeol\nyaiin chekeey chol cholody chos olchor qokeol okeeol cheols al\nchol cheol cho chckheody otolchey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

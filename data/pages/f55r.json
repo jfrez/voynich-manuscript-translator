@@ -1,0 +1,83 @@
+{
+  "folio": "f55r",
+  "page_number": 107,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f55r.1,@P0",
+      "raw": "<%>podaiin.shekchy.qofair.okar.yk.[{oh}:ch]epaiin.qokchdy.os.arod",
+      "eva": "podaiin shekchy qofair okar yk [oh:ch]epaiin qokchdy os arod"
+    },
+    {
+      "locus": "f55r.2,+P0",
+      "raw": "okair.or.aiin.chody.ykair.y.qokar.okar.ol.ykar.ar.al",
+      "eva": "okair or aiin chody ykair y qokar okar ol ykar ar al"
+    },
+    {
+      "locus": "f55r.3,+P0",
+      "raw": "ykaiir.chol.chky.okar.chky.chdy.qokar.okaiin.chckhy.s.aiin",
+      "eva": "ykaiir chol chky okar chky chdy qokar okaiin chckhy s aiin"
+    },
+    {
+      "locus": "f55r.4,+P0",
+      "raw": "daiin.or.orol.char.ar.kaiin.okchd.ykar.odaiin.chdolaiin",
+      "eva": "daiin or orol char ar kaiin okchd ykar odaiin chdolaiin"
+    },
+    {
+      "locus": "f55r.5,+P0",
+      "raw": "y.or.aiin.okal.chol.kchoy.pchtchdy.o[{ck}:ek]aiin.oka[s:r]or.olkam",
+      "eva": "y or aiin okal chol kchoy pchtchdy o[ck:ek]aiin oka[s:r]or olkam"
+    },
+    {
+      "locus": "f55r.6,+P0",
+      "raw": "tcho,daiin.sho.ke@166;y.kedy.okol.chdy<$>",
+      "eva": "tcho daiin sho ke@166;y kedy okol chdy"
+    },
+    {
+      "locus": "f55r.7,+P0",
+      "raw": "<%>tchedar.che[o:a]l,kedy.chody.kshdy.qotchdy.qokchdy.olkardam",
+      "eva": "tchedar che[o:a]l kedy chody kshdy qotchdy qokchdy olkardam"
+    },
+    {
+      "locus": "f55r.8,+P0",
+      "raw": "dchykey.char.chek.xar.odas.xaloeees.cpheody.qokeeody",
+      "eva": "dchykey char chek xar odas xaloeees cpheody qokeeody"
+    },
+    {
+      "locus": "f55r.9,+P0",
+      "raw": "dain.cheky.dar.chckhy.dal.qoko.lkeedy.dar.kaiin.dy.ka[g:m]",
+      "eva": "dain cheky dar chckhy dal qoko lkeedy dar kaiin dy ka[g:m]"
+    },
+    {
+      "locus": "f55r.10,+P0",
+      "raw": "dair.okal.qokar.or.[o:a]r@193;.o.ar.odaiin.okeey.darchd.ol",
+      "eva": "dair okal qokar or [o:a]r@193; o ar odaiin okeey darchd ol"
+    },
+    {
+      "locus": "f55r.11,+P0",
+      "raw": "l[{oh}:ch]or.chey.keedy.dy.qokal.oka[m:j].dal,shdy.otal.otaldiin",
+      "eva": "l[oh:ch]or chey keedy dy qokal oka[m:j] dal shdy otal otaldiin"
+    },
+    {
+      "locus": "f55r.12,+P0",
+      "raw": "oain.ckhy.dl.oiiin.daiin.okaiin.chelal.qokaiin.okain.r",
+      "eva": "oain ckhy dl oiiin daiin okaiin chelal qokaiin okain r"
+    },
+    {
+      "locus": "f55r.13,+P0",
+      "raw": "lchdal.ockhy.daiin.otol.otar.shar,ain<$>",
+      "eva": "lchdal ockhy daiin otol otar shar ain"
+    }
+  ],
+  "eva_text": "podaiin shekchy qofair okar yk [oh:ch]epaiin qokchdy os arod\nokair or aiin chody ykair y qokar okar ol ykar ar al\nykaiir chol chky okar chky chdy qokar okaiin chckhy s aiin\ndaiin or orol char ar kaiin okchd ykar odaiin chdolaiin\ny or aiin okal chol kchoy pchtchdy o[ck:ek]aiin oka[s:r]or olkam\ntcho daiin sho ke@166;y kedy okol chdy\ntchedar che[o:a]l kedy chody kshdy qotchdy qokchdy olkardam\ndchykey char chek xar odas xaloeees cpheody qokeeody\ndain cheky dar chckhy dal qoko lkeedy dar kaiin dy ka[g:m]\ndair okal qokar or [o:a]r@193; o ar odaiin okeey darchd ol\nl[oh:ch]or chey keedy dy qokal oka[m:j] dal shdy otal otaldiin\noain ckhy dl oiiin daiin okaiin chelal qokaiin okain r\nlchdal ockhy daiin otol otar shar ain",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

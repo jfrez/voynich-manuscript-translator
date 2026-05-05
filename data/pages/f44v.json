@@ -1,0 +1,85 @@
+{
+  "folio": "f44v",
+  "page_number": 86,
+  "section": "herbal",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Curriers language A, hand 1"
+  ],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f44v.1,@P0",
+      "raw": "<%>tsho.qotshy.cthol.d.chor.otol.shol.tol.qotshol.otoldy",
+      "eva": "tsho qotshy cthol d chor otol shol tol qotshol otoldy"
+    },
+    {
+      "locus": "f44v.2,+P0",
+      "raw": "yolkol.cheol.qokchain.daly.otchol.daiin.shol.qotor.ar",
+      "eva": "yolkol cheol qokchain daly otchol daiin shol qotor ar"
+    },
+    {
+      "locus": "f44v.3,+P0",
+      "raw": "tol.okchor.shcthy.otol.daiin.cthy.cthy<$>",
+      "eva": "tol okchor shcthy otol daiin cthy cthy"
+    },
+    {
+      "locus": "f44v.4,+P0",
+      "raw": "<%>yokalod.shaiin.shor.shorody.shky.sho.y,tchy.opchod.opy",
+      "eva": "yokalod shaiin shor shorody shky sho y tchy opchod opy"
+    },
+    {
+      "locus": "f44v.5,+P0",
+      "raw": "oain.shol.cthy.cphaiin.ykchor.otchy.qoty.ytchear.cthain",
+      "eva": "oain shol cthy cphaiin ykchor otchy qoty ytchear cthain"
+    },
+    {
+      "locus": "f44v.6,+P0",
+      "raw": "tol.dair.ytaiin.dol,y.kchain.oty,keey.otchol.ytaiin,dy",
+      "eva": "tol dair ytaiin dol y kchain oty keey otchol ytaiin dy"
+    },
+    {
+      "locus": "f44v.7,+P0",
+      "raw": "ok[y:o],tchaiin.cthol.dy.cheol.ololy<$>",
+      "eva": "ok[y:o] tchaiin cthol dy cheol ololy"
+    },
+    {
+      "locus": "f44v.8,+P0",
+      "raw": "<%>tsheody.cthaiin.odaiin.shol.shey.cthy<->ykoda<->ol",
+      "eva": "tsheody cthaiin odaiin shol shey cthy ykoda ol"
+    },
+    {
+      "locus": "f44v.9,+P0",
+      "raw": "dshor.cthees.l,o,lkeees.ckhy.chcthy.lo",
+      "eva": "dshor cthees l o lkeees ckhy chcthy lo"
+    },
+    {
+      "locus": "f44v.10,+P0",
+      "raw": "lsho.qokchy.tshy.cphaiin.cthal.kal",
+      "eva": "lsho qokchy tshy cphaiin cthal kal"
+    },
+    {
+      "locus": "f44v.11,+P0",
+      "raw": "okal.chol.chol.choky.okaiin.cthy.otal",
+      "eva": "okal chol chol choky okaiin cthy otal"
+    },
+    {
+      "locus": "f44v.12,+P0",
+      "raw": "ychey.teol.chaiin.chcthy.ctho.cthol",
+      "eva": "ychey teol chaiin chcthy ctho cthol"
+    },
+    {
+      "locus": "f44v.13,+P0",
+      "raw": "lchor.shol.dairl<$>",
+      "eva": "lchor shol dairl"
+    }
+  ],
+  "eva_text": "tsho qotshy cthol d chor otol shol tol qotshol otoldy\nyolkol cheol qokchain daly otchol daiin shol qotor ar\ntol okchor shcthy otol daiin cthy cthy\nyokalod shaiin shor shorody shky sho y tchy opchod opy\noain shol cthy cphaiin ykchor otchy qoty ytchear cthain\ntol dair ytaiin dol y kchain oty keey otchol ytaiin dy\nok[y:o] tchaiin cthol dy cheol ololy\ntsheody cthaiin odaiin shol shey cthy ykoda ol\ndshor cthees l o lkeees ckhy chcthy lo\nlsho qokchy tshy cphaiin cthal kal\nokal chol chol choky okaiin cthy otal\nychey teol chaiin chcthy ctho cthol\nlchor shol dairl",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

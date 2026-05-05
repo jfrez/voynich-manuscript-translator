@@ -1,0 +1,83 @@
+{
+  "folio": "f53v",
+  "page_number": 104,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f53v.1,@P0",
+      "raw": "<%>tshor,shey.qodckhy.e{ph}o.oltshey.daiin.qopchy",
+      "eva": "tshor shey qodckhy epho oltshey daiin qopchy"
+    },
+    {
+      "locus": "f53v.2,+P0",
+      "raw": "okeey.daiin.sheekol.shom.shol.cthy.dchom.do",
+      "eva": "okeey daiin sheekol shom shol cthy dchom do"
+    },
+    {
+      "locus": "f53v.3,+P0",
+      "raw": "ydaiin.cph[o:a]m.chol.dockhy.cthol.dam.oty",
+      "eva": "ydaiin cph[o:a]m chol dockhy cthol dam oty"
+    },
+    {
+      "locus": "f53v.4,+P0",
+      "raw": "qokol,daiiin.qockhor.okchor.daiio,dain.d",
+      "eva": "qokol daiiin qockhor okchor daiio dain d"
+    },
+    {
+      "locus": "f53v.5,+P0",
+      "raw": "ysheey.ckhol.chckhey.daiin.ctheody.ydy",
+      "eva": "ysheey ckhol chckhey daiin ctheody ydy"
+    },
+    {
+      "locus": "f53v.6,+P0",
+      "raw": "ochoiky.dshey.chol.ykcheody.choldam",
+      "eva": "ochoiky dshey chol ykcheody choldam"
+    },
+    {
+      "locus": "f53v.7,+P0",
+      "raw": "todaiin.shodaiin.qote[a:o].dchy.qotod.odaiin",
+      "eva": "todaiin shodaiin qote[a:o] dchy qotod odaiin"
+    },
+    {
+      "locus": "f53v.8,+P0",
+      "raw": "sheey.kshody.tsheody.sheody.sheetchy.opod",
+      "eva": "sheey kshody tsheody sheody sheetchy opod"
+    },
+    {
+      "locus": "f53v.9,+P0",
+      "raw": "octheody.shody.qodal.cthody.sheos.shodaiin",
+      "eva": "octheody shody qodal cthody sheos shodaiin"
+    },
+    {
+      "locus": "f53v.10,+P0",
+      "raw": "ychocthy.qodal.shodaiin",
+      "eva": "ychocthy qodal shodaiin"
+    },
+    {
+      "locus": "f53v.11,+P0",
+      "raw": "otsho.or.chear.sheod.chkodal",
+      "eva": "otsho or chear sheod chkodal"
+    },
+    {
+      "locus": "f53v.12,+P0",
+      "raw": "ycheey.kchy.oky.kody<->ydam",
+      "eva": "ycheey kchy oky kody ydam"
+    },
+    {
+      "locus": "f53v.13,+P0",
+      "raw": "yckhodaiin.otoldy<$>",
+      "eva": "yckhodaiin otoldy"
+    }
+  ],
+  "eva_text": "tshor shey qodckhy epho oltshey daiin qopchy\nokeey daiin sheekol shom shol cthy dchom do\nydaiin cph[o:a]m chol dockhy cthol dam oty\nqokol daiiin qockhor okchor daiio dain d\nysheey ckhol chckhey daiin ctheody ydy\nochoiky dshey chol ykcheody choldam\ntodaiin shodaiin qote[a:o] dchy qotod odaiin\nsheey kshody tsheody sheody sheetchy opod\noctheody shody qodal cthody sheos shodaiin\nychocthy qodal shodaiin\notsho or chear sheod chkodal\nycheey kchy oky kody ydam\nyckhodaiin otoldy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

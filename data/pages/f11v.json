@@ -1,0 +1,60 @@
+{
+  "folio": "f11v",
+  "page_number": 22,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Leonotus or Leonarus",
+  "plant_candidates": [
+    "Leonotus or Leonarus"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "G. Turner's pineapple",
+    "Folio 12 is missing. Its stub is still visible."
+  ],
+  "loci_count": 7,
+  "loci": [
+    {
+      "locus": "f11v.1,@P0",
+      "raw": "<%>poldchody.shcphy.shordy.qoty<->shol.cphar.dan,y",
+      "eva": "poldchody shcphy shordy qoty shol cphar dan y"
+    },
+    {
+      "locus": "f11v.2,+P0",
+      "raw": "shol.dy.chckhy.shcthy.daiin.dam<->ykchy.dain.dchy",
+      "eva": "shol dy chckhy shcthy daiin dam ykchy dain dchy"
+    },
+    {
+      "locus": "f11v.3,+P0",
+      "raw": "otchor.dy.kchy.tchy.[@152;:d]ar.qokchd<->oky.choldy,dy",
+      "eva": "otchor dy kchy tchy [@152;:d]ar qokchd oky choldy dy"
+    },
+    {
+      "locus": "f11v.4,+P0",
+      "raw": "qokchor.cholol{cr}.chyky.dchy.qoky<->ctho.tchey.tu",
+      "eva": "qokchor chololcr chyky dchy qoky ctho tchey tu"
+    },
+    {
+      "locus": "f11v.5,*L0",
+      "raw": "dd",
+      "eva": "dd"
+    },
+    {
+      "locus": "f11v.6,=P0",
+      "raw": "soydy.qoteey.qot.chor.dy.ddy<->cthor.shy,arg",
+      "eva": "soydy qoteey qot chor dy ddy cthor shy arg"
+    },
+    {
+      "locus": "f11v.7,+P0",
+      "raw": "ycheor.ksho.dor.cthey.s,chold<$>",
+      "eva": "ycheor ksho dor cthey s chold"
+    }
+  ],
+  "eva_text": "poldchody shcphy shordy qoty shol cphar dan y\nshol dy chckhy shcthy daiin dam ykchy dain dchy\notchor dy kchy tchy [@152;:d]ar qokchd oky choldy dy\nqokchor chololcr chyky dchy qoky ctho tchey tu\ndd\nsoydy qoteey qot chor dy ddy cthor shy arg\nycheor ksho dor cthey s chold",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

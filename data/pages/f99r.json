@@ -1,0 +1,285 @@
+{
+  "folio": "f99r",
+  "page_number": 201,
+  "section": null,
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "pharmaceutical",
+    "Kraus plate XXXI labeled jars",
+    "Top row of labels. Petersen ID in curly brackets.",
+    "Second row of labels. Petersen ID in curly brackets.",
+    "Third row of labels. Petersen ID in curly brackets.",
+    "Fourth set of labels. Petersen ID in curly brackets."
+  ],
+  "loci_count": 52,
+  "loci": [
+    {
+      "locus": "f99r.1,@Lc",
+      "raw": "<!68a>okaradag",
+      "eva": "okaradag"
+    },
+    {
+      "locus": "f99r.2,@Lf",
+      "raw": "<!68b>okar,y",
+      "eva": "okar y"
+    },
+    {
+      "locus": "f99r.3,@Lf",
+      "raw": "<!69>darar",
+      "eva": "darar"
+    },
+    {
+      "locus": "f99r.4,@Lf",
+      "raw": "<!70>oky",
+      "eva": "oky"
+    },
+    {
+      "locus": "f99r.5,@Lf",
+      "raw": "<!71>salo",
+      "eva": "salo"
+    },
+    {
+      "locus": "f99r.6,@Lf",
+      "raw": "<!72>aro",
+      "eva": "aro"
+    },
+    {
+      "locus": "f99r.7,+Lf",
+      "raw": "<!72>ain",
+      "eva": "ain"
+    },
+    {
+      "locus": "f99r.8,@Lf",
+      "raw": "<!73>okor",
+      "eva": "okor"
+    },
+    {
+      "locus": "f99r.9,@Lf",
+      "raw": "<!74>ralol",
+      "eva": "ralol"
+    },
+    {
+      "locus": "f99r.10,@Lf",
+      "raw": "<!75>skeeal",
+      "eva": "skeeal"
+    },
+    {
+      "locus": "f99r.11,@Lf",
+      "raw": "<!76>okary",
+      "eva": "okary"
+    },
+    {
+      "locus": "f99r.12,@Lf",
+      "raw": "<!77>okolo",
+      "eva": "okolo"
+    },
+    {
+      "locus": "f99r.13,@Lf",
+      "raw": "<!78>otalam",
+      "eva": "otalam"
+    },
+    {
+      "locus": "f99r.14,@Lf",
+      "raw": "<!79>otoldy",
+      "eva": "otoldy"
+    },
+    {
+      "locus": "f99r.15,@P0",
+      "raw": "<%>pcheody.oteody.<!gap>daiin.cpheey.tshol.dal.cfheol.olaiin.sar",
+      "eva": "pcheody oteody daiin cpheey tshol dal cfheol olaiin sar"
+    },
+    {
+      "locus": "f99r.16,+P0",
+      "raw": "saroshy.shor.s,shor.sheol.kolsheol.qoeol.sholkol.ckhol.ckhory",
+      "eva": "saroshy shor s shor sheol kolsheol qoeol sholkol ckhol ckhory"
+    },
+    {
+      "locus": "f99r.17,+P0",
+      "raw": "dcheor.chr.al.yckhy.okeol.ckhor.oraiin.chor.qokeeor.chory",
+      "eva": "dcheor chr al yckhy okeol ckhor oraiin chor qokeeor chory"
+    },
+    {
+      "locus": "f99r.18,+P0",
+      "raw": "qokeor.chol.ykol.cheey.chody.ckhol.daiin.okeoly.daiin.ckhy<$>",
+      "eva": "qokeor chol ykol cheey chody ckhol daiin okeoly daiin ckhy"
+    },
+    {
+      "locus": "f99r.19,@Lc",
+      "raw": "<!80a>oparal",
+      "eva": "oparal"
+    },
+    {
+      "locus": "f99r.20,@Lf",
+      "raw": "<!80b>oaro",
+      "eva": "oaro"
+    },
+    {
+      "locus": "f99r.21,@Lf",
+      "raw": "<!81>aloly",
+      "eva": "aloly"
+    },
+    {
+      "locus": "f99r.22,@Lf",
+      "raw": "<!82>aora[?:r]",
+      "eva": "aora[?:r]"
+    },
+    {
+      "locus": "f99r.23,@Lf",
+      "raw": "<!83>choky",
+      "eva": "choky"
+    },
+    {
+      "locus": "f99r.24,@Lf",
+      "raw": "<!84>oky",
+      "eva": "oky"
+    },
+    {
+      "locus": "f99r.25,@Lf",
+      "raw": "<!85a>okeoly",
+      "eva": "okeoly"
+    },
+    {
+      "locus": "f99r.26,@Lf",
+      "raw": "<!85b>yteold",
+      "eva": "yteold"
+    },
+    {
+      "locus": "f99r.27,@Lf",
+      "raw": "<!86a>cheotchy",
+      "eva": "cheotchy"
+    },
+    {
+      "locus": "f99r.28,@P0",
+      "raw": "<%>kodaiin.opchey.qoky.dar.otchor.opsho.okeol.sheol.oteoefol",
+      "eva": "kodaiin opchey qoky dar otchor opsho okeol sheol oteoefol"
+    },
+    {
+      "locus": "f99r.29,+P0",
+      "raw": "dsheol.ckhey.ckheol.okeol.ctheol.qokey.ckhol.okeol.okeey.dald",
+      "eva": "dsheol ckhey ckheol okeol ctheol qokey ckhol okeol okeey dald"
+    },
+    {
+      "locus": "f99r.30,+P0",
+      "raw": "tol,cheody.qokol.okoly.okoldy.qokoly.qokal.okchol.qokold",
+      "eva": "tol cheody qokol okoly okoldy qokoly qokal okchol qokold"
+    },
+    {
+      "locus": "f99r.31,+P0",
+      "raw": "chees.okeey.qotol.sheol,daiin.qotol.okeol<$>",
+      "eva": "chees okeey qotol sheol daiin qotol okeol"
+    },
+    {
+      "locus": "f99r.32,@Lc",
+      "raw": "<!87a>tsholdy",
+      "eva": "tsholdy"
+    },
+    {
+      "locus": "f99r.33,@Lf",
+      "raw": "<!87b>okos",
+      "eva": "okos"
+    },
+    {
+      "locus": "f99r.34,@Lf",
+      "raw": "<!87c>oekey",
+      "eva": "oekey"
+    },
+    {
+      "locus": "f99r.35,@Lf",
+      "raw": "<!88>dar",
+      "eva": "dar"
+    },
+    {
+      "locus": "f99r.36,@Lf",
+      "raw": "<!89>chockhi[a:y]",
+      "eva": "chockhi[a:y]"
+    },
+    {
+      "locus": "f99r.37,@Lf",
+      "raw": "<!90>r,cheyet",
+      "eva": "r cheyet"
+    },
+    {
+      "locus": "f99r.38,@Lf",
+      "raw": "<!91>saiiny",
+      "eva": "saiiny"
+    },
+    {
+      "locus": "f99r.39,@Lf",
+      "raw": "<!92>sory",
+      "eva": "sory"
+    },
+    {
+      "locus": "f99r.40,@Lf",
+      "raw": "<!93>dam",
+      "eva": "dam"
+    },
+    {
+      "locus": "f99r.41,@P0",
+      "raw": "<%>tsheeor.cpheol.{ck}ey.pchol.ckhey.ypchol,chor.choly.qotocthey.qkory",
+      "eva": "tsheeor cpheol ckey pchol ckhey ypchol chor choly qotocthey qkory"
+    },
+    {
+      "locus": "f99r.42,+P0",
+      "raw": "sol.sheol.keshey.qokeeey.chs.chey.dalchey.ctheey.daiin.cheom",
+      "eva": "sol sheol keshey qokeeey chs chey dalchey ctheey daiin cheom"
+    },
+    {
+      "locus": "f99r.43,+P0",
+      "raw": "daiin.cheeokeey.checkhey.dor.oldy.sheey.keody.okeeey.s.aiin.ols",
+      "eva": "daiin cheeokeey checkhey dor oldy sheey keody okeeey s aiin ols"
+    },
+    {
+      "locus": "f99r.44,+P0",
+      "raw": "qokey.chkeey.chey.ckhey.ckhey.ykeey.oiin.air.chody.oeksa<$>",
+      "eva": "qokey chkeey chey ckhey ckhey ykeey oiin air chody oeksa"
+    },
+    {
+      "locus": "f99r.45,@Lc",
+      "raw": "<!94a>yteoldy",
+      "eva": "yteoldy"
+    },
+    {
+      "locus": "f99r.46,@Lf",
+      "raw": "<!94b>tolsasy",
+      "eva": "tolsasy"
+    },
+    {
+      "locus": "f99r.47,@P0",
+      "raw": "<%>tol,keey.ctheey",
+      "eva": "tol keey ctheey"
+    },
+    {
+      "locus": "f99r.48,+P0",
+      "raw": "ykeol.okeol.ockhey.chol.cheodal.okeo,r,alcheeg.orar",
+      "eva": "ykeol okeol ockhey chol cheodal okeo r alcheeg orar"
+    },
+    {
+      "locus": "f99r.49,+P0",
+      "raw": "okeeey.keey.keear.okeey.daiin.okeol,s.aiin.olaiir.oolsal",
+      "eva": "okeeey keey keear okeey daiin okeol s aiin olaiir oolsal"
+    },
+    {
+      "locus": "f99r.50,+P0",
+      "raw": "qokeeo.okeey.qokeey.okesy.qokeeo.sar.sheseky.or.al",
+      "eva": "qokeeo okeey qokeey okesy qokeeo sar sheseky or al"
+    },
+    {
+      "locus": "f99r.51,+P0",
+      "raw": "yshaiin.{ykh}ey.octhey.dy,daiin.okor.okeey.sh{cty}sh",
+      "eva": "yshaiin ykhey octhey dy daiin okor okeey shctysh"
+    },
+    {
+      "locus": "f99r.52,+P0",
+      "raw": "ychor.ols.or,agairom<$>",
+      "eva": "ychor ols or agairom"
+    }
+  ],
+  "eva_text": "okaradag\nokar y\ndarar\noky\nsalo\naro\nain\nokor\nralol\nskeeal\nokary\nokolo\notalam\notoldy\npcheody oteody daiin cpheey tshol dal cfheol olaiin sar\nsaroshy shor s shor sheol kolsheol qoeol sholkol ckhol ckhory\ndcheor chr al yckhy okeol ckhor oraiin chor qokeeor chory\nqokeor chol ykol cheey chody ckhol daiin okeoly daiin ckhy\noparal\noaro\naloly\naora[?:r]\nchoky\noky\nokeoly\nyteold\ncheotchy\nkodaiin opchey qoky dar otchor opsho okeol sheol oteoefol\ndsheol ckhey ckheol okeol ctheol qokey ckhol okeol okeey dald\ntol cheody qokol okoly okoldy qokoly qokal okchol qokold\nchees okeey qotol sheol daiin qotol okeol\ntsholdy\nokos\noekey\ndar\nchockhi[a:y]\nr cheyet\nsaiiny\nsory\ndam\ntsheeor cpheol ckey pchol ckhey ypchol chor choly qotocthey qkory\nsol sheol keshey qokeeey chs chey dalchey ctheey daiin cheom\ndaiin cheeokeey checkhey dor oldy sheey keody okeeey s aiin ols\nqokey chkeey chey ckhey ckhey ykeey oiin air chody oeksa\nyteoldy\ntolsasy\ntol keey ctheey\nykeol okeol ockhey chol cheodal okeo r alcheeg orar\nokeeey keey keear okeey daiin okeol s aiin olaiir oolsal\nqokeeo okeey qokeey okesy qokeeo sar sheseky or al\nyshaiin ykhey octhey dy daiin okor okeey shctysh\nychor ols or agairom",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

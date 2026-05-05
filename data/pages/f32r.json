@@ -1,0 +1,119 @@
+{
+  "folio": "f32r",
+  "page_number": 61,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Mentastrum/Ros*(illegible)muentz (O'Neill),",
+  "plant_candidates": [
+    "Mentastrum/Ros*muentz"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "brunella vulgaris"
+  ],
+  "loci_count": 19,
+  "loci": [
+    {
+      "locus": "f32r.1,@P0",
+      "raw": "<%>fchaiin.shykeody.daiiody.dain<->sho.tchy.oty.qopy",
+      "eva": "fchaiin shykeody daiiody dain sho tchy oty qopy"
+    },
+    {
+      "locus": "f32r.2,+P0",
+      "raw": "okor.okchor.sheor.ckhy.dal<->dshodar.qotchol",
+      "eva": "okor okchor sheor ckhy dal dshodar qotchol"
+    },
+    {
+      "locus": "f32r.3,+P0",
+      "raw": "qokchor.chor.cthol.chol.dol<->dcheodain.daiin",
+      "eva": "qokchor chor cthol chol dol dcheodain daiin"
+    },
+    {
+      "locus": "f32r.4,+P0",
+      "raw": "schor.dsh[o:a]r.ytsho.dain<->daiin.choddal",
+      "eva": "schor dsh[o:a]r ytsho dain daiin choddal"
+    },
+    {
+      "locus": "f32r.5,+P0",
+      "raw": "qotchy.qokchy.daiin<$>",
+      "eva": "qotchy qokchy daiin"
+    },
+    {
+      "locus": "f32r.6,+P0",
+      "raw": "<%>fcho.tcheychedy",
+      "eva": "fcho tcheychedy"
+    },
+    {
+      "locus": "f32r.7,+P0",
+      "raw": "otol.dol.ol,dair",
+      "eva": "otol dol ol dair"
+    },
+    {
+      "locus": "f32r.8,+P0",
+      "raw": "qo,ar.daiin.dam",
+      "eva": "qo ar daiin dam"
+    },
+    {
+      "locus": "f32r.9,+P0",
+      "raw": "dytchor.dary",
+      "eva": "dytchor dary"
+    },
+    {
+      "locus": "f32r.10,+P0",
+      "raw": "dchor.ctho,daiin",
+      "eva": "dchor ctho daiin"
+    },
+    {
+      "locus": "f32r.11,+P0",
+      "raw": "shos.chckhol.n",
+      "eva": "shos chckhol n"
+    },
+    {
+      "locus": "f32r.12,+P0",
+      "raw": "shodaiin.@150;tol",
+      "eva": "shodaiin @150;tol"
+    },
+    {
+      "locus": "f32r.13,+P0",
+      "raw": "otcho,rol.dain.daiin.cthy",
+      "eva": "otcho rol dain daiin cthy"
+    },
+    {
+      "locus": "f32r.14,+P0",
+      "raw": "schey.qot,shey.daiin.cths",
+      "eva": "schey qot shey daiin cths"
+    },
+    {
+      "locus": "f32r.15,+P0",
+      "raw": "qokchy.qotol.doiir.ol",
+      "eva": "qokchy qotol doiir ol"
+    },
+    {
+      "locus": "f32r.16,+P0",
+      "raw": "otchol.chey.soty",
+      "eva": "otchol chey soty"
+    },
+    {
+      "locus": "f32r.17,+P0",
+      "raw": "chokeol.dchoty",
+      "eva": "chokeol dchoty"
+    },
+    {
+      "locus": "f32r.18,+P0",
+      "raw": "doiin.sho,shy",
+      "eva": "doiin sho shy"
+    },
+    {
+      "locus": "f32r.19,+P0",
+      "raw": "dol.dchol.dan<$>",
+      "eva": "dol dchol dan"
+    }
+  ],
+  "eva_text": "fchaiin shykeody daiiody dain sho tchy oty qopy\nokor okchor sheor ckhy dal dshodar qotchol\nqokchor chor cthol chol dol dcheodain daiin\nschor dsh[o:a]r ytsho dain daiin choddal\nqotchy qokchy daiin\nfcho tcheychedy\notol dol ol dair\nqo ar daiin dam\ndytchor dary\ndchor ctho daiin\nshos chckhol n\nshodaiin @150;tol\notcho rol dain daiin cthy\nschey qot shey daiin cths\nqokchy qotol doiir ol\notchol chey soty\nchokeol dchoty\ndoiin sho shy\ndol dchol dan",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,58 @@
+{
+  "folio": "f21v",
+  "page_number": 40,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 8,
+  "loci": [
+    {
+      "locus": "f21v.1,@P0",
+      "raw": "<%>toldshy.chofchy.qofshey.shckhol.odaiin.shey.ckholy",
+      "eva": "toldshy chofchy qofshey shckhol odaiin shey ckholy"
+    },
+    {
+      "locus": "f21v.2,+P0",
+      "raw": "oeeesoy.qokchy.chody.qotchy.qokchy.choty.tchol.daiin",
+      "eva": "oeeesoy qokchy chody qotchy qokchy choty tchol daiin"
+    },
+    {
+      "locus": "f21v.3,+P0",
+      "raw": "qotol.keeees.chotchy.tcho.choty.chor.qotol.daiin.dal",
+      "eva": "qotol keeees chotchy tcho choty chor qotol daiin dal"
+    },
+    {
+      "locus": "f21v.4,+P0",
+      "raw": "sho.chodaiin.choty.chol.daiin.daiin.chty<->chtol",
+      "eva": "sho chodaiin choty chol daiin daiin chty chtol"
+    },
+    {
+      "locus": "f21v.5,+P0",
+      "raw": "osho.deey.ctho.l.sho,cthy.daiin.dait.oky",
+      "eva": "osho deey ctho l sho cthy daiin dait oky"
+    },
+    {
+      "locus": "f21v.6,+P0",
+      "raw": "sho.tsho.chotshol.chol.todaiin.daiin",
+      "eva": "sho tsho chotshol chol todaiin daiin"
+    },
+    {
+      "locus": "f21v.7,+P0",
+      "raw": "ykcho.lchol.cho,l,chaiin.otchy.s.sheaiin",
+      "eva": "ykcho lchol cho l chaiin otchy s sheaiin"
+    },
+    {
+      "locus": "f21v.8,+P0",
+      "raw": "cho.l.kchochaiin<$>",
+      "eva": "cho l kchochaiin"
+    }
+  ],
+  "eva_text": "toldshy chofchy qofshey shckhol odaiin shey ckholy\noeeesoy qokchy chody qotchy qokchy choty tchol daiin\nqotol keeees chotchy tcho choty chor qotol daiin dal\nsho chodaiin choty chol daiin daiin chty chtol\nosho deey ctho l sho cthy daiin dait oky\nsho tsho chotshol chol todaiin daiin\nykcho lchol cho l chaiin otchy s sheaiin\ncho l kchochaiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

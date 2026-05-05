@@ -1,0 +1,192 @@
+{
+  "folio": "f72v3",
+  "page_number": 142,
+  "section": null,
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Leo",
+    "Three circular bands, locus indications C1 to C3 (outer",
+    "to inner). Two rings of labelled nymphs, 30 in total",
+    "counting inner to outer (cf. Petersen). Clock position",
+    "for labels is that of nymph.",
+    "Outer band of labels",
+    "in the following locus, add six characters (STA) from v101: .chlyiintee",
+    "Inner band of labels"
+  ],
+  "loci_count": 33,
+  "loci": [
+    {
+      "locus": "f72v3.1,@Cc",
+      "raw": "<!09:00>soees,otchs.otedar.oteody.oteodal.oteos.oteokchd?.oteody.sheokeey.sheody.shedykeal.ckhodys.okoleeolar.okeey.shedy.otey,sho.shol.teody.okolshey.ykeed?y.y.okechdy.olaiin.shokeedy.chol.choepchey.teey,teody.ches.okechedy.otechol.cheor.cheey.daiin.oyteeedar.???.shecthy.otycheedy.oteeoly.chokary",
+      "eva": "soees otchs otedar oteody oteodal oteos oteokchd? oteody sheokeey sheody shedykeal ckhodys okoleeolar okeey shedy otey sho shol teody okolshey ykeed?y y okechdy olaiin shokeedy chol choepchey teey teody ches okechedy otechol cheor cheey daiin oyteeedar ??? shecthy otycheedy oteeoly chokary"
+    },
+    {
+      "locus": "f72v3.2,@Lz",
+      "raw": "<!10:00>ocham",
+      "eva": "ocham"
+    },
+    {
+      "locus": "f72v3.3,&Lz",
+      "raw": "<!11:00>orchey",
+      "eva": "orchey"
+    },
+    {
+      "locus": "f72v3.4,&Lz",
+      "raw": "<!11:30>okam",
+      "eva": "okam"
+    },
+    {
+      "locus": "f72v3.5,&Lz",
+      "raw": "<!00:00>okey",
+      "eva": "okey"
+    },
+    {
+      "locus": "f72v3.6,&Lz",
+      "raw": "<!00:30>otcheody",
+      "eva": "otcheody"
+    },
+    {
+      "locus": "f72v3.7,&Lz",
+      "raw": "<!01:00>okyeeshy",
+      "eva": "okyeeshy"
+    },
+    {
+      "locus": "f72v3.8,&Lz",
+      "raw": "<!01:30>[{c'y}:??]ofaiin",
+      "eva": "[c'y:??]ofaiin"
+    },
+    {
+      "locus": "f72v3.9,&Lz",
+      "raw": "<!02:00>okaly",
+      "eva": "okaly"
+    },
+    {
+      "locus": "f72v3.10,&Lz",
+      "raw": "<!02:45>ot[o:a]ly",
+      "eva": "ot[o:a]ly"
+    },
+    {
+      "locus": "f72v3.11,&Lz",
+      "raw": "<!03:30>ofalals",
+      "eva": "ofalals"
+    },
+    {
+      "locus": "f72v3.12,&Lz",
+      "raw": "<!04:00>sheeos.o{cfhh}y",
+      "eva": "sheeos ocfhhy"
+    },
+    {
+      "locus": "f72v3.13,&Lz",
+      "raw": "<!05:00>daiin,chepy",
+      "eva": "daiin chepy"
+    },
+    {
+      "locus": "f72v3.14,&Lz",
+      "raw": "<!06:00>oteey.deeal",
+      "eva": "oteey deeal"
+    },
+    {
+      "locus": "f72v3.15,&Lz",
+      "raw": "<!07:00>chealpy",
+      "eva": "chealpy"
+    },
+    {
+      "locus": "f72v3.16,&Lz",
+      "raw": "<!07:30>okeeol",
+      "eva": "okeeol"
+    },
+    {
+      "locus": "f72v3.17,&Lz",
+      "raw": "<!08:30>okaly",
+      "eva": "okaly"
+    },
+    {
+      "locus": "f72v3.18,&Lz",
+      "raw": "<!09:00>okaldy",
+      "eva": "okaldy"
+    },
+    {
+      "locus": "f72v3.19,&Lz",
+      "raw": "<!09:30>okeolyd",
+      "eva": "okeolyd"
+    },
+    {
+      "locus": "f72v3.20,@Cc",
+      "raw": "<!09:00>ototeey.r.chlyiintee.or.oteey.oteeody.cheokey.okeoekol.oteor.aiin.yoleeedy.okeos,alyshy.okeey.okeeey.okeedaly.cholainy.okedy.chees,y.okeeol.chey.otey.oldy.chdy,del.okeeoloky.oty.aiin.chas.oteey.okea???",
+      "eva": "ototeey r chlyiintee or oteey oteeody cheokey okeoekol oteor aiin yoleeedy okeos alyshy okeey okeeey okeedaly cholainy okedy chees y okeeol chey otey oldy chdy del okeeoloky oty aiin chas oteey okea???"
+    },
+    {
+      "locus": "f72v3.21,@Lz",
+      "raw": "<!10:30>choleey",
+      "eva": "choleey"
+    },
+    {
+      "locus": "f72v3.22,&Lz",
+      "raw": "<!11:30>oky",
+      "eva": "oky"
+    },
+    {
+      "locus": "f72v3.23,&Lz",
+      "raw": "<!00:30>ch{cthh}y",
+      "eva": "chcthhy"
+    },
+    {
+      "locus": "f72v3.24,&Lz",
+      "raw": "<!01:00>laly",
+      "eva": "laly"
+    },
+    {
+      "locus": "f72v3.25,&Lz",
+      "raw": "<!02:00>oeedy",
+      "eva": "oeedy"
+    },
+    {
+      "locus": "f72v3.26,&Lz",
+      "raw": "<!03:00>odairan",
+      "eva": "odairan"
+    },
+    {
+      "locus": "f72v3.27,&Lz",
+      "raw": "<!04:00>okary",
+      "eva": "okary"
+    },
+    {
+      "locus": "f72v3.28,&Lz",
+      "raw": "<!05:00>oeesaiin",
+      "eva": "oeesaiin"
+    },
+    {
+      "locus": "f72v3.29,&Lz",
+      "raw": "<!06:30>oteesed",
+      "eva": "oteesed"
+    },
+    {
+      "locus": "f72v3.30,&Lz",
+      "raw": "<!07:30>opal",
+      "eva": "opal"
+    },
+    {
+      "locus": "f72v3.31,&Lz",
+      "raw": "<!08:30>otaly",
+      "eva": "otaly"
+    },
+    {
+      "locus": "f72v3.32,&Lz",
+      "raw": "<!09:30>otaly,yty",
+      "eva": "otaly yty"
+    },
+    {
+      "locus": "f72v3.33,@Cc",
+      "raw": "<!08:45>okesee[s:r],ar,chkeeol.okeolaiin.chalal.ykeeodarar.oleeody,shedy.solar.aldy.oteor.cheor",
+      "eva": "okesee[s:r] ar chkeeol okeolaiin chalal ykeeodarar oleeody shedy solar aldy oteor cheor"
+    }
+  ],
+  "eva_text": "soees otchs otedar oteody oteodal oteos oteokchd? oteody sheokeey sheody shedykeal ckhodys okoleeolar okeey shedy otey sho shol teody okolshey ykeed?y y okechdy olaiin shokeedy chol choepchey teey teody ches okechedy otechol cheor cheey daiin oyteeedar ??? shecthy otycheedy oteeoly chokary\nocham\norchey\nokam\nokey\notcheody\nokyeeshy\n[c'y:??]ofaiin\nokaly\not[o:a]ly\nofalals\nsheeos ocfhhy\ndaiin chepy\noteey deeal\nchealpy\nokeeol\nokaly\nokaldy\nokeolyd\nototeey r chlyiintee or oteey oteeody cheokey okeoekol oteor aiin yoleeedy okeos alyshy okeey okeeey okeedaly cholainy okedy chees y okeeol chey otey oldy chdy del okeeoloky oty aiin chas oteey okea???\ncholeey\noky\nchcthhy\nlaly\noeedy\nodairan\nokary\noeesaiin\noteesed\nopal\notaly\notaly yty\nokesee[s:r] ar chkeeol okeolaiin chalal ykeeodarar oleeody shedy solar aldy oteor cheor",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

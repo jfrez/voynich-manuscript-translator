@@ -1,0 +1,73 @@
+{
+  "folio": "f20v",
+  "page_number": 38,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f20v.1,@P0",
+      "raw": "<%>faiis,ar.okoy.shy,pofochey.opchy.qopy.choldy.opydy.cphy",
+      "eva": "faiis ar okoy shy pofochey opchy qopy choldy opydy cphy"
+    },
+    {
+      "locus": "f20v.2,+P0",
+      "raw": "sos.ykoiin.cheol.chol.choiin.checthy.otol.chol.chodaiin.oty",
+      "eva": "sos ykoiin cheol chol choiin checthy otol chol chodaiin oty"
+    },
+    {
+      "locus": "f20v.3,+P0",
+      "raw": "okchy.sho,kchol.shol.chcthy.qoty.chy.tolshy.qotchy",
+      "eva": "okchy sho kchol shol chcthy qoty chy tolshy qotchy"
+    },
+    {
+      "locus": "f20v.4,+P0",
+      "raw": "sho.or.aiin.shol.daiin<$>",
+      "eva": "sho or aiin shol daiin"
+    },
+    {
+      "locus": "f20v.5,+P0",
+      "raw": "<%>tshol.folchol.otor.shol.shor.fshodchy.otchy.chcphy.dy",
+      "eva": "tshol folchol otor shol shor fshodchy otchy chcphy dy"
+    },
+    {
+      "locus": "f20v.6,+P0",
+      "raw": "doiiin.chockhy.da[n:r].cheo{ikh}y.shos.cheos.char.[{ith}:cth]aiin",
+      "eva": "doiiin chockhy da[n:r] cheoikhy shos cheos char [ith:cth]aiin"
+    },
+    {
+      "locus": "f20v.7,+P0",
+      "raw": "shocthy.sho.cthy.daiin.sheoy.tey.s<->soaiin",
+      "eva": "shocthy sho cthy daiin sheoy tey s soaiin"
+    },
+    {
+      "locus": "f20v.8,+P0",
+      "raw": "shain.choraly.sho.ar.chy.daiin.d.s",
+      "eva": "shain choraly sho ar chy daiin d s"
+    },
+    {
+      "locus": "f20v.9,+P0",
+      "raw": "ykchy.keody.cho.cthy.chol.shd.qoty.d@244;",
+      "eva": "ykchy keody cho cthy chol shd qoty d@244;"
+    },
+    {
+      "locus": "f20v.10,+P0",
+      "raw": "shokaiin.chocthy.chol.daiin.chy.chor.ety",
+      "eva": "shokaiin chocthy chol daiin chy chor ety"
+    },
+    {
+      "locus": "f20v.11,+P0",
+      "raw": "okoiin.chey.{@200;ph}ol.chory<$>",
+      "eva": "okoiin chey @200;phol chory"
+    }
+  ],
+  "eva_text": "faiis ar okoy shy pofochey opchy qopy choldy opydy cphy\nsos ykoiin cheol chol choiin checthy otol chol chodaiin oty\nokchy sho kchol shol chcthy qoty chy tolshy qotchy\nsho or aiin shol daiin\ntshol folchol otor shol shor fshodchy otchy chcphy dy\ndoiiin chockhy da[n:r] cheoikhy shos cheos char [ith:cth]aiin\nshocthy sho cthy daiin sheoy tey s soaiin\nshain choraly sho ar chy daiin d s\nykchy keody cho cthy chol shd qoty d@244;\nshokaiin chocthy chol daiin chy chor ety\nokoiin chey @200;phol chory",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

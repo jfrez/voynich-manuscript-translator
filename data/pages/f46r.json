@@ -1,0 +1,96 @@
+{
+  "folio": "f46r",
+  "page_number": 89,
+  "section": "herbal",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Curriers language B, hand 2",
+    "Plant (root) ID: Asclepias, (+unreadable)"
+  ],
+  "loci_count": 15,
+  "loci": [
+    {
+      "locus": "f46r.1,@P0",
+      "raw": "<%>pcheocphy.qotedy.chety.dy.chepchx.yfcheky.o[s:r]aiin.shee.qoteol.daiin.shee.dy.daly",
+      "eva": "pcheocphy qotedy chety dy chepchx yfcheky o[s:r]aiin shee qoteol daiin shee dy daly"
+    },
+    {
+      "locus": "f46r.2,+P0",
+      "raw": "sodaiin.sheeoly.qoor.sheo,teoly.chckhy.daiin.sh[{ck}:ek].sheet.shedy.xo[r:s].aiin.sheckhy",
+      "eva": "sodaiin sheeoly qoor sheo teoly chckhy daiin sh[ck:ek] sheet shedy xo[r:s] aiin sheckhy"
+    },
+    {
+      "locus": "f46r.3,+P0",
+      "raw": "daiin.shor.ykal.che[{kh}:{th}]y.daiin.she.dalshedy.qokol.s.aiin.shee.ykar.daiin",
+      "eva": "daiin shor ykal che[kh:th]y daiin she dalshedy qokol s aiin shee ykar daiin"
+    },
+    {
+      "locus": "f46r.4,+P0",
+      "raw": "tshedar.chol.kaldy.chckhy.qokaldy.chekal.chckhy.sheky.sheky.dalo{cthh}y",
+      "eva": "tshedar chol kaldy chckhy qokaldy chekal chckhy sheky sheky dalocthhy"
+    },
+    {
+      "locus": "f46r.5,+P0",
+      "raw": "okeedy.shekeey.ykey.shedy.chdy.shky.qotsheod.ytedy.ytey.che[o:a]r<$>",
+      "eva": "okeedy shekeey ykey shedy chdy shky qotsheod ytedy ytey che[o:a]r"
+    },
+    {
+      "locus": "f46r.6,+P0",
+      "raw": "<%>tedy.d[y:o]tedy.shee.keedy.ypchedy.chdalor.sheedy.odo[s:r],aiin.opchedy.dykedy.chdam",
+      "eva": "tedy d[y:o]tedy shee keedy ypchedy chdalor sheedy odo[s:r] aiin opchedy dykedy chdam"
+    },
+    {
+      "locus": "f46r.7,+P0",
+      "raw": "xol.shol.qokaiin.ytchdy.qokchdy.s,ar.chdy.cthy.otedy.chedy.qokar.chcthy.m",
+      "eva": "xol shol qokaiin ytchdy qokchdy s ar chdy cthy otedy chedy qokar chcthy m"
+    },
+    {
+      "locus": "f46r.8,+P0",
+      "raw": "dsheol.chy.chckhy.shy.shdy.chky.chody.cthdy.s.cheos.chey<$>",
+      "eva": "dsheol chy chckhy shy shdy chky chody cthdy s cheos chey"
+    },
+    {
+      "locus": "f46r.9,+P0",
+      "raw": "<%>tshdy.shdy.fchedy.dyfchdy.shol.kees,ytaly.fchdy.dy.karal.shky.yty.dardam",
+      "eva": "tshdy shdy fchedy dyfchdy shol kees ytaly fchdy dy karal shky yty dardam"
+    },
+    {
+      "locus": "f46r.10,+P0",
+      "raw": "tchey.shy.chkal.chd.qokdy.shdy.adoldy.olaiir.sheol<$>",
+      "eva": "tchey shy chkal chd qokdy shdy adoldy olaiir sheol"
+    },
+    {
+      "locus": "f46r.11,+P0",
+      "raw": "<%>pchdair.shd.shep,daiin.shdy.o{ifh}edy.qopchdy.ldy.shear.opdarshdy.s.@136;yfchedy",
+      "eva": "pchdair shd shep daiin shdy oifhedy qopchdy ldy shear opdarshdy s @136;yfchedy"
+    },
+    {
+      "locus": "f46r.12,+P0",
+      "raw": "techy.daiin.sheockhy.choky.r.aiin.ches.shey.kar.sheckhy.chdy.chckham",
+      "eva": "techy daiin sheockhy choky r aiin ches shey kar sheckhy chdy chckham"
+    },
+    {
+      "locus": "f46r.13,+P0",
+      "raw": "ar,akaiin.shol.okeey.chol.dar.ols.lain.y<$>",
+      "eva": "ar akaiin shol okeey chol dar ols lain y"
+    },
+    {
+      "locus": "f46r.14,+P0",
+      "raw": "<%>otchealkar.sholkshy.qokar.cheol.okal.dam.chdam.qokam",
+      "eva": "otchealkar sholkshy qokar cheol okal dam chdam qokam"
+    },
+    {
+      "locus": "f46r.15,+P0",
+      "raw": "qokar.shol,kal.[a:o]lkeody<$>",
+      "eva": "qokar shol kal [a:o]lkeody"
+    }
+  ],
+  "eva_text": "pcheocphy qotedy chety dy chepchx yfcheky o[s:r]aiin shee qoteol daiin shee dy daly\nsodaiin sheeoly qoor sheo teoly chckhy daiin sh[ck:ek] sheet shedy xo[r:s] aiin sheckhy\ndaiin shor ykal che[kh:th]y daiin she dalshedy qokol s aiin shee ykar daiin\ntshedar chol kaldy chckhy qokaldy chekal chckhy sheky sheky dalocthhy\nokeedy shekeey ykey shedy chdy shky qotsheod ytedy ytey che[o:a]r\ntedy d[y:o]tedy shee keedy ypchedy chdalor sheedy odo[s:r] aiin opchedy dykedy chdam\nxol shol qokaiin ytchdy qokchdy s ar chdy cthy otedy chedy qokar chcthy m\ndsheol chy chckhy shy shdy chky chody cthdy s cheos chey\ntshdy shdy fchedy dyfchdy shol kees ytaly fchdy dy karal shky yty dardam\ntchey shy chkal chd qokdy shdy adoldy olaiir sheol\npchdair shd shep daiin shdy oifhedy qopchdy ldy shear opdarshdy s @136;yfchedy\ntechy daiin sheockhy choky r aiin ches shey kar sheckhy chdy chckham\nar akaiin shol okeey chol dar ols lain y\notchealkar sholkshy qokar cheol okal dam chdam qokam\nqokar shol kal [a:o]lkeody",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

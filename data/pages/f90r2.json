@@ -1,0 +1,48 @@
+{
+  "folio": "f90r2",
+  "page_number": 188,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 6,
+  "loci": [
+    {
+      "locus": "f90r2.1,@P0",
+      "raw": "<%>toealchs.shakol.sheo.qoekeey<->soeeol.qoteody",
+      "eva": "toealchs shakol sheo qoekeey soeeol qoteody"
+    },
+    {
+      "locus": "f90r2.2,+P0",
+      "raw": "saiin.ckheo.saiin.qockhey.s.ykeeody<->s,cheey.chos.ckhs",
+      "eva": "saiin ckheo saiin qockhey s ykeeody s cheey chos ckhs"
+    },
+    {
+      "locus": "f90r2.3,+P0",
+      "raw": "dsheeos.qokeod.qokeo.chol.ol.okal<->saiin.ctheo,s,ar",
+      "eva": "dsheeos qokeod qokeo chol ol okal saiin ctheo s ar"
+    },
+    {
+      "locus": "f90r2.4,+P0",
+      "raw": "al.s.oin.cheo.ro.sokeey.qokeeas<->al.aral.oy[r:s]",
+      "eva": "al s oin cheo ro sokeey qokeeas al aral oy[r:s]"
+    },
+    {
+      "locus": "f90r2.5,+P0",
+      "raw": "ychor.ckhor.qoeeor.okaiin.dom<->olcheo.rodaiin",
+      "eva": "ychor ckhor qoeeor okaiin dom olcheo rodaiin"
+    },
+    {
+      "locus": "f90r2.6,+P0",
+      "raw": "daiin.qokor.okoiin.daiin<$>",
+      "eva": "daiin qokor okoiin daiin"
+    }
+  ],
+  "eva_text": "toealchs shakol sheo qoekeey soeeol qoteody\nsaiin ckheo saiin qockhey s ykeeody s cheey chos ckhs\ndsheeos qokeod qokeo chol ol okal saiin ctheo s ar\nal s oin cheo ro sokeey qokeeas al aral oy[r:s]\nychor ckhor qoeeor okaiin dom olcheo rodaiin\ndaiin qokor okoiin daiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

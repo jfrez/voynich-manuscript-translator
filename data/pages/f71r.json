@@ -1,0 +1,115 @@
+{
+  "folio": "f71r",
+  "page_number": 137,
+  "section": null,
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Aries (light)",
+    "Three rings of circular text, locus indications C1 to C3 (outer",
+    "to inner) and fifteen labled nymphs. Two outer rings have clear",
+    "start markers.",
+    "Nymph labels, outer ring",
+    "Nymph labels, inner ring"
+  ],
+  "loci_count": 18,
+  "loci": [
+    {
+      "locus": "f71r.1,@Cc",
+      "raw": "<!10:00>olkeeody.okody.okeeedy.oky,chy.okeodar.okeoky.oteody.oto.otol.oteeyar.yko,oar.aiin.oekeeey.okeo,keo,keody.okeodar,chy.s.aiin.otokeoar.or.ar.al.otol.al.shckhy.oteeeodar.oteody.otol,aiin.shoekey.solalald.cheeokeeo.[ch:?]oe[k:t]y.choly",
+      "eva": "olkeeody okody okeeedy oky chy okeodar okeoky oteody oto otol oteeyar yko oar aiin oekeeey okeo keo keody okeodar chy s aiin otokeoar or ar al otol al shckhy oteeeodar oteody otol aiin shoekey solalald cheeokeeo [ch:?]oe[k:t]y choly"
+    },
+    {
+      "locus": "f71r.2,@Lz",
+      "raw": "<!10:00>oteos.arar",
+      "eva": "oteos arar"
+    },
+    {
+      "locus": "f71r.3,&Lz",
+      "raw": "<!11:00>okldam",
+      "eva": "okldam"
+    },
+    {
+      "locus": "f71r.4,&Lz",
+      "raw": "<!00:00>oteoaldy",
+      "eva": "oteoaldy"
+    },
+    {
+      "locus": "f71r.5,&Lz",
+      "raw": "<!01:00>oteolar",
+      "eva": "oteolar"
+    },
+    {
+      "locus": "f71r.6,&Lz",
+      "raw": "<!02:00>okeoaly",
+      "eva": "okeoaly"
+    },
+    {
+      "locus": "f71r.7,&Lz",
+      "raw": "<!03:00>otaleky",
+      "eva": "otaleky"
+    },
+    {
+      "locus": "f71r.8,&Lz",
+      "raw": "<!04:30>otalsar",
+      "eva": "otalsar"
+    },
+    {
+      "locus": "f71r.9,&Lz",
+      "raw": "<!05:30>cheary",
+      "eva": "cheary"
+    },
+    {
+      "locus": "f71r.10,&Lz",
+      "raw": "<!07:00>oteotey.rary",
+      "eva": "oteotey rary"
+    },
+    {
+      "locus": "f71r.11,&Lz",
+      "raw": "<!08:30>otalaly",
+      "eva": "otalaly"
+    },
+    {
+      "locus": "f71r.12,@Cc",
+      "raw": "<!10:00>oteody.oteos.o{ckhh}y.oteeschey.lsheotey.okalody.shs.shey.oteey.otechar.chek[a:?]l.okody.eeedy.oteodal.eeokol.lkchol.daiin.okeeees.ykees.al.ok[ee:a]y.otey.oteo,shaly.o",
+      "eva": "oteody oteos ockhhy oteeschey lsheotey okalody shs shey oteey otechar chek[a:?]l okody eeedy oteodal eeokol lkchol daiin okeeees ykees al ok[ee:a]y otey oteo shaly o"
+    },
+    {
+      "locus": "f71r.13,@Lz",
+      "raw": "<!11:00>otolchdy",
+      "eva": "otolchdy"
+    },
+    {
+      "locus": "f71r.14,&Lz",
+      "raw": "<!00:30>otoloaram",
+      "eva": "otoloaram"
+    },
+    {
+      "locus": "f71r.15,&Lz",
+      "raw": "<!03:30>oteeol",
+      "eva": "oteeol"
+    },
+    {
+      "locus": "f71r.16,&Lz",
+      "raw": "<!05:30>otolchd",
+      "eva": "otolchd"
+    },
+    {
+      "locus": "f71r.17,&Lz",
+      "raw": "<!08:00>otaldar",
+      "eva": "otaldar"
+    },
+    {
+      "locus": "f71r.18,@Cc",
+      "raw": "<!10:00>oteeol.otal,chs.char.cheky.chotshy.okeeody.oteey.chekea'.okeol",
+      "eva": "oteeol otal chs char cheky chotshy okeeody oteey chekea' okeol"
+    }
+  ],
+  "eva_text": "olkeeody okody okeeedy oky chy okeodar okeoky oteody oto otol oteeyar yko oar aiin oekeeey okeo keo keody okeodar chy s aiin otokeoar or ar al otol al shckhy oteeeodar oteody otol aiin shoekey solalald cheeokeeo [ch:?]oe[k:t]y choly\noteos arar\nokldam\noteoaldy\noteolar\nokeoaly\notaleky\notalsar\ncheary\noteotey rary\notalaly\noteody oteos ockhhy oteeschey lsheotey okalody shs shey oteey otechar chek[a:?]l okody eeedy oteodal eeokol lkchol daiin okeeees ykees al ok[ee:a]y otey oteo shaly o\notolchdy\notoloaram\noteeol\notolchd\notaldar\noteeol otal chs char cheky chotshy okeeody oteey chekea' okeol",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

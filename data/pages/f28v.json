@@ -1,0 +1,63 @@
+{
+  "folio": "f28v",
+  "page_number": 54,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 9,
+  "loci": [
+    {
+      "locus": "f28v.1,@P0",
+      "raw": "<%>kshol.qooiiin.shor.pshoiiin.shepchy.qoty.dy.shory",
+      "eva": "kshol qooiiin shor pshoiiin shepchy qoty dy shory"
+    },
+    {
+      "locus": "f28v.2,+P0",
+      "raw": "ykcholy.qoty.chy,dy.qokchol.chor.tchy.qokchody.cheor.o",
+      "eva": "ykcholy qoty chy dy qokchol chor tchy qokchody cheor o"
+    },
+    {
+      "locus": "f28v.3,+P0",
+      "raw": "chor.chol.chy.choiin<$>",
+      "eva": "chor chol chy choiin"
+    },
+    {
+      "locus": "f28v.4,+P0",
+      "raw": "<%>tshoiin.cheor.chor.o.chty.qotol.sheol.shor.daiin.qoty",
+      "eva": "tshoiin cheor chor o chty qotol sheol shor daiin qoty"
+    },
+    {
+      "locus": "f28v.5,+P0",
+      "raw": "otol.chol.daiin.chkaiin.shoiin.qotchey.qotshey.daiiin",
+      "eva": "otol chol daiin chkaiin shoiin qotchey qotshey daiiin"
+    },
+    {
+      "locus": "f28v.6,+Pr",
+      "raw": "daiin.chkaiin<$>",
+      "eva": "daiin chkaiin"
+    },
+    {
+      "locus": "f28v.7,*P0",
+      "raw": "<%>pchol.oiir.chol.tsho.daiin.sho<->t{co}<->chy.chtshy.dair,am",
+      "eva": "pchol oiir chol tsho daiin sho tco chy chtshy dair am"
+    },
+    {
+      "locus": "f28v.8,+P0",
+      "raw": "okain.chan.chain.cthor.dain<->yk<->chy<->daiin.cthol",
+      "eva": "okain chan chain cthor dain yk chy daiin cthol"
+    },
+    {
+      "locus": "f28v.9,+P0",
+      "raw": "sor.chear.chl.[{c'}:s].choly.dar<$>",
+      "eva": "sor chear chl [c':s] choly dar"
+    }
+  ],
+  "eva_text": "kshol qooiiin shor pshoiiin shepchy qoty dy shory\nykcholy qoty chy dy qokchol chor tchy qokchody cheor o\nchor chol chy choiin\ntshoiin cheor chor o chty qotol sheol shor daiin qoty\notol chol daiin chkaiin shoiin qotchey qotshey daiiin\ndaiin chkaiin\npchol oiir chol tsho daiin sho tco chy chtshy dair am\nokain chan chain cthor dain yk chy daiin cthol\nsor chear chl [c':s] choly dar",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

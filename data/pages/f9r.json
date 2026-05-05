@@ -1,0 +1,75 @@
+{
+  "folio": "f9r",
+  "page_number": 17,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Chelidonium Majus, Sallkraut (sp?)",
+  "plant_candidates": [
+    "Chelidonium Majus",
+    "Sallkraut"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "chelidonium"
+  ],
+  "refs": [],
+  "notes": [
+    "last 3 words in last paragraph indented (signatures?)"
+  ],
+  "loci_count": 10,
+  "loci": [
+    {
+      "locus": "f9r.1,@P0",
+      "raw": "<%>tydlo.choly.cthor.orchey.s.shy.odaiin.sary<->shor.cthy",
+      "eva": "tydlo choly cthor orchey s shy odaiin sary shor cthy"
+    },
+    {
+      "locus": "f9r.2,+P0",
+      "raw": "oykeey.chol,ytaiin.okchody.toeoky.okoiin.dy<->or.chaiin",
+      "eva": "oykeey chol ytaiin okchody toeoky okoiin dy or chaiin"
+    },
+    {
+      "locus": "f9r.3,+P0",
+      "raw": "toiin.cphy.qotod.otaiin.cthy.okor.chey<->ctho,d.ram",
+      "eva": "toiin cphy qotod otaiin cthy okor chey ctho d ram"
+    },
+    {
+      "locus": "f9r.4,+P0",
+      "raw": "[y:o]shy.chokcho.chcthod,shor.shaiin.otar,dor<->ytol.dayty",
+      "eva": "[y:o]shy chokcho chcthod shor shaiin otar dor ytol dayty"
+    },
+    {
+      "locus": "f9r.5,+P0",
+      "raw": "daiin.chor.sor.cthy.chokoiin.shol.dsholdy<->otchol.ot.dy<$>",
+      "eva": "daiin chor sor cthy chokoiin shol dsholdy otchol ot dy"
+    },
+    {
+      "locus": "f9r.6,+P0",
+      "raw": "<%>pshoain.cthoaiin.okaiir.{c@134;h}odoral.shar<->sy<->shydal.chdy",
+      "eva": "pshoain cthoaiin okaiir c@134;hodoral shar sy shydal chdy"
+    },
+    {
+      "locus": "f9r.7,+P0",
+      "raw": "or.chol.chy,tchy.tchol.ytor.qotol.chyky<->chodar.aiin",
+      "eva": "or chol chy tchy tchol ytor qotol chyky chodar aiin"
+    },
+    {
+      "locus": "f9r.8,+P0",
+      "raw": "qotcho.qokchy.cthey.koraiin.okain.d<->dal<->s.olshocth[y:g]",
+      "eva": "qotcho qokchy cthey koraiin okain d dal s olshocth[y:g]"
+    },
+    {
+      "locus": "f9r.9,+P0",
+      "raw": "ocho,cthy.cho{cto}y.chodykchy.saiin,dchy<->daiin",
+      "eva": "ocho cthy choctoy chodykchy saiin dchy daiin"
+    },
+    {
+      "locus": "f9r.10,+Pc",
+      "raw": "ytcha[s:r].oraiin.chkor<$>",
+      "eva": "ytcha[s:r] oraiin chkor"
+    }
+  ],
+  "eva_text": "tydlo choly cthor orchey s shy odaiin sary shor cthy\noykeey chol ytaiin okchody toeoky okoiin dy or chaiin\ntoiin cphy qotod otaiin cthy okor chey ctho d ram\n[y:o]shy chokcho chcthod shor shaiin otar dor ytol dayty\ndaiin chor sor cthy chokoiin shol dsholdy otchol ot dy\npshoain cthoaiin okaiir c@134;hodoral shar sy shydal chdy\nor chol chy tchy tchol ytor qotol chyky chodar aiin\nqotcho qokchy cthey koraiin okain d dal s olshocth[y:g]\nocho cthy choctoy chodykchy saiin dchy daiin\nytcha[s:r] oraiin chkor",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

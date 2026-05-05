@@ -1,0 +1,57 @@
+{
+  "folio": "f11r",
+  "page_number": 21,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Silene Aca[ul|nt]is (O'N)",
+  "plant_candidates": [
+    "Silene Acaulis"
+  ],
+  "plant_category_guess": "flower",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "silene"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 7,
+  "loci": [
+    {
+      "locus": "f11r.1,@P0",
+      "raw": "<%>tshol.schoal.cfhy.shfydaiin.cphy.shey.tchody.shoyty",
+      "eva": "tshol schoal cfhy shfydaiin cphy shey tchody shoyty"
+    },
+    {
+      "locus": "f11r.2,+P0",
+      "raw": "socthody.qodor,y.kshy.daiin.ytchy.ytchoky.kchol.daiin",
+      "eva": "socthody qodor y kshy daiin ytchy ytchoky kchol daiin"
+    },
+    {
+      "locus": "f11r.3,+P0",
+      "raw": "qoty.chol.cthy.d[o:a]r.ykychy.choty.dain.chaiin.daiin.d[o:e]d",
+      "eva": "qoty chol cthy d[o:a]r ykychy choty dain chaiin daiin d[o:e]d"
+    },
+    {
+      "locus": "f11r.4,+P0",
+      "raw": "dchol.chy.kchy.dy.daiin<$>",
+      "eva": "dchol chy kchy dy daiin"
+    },
+    {
+      "locus": "f11r.5,+P0",
+      "raw": "<%>tchol.shor.shor.dky.{c'h@148;h}y.daiin.cthy.d,y,chodl,daiin",
+      "eva": "tchol shor shor dky c'h@148;hy daiin cthy d y chodl daiin"
+    },
+    {
+      "locus": "f11r.6,+P0",
+      "raw": "odl.d,s,y.otol.chaiin.ykchor.dair.chody.cthy.s.daiin",
+      "eva": "odl d s y otol chaiin ykchor dair chody cthy s daiin"
+    },
+    {
+      "locus": "f11r.7,+P0",
+      "raw": "qotchy.okchol.cthy.dy<$>",
+      "eva": "qotchy okchol cthy dy"
+    }
+  ],
+  "eva_text": "tshol schoal cfhy shfydaiin cphy shey tchody shoyty\nsocthody qodor y kshy daiin ytchy ytchoky kchol daiin\nqoty chol cthy d[o:a]r ykychy choty dain chaiin daiin d[o:e]d\ndchol chy kchy dy daiin\ntchol shor shor dky c'h@148;hy daiin cthy d y chodl daiin\nodl d s y otol chaiin ykchor dair chody cthy s daiin\nqotchy okchol cthy dy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

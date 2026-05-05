@@ -1,0 +1,120 @@
+{
+  "folio": "f56r",
+  "page_number": 109,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Boragine echium, Dianthus flower (convolvulus?)",
+  "plant_candidates": [
+    "Boragine echium",
+    "Dianthus flower"
+  ],
+  "plant_category_guess": "flower",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "flower"
+  ],
+  "refs": [],
+  "notes": [
+    "Kraus p45, Zimansky; 'fern'"
+  ],
+  "loci_count": 19,
+  "loci": [
+    {
+      "locus": "f56r.1,@P0",
+      "raw": "<%>o@167;chal.chchs@168;y.oty.esedy.chy.ychocphy.chorchy.chy",
+      "eva": "o@167;chal chchs@168;y oty esedy chy ychocphy chorchy chy"
+    },
+    {
+      "locus": "f56r.2,+P0",
+      "raw": "chokchey.ch[o:a]l.choly.korchy.chykey.choty.shokaiin",
+      "eva": "chokchey ch[o:a]l choly korchy chykey choty shokaiin"
+    },
+    {
+      "locus": "f56r.3,+P0",
+      "raw": "olchey.chokchol.chey.keey.qokeey.chokeey.choksy",
+      "eva": "olchey chokchol chey keey qokeey chokeey choksy"
+    },
+    {
+      "locus": "f56r.4,+P0",
+      "raw": "qot,chor.chor.chokor.chkor,chy<->okar.chdy",
+      "eva": "qot chor chor chokor chkor chy okar chdy"
+    },
+    {
+      "locus": "f56r.5,+P0",
+      "raw": "chochor.cho.chodaly.daiin",
+      "eva": "chochor cho chodaly daiin"
+    },
+    {
+      "locus": "f56r.6,+P0",
+      "raw": "ykch[o:a].dy.dchey.keey.daiin.y",
+      "eva": "ykch[o:a] dy dchey keey daiin y"
+    },
+    {
+      "locus": "f56r.7,+P0",
+      "raw": "sho.kchol.otchor.choky.dal",
+      "eva": "sho kchol otchor choky dal"
+    },
+    {
+      "locus": "f56r.8,+P0",
+      "raw": "schol.choy.choky.cheeckhody<$>",
+      "eva": "schol choy choky cheeckhody"
+    },
+    {
+      "locus": "f56r.9,+P0",
+      "raw": "<%>tchoky.kchol.shol.chotchey,tchol",
+      "eva": "tchoky kchol shol chotchey tchol"
+    },
+    {
+      "locus": "f56r.10,+P0",
+      "raw": "yt,chor.otchy.chok.y,t.chey.r.okaiin",
+      "eva": "yt chor otchy chok y t chey r okaiin"
+    },
+    {
+      "locus": "f56r.11,+P0",
+      "raw": "shy,kcheey.daiin.cthol.chos.chokor",
+      "eva": "shy kcheey daiin cthol chos chokor"
+    },
+    {
+      "locus": "f56r.12,+P0",
+      "raw": "sh.cho.kchey.qokokchy",
+      "eva": "sh cho kchey qokokchy"
+    },
+    {
+      "locus": "f56r.13,+P0",
+      "raw": "okchy.chokcheo.kchal",
+      "eva": "okchy chokcheo kchal"
+    },
+    {
+      "locus": "f56r.14,+P0",
+      "raw": "s,chol.chotol.qotchy",
+      "eva": "s chol chotol qotchy"
+    },
+    {
+      "locus": "f56r.15,+P0",
+      "raw": "tcho,tchol.chol.cthy",
+      "eva": "tcho tchol chol cthy"
+    },
+    {
+      "locus": "f56r.16,+P0",
+      "raw": "qotchy.chody.ctho,r.chey.kch[a:o]rg",
+      "eva": "qotchy chody ctho r chey kch[a:o]rg"
+    },
+    {
+      "locus": "f56r.17,+P0",
+      "raw": "chokeey.qokcheey.schey.d,aiin.dy",
+      "eva": "chokeey qokcheey schey d aiin dy"
+    },
+    {
+      "locus": "f56r.18,+P0",
+      "raw": "sho.chokchy.kchoar<->sotodan",
+      "eva": "sho chokchy kchoar sotodan"
+    },
+    {
+      "locus": "f56r.19,+P0",
+      "raw": "otchey.keol.daiin<$>",
+      "eva": "otchey keol daiin"
+    }
+  ],
+  "eva_text": "o@167;chal chchs@168;y oty esedy chy ychocphy chorchy chy\nchokchey ch[o:a]l choly korchy chykey choty shokaiin\nolchey chokchol chey keey qokeey chokeey choksy\nqot chor chor chokor chkor chy okar chdy\nchochor cho chodaly daiin\nykch[o:a] dy dchey keey daiin y\nsho kchol otchor choky dal\nschol choy choky cheeckhody\ntchoky kchol shol chotchey tchol\nyt chor otchy chok y t chey r okaiin\nshy kcheey daiin cthol chos chokor\nsh cho kchey qokokchy\nokchy chokcheo kchal\ns chol chotol qotchy\ntcho tchol chol cthy\nqotchy chody ctho r chey kch[a:o]rg\nchokeey qokcheey schey d aiin dy\nsho chokchy kchoar sotodan\notchey keol daiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

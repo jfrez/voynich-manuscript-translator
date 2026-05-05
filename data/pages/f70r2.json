@@ -1,0 +1,119 @@
+{
+  "folio": "f70r2",
+  "page_number": 134,
+  "section": "cosmological",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Face in centre, with 8 lozenges around it. Four large",
+    "circles of text (C1 to C4 outer to inner) and one small",
+    "around face. A paragraph of text is written in the upper",
+    "right part of the page (transcribed first).",
+    "Has 'b' in upper left corner."
+  ],
+  "loci_count": 19,
+  "loci": [
+    {
+      "locus": "f70r2.1,@P1",
+      "raw": "<%>otchey.sheol.chkey.shep.al.r.ar.chly.sheteal.aram",
+      "eva": "otchey sheol chkey shep al r ar chly sheteal aram"
+    },
+    {
+      "locus": "f70r2.2,+P1",
+      "raw": "dair,cheey.s,cheotey.dshy.dam.chchet.al.yke{c'}y",
+      "eva": "dair cheey s cheotey dshy dam chchet al ykec'y"
+    },
+    {
+      "locus": "f70r2.3,+P1",
+      "raw": "ykeeo.y.s.ald.shey.cthy.shekey.qokal,aiir.oteog",
+      "eva": "ykeeo y s ald shey cthy shekey qokal aiir oteog"
+    },
+    {
+      "locus": "f70r2.4,+P1",
+      "raw": "daiin.okeey.shoaiin.{ckhh}ey.otal.shshy.tal.dam",
+      "eva": "daiin okeey shoaiin ckhhey otal shshy tal dam"
+    },
+    {
+      "locus": "f70r2.5,+P1",
+      "raw": "tal.cheeog.dal.chcthy.qotal.ddl[a:o]r.chal.dal",
+      "eva": "tal cheeog dal chcthy qotal ddl[a:o]r chal dal"
+    },
+    {
+      "locus": "f70r2.6,+P1",
+      "raw": "ytar.ar.al.yol.al.aloees.ytaiir.otaldal",
+      "eva": "ytar ar al yol al aloees ytaiir otaldal"
+    },
+    {
+      "locus": "f70r2.7,+P1",
+      "raw": "daiin.daiin.she.tal.qokal.chol{ckhh}y.dy",
+      "eva": "daiin daiin she tal qokal cholckhhy dy"
+    },
+    {
+      "locus": "f70r2.8,+P1",
+      "raw": "ytals.alal.dalam.dal.cthol.oparam",
+      "eva": "ytals alal dalam dal cthol oparam"
+    },
+    {
+      "locus": "f70r2.9,+P1",
+      "raw": "dolshol.shol.shol.sho{cthh}y.dalal,y",
+      "eva": "dolshol shol shol shocthhy dalal y"
+    },
+    {
+      "locus": "f70r2.10,+P1",
+      "raw": "shokal.chol,kshody.tol.cheey.okal",
+      "eva": "shokal chol kshody tol cheey okal"
+    },
+    {
+      "locus": "f70r2.11,+P1",
+      "raw": "daiin.chotal.qokal.chol.chotals",
+      "eva": "daiin chotal qokal chol chotals"
+    },
+    {
+      "locus": "f70r2.12,+P1",
+      "raw": "qokal.shkal.dal.shy.qokal.chdy",
+      "eva": "qokal shkal dal shy qokal chdy"
+    },
+    {
+      "locus": "f70r2.13,+P1",
+      "raw": "qotal,che,y.key.okechy.chdy.cham",
+      "eva": "qotal che y key okechy chdy cham"
+    },
+    {
+      "locus": "f70r2.14,+P1",
+      "raw": "okaiin.ch{cthh}y.s.or.ary<$>",
+      "eva": "okaiin chcthhy s or ary"
+    },
+    {
+      "locus": "f70r2.15,@Cc",
+      "raw": "<!10:00>sal.air.am.shedy.chokal.cho{ikh}y.shokeey.choky.chol.dy.okeeal.o,teedy.dgr.dair,aiin.okees.okeear.ar,alekeey.ar,kam.oteoodalry.chekeoar.chokey.dar.dcheoky.otai.do{ith}y.dair.otchetchar.okear.okeeo.lal.kch[g:?].okar.ar,dar",
+      "eva": "sal air am shedy chokal choikhy shokeey choky chol dy okeeal o teedy dgr dair aiin okees okeear ar alekeey ar kam oteoodalry chekeoar chokey dar dcheoky otai doithy dair otchetchar okear okeeo lal kch[g:?] okar ar dar"
+    },
+    {
+      "locus": "f70r2.16,+Cc",
+      "raw": "<!10:00>otar.ar.chedal.oaral.aldaiin.ykeeedaiis.sheo.l,dar.chol.ykees.aiir,dl.cheey.[s:r]keeod.oteeodar.aiin.aral.daiir.sheedal.sheodaiin.choar.chol.chot[e:i]oly.cho.oteey.chotey.choeky.chedy.choteosam.oteodar.o{ckhh}",
+      "eva": "otar ar chedal oaral aldaiin ykeeedaiis sheo l dar chol ykees aiir dl cheey [s:r]keeod oteeodar aiin aral daiir sheedal sheodaiin choar chol chot[e:i]oly cho oteey chotey choeky chedy choteosam oteodar ockhh"
+    },
+    {
+      "locus": "f70r2.17,+Cc",
+      "raw": "<!09:15>oches,air.chese.ctheey.sheeody.shopcho.yteody.ykaldy.oteeos.aiin.sh[e:?]y.shee.farar.aim.cheoteeodal.sho.choetchaldy.dal.aiir,ches.otesar.dalol.chtam.opaiir.chokeo.oteedy.oteeo.okol.chotal.otol,al.dl",
+      "eva": "oches air chese ctheey sheeody shopcho yteody ykaldy oteeos aiin sh[e:?]y shee farar aim cheoteeodal sho choetchaldy dal aiir ches otesar dalol chtam opaiir chokeo oteedy oteeo okol chotal otol al dl"
+    },
+    {
+      "locus": "f70r2.18,+Cc",
+      "raw": "<!09:15>otoy.ar,arodchedy.cheocphey.oteeos.ees.cheal.sheeey.okeedaly.cheeoekey.yk[ee:ei]d[{cr}:ar].oteey.s.al.s.air.oteody.oteody.dar.aiir.ody.cheeos,chey.daiin.otoeeseor.air.chedy.okodar.al.sho.chotol.dal,dy",
+      "eva": "otoy ar arodchedy cheocphey oteeos ees cheal sheeey okeedaly cheeoekey yk[ee:ei]d[cr:ar] oteey s al s air oteody oteody dar aiir ody cheeos chey daiin otoeeseor air chedy okodar al sho chotol dal dy"
+    },
+    {
+      "locus": "f70r2.19,@Cc",
+      "raw": "<!12:00>oteesy.ol,chy.oteo.sal.ol.keey.oteol.choky.otcho[sh:ch]a",
+      "eva": "oteesy ol chy oteo sal ol keey oteol choky otcho[sh:ch]a"
+    }
+  ],
+  "eva_text": "otchey sheol chkey shep al r ar chly sheteal aram\ndair cheey s cheotey dshy dam chchet al ykec'y\nykeeo y s ald shey cthy shekey qokal aiir oteog\ndaiin okeey shoaiin ckhhey otal shshy tal dam\ntal cheeog dal chcthy qotal ddl[a:o]r chal dal\nytar ar al yol al aloees ytaiir otaldal\ndaiin daiin she tal qokal cholckhhy dy\nytals alal dalam dal cthol oparam\ndolshol shol shol shocthhy dalal y\nshokal chol kshody tol cheey okal\ndaiin chotal qokal chol chotals\nqokal shkal dal shy qokal chdy\nqotal che y key okechy chdy cham\nokaiin chcthhy s or ary\nsal air am shedy chokal choikhy shokeey choky chol dy okeeal o teedy dgr dair aiin okees okeear ar alekeey ar kam oteoodalry chekeoar chokey dar dcheoky otai doithy dair otchetchar okear okeeo lal kch[g:?] okar ar dar\notar ar chedal oaral aldaiin ykeeedaiis sheo l dar chol ykees aiir dl cheey [s:r]keeod oteeodar aiin aral daiir sheedal sheodaiin choar chol chot[e:i]oly cho oteey chotey choeky chedy choteosam oteodar ockhh\noches air chese ctheey sheeody shopcho yteody ykaldy oteeos aiin sh[e:?]y shee farar aim cheoteeodal sho choetchaldy dal aiir ches otesar dalol chtam opaiir chokeo oteedy oteeo okol chotal otol al dl\notoy ar arodchedy cheocphey oteeos ees cheal sheeey okeedaly cheeoekey yk[ee:ei]d[cr:ar] oteey s al s air oteody oteody dar aiir ody cheeos chey daiin otoeeseor air chedy okodar al sho chotol dal dy\noteesy ol chy oteo sal ol keey oteol choky otcho[sh:ch]a",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

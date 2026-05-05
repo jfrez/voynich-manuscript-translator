@@ -1,0 +1,84 @@
+{
+  "folio": "f55v",
+  "page_number": 108,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Elephant's ear?",
+  "plant_candidates": [
+    "Elephant's ear?"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "Next line badly legible"
+  ],
+  "loci_count": 12,
+  "loci": [
+    {
+      "locus": "f55v.1,@P0",
+      "raw": "<%>kcheedchdy.oedain.chckhy<->otoldaiin.dodyd",
+      "eva": "kcheedchdy oedain chckhy otoldaiin dodyd"
+    },
+    {
+      "locus": "f55v.2,+P0",
+      "raw": "oeeed.yteey.okeedy.qoaiin<->okeody.ykee[s:r]an",
+      "eva": "oeeed yteey okeedy qoaiin okeody ykee[s:r]an"
+    },
+    {
+      "locus": "f55v.3,+P0",
+      "raw": "qokeeey.os.ain.qool.al,chedy<->[s:?]ar,aiin.ol.kar,am",
+      "eva": "qokeeey os ain qool al chedy [s:?]ar aiin ol kar am"
+    },
+    {
+      "locus": "f55v.4,+P0",
+      "raw": "okar.chckhdy.che[o:a]dy.keeyfar,al<->ochedy.qokain.ody",
+      "eva": "okar chckhdy che[o:a]dy keeyfar al ochedy qokain ody"
+    },
+    {
+      "locus": "f55v.5,+P0",
+      "raw": "qokaiin.chaiin.ykain.ykan.ody<->daiin.chedy.talam",
+      "eva": "qokaiin chaiin ykain ykan ody daiin chedy talam"
+    },
+    {
+      "locus": "f55v.6,+P0",
+      "raw": "ykaiin.daiin.ykair.cheky.daiiny<$>",
+      "eva": "ykaiin daiin ykair cheky daiiny"
+    },
+    {
+      "locus": "f55v.7,+P0",
+      "raw": "<%>okchd.yk[a:?]in.[sh:ch]eokey.or.ain<->[ch:?].kchdy.pchal.ar,aldy.dary",
+      "eva": "okchd yk[a:?]in [sh:ch]eokey or ain [ch:?] kchdy pchal ar aldy dary"
+    },
+    {
+      "locus": "f55v.8,+P0",
+      "raw": "tar.chedy.qokaiin.okar.qol<->otar,cho@194;ar.talody.okar,y",
+      "eva": "tar chedy qokaiin okar qol otar cho@194;ar talody okar y"
+    },
+    {
+      "locus": "f55v.9,+P0",
+      "raw": "ykaky.qokchy.okal.chey.or<->or,aiin.okaiin.ykain.otaky",
+      "eva": "ykaky qokchy okal chey or or aiin okaiin ykain otaky"
+    },
+    {
+      "locus": "f55v.10,+P0",
+      "raw": "oaiin.ol.s.aiin.okaiin.oky<->ytaiin.otar.y,kal.ykar.ol",
+      "eva": "oaiin ol s aiin okaiin oky ytaiin otar y kal ykar ol"
+    },
+    {
+      "locus": "f55v.11,+P0",
+      "raw": "ykaiin.cheoar.cheeky.oldy<->aiin.okal.oltchy.or,y.orain",
+      "eva": "ykaiin cheoar cheeky oldy aiin okal oltchy or y orain"
+    },
+    {
+      "locus": "f55v.12,+P0",
+      "raw": "daiin.[a:o]r.cheky.olkeechy.sl<->ar.aiin.daiin.otam<$>",
+      "eva": "daiin [a:o]r cheky olkeechy sl ar aiin daiin otam"
+    }
+  ],
+  "eva_text": "kcheedchdy oedain chckhy otoldaiin dodyd\noeeed yteey okeedy qoaiin okeody ykee[s:r]an\nqokeeey os ain qool al chedy [s:?]ar aiin ol kar am\nokar chckhdy che[o:a]dy keeyfar al ochedy qokain ody\nqokaiin chaiin ykain ykan ody daiin chedy talam\nykaiin daiin ykair cheky daiiny\nokchd yk[a:?]in [sh:ch]eokey or ain [ch:?] kchdy pchal ar aldy dary\ntar chedy qokaiin okar qol otar cho@194;ar talody okar y\nykaky qokchy okal chey or or aiin okaiin ykain otaky\noaiin ol s aiin okaiin oky ytaiin otar y kal ykar ol\nykaiin cheoar cheeky oldy aiin okal oltchy or y orain\ndaiin [a:o]r cheky olkeechy sl ar aiin daiin otam",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

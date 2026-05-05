@@ -1,0 +1,115 @@
+{
+  "folio": "f72r1",
+  "page_number": 139,
+  "section": null,
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Taurus (dark)",
+    "Three rings of circular text, locus indications C1 to C3 (outer",
+    "to inner) and fifteen labled nymphs. Inner ring has nymphs in",
+    "barrels, outer ring has standing nymphs, without barrels.",
+    "Nymph labels, outer ring",
+    "Nymph labels, inner ring"
+  ],
+  "loci_count": 18,
+  "loci": [
+    {
+      "locus": "f72r1.1,@Cc",
+      "raw": "<!11:00>oteeo.cthey.chlol.cheol.olcheor.al.oteey.chedal.oteedy.okeodaly.chol.chokeol.cheo?ky.okaiir.okeedy.sheoltey.cheor.aiin.ydal.okochey.sho.okalshey.shol.chalaiin.chekeol.kol.otos.ar.aiin.otam.otam.chotam.sal.okeo.dar.ar.a[d:j]al.dar.okeeas.aiin.oteey.okaiin",
+      "eva": "oteeo cthey chlol cheol olcheor al oteey chedal oteedy okeodaly chol chokeol cheo?ky okaiir okeedy sheoltey cheor aiin ydal okochey sho okalshey shol chalaiin chekeol kol otos ar aiin otam otam chotam sal okeo dar ar a[d:j]al dar okeeas aiin oteey okaiin"
+    },
+    {
+      "locus": "f72r1.2,@Lz",
+      "raw": "<!09:30>oshod[a:o]dy",
+      "eva": "oshod[a:o]dy"
+    },
+    {
+      "locus": "f72r1.3,&Lz",
+      "raw": "<!10:30>chdaiirdainy",
+      "eva": "chdaiirdainy"
+    },
+    {
+      "locus": "f72r1.4,&Lz",
+      "raw": "<!00:00>oaiin,ar,ary",
+      "eva": "oaiin ar ary"
+    },
+    {
+      "locus": "f72r1.5,&Lz",
+      "raw": "<!01:00>okalam",
+      "eva": "okalam"
+    },
+    {
+      "locus": "f72r1.6,&Lz",
+      "raw": "<!02:00>ytalshdy",
+      "eva": "ytalshdy"
+    },
+    {
+      "locus": "f72r1.7,&Lz",
+      "raw": "<!03:00>char.alif",
+      "eva": "char alif"
+    },
+    {
+      "locus": "f72r1.8,&Lz",
+      "raw": "<!03:30>otaraldy",
+      "eva": "otaraldy"
+    },
+    {
+      "locus": "f72r1.9,&Lz",
+      "raw": "<!05:00>otaiin.otain",
+      "eva": "otaiin otain"
+    },
+    {
+      "locus": "f72r1.10,&Lz",
+      "raw": "<!07:00>otalef,ys.ainam",
+      "eva": "otalef ys ainam"
+    },
+    {
+      "locus": "f72r1.11,&Lz",
+      "raw": "<!08:30>ochol,sharam",
+      "eva": "ochol sharam"
+    },
+    {
+      "locus": "f72r1.12,@Cc",
+      "raw": "<!09:00>oteodar.ytey.otey.shetey.chokshor.okalal.otaiin.sheolaiin.otaiin.chetey.cheolor.oteo,teeody.otar.chokaiin.okaiin.al.alo.cheedy.otear,ar.cheky.chokal.otar.al,o,qokar",
+      "eva": "oteodar ytey otey shetey chokshor okalal otaiin sheolaiin otaiin chetey cheolor oteo teeody otar chokaiin okaiin al alo cheedy otear ar cheky chokal otar al o qokar"
+    },
+    {
+      "locus": "f72r1.13,@Lz",
+      "raw": "<!09:00>ofaralar",
+      "eva": "ofaralar"
+    },
+    {
+      "locus": "f72r1.14,&Lz",
+      "raw": "<!00:00>otchoshy",
+      "eva": "otchoshy"
+    },
+    {
+      "locus": "f72r1.15,&Lz",
+      "raw": "<!02:00>otchdal",
+      "eva": "otchdal"
+    },
+    {
+      "locus": "f72r1.16,&Lz",
+      "raw": "<!04:00>okeey.ary",
+      "eva": "okeey ary"
+    },
+    {
+      "locus": "f72r1.17,&Lz",
+      "raw": "<!07:00>otainy",
+      "eva": "otainy"
+    },
+    {
+      "locus": "f72r1.18,@Cc",
+      "raw": "<!11:30>okeeols.aroly.okees.alaiin.okeor.chol.o.oteos.aiin.chal.otaiin.[a:o]tchor.chckhy",
+      "eva": "okeeols aroly okees alaiin okeor chol o oteos aiin chal otaiin [a:o]tchor chckhy"
+    }
+  ],
+  "eva_text": "oteeo cthey chlol cheol olcheor al oteey chedal oteedy okeodaly chol chokeol cheo?ky okaiir okeedy sheoltey cheor aiin ydal okochey sho okalshey shol chalaiin chekeol kol otos ar aiin otam otam chotam sal okeo dar ar a[d:j]al dar okeeas aiin oteey okaiin\noshod[a:o]dy\nchdaiirdainy\noaiin ar ary\nokalam\nytalshdy\nchar alif\notaraldy\notaiin otain\notalef ys ainam\nochol sharam\noteodar ytey otey shetey chokshor okalal otaiin sheolaiin otaiin chetey cheolor oteo teeody otar chokaiin okaiin al alo cheedy otear ar cheky chokal otar al o qokar\nofaralar\notchoshy\notchdal\nokeey ary\notainy\nokeeols aroly okees alaiin okeor chol o oteos aiin chal otaiin [a:o]tchor chckhy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

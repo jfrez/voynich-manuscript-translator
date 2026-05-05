@@ -1,0 +1,92 @@
+{
+  "folio": "f39v",
+  "page_number": 76,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Primulaceon(?) (ag arthritis)",
+  "plant_candidates": [
+    "Primulaceon"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 14,
+  "loci": [
+    {
+      "locus": "f39v.1,@P0",
+      "raw": "<%>pdair.chdy.fdykain.or.air.sheykaiiin.ofchy.kar.or.aiin.dolky.o[sh:{i'h}]dy",
+      "eva": "pdair chdy fdykain or air sheykaiiin ofchy kar or aiin dolky o[sh:i'h]dy"
+    },
+    {
+      "locus": "f39v.2,+P0",
+      "raw": "sor.shy.kar.chol.qoty.kchdy.olky.dar.chdy.ykar.olkedaiin.ody.dy",
+      "eva": "sor shy kar chol qoty kchdy olky dar chdy ykar olkedaiin ody dy"
+    },
+    {
+      "locus": "f39v.3,+P0",
+      "raw": "daiin.chor.okain.okaii,fchody.saiin.or,aiin.qokaiin.ytodaiin.okam",
+      "eva": "daiin chor okain okaii fchody saiin or aiin qokaiin ytodaiin okam"
+    },
+    {
+      "locus": "f39v.4,+P0",
+      "raw": "y,okeey.chody.cheor.aiin.okody.chodal.ykedy.qokedy.dal,o,[d:?],aiin.shky",
+      "eva": "y okeey chody cheor aiin okody chodal ykedy qokedy dal o [d:?] aiin shky"
+    },
+    {
+      "locus": "f39v.5,+P0",
+      "raw": "ytedykor.or.sheky.kain.otar.or.aiin.okaiin.ckhol.ol.kor.oto,r.ofchy",
+      "eva": "ytedykor or sheky kain otar or aiin okaiin ckhol ol kor oto r ofchy"
+    },
+    {
+      "locus": "f39v.6,+P0",
+      "raw": "lkedy.okchey.shor.qoykam.cho,ckh{cfhh}y.or.aly.shody<$>",
+      "eva": "lkedy okchey shor qoykam cho ckhcfhhy or aly shody"
+    },
+    {
+      "locus": "f39v.7,+P0",
+      "raw": "<%>pardy.shedy.qokar.sheedy.oraly<->olaiir.okar.ar",
+      "eva": "pardy shedy qokar sheedy oraly olaiir okar ar"
+    },
+    {
+      "locus": "f39v.8,+P0",
+      "raw": "o{ek}ar.aiin.olkaiin.olky.dar.ald<->shek.chek.qokchy.dar.ain",
+      "eva": "oekar aiin olkaiin olky dar ald shek chek qokchy dar ain"
+    },
+    {
+      "locus": "f39v.9,+P0",
+      "raw": "tar.aiin.dal.ar.ain.cheor.ydam<->shody.okal.shd,y.kshy.or",
+      "eva": "tar aiin dal ar ain cheor ydam shody okal shd y kshy or"
+    },
+    {
+      "locus": "f39v.10,+P0",
+      "raw": "dar.ar.ykar.or.yky.chdy.fchor<->qokain.ar.sheedy.olchef",
+      "eva": "dar ar ykar or yky chdy fchor qokain ar sheedy olchef"
+    },
+    {
+      "locus": "f39v.11,+P0",
+      "raw": "sarol.chedy.shekam.q[o:e]kar.chl<->ykeedy.chckhy.dalor.dy",
+      "eva": "sarol chedy shekam q[o:e]kar chl ykeedy chckhy dalor dy"
+    },
+    {
+      "locus": "f39v.12,+P0",
+      "raw": "paiin.alaiin.otal,chd.okar.am<->okar.cheodal.ockhy",
+      "eva": "paiin alaiin otal chd okar am okar cheodal ockhy"
+    },
+    {
+      "locus": "f39v.13,+P0",
+      "raw": "dain.ockhedy.otedy.okedy<->lchdy.okaiin.daiiin,y",
+      "eva": "dain ockhedy otedy okedy lchdy okaiin daiiin y"
+    },
+    {
+      "locus": "f39v.14,+P0",
+      "raw": "tar,aiin.okaiin.cholody<$>",
+      "eva": "tar aiin okaiin cholody"
+    }
+  ],
+  "eva_text": "pdair chdy fdykain or air sheykaiiin ofchy kar or aiin dolky o[sh:i'h]dy\nsor shy kar chol qoty kchdy olky dar chdy ykar olkedaiin ody dy\ndaiin chor okain okaii fchody saiin or aiin qokaiin ytodaiin okam\ny okeey chody cheor aiin okody chodal ykedy qokedy dal o [d:?] aiin shky\nytedykor or sheky kain otar or aiin okaiin ckhol ol kor oto r ofchy\nlkedy okchey shor qoykam cho ckhcfhhy or aly shody\npardy shedy qokar sheedy oraly olaiir okar ar\noekar aiin olkaiin olky dar ald shek chek qokchy dar ain\ntar aiin dal ar ain cheor ydam shody okal shd y kshy or\ndar ar ykar or yky chdy fchor qokain ar sheedy olchef\nsarol chedy shekam q[o:e]kar chl ykeedy chckhy dalor dy\npaiin alaiin otal chd okar am okar cheodal ockhy\ndain ockhedy otedy okedy lchdy okaiin daiiin y\ntar aiin okaiin cholody",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

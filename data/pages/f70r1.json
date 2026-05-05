@@ -1,0 +1,121 @@
+{
+  "folio": "f70r1",
+  "page_number": 133,
+  "section": "cosmological",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Two bands of circular text.",
+    "ThP's starting points are questionable in this case.",
+    "Radial texts, then one more circular, and more radial words.",
+    "Petersen saw some Voynich text outside the diagram",
+    "which is treated as part of a circular text.",
+    "Has 'a' in upper left corner.",
+    "Radial texts were also numbered 1-6 by ThP"
+  ],
+  "loci_count": 19,
+  "loci": [
+    {
+      "locus": "f70r1.1,@Cc",
+      "raw": "<!11:00>???ooooooooolar.sasa",
+      "eva": "???ooooooooolar sasa"
+    },
+    {
+      "locus": "f70r1.2,@Cc",
+      "raw": "<!10:30>oteody.choekeeos.alair,dy.okol.okeey.dasy.ot[a:o]rsheod.okchody.oteos.okes.okeys.[e:i]y.okchol.sairody.o.chopcheopchy.chol,air.shekchy.choteody.oteeshs.opcheody.otol.choky.chody.chotey.sheal,ar.ykeody.oteey.chedaiin.chotar.soly",
+      "eva": "oteody choekeeos alair dy okol okeey dasy ot[a:o]rsheod okchody oteos okes okeys [e:i]y okchol sairody o chopcheopchy chol air shekchy choteody oteeshs opcheody otol choky chody chotey sheal ar ykeody oteey chedaiin chotar soly"
+    },
+    {
+      "locus": "f70r1.3,+Cc",
+      "raw": "<!09:30>okeodar.chy.oteody.tochady.okchody.ytar.ytory.okeol.choly.yk,y.okchedy.chkal.ofchon.qokal.opolaiin.okeos.oty.dal.cheokeey,dal.cheo.al.oteeoky.chety.chodalar.okal.chear.aly.oteos,ar.os,al.okolair.dy",
+      "eva": "okeodar chy oteody tochady okchody ytar ytory okeol choly yk y okchedy chkal ofchon qokal opolaiin okeos oty dal cheokeey dal cheo al oteeoky chety chodalar okal chear aly oteos ar os al okolair dy"
+    },
+    {
+      "locus": "f70r1.4,@Ri",
+      "raw": "<!09:30>yfcheodly",
+      "eva": "yfcheodly"
+    },
+    {
+      "locus": "f70r1.5,@Ri",
+      "raw": "<!10:30>ytcheos,aly",
+      "eva": "ytcheos aly"
+    },
+    {
+      "locus": "f70r1.6,@Ri",
+      "raw": "<!00:00>otchy.dar.yky",
+      "eva": "otchy dar yky"
+    },
+    {
+      "locus": "f70r1.7,@Ri",
+      "raw": "<!01:30>opar.ykchy",
+      "eva": "opar ykchy"
+    },
+    {
+      "locus": "f70r1.8,@Ri",
+      "raw": "<!03:00>y,saikchy.dam",
+      "eva": "y saikchy dam"
+    },
+    {
+      "locus": "f70r1.9,@Ri",
+      "raw": "<!04:30>otair,oroldy",
+      "eva": "otair oroldy"
+    },
+    {
+      "locus": "f70r1.10,@Ri",
+      "raw": "<!06:00>dchal.daim",
+      "eva": "dchal daim"
+    },
+    {
+      "locus": "f70r1.11,@Ri",
+      "raw": "<!07:30>yteody.sam",
+      "eva": "yteody sam"
+    },
+    {
+      "locus": "f70r1.12,@Ri",
+      "raw": "<!08:45>okchy,daldy",
+      "eva": "okchy daldy"
+    },
+    {
+      "locus": "f70r1.13,@Cc",
+      "raw": "<!11:00>tshey.ol.oteey.ched,ar.oteos.cheor.alal.otar.ar,y.oteodchey.keody.oteos,al.oteeed",
+      "eva": "tshey ol oteey ched ar oteos cheor alal otar ar y oteodchey keody oteos al oteeed"
+    },
+    {
+      "locus": "f70r1.14,@Ri",
+      "raw": "<!09:30>ykeal",
+      "eva": "ykeal"
+    },
+    {
+      "locus": "f70r1.15,@Ri",
+      "raw": "<!11:30>okeody",
+      "eva": "okeody"
+    },
+    {
+      "locus": "f70r1.16,@Ri",
+      "raw": "<!01:30>otody",
+      "eva": "otody"
+    },
+    {
+      "locus": "f70r1.17,@Ri",
+      "raw": "<!03:30>ypolol",
+      "eva": "ypolol"
+    },
+    {
+      "locus": "f70r1.18,@Ri",
+      "raw": "<!05:30>chodal",
+      "eva": "chodal"
+    },
+    {
+      "locus": "f70r1.19,@Ri",
+      "raw": "<!08:30>okasd",
+      "eva": "okasd"
+    }
+  ],
+  "eva_text": "???ooooooooolar sasa\noteody choekeeos alair dy okol okeey dasy ot[a:o]rsheod okchody oteos okes okeys [e:i]y okchol sairody o chopcheopchy chol air shekchy choteody oteeshs opcheody otol choky chody chotey sheal ar ykeody oteey chedaiin chotar soly\nokeodar chy oteody tochady okchody ytar ytory okeol choly yk y okchedy chkal ofchon qokal opolaiin okeos oty dal cheokeey dal cheo al oteeoky chety chodalar okal chear aly oteos ar os al okolair dy\nyfcheodly\nytcheos aly\notchy dar yky\nopar ykchy\ny saikchy dam\notair oroldy\ndchal daim\nyteody sam\nokchy daldy\ntshey ol oteey ched ar oteos cheor alal otar ar y oteodchey keody oteos al oteeed\nykeal\nokeody\notody\nypolol\nchodal\nokasd",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

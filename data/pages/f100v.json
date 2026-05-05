@@ -1,0 +1,134 @@
+{
+  "folio": "f100v",
+  "page_number": 204,
+  "section": null,
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "pharmaceutical",
+    "Brumbaugh p86; \"medicinal herbs''",
+    "First rows of labels, Petersen nr. in curly brackets",
+    "Second rows of labels",
+    "Third rows of labels"
+  ],
+  "loci_count": 22,
+  "loci": [
+    {
+      "locus": "f100v.1,@Lf",
+      "raw": "<!131>tolchd",
+      "eva": "tolchd"
+    },
+    {
+      "locus": "f100v.2,@Lf",
+      "raw": "<!132>chols",
+      "eva": "chols"
+    },
+    {
+      "locus": "f100v.3,@Lf",
+      "raw": "<!133>opchor",
+      "eva": "opchor"
+    },
+    {
+      "locus": "f100v.4,@Lf",
+      "raw": "<!134>solsy",
+      "eva": "solsy"
+    },
+    {
+      "locus": "f100v.5,@Lf",
+      "raw": "<!135>soleesos",
+      "eva": "soleesos"
+    },
+    {
+      "locus": "f100v.6,@Lf",
+      "raw": "<!136>ykchochdy",
+      "eva": "ykchochdy"
+    },
+    {
+      "locus": "f100v.7,@Lf",
+      "raw": "<!137>ykchdy",
+      "eva": "ykchdy"
+    },
+    {
+      "locus": "f100v.8,@Lf",
+      "raw": "<!138>dchdy",
+      "eva": "dchdy"
+    },
+    {
+      "locus": "f100v.9,@Lf",
+      "raw": "<!139>dalsy",
+      "eva": "dalsy"
+    },
+    {
+      "locus": "f100v.10,@Lf",
+      "raw": "<!140>okcheor",
+      "eva": "okcheor"
+    },
+    {
+      "locus": "f100v.11,@Lf",
+      "raw": "<!141>ytchol",
+      "eva": "ytchol"
+    },
+    {
+      "locus": "f100v.12,@Lf",
+      "raw": "<!142>dykchal",
+      "eva": "dykchal"
+    },
+    {
+      "locus": "f100v.13,@Lf",
+      "raw": "<!143>chos.ctharal",
+      "eva": "chos ctharal"
+    },
+    {
+      "locus": "f100v.14,@P0",
+      "raw": "<%>{c@132;h}dee{c@133;h}y.sheocphy.qoteody.ckhoor.ar.chor.oteey.daiin.qokomo",
+      "eva": "c@132;hdeec@133;hy sheocphy qoteody ckhoor ar chor oteey daiin qokomo"
+    },
+    {
+      "locus": "f100v.15,+P0",
+      "raw": "sor.cheey.dair.ol.cheol.qoolkeey.chol.cheey.qokeol.chotol,s",
+      "eva": "sor cheey dair ol cheol qoolkeey chol cheey qokeol chotol s"
+    },
+    {
+      "locus": "f100v.16,+P0",
+      "raw": "ykeeol.chol.chey.eeoseeo,s.sheeo.okeol.ches.okeor.okeol.dy",
+      "eva": "ykeeol chol chey eeoseeo s sheeo okeol ches okeor okeol dy"
+    },
+    {
+      "locus": "f100v.17,+P0",
+      "raw": "chockhey.sholkcheol.qokeol.okol.chol.chotor.chso.solcthy",
+      "eva": "chockhey sholkcheol qokeol okol chol chotor chso solcthy"
+    },
+    {
+      "locus": "f100v.18,+P0",
+      "raw": "tachso.s.ol.cheo.cheeor.odaidy.ckhod.sh.chod.qokeol.sal",
+      "eva": "tachso s ol cheo cheeor odaidy ckhod sh chod qokeol sal"
+    },
+    {
+      "locus": "f100v.19,+P0",
+      "raw": "sain.cheokeos.chockhy.chocthey.keody.cho{ckhh}or.chckhey.du",
+      "eva": "sain cheokeos chockhy chocthey keody chockhhor chckhey du"
+    },
+    {
+      "locus": "f100v.20,+P0",
+      "raw": "ycheoky.shokeesy.qokeey.chokeol.saraloaly.cheor.ol.chockhar",
+      "eva": "ycheoky shokeesy qokeey chokeol saraloaly cheor ol chockhar"
+    },
+    {
+      "locus": "f100v.21,+P0",
+      "raw": "soral.okor.ol.choy.ly.araroy.okar.cheeeal.cheokeol.orey",
+      "eva": "soral okor ol choy ly araroy okar cheeeal cheokeol orey"
+    },
+    {
+      "locus": "f100v.22,+P0",
+      "raw": "daiin.cheky.chory<$>",
+      "eva": "daiin cheky chory"
+    }
+  ],
+  "eva_text": "tolchd\nchols\nopchor\nsolsy\nsoleesos\nykchochdy\nykchdy\ndchdy\ndalsy\nokcheor\nytchol\ndykchal\nchos ctharal\nc@132;hdeec@133;hy sheocphy qoteody ckhoor ar chor oteey daiin qokomo\nsor cheey dair ol cheol qoolkeey chol cheey qokeol chotol s\nykeeol chol chey eeoseeo s sheeo okeol ches okeor okeol dy\nchockhey sholkcheol qokeol okol chol chotor chso solcthy\ntachso s ol cheo cheeor odaidy ckhod sh chod qokeol sal\nsain cheokeos chockhy chocthey keody chockhhor chckhey du\nycheoky shokeesy qokeey chokeol saraloaly cheor ol chockhar\nsoral okor ol choy ly araroy okar cheeeal cheokeol orey\ndaiin cheky chory",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

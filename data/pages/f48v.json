@@ -1,0 +1,77 @@
+{
+  "folio": "f48v",
+  "page_number": 94,
+  "section": "herbal",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Curriers language B, hand 2",
+    "gathering mark 6",
+    "Same plant as f89v[1,4] ? (Stolfi)"
+  ],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f48v.1,@P0",
+      "raw": "<%>pcheodchy.dshedy.fchedy.los.aiin.ykeeedy.shey.ypchedy.teedy.chdy.ypair,y.chedyty",
+      "eva": "pcheodchy dshedy fchedy los aiin ykeeedy shey ypchedy teedy chdy ypair y chedyty"
+    },
+    {
+      "locus": "f48v.2,+P0",
+      "raw": "chey.tedy.otchody.ykeedy.otar,yotedy.cthdy<->okain.chety.choolkeey",
+      "eva": "chey tedy otchody ykeedy otar yotedy cthdy okain chety choolkeey"
+    },
+    {
+      "locus": "f48v.3,+P0",
+      "raw": "alchey.kor.y.keody.olkeeey.chody.chedy.daly<->okeeor.aiin.otar,air,am",
+      "eva": "alchey kor y keody olkeeey chody chedy daly okeeor aiin otar air am"
+    },
+    {
+      "locus": "f48v.4,+P0",
+      "raw": "dchedy,tchddy.otsh.okeey.ty.otar.alchdy<->yteedy.oteed.y,kedy.m",
+      "eva": "dchedy tchddy otsh okeey ty otar alchdy yteedy oteed y kedy m"
+    },
+    {
+      "locus": "f48v.5,+P0",
+      "raw": "lkeey.qocthedy.taiin.shed.qokar.otedy.dy<->dain.tolkain.otam",
+      "eva": "lkeey qocthedy taiin shed qokar otedy dy dain tolkain otam"
+    },
+    {
+      "locus": "f48v.6,+P0",
+      "raw": "shdy.qokain.okar.otar.or.otees.ol.or.ain<->otal.ok.y,tar.chedy.am<$>",
+      "eva": "shdy qokain okar otar or otees ol or ain otal ok y tar chedy am"
+    },
+    {
+      "locus": "f48v.7,+P0",
+      "raw": "<%>pchedar.chey<->ypchedy.otedy.shef,eeedy.al<->shedy.otedy.fcheodal.cpheeg",
+      "eva": "pchedar chey ypchedy otedy shef eeedy al shedy otedy fcheodal cpheeg"
+    },
+    {
+      "locus": "f48v.8,+P0",
+      "raw": "oteody.chkey<->okedy.chckhedy.ykedy.oldy<->otoly.chey.kaly.tokar.otam",
+      "eva": "oteody chkey okedy chckhedy ykedy oldy otoly chey kaly tokar otam"
+    },
+    {
+      "locus": "f48v.9,+P0",
+      "raw": "tor.shody.okal<->otchedy.cheky.oly.loldy.lol<->otchdy.otoldy.ytam.otedy",
+      "eva": "tor shody okal otchedy cheky oly loldy lol otchdy otoldy ytam otedy"
+    },
+    {
+      "locus": "f48v.10,+P0",
+      "raw": "tol.chedy.ytedy<->ykeol.chdy.chdor.chtol.chdy<->ytchedal.cthey.okar,ar.ary",
+      "eva": "tol chedy ytedy ykeol chdy chdor chtol chdy ytchedal cthey okar ar ary"
+    },
+    {
+      "locus": "f48v.11,+P0",
+      "raw": "ykeedal.chckhy<->ykal.y,tam.or.cheedls.[s:d]ary<$>",
+      "eva": "ykeedal chckhy ykal y tam or cheedls [s:d]ary"
+    }
+  ],
+  "eva_text": "pcheodchy dshedy fchedy los aiin ykeeedy shey ypchedy teedy chdy ypair y chedyty\nchey tedy otchody ykeedy otar yotedy cthdy okain chety choolkeey\nalchey kor y keody olkeeey chody chedy daly okeeor aiin otar air am\ndchedy tchddy otsh okeey ty otar alchdy yteedy oteed y kedy m\nlkeey qocthedy taiin shed qokar otedy dy dain tolkain otam\nshdy qokain okar otar or otees ol or ain otal ok y tar chedy am\npchedar chey ypchedy otedy shef eeedy al shedy otedy fcheodal cpheeg\noteody chkey okedy chckhedy ykedy oldy otoly chey kaly tokar otam\ntor shody okal otchedy cheky oly loldy lol otchdy otoldy ytam otedy\ntol chedy ytedy ykeol chdy chdor chtol chdy ytchedal cthey okar ar ary\nykeedal chckhy ykal y tam or cheedls [s:d]ary",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

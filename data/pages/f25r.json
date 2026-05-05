@@ -1,0 +1,57 @@
+{
+  "folio": "f25r",
+  "page_number": 47,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "too many to list here but mostly nettle- or mint-like",
+  "plant_candidates": [
+    "too many to list here but mostly nettle- or mint-like"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 7,
+  "loci": [
+    {
+      "locus": "f25r.1,@P0",
+      "raw": "<%>fcholdy.soshy.daiin.{ck}y.shody.daiin,ocholdy.cpholdy.sy",
+      "eva": "fcholdy soshy daiin cky shody daiin ocholdy cpholdy sy"
+    },
+    {
+      "locus": "f25r.2,+P0",
+      "raw": "otor.chor.chsky.chotchy.shair.qod.sh[a:o]chy.kchy.chkain",
+      "eva": "otor chor chsky chotchy shair qod sh[a:o]chy kchy chkain"
+    },
+    {
+      "locus": "f25r.3,+P0",
+      "raw": "qotchy.qotshy.cheesees.sheear.s.chain.daiin.chain.dan",
+      "eva": "qotchy qotshy cheesees sheear s chain daiin chain dan"
+    },
+    {
+      "locus": "f25r.4,+P0",
+      "raw": "dchckhy.shocthy.ytchey.cthor.s.chan.chaiin.qotchain",
+      "eva": "dchckhy shocthy ytchey cthor s chan chaiin qotchain"
+    },
+    {
+      "locus": "f25r.5,+P0",
+      "raw": "qotcheaiin.dchain.cthain.daiin.daiin.cthain.qotaiin",
+      "eva": "qotcheaiin dchain cthain daiin daiin cthain qotaiin"
+    },
+    {
+      "locus": "f25r.6,+P0",
+      "raw": "okal.chotaiin",
+      "eva": "okal chotaiin"
+    },
+    {
+      "locus": "f25r.7,=Pt",
+      "raw": "dair.otaiir.otosy<$>",
+      "eva": "dair otaiir otosy"
+    }
+  ],
+  "eva_text": "fcholdy soshy daiin cky shody daiin ocholdy cpholdy sy\notor chor chsky chotchy shair qod sh[a:o]chy kchy chkain\nqotchy qotshy cheesees sheear s chain daiin chain dan\ndchckhy shocthy ytchey cthor s chan chaiin qotchain\nqotcheaiin dchain cthain daiin daiin cthain qotaiin\nokal chotaiin\ndair otaiir otosy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,174 @@
+{
+  "folio": "f67v1",
+  "page_number": 123,
+  "section": "astronomical",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "General description of page:",
+    "Large outer circle, divided into 12 sectors, here identified as",
+    "L0 loci. There may have been more than 12 but any",
+    "additional ones are outside the visible part of this page.",
+    "Inside are 17 lines of text radiating outward from the central",
+    "Sun face, which is smiling. There are  39 stars, 3 of which are blue, the",
+    "rest being yellow.",
+    "1st label starts at 10 o'clock",
+    "Scattered loci, really on circle:",
+    "Radiating from central Sun, going clockwise, starting at 09:30"
+  ],
+  "loci_count": 29,
+  "loci": [
+    {
+      "locus": "f67v1.1,@L0",
+      "raw": "damamm<!long tail m>",
+      "eva": "damamm"
+    },
+    {
+      "locus": "f67v1.2,&L0",
+      "raw": "dairkal",
+      "eva": "dairkal"
+    },
+    {
+      "locus": "f67v1.3,&L0",
+      "raw": "okal.ary",
+      "eva": "okal ary"
+    },
+    {
+      "locus": "f67v1.4,&L0",
+      "raw": "dar.echkalal",
+      "eva": "dar echkalal"
+    },
+    {
+      "locus": "f67v1.5,&L0",
+      "raw": "okol.aldy",
+      "eva": "okol aldy"
+    },
+    {
+      "locus": "f67v1.6,&L0",
+      "raw": "dchesykchy",
+      "eva": "dchesykchy"
+    },
+    {
+      "locus": "f67v1.7,&L0",
+      "raw": "ykeodar",
+      "eva": "ykeodar"
+    },
+    {
+      "locus": "f67v1.8,&L0",
+      "raw": "deeeoskol",
+      "eva": "deeeoskol"
+    },
+    {
+      "locus": "f67v1.9,&L0",
+      "raw": "ockhosam",
+      "eva": "ockhosam"
+    },
+    {
+      "locus": "f67v1.10,&L0",
+      "raw": "kochardy",
+      "eva": "kochardy"
+    },
+    {
+      "locus": "f67v1.11,&L0",
+      "raw": "ochodare",
+      "eva": "ochodare"
+    },
+    {
+      "locus": "f67v1.12,&L0",
+      "raw": "ols,aiiny",
+      "eva": "ols aiiny"
+    },
+    {
+      "locus": "f67v1.13,@Ro",
+      "raw": "otorkeol.orsheey.dary",
+      "eva": "otorkeol orsheey dary"
+    },
+    {
+      "locus": "f67v1.14,@Ro",
+      "raw": "okechey.cheody.cheky",
+      "eva": "okechey cheody cheky"
+    },
+    {
+      "locus": "f67v1.15,@Ro",
+      "raw": "otechodor.odcheey",
+      "eva": "otechodor odcheey"
+    },
+    {
+      "locus": "f67v1.16,@Ro",
+      "raw": "chockhey.chockhy",
+      "eva": "chockhey chockhy"
+    },
+    {
+      "locus": "f67v1.17,@Ro",
+      "raw": "yteeey.keeochy.dair.ockey",
+      "eva": "yteeey keeochy dair ockey"
+    },
+    {
+      "locus": "f67v1.18,@Ro",
+      "raw": "keechey.chy.koldy",
+      "eva": "keechey chy koldy"
+    },
+    {
+      "locus": "f67v1.19,@Ro",
+      "raw": "pchodaiin.otch.oekeey.dy",
+      "eva": "pchodaiin otch oekeey dy"
+    },
+    {
+      "locus": "f67v1.20,@Ro",
+      "raw": "dcheeos.qokeeeody.eeis.olcheeg",
+      "eva": "dcheeos qokeeeody eeis olcheeg"
+    },
+    {
+      "locus": "f67v1.21,@Ro",
+      "raw": "ykeeo.cheo.daiin.ypcheg.oty",
+      "eva": "ykeeo cheo daiin ypcheg oty"
+    },
+    {
+      "locus": "f67v1.22,@Ro",
+      "raw": "opcheey.chso.cheey.chedaly",
+      "eva": "opcheey chso cheey chedaly"
+    },
+    {
+      "locus": "f67v1.23,@Ro",
+      "raw": "ykeeey.qokeey.olokeey.s",
+      "eva": "ykeeey qokeey olokeey s"
+    },
+    {
+      "locus": "f67v1.24,@Ro",
+      "raw": "osheey.keeody.cheedals",
+      "eva": "osheey keeody cheedals"
+    },
+    {
+      "locus": "f67v1.25,@Ro",
+      "raw": "okar.shey.qokche[o:a]r.daiiin",
+      "eva": "okar shey qokche[o:a]r daiiin"
+    },
+    {
+      "locus": "f67v1.26,@Ro",
+      "raw": "oeees.ote[ch:ee]y.o,keey",
+      "eva": "oeees ote[ch:ee]y o keey"
+    },
+    {
+      "locus": "f67v1.27,@Ro",
+      "raw": "okeeodaiin.saii.dairal",
+      "eva": "okeeodaiin saii dairal"
+    },
+    {
+      "locus": "f67v1.28,@Ro",
+      "raw": "oksheeody.or.aral",
+      "eva": "oksheeody or aral"
+    },
+    {
+      "locus": "f67v1.29,@Ro",
+      "raw": "olar.aroky",
+      "eva": "olar aroky"
+    }
+  ],
+  "eva_text": "damamm\ndairkal\nokal ary\ndar echkalal\nokol aldy\ndchesykchy\nykeodar\ndeeeoskol\nockhosam\nkochardy\nochodare\nols aiiny\notorkeol orsheey dary\nokechey cheody cheky\notechodor odcheey\nchockhey chockhy\nyteeey keeochy dair ockey\nkeechey chy koldy\npchodaiin otch oekeey dy\ndcheeos qokeeeody eeis olcheeg\nykeeo cheo daiin ypcheg oty\nopcheey chso cheey chedaly\nykeeey qokeey olokeey s\nosheey keeody cheedals\nokar shey qokche[o:a]r daiiin\noeees ote[ch:ee]y o keey\nokeeodaiin saii dairal\noksheeody or aral\nolar aroky",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,88 @@
+{
+  "folio": "f20r",
+  "page_number": 37,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Moss Polytrichum (O'Neill), cranberry",
+  "plant_candidates": [
+    "Moss Polytrichum",
+    "cranberry"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f20r.1,@P0",
+      "raw": "<%>kdchody.chopy.cheey.qotchol.qotoeey.dchor.chaiin",
+      "eva": "kdchody chopy cheey qotchol qotoeey dchor chaiin"
+    },
+    {
+      "locus": "f20r.2,+P0",
+      "raw": "chod,ey.cthey.chotol.odaiir.qotchy.cthody.chodchy",
+      "eva": "chod ey cthey chotol odaiir qotchy cthody chodchy"
+    },
+    {
+      "locus": "f20r.3,+P0",
+      "raw": "qoteey.cho,chodaiin.sho.qochy.chey.tcheodal.daral",
+      "eva": "qoteey cho chodaiin sho qochy chey tcheodal daral"
+    },
+    {
+      "locus": "f20r.4,+P0",
+      "raw": "ochol.ol.teey.ot[o:a]lchey<$>",
+      "eva": "ochol ol teey ot[o:a]lchey"
+    },
+    {
+      "locus": "f20r.5,+P0",
+      "raw": "<%>pchocthy.chokoaiin.{cp}y.cheeeb.opchey.shosaiin.@243;",
+      "eva": "pchocthy chokoaiin cpy cheeeb opchey shosaiin @243;"
+    },
+    {
+      "locus": "f20r.6,+P0",
+      "raw": "choees.okchor.qotol.cheey.daiin.chy.choiin.daiin",
+      "eva": "choees okchor qotol cheey daiin chy choiin daiin"
+    },
+    {
+      "locus": "f20r.7,+P0",
+      "raw": "ocho,lshod.daiin.choteol.chol.dol.shol.otaiin",
+      "eva": "ocho lshod daiin choteol chol dol shol otaiin"
+    },
+    {
+      "locus": "f20r.8,+P0",
+      "raw": "schodain.cheo.r.cheody<$>",
+      "eva": "schodain cheo r cheody"
+    },
+    {
+      "locus": "f20r.9,+P0",
+      "raw": "<%>fchodees.shody.qotchey.qokchey.qocphy.chokoldy",
+      "eva": "fchodees shody qotchey qokchey qocphy chokoldy"
+    },
+    {
+      "locus": "f20r.10,+P0",
+      "raw": "ochoaiin.chor.sody.pchodaiin.chetody.choky.dchy.toy",
+      "eva": "ochoaiin chor sody pchodaiin chetody choky dchy toy"
+    },
+    {
+      "locus": "f20r.11,+P0",
+      "raw": "dchod.qoteeody.ytchy.qo,tshey.dchaiin.chol,ody",
+      "eva": "dchod qoteeody ytchy qo tshey dchaiin chol ody"
+    },
+    {
+      "locus": "f20r.12,+P0",
+      "raw": "shoiin.cheody.otchey.otchy.tchy.qoteey.daiin.dar",
+      "eva": "shoiin cheody otchey otchy tchy qoteey daiin dar"
+    },
+    {
+      "locus": "f20r.13,+P0",
+      "raw": "ochaiin.chor.chor,cheey.tchey<$>",
+      "eva": "ochaiin chor chor cheey tchey"
+    }
+  ],
+  "eva_text": "kdchody chopy cheey qotchol qotoeey dchor chaiin\nchod ey cthey chotol odaiir qotchy cthody chodchy\nqoteey cho chodaiin sho qochy chey tcheodal daral\nochol ol teey ot[o:a]lchey\npchocthy chokoaiin cpy cheeeb opchey shosaiin @243;\nchoees okchor qotol cheey daiin chy choiin daiin\nocho lshod daiin choteol chol dol shol otaiin\nschodain cheo r cheody\nfchodees shody qotchey qokchey qocphy chokoldy\nochoaiin chor sody pchodaiin chetody choky dchy toy\ndchod qoteeody ytchy qo tshey dchaiin chol ody\nshoiin cheody otchey otchy tchy qoteey daiin dar\nochaiin chor chor cheey tchey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

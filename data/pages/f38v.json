@@ -1,0 +1,63 @@
+{
+  "folio": "f38v",
+  "page_number": 74,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Cickorium?, Lactuca",
+  "plant_candidates": [
+    "Cickorium?",
+    "Lactuca"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 8,
+  "loci": [
+    {
+      "locus": "f38v.1,@P0",
+      "raw": "<%>okchop.chol.shotol.oteol.okee[a:y].s<->chor.d.aiin,d",
+      "eva": "okchop chol shotol oteol okee[a:y] s chor d aiin d"
+    },
+    {
+      "locus": "f38v.2,+P0",
+      "raw": "choiin.shey.key.sho.oiin.s.chol,ldy<->okeaiin.o,kom",
+      "eva": "choiin shey key sho oiin s chol ldy okeaiin o kom"
+    },
+    {
+      "locus": "f38v.3,+P0",
+      "raw": "qokeey.keor.daiin.okey.keey.daiin<->dair.daiin.s",
+      "eva": "qokeey keor daiin okey keey daiin dair daiin s"
+    },
+    {
+      "locus": "f38v.4,+P0",
+      "raw": "okeey.d,aiin.qokeey.chotey.tody<->oky.aiiin.d",
+      "eva": "okeey d aiin qokeey chotey tody oky aiiin d"
+    },
+    {
+      "locus": "f38v.5,+P0",
+      "raw": "qoty.daiin.chol.oteeol.dody<->cheod.chody",
+      "eva": "qoty daiin chol oteeol dody cheod chody"
+    },
+    {
+      "locus": "f38v.6,+P0",
+      "raw": "sho.keeey.key.tey.daiin.daiiin<->dain.dain",
+      "eva": "sho keeey key tey daiin daiiin dain dain"
+    },
+    {
+      "locus": "f38v.7,+P0",
+      "raw": "daiin.qol.chy.dain.@153;.or.daiin<->dain.daldy",
+      "eva": "daiin qol chy dain @153; or daiin dain daldy"
+    },
+    {
+      "locus": "f38v.8,+P0",
+      "raw": "o,aiin.char.chshol.chokaiin<$>",
+      "eva": "o aiin char chshol chokaiin"
+    }
+  ],
+  "eva_text": "okchop chol shotol oteol okee[a:y] s chor d aiin d\nchoiin shey key sho oiin s chol ldy okeaiin o kom\nqokeey keor daiin okey keey daiin dair daiin s\nokeey d aiin qokeey chotey tody oky aiiin d\nqoty daiin chol oteeol dody cheod chody\nsho keeey key tey daiin daiiin dain dain\ndaiin qol chy dain @153; or daiin dain daldy\no aiin char chshol chokaiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

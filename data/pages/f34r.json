@@ -1,0 +1,102 @@
+{
+  "folio": "f34r",
+  "page_number": 65,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "smaller scabiosa",
+  "plant_candidates": [
+    "smaller scabiosa"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "Publ: Krauss 30(top), B@R p91; \"Sunflowers''",
+    "After this line the texts left and right of the rightmost plant are not well",
+    "aligned vertically. Their number is the same, but the ones on the right align",
+    "well with lines on the left one below the expected."
+  ],
+  "loci_count": 15,
+  "loci": [
+    {
+      "locus": "f34r.1,@P0",
+      "raw": "<%>pcheoepchy.olar.yl<->yfody.okedody.shod.ololdy.dar.ytey",
+      "eva": "pcheoepchy olar yl yfody okedody shod ololdy dar ytey"
+    },
+    {
+      "locus": "f34r.2,+P0",
+      "raw": "ytar.sheody.o,lam<->octhedy.otedy.chdain.oltey.kchy,ty",
+      "eva": "ytar sheody o lam octhedy otedy chdain oltey kchy ty"
+    },
+    {
+      "locus": "f34r.3,+P0",
+      "raw": "qotedy.chyty.chdaly<->dar.chd.otedy.qotol.okedy.dody.ody.kam",
+      "eva": "qotedy chyty chdaly dar chd otedy qotol okedy dody ody kam"
+    },
+    {
+      "locus": "f34r.4,+P0",
+      "raw": "ytedy.daiin.chey.aiin<->shy.chckhy<~>oltchedy.otedy.dam.checthy",
+      "eva": "ytedy daiin chey aiin shy chckhy<~>oltchedy otedy dam checthy"
+    },
+    {
+      "locus": "f34r.5,+P0",
+      "raw": "qoteedy.shedy.shedy.ol<->okes.ar<~>ykeed,l.chedy.otey.okaiin",
+      "eva": "qoteedy shedy shedy ol okes ar<~>ykeed l chedy otey okaiin"
+    },
+    {
+      "locus": "f34r.6,+P0",
+      "raw": "oteol.chekey.chetey.oll<->chesy<~>daiin.cheky.fas.aiir.a[m:d]g",
+      "eva": "oteol chekey chetey oll chesy<~>daiin cheky fas aiir a[m:d]g"
+    },
+    {
+      "locus": "f34r.7,+P0",
+      "raw": "qokedy.dal.chdy<->olchy<->ykch[y:?]<~>ykedy.qokchdy.s.as.oldam",
+      "eva": "qokedy dal chdy olchy ykch[y:?]<~>ykedy qokchdy s as oldam"
+    },
+    {
+      "locus": "f34r.8,+P0",
+      "raw": "{ch'}otchy.qoky<->olk<->checkhy<~>ys,air.air.chodar.ta[m:g]",
+      "eva": "ch'otchy qoky olk checkhy<~>ys air air chodar ta[m:g]"
+    },
+    {
+      "locus": "f34r.9,+P0",
+      "raw": "ykchdy.qod<->ar<->ch{ct}<->a[{ikh}:ckh]y<~>or.lchey.todaly.okaiin.dardy<$>",
+      "eva": "ykchdy qod ar chct a[ikh:ckh]y<~>or lchey todaly okaiin dardy"
+    },
+    {
+      "locus": "f34r.10,+P0",
+      "raw": "<%>tcheo.olchckhy.oly<->otchdy.chefalchhs",
+      "eva": "tcheo olchckhy oly otchdy chefalchhs"
+    },
+    {
+      "locus": "f34r.11,+P0",
+      "raw": "qokeey.sh.kaldaiin<->cheky.cthdaly<->otchedy.chty.s,aiin",
+      "eva": "qokeey sh kaldaiin cheky cthdaly otchedy chty s aiin"
+    },
+    {
+      "locus": "f34r.12,+P0",
+      "raw": "char.aiin.okor,ar.tol<->qokar.chckhy.chdal.ked.qokar.ar.daiin.dam",
+      "eva": "char aiin okor ar tol qokar chckhy chdal ked qokar ar daiin dam"
+    },
+    {
+      "locus": "f34r.13,+P0",
+      "raw": "ykeo.lor.ochey.oly<->okaly.kechdy.qokchdy.chor.ar.aiiin.daly",
+      "eva": "ykeo lor ochey oly okaly kechdy qokchdy chor ar aiiin daly"
+    },
+    {
+      "locus": "f34r.14,+P0",
+      "raw": "or.ar.y,kar.ol,al.oky<->chody.qokal,chedy.chcthedy.cheky.daram",
+      "eva": "or ar y kar ol al oky chody qokal chedy chcthedy cheky daram"
+    },
+    {
+      "locus": "f34r.15,+P0",
+      "raw": "sair.chekar.cheky.shek<->cholchedy.qokedy.yk,cheolchcthy<$>",
+      "eva": "sair chekar cheky shek cholchedy qokedy yk cheolchcthy"
+    }
+  ],
+  "eva_text": "pcheoepchy olar yl yfody okedody shod ololdy dar ytey\nytar sheody o lam octhedy otedy chdain oltey kchy ty\nqotedy chyty chdaly dar chd otedy qotol okedy dody ody kam\nytedy daiin chey aiin shy chckhy<~>oltchedy otedy dam checthy\nqoteedy shedy shedy ol okes ar<~>ykeed l chedy otey okaiin\noteol chekey chetey oll chesy<~>daiin cheky fas aiir a[m:d]g\nqokedy dal chdy olchy ykch[y:?]<~>ykedy qokchdy s as oldam\nch'otchy qoky olk checkhy<~>ys air air chodar ta[m:g]\nykchdy qod ar chct a[ikh:ckh]y<~>or lchey todaly okaiin dardy\ntcheo olchckhy oly otchdy chefalchhs\nqokeey sh kaldaiin cheky cthdaly otchedy chty s aiin\nchar aiin okor ar tol qokar chckhy chdal ked qokar ar daiin dam\nykeo lor ochey oly okaly kechdy qokchdy chor ar aiiin daly\nor ar y kar ol al oky chody qokal chedy chcthedy cheky daram\nsair chekar cheky shek cholchedy qokedy yk cheolchcthy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

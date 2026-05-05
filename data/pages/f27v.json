@@ -1,0 +1,58 @@
+{
+  "folio": "f27v",
+  "page_number": 52,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 8,
+  "loci": [
+    {
+      "locus": "f27v.1,@P0",
+      "raw": "<%>pochof.chof.cho.sho.soly.shol.ytchar.opchory.kchor,chor",
+      "eva": "pochof chof cho sho soly shol ytchar opchory kchor chor"
+    },
+    {
+      "locus": "f27v.2,+P0",
+      "raw": "dchy.chkar.otchy.shy.shy.dchy.dshy.kchy.cheo.daidy.dchy",
+      "eva": "dchy chkar otchy shy shy dchy dshy kchy cheo daidy dchy"
+    },
+    {
+      "locus": "f27v.3,+P0",
+      "raw": "kchey.kchy.dchokchy.dsho.d{ca}r.chodchy.etcheody.shld",
+      "eva": "kchey kchy dchokchy dsho dcar chodchy etcheody shld"
+    },
+    {
+      "locus": "f27v.4,+P0",
+      "raw": "okcho.chy.kch[ee:o]d.chl.chol.kod<->o.oksho.do,cheesg",
+      "eva": "okcho chy kch[ee:o]d chl chol kod o oksho do cheesg"
+    },
+    {
+      "locus": "f27v.5,+P0",
+      "raw": "qoky.sh,keeo.[s:r]cho,dar.shkol<->chotchy.ctho,dol",
+      "eva": "qoky sh keeo [s:r]cho dar shkol chotchy ctho dol"
+    },
+    {
+      "locus": "f27v.6,+P0",
+      "raw": "dsho.kchrrr.okeedy<->dch[s:r]chy<->sotchdy",
+      "eva": "dsho kchrrr okeedy dch[s:r]chy sotchdy"
+    },
+    {
+      "locus": "f27v.7,+P0",
+      "raw": "sho.shoykcho.shdy<->dchd<->chschsy<->otchdy",
+      "eva": "sho shoykcho shdy dchd chschsy otchdy"
+    },
+    {
+      "locus": "f27v.8,+P0",
+      "raw": "okshes.okchokshy<$>",
+      "eva": "okshes okchokshy"
+    }
+  ],
+  "eva_text": "pochof chof cho sho soly shol ytchar opchory kchor chor\ndchy chkar otchy shy shy dchy dshy kchy cheo daidy dchy\nkchey kchy dchokchy dsho dcar chodchy etcheody shld\nokcho chy kch[ee:o]d chl chol kod o oksho do cheesg\nqoky sh keeo [s:r]cho dar shkol chotchy ctho dol\ndsho kchrrr okeedy dch[s:r]chy sotchdy\nsho shoykcho shdy dchd chschsy otchdy\nokshes okchokshy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

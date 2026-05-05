@@ -1,0 +1,102 @@
+{
+  "folio": "f42v",
+  "page_number": 82,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "ranunculacea helleboria(?) (Mrs Voynich)",
+  "plant_candidates": [
+    "ranunculacea helleboria"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 16,
+  "loci": [
+    {
+      "locus": "f42v.1,@P0",
+      "raw": "<%>@156;cho.{cto}.sheey.qocho.taiin.shols<->chol.chor.dain",
+      "eva": "@156;cho cto sheey qocho taiin shols chol chor dain"
+    },
+    {
+      "locus": "f42v.2,+P0",
+      "raw": "dshey.tchey.y.kchey.chtchy.{c@245;h}y.dan<->dain.otol.daiin",
+      "eva": "dshey tchey y kchey chtchy c@245;hy dan dain otol daiin"
+    },
+    {
+      "locus": "f42v.3,+P0",
+      "raw": "sho.chotody.chotol.oky.chol.chol<->dl.chcthy.otoy",
+      "eva": "sho chotody chotol oky chol chol dl chcthy otoy"
+    },
+    {
+      "locus": "f42v.4,+P0",
+      "raw": "qotchy.chkchy.sar.dy<->odaiil<->ykchy.o,kol,dg",
+      "eva": "qotchy chkchy sar dy odaiil ykchy o kol dg"
+    },
+    {
+      "locus": "f42v.5,+P0",
+      "raw": "chokeeo,r.chey.chetan<->s,ary<->okol.chetaiin",
+      "eva": "chokeeo r chey chetan s ary okol chetaiin"
+    },
+    {
+      "locus": "f42v.6,+P0",
+      "raw": "okeokear.cheotchar<->sy<->saiin.cthar,d,am",
+      "eva": "okeokear cheotchar sy saiin cthar d am"
+    },
+    {
+      "locus": "f42v.7,+P0",
+      "raw": "chok.sheo,key.keeeyd<->chekeesshy",
+      "eva": "chok sheo key keeeyd chekeesshy"
+    },
+    {
+      "locus": "f42v.8,+P0",
+      "raw": "sodal.saiin<$>",
+      "eva": "sodal saiin"
+    },
+    {
+      "locus": "f42v.9,+P0",
+      "raw": "<%>posheor.sho.char.chekchey.qokod<->sho.cpheo.rchy",
+      "eva": "posheor sho char chekchey qokod sho cpheo rchy"
+    },
+    {
+      "locus": "f42v.10,+P0",
+      "raw": "schor.okchey.chy.shol.olor.cheaiin<->{ct}chy.tcheeb,d",
+      "eva": "schor okchey chy shol olor cheaiin ctchy tcheeb d"
+    },
+    {
+      "locus": "f42v.11,+P0",
+      "raw": "qo.aiin.qokeey.kchol.cheal.o,t,eold<->shey.teaiin,d",
+      "eva": "qo aiin qokeey kchol cheal o t eold shey teaiin d"
+    },
+    {
+      "locus": "f42v.12,+P0",
+      "raw": "ch[o:a]tcheey.chol.ol.chaiin.oteeaiin<->chkchy.taiin,y",
+      "eva": "ch[o:a]tcheey chol ol chaiin oteeaiin chkchy taiin y"
+    },
+    {
+      "locus": "f42v.13,+P0",
+      "raw": "sho.chey.teor.shey.che{cthh}y.daiin<->chokeey.daiin",
+      "eva": "sho chey teor shey checthhy daiin chokeey daiin"
+    },
+    {
+      "locus": "f42v.14,+P0",
+      "raw": "qoteey.chy.kchy.cthy.{cts}ees.choly<->sarar.aral",
+      "eva": "qoteey chy kchy cthy ctsees choly sarar aral"
+    },
+    {
+      "locus": "f42v.15,+P0",
+      "raw": "chokey.chol.okey",
+      "eva": "chokey chol okey"
+    },
+    {
+      "locus": "f42v.16,=Pt",
+      "raw": "okor.odeey<$>",
+      "eva": "okor odeey"
+    }
+  ],
+  "eva_text": "@156;cho cto sheey qocho taiin shols chol chor dain\ndshey tchey y kchey chtchy c@245;hy dan dain otol daiin\nsho chotody chotol oky chol chol dl chcthy otoy\nqotchy chkchy sar dy odaiil ykchy o kol dg\nchokeeo r chey chetan s ary okol chetaiin\nokeokear cheotchar sy saiin cthar d am\nchok sheo key keeeyd chekeesshy\nsodal saiin\nposheor sho char chekchey qokod sho cpheo rchy\nschor okchey chy shol olor cheaiin ctchy tcheeb d\nqo aiin qokeey kchol cheal o t eold shey teaiin d\nch[o:a]tcheey chol ol chaiin oteeaiin chkchy taiin y\nsho chey teor shey checthhy daiin chokeey daiin\nqoteey chy kchy cthy ctsees choly sarar aral\nchokey chol okey\nokor odeey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

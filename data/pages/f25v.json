@@ -1,0 +1,57 @@
+{
+  "folio": "f25v",
+  "page_number": 48,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Leontopodium Edelweiss + unreadable",
+  "plant_candidates": [
+    "Leontopodium Edelweiss + unreadable"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 7,
+  "loci": [
+    {
+      "locus": "f25v.1,@P0",
+      "raw": "<%>poeeaiin.qo,ky.shy.daiin.qopchey.otchey.qofchor,sos",
+      "eva": "poeeaiin qo ky shy daiin qopchey otchey qofchor sos"
+    },
+    {
+      "locus": "f25v.2,+P0",
+      "raw": "dchor.cthor.chor.daiin.s.okeeaiin.daiin.ckhey.daiin",
+      "eva": "dchor cthor chor daiin s okeeaiin daiin ckhey daiin"
+    },
+    {
+      "locus": "f25v.3,+P0",
+      "raw": "orcho.kchor.chol.daiin.sh[cfh:ckh]o,r,daiin.dshey.daiity",
+      "eva": "orcho kchor chol daiin sh[cfh:ckh]o r daiin dshey daiity"
+    },
+    {
+      "locus": "f25v.4,+P0",
+      "raw": "qokaiin.qokcho.shol.daiin.ckhear.ckhol.daiin.chkear",
+      "eva": "qokaiin qokcho shol daiin ckhear ckhol daiin chkear"
+    },
+    {
+      "locus": "f25v.5,+P0",
+      "raw": "dar.chokeey.dshor.dshey.qochol.dol.cho.daiin.daiin",
+      "eva": "dar chokeey dshor dshey qochol dol cho daiin daiin"
+    },
+    {
+      "locus": "f25v.6,+P0",
+      "raw": "qokcho,r,ochy.qotchy.qotoral<->cho.@147;.chain.deeaiir.s",
+      "eva": "qokcho r ochy qotchy qotoral cho @147; chain deeaiir s"
+    },
+    {
+      "locus": "f25v.7,+P0",
+      "raw": "o{c'o}.chkey.daiiol.daiin.shckh<->orchaiin<$>",
+      "eva": "oc'o chkey daiiol daiin shckh orchaiin"
+    }
+  ],
+  "eva_text": "poeeaiin qo ky shy daiin qopchey otchey qofchor sos\ndchor cthor chor daiin s okeeaiin daiin ckhey daiin\norcho kchor chol daiin sh[cfh:ckh]o r daiin dshey daiity\nqokaiin qokcho shol daiin ckhear ckhol daiin chkear\ndar chokeey dshor dshey qochol dol cho daiin daiin\nqokcho r ochy qotchy qotoral cho @147; chain deeaiir s\noc'o chkey daiiol daiin shckh orchaiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

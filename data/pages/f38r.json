@@ -1,0 +1,48 @@
+{
+  "folio": "f38r",
+  "page_number": 73,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 6,
+  "loci": [
+    {
+      "locus": "f38r.1,@P0",
+      "raw": "<%>tolor.chockhy<->oky.choiin.okshol.oly.oky",
+      "eva": "tolor chockhy oky choiin okshol oly oky"
+    },
+    {
+      "locus": "f38r.2,+P0",
+      "raw": "okshey.chodys<->ytoiin.otaiin.otaiin.cthar",
+      "eva": "okshey chodys ytoiin otaiin otaiin cthar"
+    },
+    {
+      "locus": "f38r.3,+P0",
+      "raw": "qokor.okaiin<->otaiin.qo,kchol.chokokor",
+      "eva": "qokor okaiin otaiin qo kchol chokokor"
+    },
+    {
+      "locus": "f38r.4,+P0",
+      "raw": "ychok.chey.chckh<->chy.chk[o:y].r.odaiin.d,aiin.sy",
+      "eva": "ychok chey chckh chy chk[o:y] r odaiin d aiin sy"
+    },
+    {
+      "locus": "f38r.5,+P0",
+      "raw": "o,kor.chey.kain<->chor.ctho.dain.ckholdy",
+      "eva": "o kor chey kain chor ctho dain ckholdy"
+    },
+    {
+      "locus": "f38r.6,+P0",
+      "raw": "ysho.sho.kos<->daiin.okoy.chochor.daiin<$>",
+      "eva": "ysho sho kos daiin okoy chochor daiin"
+    }
+  ],
+  "eva_text": "tolor chockhy oky choiin okshol oly oky\nokshey chodys ytoiin otaiin otaiin cthar\nqokor okaiin otaiin qo kchol chokokor\nychok chey chckh chy chk[o:y] r odaiin d aiin sy\no kor chey kain chor ctho dain ckholdy\nysho sho kos daiin okoy chochor daiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,90 @@
+{
+  "folio": "f4r",
+  "page_number": 7,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Hypericum; Centaurium Erythaea (O'Neill)",
+  "plant_candidates": [
+    "Hypericum",
+    "Centaurium Erythaea"
+  ],
+  "plant_category_guess": "flower",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "hypericum"
+  ],
+  "refs": [],
+  "notes": [
+    "Two paragraphs of text, flower cuts through top one"
+  ],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f4r.1,@P0",
+      "raw": "<%>kodalchy.chpady.sheol.ol,sheey.qotey<->doiin.chor.ytoy",
+      "eva": "kodalchy chpady sheol ol sheey qotey doiin chor ytoy"
+    },
+    {
+      "locus": "f4r.2,+P0",
+      "raw": "dchor.shol.shol.cthol.shtchy.chaiin.@163;s<->choraiin.chom",
+      "eva": "dchor shol shol cthol shtchy chaiin @163;s choraiin chom"
+    },
+    {
+      "locus": "f4r.3,+P0",
+      "raw": "otchol.chol.chy.chaiin.qotaiin<->daiin.shain",
+      "eva": "otchol chol chy chaiin qotaiin daiin shain"
+    },
+    {
+      "locus": "f4r.4,+P0",
+      "raw": "qotchol,chy.yty.daiin.okaiin.cthy<$>",
+      "eva": "qotchol chy yty daiin okaiin cthy"
+    },
+    {
+      "locus": "f4r.5,+P0",
+      "raw": "<%>pydaiin.qotchy.dy,tydy",
+      "eva": "pydaiin qotchy dy tydy"
+    },
+    {
+      "locus": "f4r.6,+P0",
+      "raw": "chor.shytchy.dytcheey",
+      "eva": "chor shytchy dytcheey"
+    },
+    {
+      "locus": "f4r.7,+P0",
+      "raw": "qotaiin.cthol.daiin.cthom",
+      "eva": "qotaiin cthol daiin cthom"
+    },
+    {
+      "locus": "f4r.8,+P0",
+      "raw": "shor.shol.shol.cthy.cpholdy",
+      "eva": "shor shol shol cthy cpholdy"
+    },
+    {
+      "locus": "f4r.9,+P0",
+      "raw": "daiin.ckhochy.tchy.kor,aiin",
+      "eva": "daiin ckhochy tchy kor aiin"
+    },
+    {
+      "locus": "f4r.10,+P0",
+      "raw": "odal.shor.shyshol.cphaiin",
+      "eva": "odal shor shyshol cphaiin"
+    },
+    {
+      "locus": "f4r.11,+P0",
+      "raw": "qotchoiin.she[o:a]r.qoty",
+      "eva": "qotchoiin she[o:a]r qoty"
+    },
+    {
+      "locus": "f4r.12,+P0",
+      "raw": "soiin.chaiin.chaiin",
+      "eva": "soiin chaiin chaiin"
+    },
+    {
+      "locus": "f4r.13,+P0",
+      "raw": "daiin.cthey<$>",
+      "eva": "daiin cthey"
+    }
+  ],
+  "eva_text": "kodalchy chpady sheol ol sheey qotey doiin chor ytoy\ndchor shol shol cthol shtchy chaiin @163;s choraiin chom\notchol chol chy chaiin qotaiin daiin shain\nqotchol chy yty daiin okaiin cthy\npydaiin qotchy dy tydy\nchor shytchy dytcheey\nqotaiin cthol daiin cthom\nshor shol shol cthy cpholdy\ndaiin ckhochy tchy kor aiin\nodal shor shyshol cphaiin\nqotchoiin she[o:a]r qoty\nsoiin chaiin chaiin\ndaiin cthey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

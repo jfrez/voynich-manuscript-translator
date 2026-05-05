@@ -1,0 +1,448 @@
+{
+  "folio": "f66r",
+  "page_number": 117,
+  "section": "text only",
+  "currier": "B",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "has 'key-like' sequence",
+    "has non-Voynich writing",
+    "Brumbaugh Yale Lib Gaz p352",
+    "Roe, 3 Sept 93",
+    "Normal text in paragraphs with, to the left, single characters",
+    "(not exactly one per line) and left of that occasional single words.",
+    "The text layout of Mike Roe is not used here.",
+    "Text near the 'dead body' is Lx label, and all other characters",
+    "and words L0 labels (1-15 for the words, 16-40 for the characters)",
+    "R In the bottom left hand corner, there is a picture of a woman lying down",
+    "R (dead?). To the left of the woman are two circles and a cylinder. Above",
+    "R her are four words in Voynich text. To the far left are four words in",
+    "R a different hand and a different alphabet.",
+    "R",
+    "R In the bottom right hand corner there is a symbol that looks like a number 2",
+    "R on its side.",
+    "Now individual characters in next column",
+    "Now normal text in paragraphs",
+    "text above female figure"
+  ],
+  "loci_count": 82,
+  "loci": [
+    {
+      "locus": "f66r.1,@L0",
+      "raw": "rary",
+      "eva": "rary"
+    },
+    {
+      "locus": "f66r.2,+L0",
+      "raw": "[r:s]als",
+      "eva": "[r:s]als"
+    },
+    {
+      "locus": "f66r.3,+L0",
+      "raw": "qo[r:n]",
+      "eva": "qo[r:n]"
+    },
+    {
+      "locus": "f66r.4,+L0",
+      "raw": "dary",
+      "eva": "dary"
+    },
+    {
+      "locus": "f66r.5,+L0",
+      "raw": "ykeol",
+      "eva": "ykeol"
+    },
+    {
+      "locus": "f66r.6,+L0",
+      "raw": "saly",
+      "eva": "saly"
+    },
+    {
+      "locus": "f66r.7,+L0",
+      "raw": "salf",
+      "eva": "salf"
+    },
+    {
+      "locus": "f66r.8,+L0",
+      "raw": "fary",
+      "eva": "fary"
+    },
+    {
+      "locus": "f66r.9,+L0",
+      "raw": "qotesy",
+      "eva": "qotesy"
+    },
+    {
+      "locus": "f66r.10,+L0",
+      "raw": "ykaly",
+      "eva": "ykaly"
+    },
+    {
+      "locus": "f66r.11,+L0",
+      "raw": "doly",
+      "eva": "doly"
+    },
+    {
+      "locus": "f66r.12,+L0",
+      "raw": "saiin",
+      "eva": "saiin"
+    },
+    {
+      "locus": "f66r.13,+L0",
+      "raw": "qokal",
+      "eva": "qokal"
+    },
+    {
+      "locus": "f66r.14,+L0",
+      "raw": "qolsa",
+      "eva": "qolsa"
+    },
+    {
+      "locus": "f66r.15,+L0",
+      "raw": "raral",
+      "eva": "raral"
+    },
+    {
+      "locus": "f66r.16,@L0",
+      "raw": "y",
+      "eva": "y"
+    },
+    {
+      "locus": "f66r.17,+L0",
+      "raw": "o",
+      "eva": "o"
+    },
+    {
+      "locus": "f66r.18,+L0",
+      "raw": "s",
+      "eva": "s"
+    },
+    {
+      "locus": "f66r.19,+L0",
+      "raw": "sh",
+      "eva": "sh"
+    },
+    {
+      "locus": "f66r.20,+L0",
+      "raw": "y",
+      "eva": "y"
+    },
+    {
+      "locus": "f66r.21,+L0",
+      "raw": "d",
+      "eva": "d"
+    },
+    {
+      "locus": "f66r.22,+L0",
+      "raw": "o",
+      "eva": "o"
+    },
+    {
+      "locus": "f66r.23,+L0",
+      "raw": "f",
+      "eva": "f"
+    },
+    {
+      "locus": "f66r.24,+L0",
+      "raw": "@169;",
+      "eva": "@169;"
+    },
+    {
+      "locus": "f66r.25,+L0",
+      "raw": "x",
+      "eva": "x"
+    },
+    {
+      "locus": "f66r.26,+L0",
+      "raw": "air",
+      "eva": "air"
+    },
+    {
+      "locus": "f66r.27,+L0",
+      "raw": "d",
+      "eva": "d"
+    },
+    {
+      "locus": "f66r.28,+L0",
+      "raw": "sh",
+      "eva": "sh"
+    },
+    {
+      "locus": "f66r.29,+L0",
+      "raw": "y",
+      "eva": "y"
+    },
+    {
+      "locus": "f66r.30,+L0",
+      "raw": "f",
+      "eva": "f"
+    },
+    {
+      "locus": "f66r.31,+L0",
+      "raw": "f",
+      "eva": "f"
+    },
+    {
+      "locus": "f66r.32,+L0",
+      "raw": "y",
+      "eva": "y"
+    },
+    {
+      "locus": "f66r.33,+L0",
+      "raw": "o",
+      "eva": "o"
+    },
+    {
+      "locus": "f66r.34,+L0",
+      "raw": "d",
+      "eva": "d"
+    },
+    {
+      "locus": "f66r.35,+L0",
+      "raw": "s",
+      "eva": "s"
+    },
+    {
+      "locus": "f66r.36,+L0",
+      "raw": "f",
+      "eva": "f"
+    },
+    {
+      "locus": "f66r.37,+L0",
+      "raw": "c<!cf f57v seq.>",
+      "eva": "c"
+    },
+    {
+      "locus": "f66r.38,+L0",
+      "raw": "@172;<!cf f57v?>",
+      "eva": "@172;"
+    },
+    {
+      "locus": "f66r.39,+L0",
+      "raw": "x",
+      "eva": "x"
+    },
+    {
+      "locus": "f66r.40,+L0",
+      "raw": "t",
+      "eva": "t"
+    },
+    {
+      "locus": "f66r.41,+L0",
+      "raw": "o",
+      "eva": "o"
+    },
+    {
+      "locus": "f66r.42,+L0",
+      "raw": "@195;",
+      "eva": "@195;"
+    },
+    {
+      "locus": "f66r.43,+L0",
+      "raw": "l",
+      "eva": "l"
+    },
+    {
+      "locus": "f66r.44,+L0",
+      "raw": "r",
+      "eva": "r"
+    },
+    {
+      "locus": "f66r.45,+L0",
+      "raw": "t",
+      "eva": "t"
+    },
+    {
+      "locus": "f66r.46,+L0",
+      "raw": "o",
+      "eva": "o"
+    },
+    {
+      "locus": "f66r.47,+L0",
+      "raw": "x",
+      "eva": "x"
+    },
+    {
+      "locus": "f66r.48,+L0",
+      "raw": "p",
+      "eva": "p"
+    },
+    {
+      "locus": "f66r.49,+L0",
+      "raw": "d",
+      "eva": "d"
+    },
+    {
+      "locus": "f66r.50,@P0",
+      "raw": "<%>pdaiin.oteedy.opchedy.chap.chefchy.shddy.ypches.cholpchd.okedals",
+      "eva": "pdaiin oteedy opchedy chap chefchy shddy ypches cholpchd okedals"
+    },
+    {
+      "locus": "f66r.51,+P0",
+      "raw": "sair.shekey.qokeedar.okal.okedy.qokeedy.qokal.okedy.qokshd",
+      "eva": "sair shekey qokeedar okal okedy qokeedy qokal okedy qokshd"
+    },
+    {
+      "locus": "f66r.52,+P0",
+      "raw": "ykshedy.chady.cthdy.qokees.cheeo.okcho,dy.chekeey.chedy.chckhy",
+      "eva": "ykshedy chady cthdy qokees cheeo okcho dy chekeey chedy chckhy"
+    },
+    {
+      "locus": "f66r.53,+P0",
+      "raw": "shdy.qotedy.chdy.chedy.qotedal.chcpheor.ykady.dar.qotey,k[o:a]l,ar",
+      "eva": "shdy qotedy chdy chedy qotedal chcpheor ykady dar qotey k[o:a]l ar"
+    },
+    {
+      "locus": "f66r.54,+P0",
+      "raw": "qokeeody.qokeody.qokeody.qokar.sheky.qokeeody.okedy.kodary",
+      "eva": "qokeeody qokeody qokeody qokar sheky qokeeody okedy kodary"
+    },
+    {
+      "locus": "f66r.55,+P0",
+      "raw": "ykeeody.choekeey.okeody.chekeody.qokeey.dyky.chctho.rotaiin",
+      "eva": "ykeeody choekeey okeody chekeody qokeey dyky chctho rotaiin"
+    },
+    {
+      "locus": "f66r.56,+P0",
+      "raw": "dsheol.okaiin.sheodaiin<$>",
+      "eva": "dsheol okaiin sheodaiin"
+    },
+    {
+      "locus": "f66r.57,+P0",
+      "raw": "<%>tocpheey.dol.kchody.qokeody.qokshy.qopaiin.dairykodas.okyd",
+      "eva": "tocpheey dol kchody qokeody qokshy qopaiin dairykodas okyd"
+    },
+    {
+      "locus": "f66r.58,+P0",
+      "raw": "dsholdaiir.dalky.shky.qoky.shekair.choty.dar.okeey.shdy.ykol",
+      "eva": "dsholdaiir dalky shky qoky shekair choty dar okeey shdy ykol"
+    },
+    {
+      "locus": "f66r.59,+P0",
+      "raw": "qo,cheky.shcthy.dalalshedy.cheta,r,sheod.shokaiir.ch{ckhh}y.da[r:s]d",
+      "eva": "qo cheky shcthy dalalshedy cheta r sheod shokaiir chckhhy da[r:s]d"
+    },
+    {
+      "locus": "f66r.60,+P0",
+      "raw": "shor.sheodal.sholdy.qokchedy.qopchy.qoty,chedaiir.chees,kardy",
+      "eva": "shor sheodal sholdy qokchedy qopchy qoty chedaiir chees kardy"
+    },
+    {
+      "locus": "f66r.61,+P0",
+      "raw": "qokchey.qokaiir.cheky.daly.daiin.dal,shedy.chedy.lkar.ol.okedy",
+      "eva": "qokchey qokaiir cheky daly daiin dal shedy chedy lkar ol okedy"
+    },
+    {
+      "locus": "f66r.62,+P0",
+      "raw": "ol.cheeky.daiir.chky.axor.akar,{i'h},y.daiin<$>",
+      "eva": "ol cheeky daiir chky axor akar i'h y daiin"
+    },
+    {
+      "locus": "f66r.63,+P0",
+      "raw": "<%>pchof.sholfordaiin.qotar.otalor.fchedy[r:s].chedy.dar.odair.ofaram",
+      "eva": "pchof sholfordaiin qotar otalor fchedy[r:s] chedy dar odair ofaram"
+    },
+    {
+      "locus": "f66r.64,+P0",
+      "raw": "dalcheeeky.sheol.dairody.chekchy.shed.ykesho.l.lor.sheor,che[a:o]l",
+      "eva": "dalcheeeky sheol dairody chekchy shed ykesho l lor sheor che[a:o]l"
+    },
+    {
+      "locus": "f66r.65,+P0",
+      "raw": "dor.shedy.okar.shedy.kcheody.chxar.daly.fchdar.cheor,aly.[r:s]y",
+      "eva": "dor shedy okar shedy kcheody chxar daly fchdar cheor aly [r:s]y"
+    },
+    {
+      "locus": "f66r.66,+P0",
+      "raw": "shor.shckheody.dal,shedy.qokor,al,shes<$>",
+      "eva": "shor shckheody dal shedy qokor al shes"
+    },
+    {
+      "locus": "f66r.67,+P0",
+      "raw": "<%>psheody.cfhol.shofol.okeody.qokaldy.ytarody.shedy.shedy.dair",
+      "eva": "psheody cfhol shofol okeody qokaldy ytarody shedy shedy dair"
+    },
+    {
+      "locus": "f66r.68,+P0",
+      "raw": "sair,ol.daiin.daiin.dal.dol.cheody.dair,aly.dairal.dolarshy,dor",
+      "eva": "sair ol daiin daiin dal dol cheody dair aly dairal dolarshy dor"
+    },
+    {
+      "locus": "f66r.69,+P0",
+      "raw": "tosheo.qokaldy.oky.ol.kcheeky.qoky.dary.okees.oly<$>",
+      "eva": "tosheo qokaldy oky ol kcheeky qoky dary okees oly"
+    },
+    {
+      "locus": "f66r.70,+P0",
+      "raw": "<%>todeeey.keody.chdy.keody.shedy.shekeefy.chdy.sheol.shol.kedy.daly",
+      "eva": "todeeey keody chdy keody shedy shekeefy chdy sheol shol kedy daly"
+    },
+    {
+      "locus": "f66r.71,+P0",
+      "raw": "saiir.cheol.kal.sheody.chcthedy.dal.shol.qokeody.chody.kechody",
+      "eva": "saiir cheol kal sheody chcthedy dal shol qokeody chody kechody"
+    },
+    {
+      "locus": "f66r.72,+P0",
+      "raw": "sshedy.oteedy.ykeeody.sheocthy.ol,ld,lshedy.chokeey.chekey.chey",
+      "eva": "sshedy oteedy ykeeody sheocthy ol ld lshedy chokeey chekey chey"
+    },
+    {
+      "locus": "f66r.73,+P0",
+      "raw": "ysheeod.qoteeod.qotol,qoky.chckhedy.shey.dcheol.cheky.cheo,dor",
+      "eva": "ysheeod qoteeod qotol qoky chckhedy shey dcheol cheky cheo dor"
+    },
+    {
+      "locus": "f66r.74,+P0",
+      "raw": "ydaiin.shedy.otchedy.oteochey.tolchedy.lsheody.qoky,daiin.otam",
+      "eva": "ydaiin shedy otchedy oteochey tolchedy lsheody qoky daiin otam"
+    },
+    {
+      "locus": "f66r.75,+P0",
+      "raw": "tcheo.sheor.oteody.lpchees,ol,ar.alkey.otey.ltsholy.shecthy.r,ol",
+      "eva": "tcheo sheor oteody lpchees ol ar alkey otey ltsholy shecthy r ol"
+    },
+    {
+      "locus": "f66r.76,+P0",
+      "raw": "daiin.sheol.qocthedy.qokedy.lchey.qokaly.shcthy.qotal.otchdy",
+      "eva": "daiin sheol qocthedy qokedy lchey qokaly shcthy qotal otchdy"
+    },
+    {
+      "locus": "f66r.77,+P0",
+      "raw": "qokey.ar.olkeol.qokal.cheoky.ykchdy.chody.sheody.qoky.ldy",
+      "eva": "qokey ar olkeol qokal cheoky ykchdy chody sheody qoky ldy"
+    },
+    {
+      "locus": "f66r.78,+P0",
+      "raw": "dor.aiin.sheeol.lshedy.lchedy.cheedy.shekol.dalol.lodaiin",
+      "eva": "dor aiin sheeol lshedy lchedy cheedy shekol dalol lodaiin"
+    },
+    {
+      "locus": "f66r.79,+P0",
+      "raw": "sheol.oteey,ldaiin.okalchedy.pchedy.kody.qotchedy.cphedy",
+      "eva": "sheol oteey ldaiin okalchedy pchedy kody qotchedy cphedy"
+    },
+    {
+      "locus": "f66r.80,+P0",
+      "raw": "daiin.shey.qoteoly.raiin.sheedy.shcthy.lkeol.qokol.dkar",
+      "eva": "daiin shey qoteoly raiin sheedy shcthy lkeol qokol dkar"
+    },
+    {
+      "locus": "f66r.81,+P0",
+      "raw": "lchey.lkeedy.chety.shekaly.shckhar<$>",
+      "eva": "lchey lkeedy chety shekaly shckhar"
+    },
+    {
+      "locus": "f66r.82,@Lx",
+      "raw": "otcheo,daiin.chty.ykees,cheg",
+      "eva": "otcheo daiin chty ykees cheg"
+    }
+  ],
+  "eva_text": "rary\n[r:s]als\nqo[r:n]\ndary\nykeol\nsaly\nsalf\nfary\nqotesy\nykaly\ndoly\nsaiin\nqokal\nqolsa\nraral\ny\no\ns\nsh\ny\nd\no\nf\n@169;\nx\nair\nd\nsh\ny\nf\nf\ny\no\nd\ns\nf\nc\n@172;\nx\nt\no\n@195;\nl\nr\nt\no\nx\np\nd\npdaiin oteedy opchedy chap chefchy shddy ypches cholpchd okedals\nsair shekey qokeedar okal okedy qokeedy qokal okedy qokshd\nykshedy chady cthdy qokees cheeo okcho dy chekeey chedy chckhy\nshdy qotedy chdy chedy qotedal chcpheor ykady dar qotey k[o:a]l ar\nqokeeody qokeody qokeody qokar sheky qokeeody okedy kodary\nykeeody choekeey okeody chekeody qokeey dyky chctho rotaiin\ndsheol okaiin sheodaiin\ntocpheey dol kchody qokeody qokshy qopaiin dairykodas okyd\ndsholdaiir dalky shky qoky shekair choty dar okeey shdy ykol\nqo cheky shcthy dalalshedy cheta r sheod shokaiir chckhhy da[r:s]d\nshor sheodal sholdy qokchedy qopchy qoty chedaiir chees kardy\nqokchey qokaiir cheky daly daiin dal shedy chedy lkar ol okedy\nol cheeky daiir chky axor akar i'h y daiin\npchof sholfordaiin qotar otalor fchedy[r:s] chedy dar odair ofaram\ndalcheeeky sheol dairody chekchy shed ykesho l lor sheor che[a:o]l\ndor shedy okar shedy kcheody chxar daly fchdar cheor aly [r:s]y\nshor shckheody dal shedy qokor al shes\npsheody cfhol shofol okeody qokaldy ytarody shedy shedy dair\nsair ol daiin daiin dal dol cheody dair aly dairal dolarshy dor\ntosheo qokaldy oky ol kcheeky qoky dary okees oly\ntodeeey keody chdy keody shedy shekeefy chdy sheol shol kedy daly\nsaiir cheol kal sheody chcthedy dal shol qokeody chody kechody\nsshedy oteedy ykeeody sheocthy ol ld lshedy chokeey chekey chey\nysheeod qoteeod qotol qoky chckhedy shey dcheol cheky cheo dor\nydaiin shedy otchedy oteochey tolchedy lsheody qoky daiin otam\ntcheo sheor oteody lpchees ol ar alkey otey ltsholy shecthy r ol\ndaiin sheol qocthedy qokedy lchey qokaly shcthy qotal otchdy\nqokey ar olkeol qokal cheoky ykchdy chody sheody qoky ldy\ndor aiin sheeol lshedy lchedy cheedy shekol dalol lodaiin\nsheol oteey ldaiin okalchedy pchedy kody qotchedy cphedy\ndaiin shey qoteoly raiin sheedy shcthy lkeol qokol dkar\nlchey lkeedy chety shekaly shckhar\notcheo daiin chty ykees cheg",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

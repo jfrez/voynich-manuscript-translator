@@ -1,0 +1,118 @@
+{
+  "folio": "f24r",
+  "page_number": 45,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 20,
+  "loci": [
+    {
+      "locus": "f24r.1,@P0",
+      "raw": "<%>por,or,y.chor.opchar.she.cheol.daiin.or",
+      "eva": "por or y chor opchar she cheol daiin or"
+    },
+    {
+      "locus": "f24r.2,+P0",
+      "raw": "qotaiin.char.odaiin.okai{ikh}al.oky",
+      "eva": "qotaiin char odaiin okaiikhal oky"
+    },
+    {
+      "locus": "f24r.3,+P0",
+      "raw": "ycthar.cthal.okol.qotar.ckhy",
+      "eva": "ycthar cthal okol qotar ckhy"
+    },
+    {
+      "locus": "f24r.4,+P0",
+      "raw": "or.chckhaly.cthar.eeor.chees.da",
+      "eva": "or chckhaly cthar eeor chees da"
+    },
+    {
+      "locus": "f24r.5,+P0",
+      "raw": "qodar.cho.r.chey.cthy.cthe.keom",
+      "eva": "qodar cho r chey cthy cthe keom"
+    },
+    {
+      "locus": "f24r.6,+P0",
+      "raw": "oeeeos.cthor.otal.qocthol.qoky",
+      "eva": "oeeeos cthor otal qocthol qoky"
+    },
+    {
+      "locus": "f24r.7,+P0",
+      "raw": "q@145;kar.chtar.s.cheor.cthol.qodol",
+      "eva": "q@145;kar chtar s cheor cthol qodol"
+    },
+    {
+      "locus": "f24r.8,+P0",
+      "raw": "ychor.s.om.qoear.daiin.qokeol",
+      "eva": "ychor s om qoear daiin qokeol"
+    },
+    {
+      "locus": "f24r.9,+P0",
+      "raw": "odaiin.ckham.qodai{ikh}y.dol.dal",
+      "eva": "odaiin ckham qodaiikhy dol dal"
+    },
+    {
+      "locus": "f24r.10,+P0",
+      "raw": "q[?:e]or.cfhar.chor.s.am.chotaiin.dy",
+      "eva": "q[?:e]or cfhar chor s am chotaiin dy"
+    },
+    {
+      "locus": "f24r.11,+P0",
+      "raw": "sar.cheoiees.okeem.cheor.qokain",
+      "eva": "sar cheoiees okeem cheor qokain"
+    },
+    {
+      "locus": "f24r.12,+P0",
+      "raw": "qokchy.qotchy.tol.tod.ckhy",
+      "eva": "qokchy qotchy tol tod ckhy"
+    },
+    {
+      "locus": "f24r.13,+P0",
+      "raw": "oees.ol.s.chey.chcth.s,ar",
+      "eva": "oees ol s chey chcth s ar"
+    },
+    {
+      "locus": "f24r.14,+P0",
+      "raw": "qor.cheey.qod.char.cthal",
+      "eva": "qor cheey qod char cthal"
+    },
+    {
+      "locus": "f24r.15,+P0",
+      "raw": "ockhoees.oeees.ol.dal.s",
+      "eva": "ockhoees oeees ol dal s"
+    },
+    {
+      "locus": "f24r.16,+P0",
+      "raw": "sham.okeal.dal.dam.dal",
+      "eva": "sham okeal dal dam dal"
+    },
+    {
+      "locus": "f24r.17,+P0",
+      "raw": "sshey.otam.sham.cthoj.oky",
+      "eva": "sshey otam sham cthoj oky"
+    },
+    {
+      "locus": "f24r.18,+P0",
+      "raw": "ycheol.chol.daiin.chol.s",
+      "eva": "ycheol chol daiin chol s"
+    },
+    {
+      "locus": "f24r.19,+P0",
+      "raw": "yol.kol.chol.shom.otacphy",
+      "eva": "yol kol chol shom otacphy"
+    },
+    {
+      "locus": "f24r.20,+Pc",
+      "raw": "sam.chorly<$>",
+      "eva": "sam chorly"
+    }
+  ],
+  "eva_text": "por or y chor opchar she cheol daiin or\nqotaiin char odaiin okaiikhal oky\nycthar cthal okol qotar ckhy\nor chckhaly cthar eeor chees da\nqodar cho r chey cthy cthe keom\noeeeos cthor otal qocthol qoky\nq@145;kar chtar s cheor cthol qodol\nychor s om qoear daiin qokeol\nodaiin ckham qodaiikhy dol dal\nq[?:e]or cfhar chor s am chotaiin dy\nsar cheoiees okeem cheor qokain\nqokchy qotchy tol tod ckhy\noees ol s chey chcth s ar\nqor cheey qod char cthal\nockhoees oeees ol dal s\nsham okeal dal dam dal\nsshey otam sham cthoj oky\nycheol chol daiin chol s\nyol kol chol shom otacphy\nsam chorly",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,83 @@
+{
+  "folio": "f32v",
+  "page_number": 62,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Campanula Ranunculus (Holm), Archangelica, Glockenblume,",
+  "plant_candidates": [
+    "Campanula Ranunculus",
+    "Archangelica",
+    "Glockenblume"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "gathering mark 4",
+    "Halskraut, Convolvulus erectus?",
+    "Same plant as f102r2[1,2] ? (FSG, Stolfi)"
+  ],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f32v.1,@P0",
+      "raw": "<%>kcheodaiin.chol,kechy.qotaiin.daiioam<->o,chofchody",
+      "eva": "kcheodaiin chol kechy qotaiin daiioam o chofchody"
+    },
+    {
+      "locus": "f32v.2,+P0",
+      "raw": "daiin.odar.chy.daiin.chey.tch[y:o].l,dy<->dain.teor",
+      "eva": "daiin odar chy daiin chey tch[y:o] l dy dain teor"
+    },
+    {
+      "locus": "f32v.3,+P0",
+      "raw": "shor.daiin.chckhy.dsho.dain.daiin.s<->shokey.ka",
+      "eva": "shor daiin chckhy dsho dain daiin s shokey ka"
+    },
+    {
+      "locus": "f32v.4,+P0",
+      "raw": "or,chr.chor.dor,chaiin.qotcho,r,chy<->dch[o:a].daiin",
+      "eva": "or chr chor dor chaiin qotcho r chy dch[o:a] daiin"
+    },
+    {
+      "locus": "f32v.5,+P0",
+      "raw": "chokchy.daiin.shy.chor.qo.kaiin.dain<->dchol.dosg",
+      "eva": "chokchy daiin shy chor qo kaiin dain dchol dosg"
+    },
+    {
+      "locus": "f32v.6,+P0",
+      "raw": "o,kchan.chol,shal.dchcthy<$>",
+      "eva": "o kchan chol shal dchcthy"
+    },
+    {
+      "locus": "f32v.7,+P0",
+      "raw": "<%>ksho.cpho[s:r].she.sheaiin.otshcho.r.dain<->shckhy.s.odan",
+      "eva": "ksho cpho[s:r] she sheaiin otshcho r dain shckhy s odan"
+    },
+    {
+      "locus": "f32v.8,+P0",
+      "raw": "otchol.daiin.daiin.ctho,daiin.qotaiin<->otchy.d<->shan",
+      "eva": "otchol daiin daiin ctho daiin qotaiin otchy d shan"
+    },
+    {
+      "locus": "f32v.9,+P0",
+      "raw": "qotchy.cfhy.skey.chocthy.daiin.cthaiin<->daiin",
+      "eva": "qotchy cfhy skey chocthy daiin cthaiin daiin"
+    },
+    {
+      "locus": "f32v.10,+P0",
+      "raw": "sho.keol.chor.chol.daiin.cpho,l.cthol.da<->ar",
+      "eva": "sho keol chor chol daiin cpho l cthol da ar"
+    },
+    {
+      "locus": "f32v.11,+P0",
+      "raw": "ol.sho.chy<$>",
+      "eva": "ol sho chy"
+    }
+  ],
+  "eva_text": "kcheodaiin chol kechy qotaiin daiioam o chofchody\ndaiin odar chy daiin chey tch[y:o] l dy dain teor\nshor daiin chckhy dsho dain daiin s shokey ka\nor chr chor dor chaiin qotcho r chy dch[o:a] daiin\nchokchy daiin shy chor qo kaiin dain dchol dosg\no kchan chol shal dchcthy\nksho cpho[s:r] she sheaiin otshcho r dain shckhy s odan\notchol daiin daiin ctho daiin qotaiin otchy d shan\nqotchy cfhy skey chocthy daiin cthaiin daiin\nsho keol chor chol daiin cpho l cthol da ar\nol sho chy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,264 @@
+{
+  "folio": "f103v",
+  "page_number": 213,
+  "section": null,
+  "currier": "B",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "text only / stars",
+    "Light star, dotted, 7 points",
+    "Lightish star, 7 points",
+    "Light star, dotted, 7 points",
+    "Light star, 7 points",
+    "Light star, dotted, 7 points",
+    "Light star, 7 points",
+    "Light star, dotted, 7 points",
+    "Light star, 6 points",
+    "Light star, dotted, 6 points",
+    "Light star, 8 points",
+    "Light star, dotted, 8 points",
+    "Light star, 8 points",
+    "Light star, dotted, 7 points",
+    "Light star, 8 points"
+  ],
+  "loci_count": 46,
+  "loci": [
+    {
+      "locus": "f103v.1,@P0",
+      "raw": "<%>pol,dar.olfchey.qoky.dy.qokeey.qokeey.daiin.okeedaky.qote[iir:ar].shedy.dal",
+      "eva": "pol dar olfchey qoky dy qokeey qokeey daiin okeedaky qote[iir:ar] shedy dal"
+    },
+    {
+      "locus": "f103v.2,+P0",
+      "raw": "daiin.shey.qokal.shedy.qokeedy.qoteor.shey.qoty.chckhy.qotain.cha[l:?]r",
+      "eva": "daiin shey qokal shedy qokeedy qoteor shey qoty chckhy qotain cha[l:?]r"
+    },
+    {
+      "locus": "f103v.3,+P0",
+      "raw": "qo[k:t].or.chedy.qokey.dar.chcthy.char.qoty.shdy.okeedy.qokeey.qokain",
+      "eva": "qo[k:t] or chedy qokey dar chcthy char qoty shdy okeedy qokeey qokain"
+    },
+    {
+      "locus": "f103v.4,+P0",
+      "raw": "y,cheey.qokeey.okeey.lkees,ol.qoteedy.ykeedy<$>",
+      "eva": "y cheey qokeey okeey lkees ol qoteedy ykeedy"
+    },
+    {
+      "locus": "f103v.5,+P0",
+      "raw": "<%>pcheor.olkeey.cheky.qokshdy.qokaiin.okechdy.qopchdy.qotedy.qokaiin.oly",
+      "eva": "pcheor olkeey cheky qokshdy qokaiin okechdy qopchdy qotedy qokaiin oly"
+    },
+    {
+      "locus": "f103v.6,+P0",
+      "raw": "dain.shey.qokeedy.cheol.qoeeor.lshor.qoky.shedy.qokaiin.chedy.qokam",
+      "eva": "dain shey qokeedy cheol qoeeor lshor qoky shedy qokaiin chedy qokam"
+    },
+    {
+      "locus": "f103v.7,+P0",
+      "raw": "daiin.shey.chol.chey.oteey.lkeeor.okaiin.shedy.shedy.qokaiin.ol.chedydy",
+      "eva": "daiin shey chol chey oteey lkeeor okaiin shedy shedy qokaiin ol chedydy"
+    },
+    {
+      "locus": "f103v.8,+P0",
+      "raw": "sain.shey.olsheey.dair.chekoal.okeey<$>",
+      "eva": "sain shey olsheey dair chekoal okeey"
+    },
+    {
+      "locus": "f103v.9,+P0",
+      "raw": "<%>pchal,shal.shorchdy.okeor.okaiin.shedy.pchedy.qotchedy.qotar.ol.lkar",
+      "eva": "pchal shal shorchdy okeor okaiin shedy pchedy qotchedy qotar ol lkar"
+    },
+    {
+      "locus": "f103v.10,+P0",
+      "raw": "or.cheey.qokeeshy.o[k:t]eey.loiin.o{ith}y.otedy.lor.aiin.sheor.qotain.olldy",
+      "eva": "or cheey qokeeshy o[k:t]eey loiin oithy otedy lor aiin sheor qotain olldy"
+    },
+    {
+      "locus": "f103v.11,+P0",
+      "raw": "qokeedy.olkeeshy.qoky.qokal,shed<$>",
+      "eva": "qokeedy olkeeshy qoky qokal shed"
+    },
+    {
+      "locus": "f103v.12,+P0",
+      "raw": "<%>sal.sheal.shedy.okeedy.qokeey.l,ol,shedy.pchor,pchedy.pol.sheedy.opalam",
+      "eva": "sal sheal shedy okeedy qokeey l ol shedy pchor pchedy pol sheedy opalam"
+    },
+    {
+      "locus": "f103v.13,+P0",
+      "raw": "dain.{ch'}eey.olshy.otey.olshedy.qotshdy.okeey.lr,ain.okan.olshey<$>",
+      "eva": "dain ch'eey olshy otey olshedy qotshdy okeey lr ain okan olshey"
+    },
+    {
+      "locus": "f103v.14,+P0",
+      "raw": "<%>teeol.sheol.sho.qokeedy.shedy.qokey.oshedy.oteedy.qokain.otar,aiin.otam",
+      "eva": "teeol sheol sho qokeedy shedy qokey oshedy oteedy qokain otar aiin otam"
+    },
+    {
+      "locus": "f103v.15,+P0",
+      "raw": "tchedal.shey.lcheey.lchdy.ch,ar.olchey.lcheody.tedy.otain.otain.ota[?:l]y",
+      "eva": "tchedal shey lcheey lchdy ch ar olchey lcheody tedy otain otain ota[?:l]y"
+    },
+    {
+      "locus": "f103v.16,+P0",
+      "raw": "daiin.sheekchy.okeeshy.qol.shedy.otain.ol,kedy<$>",
+      "eva": "daiin sheekchy okeeshy qol shedy otain ol kedy"
+    },
+    {
+      "locus": "f103v.17,+P0",
+      "raw": "<%>qokeedy.chedy.qoteey.oteedy.lkedy.shedy.qokal.ol,char.otal.opchedy",
+      "eva": "qokeedy chedy qoteey oteedy lkedy shedy qokal ol char otal opchedy"
+    },
+    {
+      "locus": "f103v.18,+P0",
+      "raw": "yshear.ol.oqaiin.chckhey.lchedy.chedy.olaiin.oteedy.qokeedal.larorol",
+      "eva": "yshear ol oqaiin chckhey lchedy chedy olaiin oteedy qokeedal larorol"
+    },
+    {
+      "locus": "f103v.19,+P0",
+      "raw": "daiin.chey.lkeey.chalkar.cheeey,l,chealainor<$>",
+      "eva": "daiin chey lkeey chalkar cheeey l chealainor"
+    },
+    {
+      "locus": "f103v.20,+P0",
+      "raw": "<%>pol.char.otar.okaiin.sha{ikh}y.oteal.okain.qotal.shedy.qokeey.lolain",
+      "eva": "pol char otar okaiin shaikhy oteal okain qotal shedy qokeey lolain"
+    },
+    {
+      "locus": "f103v.21,+P0",
+      "raw": "tokain.shal.qokeed.oteedy.sheoky.sha{ikhh}y.tar.teor.otam,oll",
+      "eva": "tokain shal qokeed oteedy sheoky shaikhhy tar teor otam oll"
+    },
+    {
+      "locus": "f103v.22,+P0",
+      "raw": "olshey.qokshy.qotalsheey.[o:a]loiin.oleeedy.qokain.shedy.qokey",
+      "eva": "olshey qokshy qotalsheey [o:a]loiin oleeedy qokain shedy qokey"
+    },
+    {
+      "locus": "f103v.23,+P0",
+      "raw": "ycheody.l.ar.cheey.or,aiiin.oteey.otal.otear.[o:a]r.ar.keey.qoty",
+      "eva": "ycheody l ar cheey or aiiin oteey otal otear [o:a]r ar keey qoty"
+    },
+    {
+      "locus": "f103v.24,+P0",
+      "raw": "ykeey.lchey.qokeey.ror.aiin.olan.otan.otain.otain.ar,y,kain",
+      "eva": "ykeey lchey qokeey ror aiin olan otan otain otain ar y kain"
+    },
+    {
+      "locus": "f103v.25,+P0",
+      "raw": "sain.olkeeey.qokan.oteedy.qotain.otal.oty.opar.aram.oteeam",
+      "eva": "sain olkeeey qokan oteedy qotain otal oty opar aram oteeam"
+    },
+    {
+      "locus": "f103v.26,+P0",
+      "raw": "yteey.qokeey.sheety.oteey.lshedy.oteaiin<$>",
+      "eva": "yteey qokeey sheety oteey lshedy oteaiin"
+    },
+    {
+      "locus": "f103v.27,+P0",
+      "raw": "<%>fcheody.arar.okeey.okeey.lchedy.oteal.lpar.otedy.qotar.otaryly",
+      "eva": "fcheody arar okeey okeey lchedy oteal lpar otedy qotar otaryly"
+    },
+    {
+      "locus": "f103v.28,+P0",
+      "raw": "daiin.checkhy.ykeey.shckhy.otealshey.okain.chey.oteedy.por,aiin,y",
+      "eva": "daiin checkhy ykeey shckhy otealshey okain chey oteedy por aiin y"
+    },
+    {
+      "locus": "f103v.29,+P0",
+      "raw": "olcheeey.chey.lkchdy.sho.chcthy.sal,araiin.qokeey<$>",
+      "eva": "olcheeey chey lkchdy sho chcthy sal araiin qokeey"
+    },
+    {
+      "locus": "f103v.30,+P0",
+      "raw": "<%>pchear.okain.opchedy.pchol.fchedy.otedy.poly.lchedy.fchedey.rar",
+      "eva": "pchear okain opchedy pchol fchedy otedy poly lchedy fchedey rar"
+    },
+    {
+      "locus": "f103v.31,+P0",
+      "raw": "okeey.l.chey.qokeey.o,qokeey.chedy.qekchy.daiin.chckhy.sar.olainy",
+      "eva": "okeey l chey qokeey o qokeey chedy qekchy daiin chckhy sar olainy"
+    },
+    {
+      "locus": "f103v.32,+P0",
+      "raw": "qokeeey.chey.qotey.chokaiin.shal.chedy.olkam<$>",
+      "eva": "qokeeey chey qotey chokaiin shal chedy olkam"
+    },
+    {
+      "locus": "f103v.33,+P0",
+      "raw": "<%>yshey.lkeey.qokain.okey.okaiin.cheody.otey.shdpchy.opchey.oly",
+      "eva": "yshey lkeey qokain okey okaiin cheody otey shdpchy opchey oly"
+    },
+    {
+      "locus": "f103v.34,+P0",
+      "raw": "daiin.sheey.ol.chey.qok,shey.qokaiin.checkhy.otedy.lshey.lchdy",
+      "eva": "daiin sheey ol chey qok shey qokaiin checkhy otedy lshey lchdy"
+    },
+    {
+      "locus": "f103v.35,+P0",
+      "raw": "qol,shey.ykeey.okeey.lshey.sheckhy.chtain.oty.okedy.otaly",
+      "eva": "qol shey ykeey okeey lshey sheckhy chtain oty okedy otaly"
+    },
+    {
+      "locus": "f103v.36,+P0",
+      "raw": "saiin.shey.qokeey.oshey.olshedy<$>",
+      "eva": "saiin shey qokeey oshey olshedy"
+    },
+    {
+      "locus": "f103v.37,+P0",
+      "raw": "<%>olshey.qokain.ol.sh[e:?]y.qokeshe.lsheok.shdy.qcphey.chetydar",
+      "eva": "olshey qokain ol sh[e:?]y qokeshe lsheok shdy qcphey chetydar"
+    },
+    {
+      "locus": "f103v.38,+P0",
+      "raw": "oteey.l.chees.ol.chey.chey.chol,keechy<$>",
+      "eva": "oteey l chees ol chey chey chol keechy"
+    },
+    {
+      "locus": "f103v.39,+P0",
+      "raw": "<%>polshor.keeolshey.okey.lcharar.shol.okeedar.shes,aiin.oty.lchdy",
+      "eva": "polshor keeolshey okey lcharar shol okeedar shes aiin oty lchdy"
+    },
+    {
+      "locus": "f103v.40,+P0",
+      "raw": "yteey.sheal.shey.qoain.ol.keey.qokaiin.shckhy.lchedy.rain",
+      "eva": "yteey sheal shey qoain ol keey qokaiin shckhy lchedy rain"
+    },
+    {
+      "locus": "f103v.41,+P0",
+      "raw": "daiin.shey.l,shey.lshey.qoar.sha[s:r].al.otar.shedy.{ith}y.lchdy.rar",
+      "eva": "daiin shey l shey lshey qoar sha[s:r] al otar shedy ithy lchdy rar"
+    },
+    {
+      "locus": "f103v.42,+P0",
+      "raw": "yshey.sheykain.chey.rar.arol.chsaly<$>",
+      "eva": "yshey sheykain chey rar arol chsaly"
+    },
+    {
+      "locus": "f103v.43,+P0",
+      "raw": "<%>orain.chckhey.qokaiin.shckhy.shtal,opchy.lkeedy.chdy,lchedy",
+      "eva": "orain chckhey qokaiin shckhy shtal opchy lkeedy chdy lchedy"
+    },
+    {
+      "locus": "f103v.44,+P0",
+      "raw": "qkain.shey.ar.ar.oky.rain.chckhy.shedy.qokeory.lteedy.ro",
+      "eva": "qkain shey ar ar oky rain chckhy shedy qokeory lteedy ro"
+    },
+    {
+      "locus": "f103v.45,+P0",
+      "raw": "okey.ol,cheey.lcheey.lkain.shckhy.sheckhy,or,ain.otar.oly",
+      "eva": "okey ol cheey lcheey lkain shckhy sheckhy or ain otar oly"
+    },
+    {
+      "locus": "f103v.46,+P0",
+      "raw": "tain.shol.qokain.chckhy.rorol.chdy.raly.osaiin.chary<$>",
+      "eva": "tain shol qokain chckhy rorol chdy raly osaiin chary"
+    }
+  ],
+  "eva_text": "pol dar olfchey qoky dy qokeey qokeey daiin okeedaky qote[iir:ar] shedy dal\ndaiin shey qokal shedy qokeedy qoteor shey qoty chckhy qotain cha[l:?]r\nqo[k:t] or chedy qokey dar chcthy char qoty shdy okeedy qokeey qokain\ny cheey qokeey okeey lkees ol qoteedy ykeedy\npcheor olkeey cheky qokshdy qokaiin okechdy qopchdy qotedy qokaiin oly\ndain shey qokeedy cheol qoeeor lshor qoky shedy qokaiin chedy qokam\ndaiin shey chol chey oteey lkeeor okaiin shedy shedy qokaiin ol chedydy\nsain shey olsheey dair chekoal okeey\npchal shal shorchdy okeor okaiin shedy pchedy qotchedy qotar ol lkar\nor cheey qokeeshy o[k:t]eey loiin oithy otedy lor aiin sheor qotain olldy\nqokeedy olkeeshy qoky qokal shed\nsal sheal shedy okeedy qokeey l ol shedy pchor pchedy pol sheedy opalam\ndain ch'eey olshy otey olshedy qotshdy okeey lr ain okan olshey\nteeol sheol sho qokeedy shedy qokey oshedy oteedy qokain otar aiin otam\ntchedal shey lcheey lchdy ch ar olchey lcheody tedy otain otain ota[?:l]y\ndaiin sheekchy okeeshy qol shedy otain ol kedy\nqokeedy chedy qoteey oteedy lkedy shedy qokal ol char otal opchedy\nyshear ol oqaiin chckhey lchedy chedy olaiin oteedy qokeedal larorol\ndaiin chey lkeey chalkar cheeey l chealainor\npol char otar okaiin shaikhy oteal okain qotal shedy qokeey lolain\ntokain shal qokeed oteedy sheoky shaikhhy tar teor otam oll\nolshey qokshy qotalsheey [o:a]loiin oleeedy qokain shedy qokey\nycheody l ar cheey or aiiin oteey otal otear [o:a]r ar keey qoty\nykeey lchey qokeey ror aiin olan otan otain otain ar y kain\nsain olkeeey qokan oteedy qotain otal oty opar aram oteeam\nyteey qokeey sheety oteey lshedy oteaiin\nfcheody arar okeey okeey lchedy oteal lpar otedy qotar otaryly\ndaiin checkhy ykeey shckhy otealshey okain chey oteedy por aiin y\nolcheeey chey lkchdy sho chcthy sal araiin qokeey\npchear okain opchedy pchol fchedy otedy poly lchedy fchedey rar\nokeey l chey qokeey o qokeey chedy qekchy daiin chckhy sar olainy\nqokeeey chey qotey chokaiin shal chedy olkam\nyshey lkeey qokain okey okaiin cheody otey shdpchy opchey oly\ndaiin sheey ol chey qok shey qokaiin checkhy otedy lshey lchdy\nqol shey ykeey okeey lshey sheckhy chtain oty okedy otaly\nsaiin shey qokeey oshey olshedy\nolshey qokain ol sh[e:?]y qokeshe lsheok shdy qcphey chetydar\noteey l chees ol chey chey chol keechy\npolshor keeolshey okey lcharar shol okeedar shes aiin oty lchdy\nyteey sheal shey qoain ol keey qokaiin shckhy lchedy rain\ndaiin shey l shey lshey qoar sha[s:r] al otar shedy ithy lchdy rar\nyshey sheykain chey rar arol chsaly\norain chckhey qokaiin shckhy shtal opchy lkeedy chdy lchedy\nqkain shey ar ar oky rain chckhy shedy qokeory lteedy ro\nokey ol cheey lcheey lkain shckhy sheckhy or ain otar oly\ntain shol qokain chckhy rorol chdy raly osaiin chary",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

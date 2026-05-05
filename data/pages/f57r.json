@@ -1,0 +1,73 @@
+{
+  "folio": "f57r",
+  "page_number": 111,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f57r.1,@P0",
+      "raw": "<%>poeeockhey.odain.cheop.sheody.shocfhey.dy.sheep.sheody.[e:y]odam",
+      "eva": "poeeockhey odain cheop sheody shocfhey dy sheep sheody [e:y]odam"
+    },
+    {
+      "locus": "f57r.2,+P0",
+      "raw": "daiir.air.chety.cheo,ckhy.chockhy.cheotey.sh,kchey.s.odaiin.shey",
+      "eva": "daiir air chety cheo ckhy chockhy cheotey sh kchey s odaiin shey"
+    },
+    {
+      "locus": "f57r.3,+P0",
+      "raw": "qokeeody.cheooky.qokeody.sheey.okeody.cheody.cheeody.cheekeody",
+      "eva": "qokeeody cheooky qokeody sheey okeody cheody cheeody cheekeody"
+    },
+    {
+      "locus": "f57r.4,+P0",
+      "raw": "dchos.cheocthy.cheody.qot[ee:ch]ody.octhody.okeeody.chteody.cheody,s",
+      "eva": "dchos cheocthy cheody qot[ee:ch]ody octhody okeeody chteody cheody s"
+    },
+    {
+      "locus": "f57r.5,+P0",
+      "raw": "qok[ch:ee]o.daiin.cheeodam<$>",
+      "eva": "qok[ch:ee]o daiin cheeodam"
+    },
+    {
+      "locus": "f57r.6,+P0",
+      "raw": "<%>tcheodal.okam.chckhey.okchdy.doctho.opchey.dy.kedaiin.oforam",
+      "eva": "tcheodal okam chckhey okchdy doctho opchey dy kedaiin oforam"
+    },
+    {
+      "locus": "f57r.7,+P0",
+      "raw": "daii[s:r].sheedy.qokeedy.chetey<->oteeod.shekey.tedy.okaldg",
+      "eva": "daii[s:r] sheedy qokeedy chetey oteeod shekey tedy okaldg"
+    },
+    {
+      "locus": "f57r.8,+P0",
+      "raw": "tair.sheedy.ochedy.{ckhhh}dy<->okchy.chedy.dal.qokedam",
+      "eva": "tair sheedy ochedy ckhhhdy okchy chedy dal qokedam"
+    },
+    {
+      "locus": "f57r.9,+P0",
+      "raw": "[a:o]dair.sheeo,ckhy.sar.al.daii[d:j]y<->dcheckhey.daiin.chedy.cthedy",
+      "eva": "[a:o]dair sheeo ckhy sar al daii[d:j]y dcheckhey daiin chedy cthedy"
+    },
+    {
+      "locus": "f57r.10,+P0",
+      "raw": "qoetchey.kedy.shedaiin<->s,cheos.ykeos.q{cthh}y.tcfhy",
+      "eva": "qoetchey kedy shedaiin s cheos ykeos qcthhy tcfhy"
+    },
+    {
+      "locus": "f57r.11,+P0",
+      "raw": "dshedy.{ct}echy.cphedam<$>",
+      "eva": "dshedy ctechy cphedam"
+    }
+  ],
+  "eva_text": "poeeockhey odain cheop sheody shocfhey dy sheep sheody [e:y]odam\ndaiir air chety cheo ckhy chockhy cheotey sh kchey s odaiin shey\nqokeeody cheooky qokeody sheey okeody cheody cheeody cheekeody\ndchos cheocthy cheody qot[ee:ch]ody octhody okeeody chteody cheody s\nqok[ch:ee]o daiin cheeodam\ntcheodal okam chckhey okchdy doctho opchey dy kedaiin oforam\ndaii[s:r] sheedy qokeedy chetey oteeod shekey tedy okaldg\ntair sheedy ochedy ckhhhdy okchy chedy dal qokedam\n[a:o]dair sheeo ckhy sar al daii[d:j]y dcheckhey daiin chedy cthedy\nqoetchey kedy shedaiin s cheos ykeos qcthhy tcfhy\ndshedy ctechy cphedam",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

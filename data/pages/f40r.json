@@ -1,0 +1,77 @@
+{
+  "folio": "f40r",
+  "page_number": 77,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Primulaceon",
+  "plant_candidates": [
+    "Primulaceon"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f40r.1,@P0",
+      "raw": "<%>pchey.k,eodar.aldydy<->qoky.okal.shdy.olkedy.opches.ar.ordaiin",
+      "eva": "pchey k eodar aldydy qoky okal shdy olkedy opches ar ordaiin"
+    },
+    {
+      "locus": "f40r.2,+P0",
+      "raw": "qokar.okar.okedy.dar<->ykchey.kaiin.ok[a:o]s,chedy.okar.a,ralos",
+      "eva": "qokar okar okedy dar ykchey kaiin ok[a:o]s chedy okar a ralos"
+    },
+    {
+      "locus": "f40r.3,+P0",
+      "raw": "shy.qokal.chdy.chckhd<->otor.aiir.o,ky.okolchy.qokar.okam",
+      "eva": "shy qokal chdy chckhd otor aiir o ky okolchy qokar okam"
+    },
+    {
+      "locus": "f40r.4,+P0",
+      "raw": "or.aiin.chekody.dar<->qokol.okaiin.okar.oky.okoldy.ol",
+      "eva": "or aiin chekody dar qokol okaiin okar oky okoldy ol"
+    },
+    {
+      "locus": "f40r.5,+P0",
+      "raw": "lokar.qokar.okar<->okol.ol.chedy.qokchd.ar.ar.or.da[g:m]",
+      "eva": "lokar qokar okar okol ol chedy qokchd ar ar or da[g:m]"
+    },
+    {
+      "locus": "f40r.6,+P0",
+      "raw": "tor.or.ar.shok.or.am<->o,lshedy.qokam.chdy.kar.oraiin",
+      "eva": "tor or ar shok or am o lshedy qokam chdy kar oraiin"
+    },
+    {
+      "locus": "f40r.7,+P0",
+      "raw": "yaiin.chekaiin.oky<->ycheey<$>",
+      "eva": "yaiin chekaiin oky ycheey"
+    },
+    {
+      "locus": "f40r.8,+P0",
+      "raw": "<%>ksheo.keeey.dar.ai[g:m]<->kcheo.cfhdy.or,ain.chefal.daiin.dg",
+      "eva": "ksheo keeey dar ai[g:m] kcheo cfhdy or ain chefal daiin dg"
+    },
+    {
+      "locus": "f40r.9,+P0",
+      "raw": "taiin.ol.olaiin.or<->dain.okaiin.okaiin.okaiin.daram",
+      "eva": "taiin ol olaiin or dain okaiin okaiin okaiin daram"
+    },
+    {
+      "locus": "f40r.10,+P0",
+      "raw": "saiin.olcheey.chdy<->ychey.ka@154;ar.oky.ykedy.okair.ody",
+      "eva": "saiin olcheey chdy ychey ka@154;ar oky ykedy okair ody"
+    },
+    {
+      "locus": "f40r.11,+P0",
+      "raw": "toar.ykaiin.ory.dal<$>",
+      "eva": "toar ykaiin ory dal"
+    }
+  ],
+  "eva_text": "pchey k eodar aldydy qoky okal shdy olkedy opches ar ordaiin\nqokar okar okedy dar ykchey kaiin ok[a:o]s chedy okar a ralos\nshy qokal chdy chckhd otor aiir o ky okolchy qokar okam\nor aiin chekody dar qokol okaiin okar oky okoldy ol\nlokar qokar okar okol ol chedy qokchd ar ar or da[g:m]\ntor or ar shok or am o lshedy qokam chdy kar oraiin\nyaiin chekaiin oky ycheey\nksheo keeey dar ai[g:m] kcheo cfhdy or ain chefal daiin dg\ntaiin ol olaiin or dain okaiin okaiin okaiin daram\nsaiin olcheey chdy ychey ka@154;ar oky ykedy okair ody\ntoar ykaiin ory dal",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

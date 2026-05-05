@@ -1,0 +1,97 @@
+{
+  "folio": "f51r",
+  "page_number": 99,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Mandrake (Manley)",
+  "plant_candidates": [
+    "Mandrake"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 15,
+  "loci": [
+    {
+      "locus": "f51r.1,@P0",
+      "raw": "<%>tsholdchy.qotchy.opchear.ypchedy",
+      "eva": "tsholdchy qotchy opchear ypchedy"
+    },
+    {
+      "locus": "f51r.2,+P0",
+      "raw": "dcheodaiin.ckheody.ckhody.chody",
+      "eva": "dcheodaiin ckheody ckhody chody"
+    },
+    {
+      "locus": "f51r.3,+P0",
+      "raw": "ydchody.ckhey.oty.ckhe[o:a]dar.qoky",
+      "eva": "ydchody ckhey oty ckhe[o:a]dar qoky"
+    },
+    {
+      "locus": "f51r.4,+P0",
+      "raw": "daiin.{ct}[e:i]s.okol.cheody.ckhy.cheeey",
+      "eva": "daiin ct[e:i]s okol cheody ckhy cheeey"
+    },
+    {
+      "locus": "f51r.5,+P0",
+      "raw": "tcheody.qodaiin.okeey.qockhey.taiin",
+      "eva": "tcheody qodaiin okeey qockhey taiin"
+    },
+    {
+      "locus": "f51r.6,+P0",
+      "raw": "ycho,daiin.chokaiin.ykchodaiin.ykald",
+      "eva": "ycho daiin chokaiin ykchodaiin ykald"
+    },
+    {
+      "locus": "f51r.7,+P0",
+      "raw": "ychos,ar.eeckhy.kcho.qokchy.qotal",
+      "eva": "ychos ar eeckhy kcho qokchy qotal"
+    },
+    {
+      "locus": "f51r.8,+P0",
+      "raw": "oshol.odaiin.[ckhe:{ckhh}]y.ckheody.qokey.otydy",
+      "eva": "oshol odaiin [ckhe:ckhh]y ckheody qokey otydy"
+    },
+    {
+      "locus": "f51r.9,+P0",
+      "raw": "tol.daiin.daim.qchodal.dal.qody.qoetam",
+      "eva": "tol daiin daim qchodal dal qody qoetam"
+    },
+    {
+      "locus": "f51r.10,+P0",
+      "raw": "ykchol.d[o:a]r.shey.qokeol.kchey.shol.okam",
+      "eva": "ykchol d[o:a]r shey qokeol kchey shol okam"
+    },
+    {
+      "locus": "f51r.11,+P0",
+      "raw": "tchodaiin.[{oph}:cph]eody.qokol.ot[e:i]odaiin.kol,ota[g:m]",
+      "eva": "tchodaiin [oph:cph]eody qokol ot[e:i]odaiin kol ota[g:m]"
+    },
+    {
+      "locus": "f51r.12,+P0",
+      "raw": "yoees.ckheey.kol.cheeal.okeor.qockhey.pchodal",
+      "eva": "yoees ckheey kol cheeal okeor qockhey pchodal"
+    },
+    {
+      "locus": "f51r.13,+P0",
+      "raw": "oaiin.ckhol.yk[i:?]eol.otchey.cpheo,daiin.ykeoldy",
+      "eva": "oaiin ckhol yk[i:?]eol otchey cpheo daiin ykeoldy"
+    },
+    {
+      "locus": "f51r.14,+P0",
+      "raw": "daii{ith}y.qodaiin.kaiiidal<->cphodal<->[s:r].al.dam",
+      "eva": "daiiithy qodaiin kaiiidal cphodal [s:r] al dam"
+    },
+    {
+      "locus": "f51r.15,+P0",
+      "raw": "qokol.cheor.ckhal.s.or.aldy<->otal<$>",
+      "eva": "qokol cheor ckhal s or aldy otal"
+    }
+  ],
+  "eva_text": "tsholdchy qotchy opchear ypchedy\ndcheodaiin ckheody ckhody chody\nydchody ckhey oty ckhe[o:a]dar qoky\ndaiin ct[e:i]s okol cheody ckhy cheeey\ntcheody qodaiin okeey qockhey taiin\nycho daiin chokaiin ykchodaiin ykald\nychos ar eeckhy kcho qokchy qotal\noshol odaiin [ckhe:ckhh]y ckheody qokey otydy\ntol daiin daim qchodal dal qody qoetam\nykchol d[o:a]r shey qokeol kchey shol okam\ntchodaiin [oph:cph]eody qokol ot[e:i]odaiin kol ota[g:m]\nyoees ckheey kol cheeal okeor qockhey pchodal\noaiin ckhol yk[i:?]eol otchey cpheo daiin ykeoldy\ndaiiithy qodaiin kaiiidal cphodal [s:r] al dam\nqokol cheor ckhal s or aldy otal",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,192 @@
+{
+  "folio": "f72v2",
+  "page_number": 143,
+  "section": null,
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Virgo",
+    "Three circular bands, locus indications C1 to C3 (outer",
+    "to inner). Two rings of labelled nymphs, 30 in total",
+    "counting inner to outer (cf. Petersen). Clock position",
+    "for labels is that of nymph.",
+    "Added from v101: y.o becomes y.che??.o after ar?k?aly",
+    "Outer band of labels",
+    "Inner band of labels"
+  ],
+  "loci_count": 33,
+  "loci": [
+    {
+      "locus": "f72v2.1,@Cc",
+      "raw": "<!09:30>otos,chs.oty.oteos.oty.chotey.dchy.chopchy.otychal.ctheo,l,shey.tchol,s.choraiin.cheka{iph}y.oteeos,aly.okeedy.cheockhy.ar?k?aly.che??.okedl.okedy.sheos.okeeor.cheey.okeey.teey.cheeey.okeolol.sheeoeky.oekeeo,r,aiin.olalka[in:ir].okolsaiin",
+      "eva": "otos chs oty oteos oty chotey dchy chopchy otychal ctheo l shey tchol s choraiin chekaiphy oteeos aly okeedy cheockhy ar?k?aly che?? okedl okedy sheos okeeor cheey okeey teey cheeey okeolol sheeoeky oekeeo r aiin olalka[in:ir] okolsaiin"
+    },
+    {
+      "locus": "f72v2.2,@Lz",
+      "raw": "<!10:00>oeedey",
+      "eva": "oeedey"
+    },
+    {
+      "locus": "f72v2.3,&Lz",
+      "raw": "<!11:00>oeeodaiin",
+      "eva": "oeeodaiin"
+    },
+    {
+      "locus": "f72v2.4,&Lz",
+      "raw": "<!11:45>okeoram",
+      "eva": "okeoram"
+    },
+    {
+      "locus": "f72v2.5,&Lz",
+      "raw": "<!00:30>air,aim",
+      "eva": "air aim"
+    },
+    {
+      "locus": "f72v2.6,&Lz",
+      "raw": "<!01:00>oshesy",
+      "eva": "oshesy"
+    },
+    {
+      "locus": "f72v2.7,&Lz",
+      "raw": "<!02:00>oke[a:o]ry",
+      "eva": "oke[a:o]ry"
+    },
+    {
+      "locus": "f72v2.8,&Lz",
+      "raw": "<!02:30>cheoetey",
+      "eva": "cheoetey"
+    },
+    {
+      "locus": "f72v2.9,&Lz",
+      "raw": "<!03:00>cheol[d:?]y",
+      "eva": "cheol[d:?]y"
+    },
+    {
+      "locus": "f72v2.10,&Lz",
+      "raw": "<!04:00>sheoeky",
+      "eva": "sheoeky"
+    },
+    {
+      "locus": "f72v2.11,&Lz",
+      "raw": "<!04:30>oteodar",
+      "eva": "oteodar"
+    },
+    {
+      "locus": "f72v2.12,&Lz",
+      "raw": "<!05:30>ofchdysd",
+      "eva": "ofchdysd"
+    },
+    {
+      "locus": "f72v2.13,&Lz",
+      "raw": "<!06:00>oteoyd",
+      "eva": "oteoyd"
+    },
+    {
+      "locus": "f72v2.14,&Lz",
+      "raw": "<!06:30>yteody",
+      "eva": "yteody"
+    },
+    {
+      "locus": "f72v2.15,&Lz",
+      "raw": "<!07:00>okeody",
+      "eva": "okeody"
+    },
+    {
+      "locus": "f72v2.16,&Lz",
+      "raw": "<!08:00>okeoldy",
+      "eva": "okeoldy"
+    },
+    {
+      "locus": "f72v2.17,&Lz",
+      "raw": "<!08:30>ykeeor",
+      "eva": "ykeeor"
+    },
+    {
+      "locus": "f72v2.18,&Lz",
+      "raw": "<!09:00>opaiina[m:r]",
+      "eva": "opaiina[m:r]"
+    },
+    {
+      "locus": "f72v2.19,&Lz",
+      "raw": "<!09:30>cheoldy",
+      "eva": "cheoldy"
+    },
+    {
+      "locus": "f72v2.20,@Cc",
+      "raw": "<!10:00>oteesody.otey.oteeos.sheoty.yteeg.dchsaiin.shol.okeees.air,am,shey.qokeodal.oteotey.oteoldy.oteal,chedy.chotalal.okal,cheol.sar,aiin.cheokealy.sardy.otol.chekar.alteol.oltar,ar",
+      "eva": "oteesody otey oteeos sheoty yteeg dchsaiin shol okeees air am shey qokeodal oteotey oteoldy oteal chedy chotalal okal cheol sar aiin cheokealy sardy otol chekar alteol oltar ar"
+    },
+    {
+      "locus": "f72v2.21,@Lz",
+      "raw": "<!10:30>okaiin[:y]",
+      "eva": "okaiin[:y]"
+    },
+    {
+      "locus": "f72v2.22,&Lz",
+      "raw": "<!11:30>ockhol",
+      "eva": "ockhol"
+    },
+    {
+      "locus": "f72v2.23,&Lz",
+      "raw": "<!00:30>oeedy",
+      "eva": "oeedy"
+    },
+    {
+      "locus": "f72v2.24,&Lz",
+      "raw": "<!01:00>opalg<!nymph has no star>",
+      "eva": "opalg"
+    },
+    {
+      "locus": "f72v2.25,&Lz",
+      "raw": "<!02:00>okeeom",
+      "eva": "okeeom"
+    },
+    {
+      "locus": "f72v2.26,&Lz",
+      "raw": "<!03:00>olkar",
+      "eva": "olkar"
+    },
+    {
+      "locus": "f72v2.27,&Lz",
+      "raw": "<!04:00>oeedaly<!nymph stands on barrel>",
+      "eva": "oeedaly"
+    },
+    {
+      "locus": "f72v2.28,&Lz",
+      "raw": "<!05:00>cheosy",
+      "eva": "cheosy"
+    },
+    {
+      "locus": "f72v2.29,&Lz",
+      "raw": "<!06:30>ofcheay",
+      "eva": "ofcheay"
+    },
+    {
+      "locus": "f72v2.30,&Lz",
+      "raw": "<!07:30>yteedy",
+      "eva": "yteedy"
+    },
+    {
+      "locus": "f72v2.31,&Lz",
+      "raw": "<!08:30>o[n:r]aiin",
+      "eva": "o[n:r]aiin"
+    },
+    {
+      "locus": "f72v2.32,&Lz",
+      "raw": "<!09:30>okeorar",
+      "eva": "okeorar"
+    },
+    {
+      "locus": "f72v2.33,@Cc",
+      "raw": "<!09:00>otaiin.otshedy.chokeedy.otes,al,al,ar.chetolain.sheodaly.sheokey.okealy.rary",
+      "eva": "otaiin otshedy chokeedy otes al al ar chetolain sheodaly sheokey okealy rary"
+    }
+  ],
+  "eva_text": "otos chs oty oteos oty chotey dchy chopchy otychal ctheo l shey tchol s choraiin chekaiphy oteeos aly okeedy cheockhy ar?k?aly che?? okedl okedy sheos okeeor cheey okeey teey cheeey okeolol sheeoeky oekeeo r aiin olalka[in:ir] okolsaiin\noeedey\noeeodaiin\nokeoram\nair aim\noshesy\noke[a:o]ry\ncheoetey\ncheol[d:?]y\nsheoeky\noteodar\nofchdysd\noteoyd\nyteody\nokeody\nokeoldy\nykeeor\nopaiina[m:r]\ncheoldy\noteesody otey oteeos sheoty yteeg dchsaiin shol okeees air am shey qokeodal oteotey oteoldy oteal chedy chotalal okal cheol sar aiin cheokealy sardy otol chekar alteol oltar ar\nokaiin[:y]\nockhol\noeedy\nopalg\nokeeom\nolkar\noeedaly\ncheosy\nofcheay\nyteedy\no[n:r]aiin\nokeorar\notaiin otshedy chokeedy otes al al ar chetolain sheodaly sheokey okealy rary",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,73 @@
+{
+  "folio": "f68v1",
+  "page_number": 130,
+  "section": "astronomical",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "General description of page:",
+    "Two rings of text, counted outside inwards.",
+    "Plus radial short texts",
+    "Radiating texts, starting point cf. ThP"
+  ],
+  "loci_count": 10,
+  "loci": [
+    {
+      "locus": "f68v1.1,@Cc",
+      "raw": "<!10:30>shes.ol.keey.shes.chteey.sheely.shes.yee[g:j].shokeolls.ees.aiir.ol.cho.aiin.ykeeykeey.ches.chotey.y,keey.shes.aiin.okeyteey.cthody.ches[o:y]kcho,teody.chockhy.otol.okeody.cheos.chkorchy.dy.dy.shety.oteey.dair.chotedy.chey.dal.daiin.dokeey",
+      "eva": "shes ol keey shes chteey sheely shes yee[g:j] shokeolls ees aiir ol cho aiin ykeeykeey ches chotey y keey shes aiin okeyteey cthody ches[o:y]kcho teody chockhy otol okeody cheos chkorchy dy dy shety oteey dair chotedy chey dal daiin dokeey"
+    },
+    {
+      "locus": "f68v1.2,@Cc",
+      "raw": "<!10:00 cf ThP>chear.s.oteey.dain.dycheckhy.oteeos.oteol.okeo[r:s].okeeody.sho.ykeod.oteeol.okeeos.or.chos.or.o{cko}.aiin.chol.ykeey.sheo.s.cheoekeey.cheodaiir.cheekchey.chkeody.okchy.teeos.[sh:e'e].cheo,eky.okey.d?leed.s.aly.oteotey.otechs.opain",
+      "eva": "chear s oteey dain dycheckhy oteeos oteol okeo[r:s] okeeody sho ykeod oteeol okeeos or chos or ocko aiin chol ykeey sheo s cheoekeey cheodaiir cheekchey chkeody okchy teeos [sh:e'e] cheo eky okey d?leed s aly oteotey otechs opain"
+    },
+    {
+      "locus": "f68v1.3,@Ro",
+      "raw": "dair.apeeety.dy",
+      "eva": "dair apeeety dy"
+    },
+    {
+      "locus": "f68v1.4,@Ro",
+      "raw": "sair.aroy[s:r]er",
+      "eva": "sair aroy[s:r]er"
+    },
+    {
+      "locus": "f68v1.5,@Ro",
+      "raw": "oteeor.ara[n:?]y",
+      "eva": "oteeor ara[n:?]y"
+    },
+    {
+      "locus": "f68v1.6,@Ro",
+      "raw": "okechdaral",
+      "eva": "okechdaral"
+    },
+    {
+      "locus": "f68v1.7,@Ro",
+      "raw": "otol.ches.otaly",
+      "eva": "otol ches otaly"
+    },
+    {
+      "locus": "f68v1.8,@Ro",
+      "raw": "okeey.chek<!k on top of e>.chekeys",
+      "eva": "okeey chek chekeys"
+    },
+    {
+      "locus": "f68v1.9,@Ro",
+      "raw": "dar.shes.shokey",
+      "eva": "dar shes shokey"
+    },
+    {
+      "locus": "f68v1.10,@Ro",
+      "raw": "oteodain.sam",
+      "eva": "oteodain sam"
+    }
+  ],
+  "eva_text": "shes ol keey shes chteey sheely shes yee[g:j] shokeolls ees aiir ol cho aiin ykeeykeey ches chotey y keey shes aiin okeyteey cthody ches[o:y]kcho teody chockhy otol okeody cheos chkorchy dy dy shety oteey dair chotedy chey dal daiin dokeey\nchear s oteey dain dycheckhy oteeos oteol okeo[r:s] okeeody sho ykeod oteeol okeeos or chos or ocko aiin chol ykeey sheo s cheoekeey cheodaiir cheekchey chkeody okchy teeos [sh:e'e] cheo eky okey d?leed s aly oteotey otechs opain\ndair apeeety dy\nsair aroy[s:r]er\noteeor ara[n:?]y\nokechdaral\notol ches otaly\nokeey chek chekeys\ndar shes shokey\noteodain sam",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

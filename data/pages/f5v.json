@@ -1,0 +1,55 @@
+{
+  "folio": "f5v",
+  "page_number": 10,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Paretaria Urtica (O'Neill)",
+  "plant_candidates": [
+    "Paretaria Urtica"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "paretaria",
+    "urtica"
+  ],
+  "refs": [],
+  "notes": [
+    "Only one paragraph of text"
+  ],
+  "loci_count": 6,
+  "loci": [
+    {
+      "locus": "f5v.1,@P0",
+      "raw": "<%>k,o,cheor.chor.ytchey.pshod.chols.chodaiin.ytoiiin.daiin",
+      "eva": "k o cheor chor ytchey pshod chols chodaiin ytoiiin daiin"
+    },
+    {
+      "locus": "f5v.2,+P0",
+      "raw": "dchol.{c'y}.chol.otaiin.dain.cthor.chots.ychopordg",
+      "eva": "dchol c'y chol otaiin dain cthor chots ychopordg"
+    },
+    {
+      "locus": "f5v.3,+P0",
+      "raw": "qotcho.ytor.daiin.daiin.otchor.daiin.q'o.darchor.do",
+      "eva": "qotcho ytor daiin daiin otchor daiin q'o darchor do"
+    },
+    {
+      "locus": "f5v.4,+P0",
+      "raw": "qotor.shees.otol.ykoiin.shol,daiin.cthor.okch,y,taiin",
+      "eva": "qotor shees otol ykoiin shol daiin cthor okch y taiin"
+    },
+    {
+      "locus": "f5v.5,+P0",
+      "raw": "shokeeol.chor.cheotol.otchol.daiin.dal.chol,chotaiin",
+      "eva": "shokeeol chor cheotol otchol daiin dal chol chotaiin"
+    },
+    {
+      "locus": "f5v.6,+P0",
+      "raw": "otol.chol.dairodg<$>",
+      "eva": "otol chol dairodg"
+    }
+  ],
+  "eva_text": "k o cheor chor ytchey pshod chols chodaiin ytoiiin daiin\ndchol c'y chol otaiin dain cthor chots ychopordg\nqotcho ytor daiin daiin otchor daiin q'o darchor do\nqotor shees otol ykoiin shol daiin cthor okch y taiin\nshokeeol chor cheotol otchol daiin dal chol chotaiin\notol chol dairodg",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,114 @@
+{
+  "folio": "f70v1",
+  "page_number": 136,
+  "section": null,
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Aries (dark)",
+    "Gathering mark 10",
+    "Two concentric circles of text. In the centre is the astrological",
+    "symbol for Aries (dark) eating a plant, word \"Abril\" in the Roman",
+    "alphabet. Abril is Spanish for April, Aries is March 20th to April 20th.",
+    "Nymph labels, outer ring:",
+    "Nymph labels. It is assumed that the text to the right of the nymph belongs",
+    "with it but on this page (especially inner circle) it is not entirely clear.",
+    "Clock position is that of nymph (approx). Ordering cf. ThP.",
+    "Inner ring:"
+  ],
+  "loci_count": 17,
+  "loci": [
+    {
+      "locus": "f70v1.1,@Cc",
+      "raw": "<!11:00>dalalody.oteoshey.okoksheo.shokey.raiin.otor.ochy.s.a[ir:is].cheody.cheey.oteo,[ch:ee]y.daiir.chcthy.dlal.oteodaiin.ykeody.oteody.sheo.daiin.oteedy.chetalchs.zar.shoteeody.okeeo,dal.cheody.okchoteees.oteeody.cheokeo.otaiin.shes.to,ar.oly.daly.sheal",
+      "eva": "dalalody oteoshey okoksheo shokey raiin otor ochy s a[ir:is] cheody cheey oteo [ch:ee]y daiir chcthy dlal oteodaiin ykeody oteody sheo daiin oteedy chetalchs zar shoteeody okeeo dal cheody okchoteees oteeody cheokeo otaiin shes to ar oly daly sheal"
+    },
+    {
+      "locus": "f70v1.2,@Lz",
+      "raw": "<!10:30>otalchy.tar.am.dy",
+      "eva": "otalchy tar am dy"
+    },
+    {
+      "locus": "f70v1.3,&Lz",
+      "raw": "<!00:00>opchey.sal",
+      "eva": "opchey sal"
+    },
+    {
+      "locus": "f70v1.4,&Lz",
+      "raw": "<!01:00>otakaizan",
+      "eva": "otakaizan"
+    },
+    {
+      "locus": "f70v1.5,&Lz",
+      "raw": "<!02:30>okalal",
+      "eva": "okalal"
+    },
+    {
+      "locus": "f70v1.6,&Lz",
+      "raw": "<!03:30>otaly",
+      "eva": "otaly"
+    },
+    {
+      "locus": "f70v1.7,&Lz",
+      "raw": "<!04:30>oalcheg",
+      "eva": "oalcheg"
+    },
+    {
+      "locus": "f70v1.8,&Lz",
+      "raw": "<!06:00>otchodals",
+      "eva": "otchodals"
+    },
+    {
+      "locus": "f70v1.9,&Lz",
+      "raw": "<!07:00>okolshy",
+      "eva": "okolshy"
+    },
+    {
+      "locus": "f70v1.10,&Lz",
+      "raw": "<!08:00>otshshdy",
+      "eva": "otshshdy"
+    },
+    {
+      "locus": "f70v1.11,&Lz",
+      "raw": "<!09:00>otal.ypsharal",
+      "eva": "otal ypsharal"
+    },
+    {
+      "locus": "f70v1.12,@Cc",
+      "raw": "<!11:00>daiin.okey.otodal.cheokeeo.okeodal.shol.olaiin.saiin.sheo.qokeeol.otchykey.chekeal.oteosaiin.chekey.okeolol.chees.o?eey.opotey.dal,al,s.otecheo.dal",
+      "eva": "daiin okey otodal cheokeeo okeodal shol olaiin saiin sheo qokeeol otchykey chekeal oteosaiin chekey okeolol chees o?eey opotey dal al s otecheo dal"
+    },
+    {
+      "locus": "f70v1.13,@Lz",
+      "raw": "<!10:30>okoly",
+      "eva": "okoly"
+    },
+    {
+      "locus": "f70v1.14,&Lz",
+      "raw": "<!00:00>otalaiin",
+      "eva": "otalaiin"
+    },
+    {
+      "locus": "f70v1.15,&Lz",
+      "raw": "<!02:00>oteo.alals.araly",
+      "eva": "oteo alals araly"
+    },
+    {
+      "locus": "f70v1.16,&Lz",
+      "raw": "<!05:00>oteoeey.otal.okealar",
+      "eva": "oteoeey otal okealar"
+    },
+    {
+      "locus": "f70v1.17,&Lz",
+      "raw": "<!08:00>otear.araydy",
+      "eva": "otear araydy"
+    }
+  ],
+  "eva_text": "dalalody oteoshey okoksheo shokey raiin otor ochy s a[ir:is] cheody cheey oteo [ch:ee]y daiir chcthy dlal oteodaiin ykeody oteody sheo daiin oteedy chetalchs zar shoteeody okeeo dal cheody okchoteees oteeody cheokeo otaiin shes to ar oly daly sheal\notalchy tar am dy\nopchey sal\notakaizan\nokalal\notaly\noalcheg\notchodals\nokolshy\notshshdy\notal ypsharal\ndaiin okey otodal cheokeeo okeodal shol olaiin saiin sheo qokeeol otchykey chekeal oteosaiin chekey okeolol chees o?eey opotey dal al s otecheo dal\nokoly\notalaiin\noteo alals araly\noteoeey otal okealar\notear araydy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

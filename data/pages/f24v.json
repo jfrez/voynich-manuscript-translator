@@ -1,0 +1,102 @@
+{
+  "folio": "f24v",
+  "page_number": 46,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "(hard to read)",
+  "plant_candidates": [],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "gathering mark 3"
+  ],
+  "loci_count": 16,
+  "loci": [
+    {
+      "locus": "f24v.1,@P0",
+      "raw": "<%>tchodar.chocfhey.opom.shod.chcphy.opshody.ocphoraiin.o,k,o@146;am",
+      "eva": "tchodar chocfhey opom shod chcphy opshody ocphoraiin o k o@146;am"
+    },
+    {
+      "locus": "f24v.2,+P0",
+      "raw": "ydals.ckhor.shy.cho.dch[o:a]r.otol.otaiir<->otchos.okchom.okcho",
+      "eva": "ydals ckhor shy cho dch[o:a]r otol otaiir otchos okchom okcho"
+    },
+    {
+      "locus": "f24v.3,+P0",
+      "raw": "octh[y:o]l.odchees.oesearies<!small e>.okam.chcth",
+      "eva": "octh[y:o]l odchees oesearies okam chcth"
+    },
+    {
+      "locus": "f24v.4,+P0",
+      "raw": "ydal.sh.okol.okaiin.odaiin.dlos",
+      "eva": "ydal sh okol okaiin odaiin dlos"
+    },
+    {
+      "locus": "f24v.5,+P0",
+      "raw": "oeor.oraiin.tchar.oro<$>",
+      "eva": "oeor oraiin tchar oro"
+    },
+    {
+      "locus": "f24v.6,+P0",
+      "raw": "<%>tochol.chor.{cf}arsa,r<!s above last a>",
+      "eva": "tochol chor cfarsa r"
+    },
+    {
+      "locus": "f24v.7,+P0",
+      "raw": "ycheol.daid.dar.olom",
+      "eva": "ycheol daid dar olom"
+    },
+    {
+      "locus": "f24v.8,+P0",
+      "raw": "kochky.chcthy.shol.sain",
+      "eva": "kochky chcthy shol sain"
+    },
+    {
+      "locus": "f24v.9,+P0",
+      "raw": "ychol.chol.or.chor.om",
+      "eva": "ychol chol or chor om"
+    },
+    {
+      "locus": "f24v.10,+P0",
+      "raw": "okoeor.ctheod.choy.keol",
+      "eva": "okoeor ctheod choy keol"
+    },
+    {
+      "locus": "f24v.11,+P0",
+      "raw": "ydaiin.chear.qodom.okodaiin",
+      "eva": "ydaiin chear qodom okodaiin"
+    },
+    {
+      "locus": "f24v.12,+P0",
+      "raw": "ksho.foar.{ct}o.sho.qok[ch:ee].ok.okchal",
+      "eva": "ksho foar cto sho qok[ch:ee] ok okchal"
+    },
+    {
+      "locus": "f24v.13,+P0",
+      "raw": "oeeey.cheol.chol.odor.sho.do.otolodal",
+      "eva": "oeeey cheol chol odor sho do otolodal"
+    },
+    {
+      "locus": "f24v.14,+P0",
+      "raw": "do[iir:ar].cheeodam.sho.sho.dy",
+      "eva": "do[iir:ar] cheeodam sho sho dy"
+    },
+    {
+      "locus": "f24v.15,+P0",
+      "raw": "dchey.kchod.dch[a:o]l.ochdy",
+      "eva": "dchey kchod dch[a:o]l ochdy"
+    },
+    {
+      "locus": "f24v.16,+P0",
+      "raw": "otchol.odaiim<$>",
+      "eva": "otchol odaiim"
+    }
+  ],
+  "eva_text": "tchodar chocfhey opom shod chcphy opshody ocphoraiin o k o@146;am\nydals ckhor shy cho dch[o:a]r otol otaiir otchos okchom okcho\nocth[y:o]l odchees oesearies okam chcth\nydal sh okol okaiin odaiin dlos\noeor oraiin tchar oro\ntochol chor cfarsa r\nycheol daid dar olom\nkochky chcthy shol sain\nychol chol or chor om\nokoeor ctheod choy keol\nydaiin chear qodom okodaiin\nksho foar cto sho qok[ch:ee] ok okchal\noeeey cheol chol odor sho do otolodal\ndo[iir:ar] cheeodam sho sho dy\ndchey kchod dch[a:o]l ochdy\notchol odaiim",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

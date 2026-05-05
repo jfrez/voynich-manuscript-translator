@@ -1,0 +1,57 @@
+{
+  "folio": "f95v2",
+  "page_number": 197,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Banberry? Actaea Waxberry",
+  "plant_candidates": [
+    "Banberry? Actaea Waxberry"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 7,
+  "loci": [
+    {
+      "locus": "f95v2.1,@P0",
+      "raw": "<%>tchody,podar.shody.qofaiin.ofchdy.otedy.qotedaiin.shor.olsain",
+      "eva": "tchody podar shody qofaiin ofchdy otedy qotedaiin shor olsain"
+    },
+    {
+      "locus": "f95v2.2,+P0",
+      "raw": "sol.shedy.qotchey.alor.chdyty.olor.ok[a:o]dy.chody.qotaiin.y.kaipy",
+      "eva": "sol shedy qotchey alor chdyty olor ok[a:o]dy chody qotaiin y kaipy"
+    },
+    {
+      "locus": "f95v2.3,+P0",
+      "raw": "archytaiin.shekoiin.okar.or.aiin.chckhy.okal.otain.okalody",
+      "eva": "archytaiin shekoiin okar or aiin chckhy okal otain okalody"
+    },
+    {
+      "locus": "f95v2.4,+P0",
+      "raw": "daiin.<!next line intrudes>olkain.qokan.shar.shekydy.dain.alkain<->okalaiin.s",
+      "eva": "daiin olkain qokan shar shekydy dain alkain okalaiin s"
+    },
+    {
+      "locus": "f95v2.5,+P0",
+      "raw": "tar.fcheey.shos.aiin.okar.olkaiin.otalain<->okaiin,ar",
+      "eva": "tar fcheey shos aiin okar olkaiin otalain okaiin ar"
+    },
+    {
+      "locus": "f95v2.6,+P0",
+      "raw": "dain.ykaly.chals<->shedain.olaiin.y<->okain.ldy",
+      "eva": "dain ykaly chals shedain olaiin y okain ldy"
+    },
+    {
+      "locus": "f95v2.7,+P0",
+      "raw": "qokeey.dar.chdykain<->ytasal.otain<$>",
+      "eva": "qokeey dar chdykain ytasal otain"
+    }
+  ],
+  "eva_text": "tchody podar shody qofaiin ofchdy otedy qotedaiin shor olsain\nsol shedy qotchey alor chdyty olor ok[a:o]dy chody qotaiin y kaipy\narchytaiin shekoiin okar or aiin chckhy okal otain okalody\ndaiin olkain qokan shar shekydy dain alkain okalaiin s\ntar fcheey shos aiin okar olkaiin otalain okaiin ar\ndain ykaly chals shedain olaiin y okain ldy\nqokeey dar chdykain ytasal otain",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

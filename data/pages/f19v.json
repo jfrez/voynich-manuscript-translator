@@ -1,0 +1,88 @@
+{
+  "folio": "f19v",
+  "page_number": 36,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 14,
+  "loci": [
+    {
+      "locus": "f19v.1,@P0",
+      "raw": "<%>pochaiin.cthor.chpcheos.opchey.py,kchy",
+      "eva": "pochaiin cthor chpcheos opchey py kchy"
+    },
+    {
+      "locus": "f19v.2,+P0",
+      "raw": "qokchy.kchol.sor.qokchos.ykchy.darom",
+      "eva": "qokchy kchol sor qokchos ykchy darom"
+    },
+    {
+      "locus": "f19v.3,+P0",
+      "raw": "otchy.chol,daiin.qotol.ytol.daiiin",
+      "eva": "otchy chol daiin qotol ytol daiiin"
+    },
+    {
+      "locus": "f19v.4,+P0",
+      "raw": "ytch.chcthy.qotol.daiin.daiin",
+      "eva": "ytch chcthy qotol daiin daiin"
+    },
+    {
+      "locus": "f19v.5,+P0",
+      "raw": "qotchy.qoteey.daiin.doty.qot",
+      "eva": "qotchy qoteey daiin doty qot"
+    },
+    {
+      "locus": "f19v.6,+P0",
+      "raw": "ychoy.kchor.cthol.chocthy.s",
+      "eva": "ychoy kchor cthol chocthy s"
+    },
+    {
+      "locus": "f19v.7,+P0",
+      "raw": "ycho.[r:s].chaiin.cthor<$>",
+      "eva": "ycho [r:s] chaiin cthor"
+    },
+    {
+      "locus": "f19v.8,+P0",
+      "raw": "<%>toy.tchey,qo.dchol.qokchs.dom",
+      "eva": "toy tchey qo dchol qokchs dom"
+    },
+    {
+      "locus": "f19v.9,+P0",
+      "raw": "ychor.oky.chor.yt[o:a]l.chol.oky,ddor",
+      "eva": "ychor oky chor yt[o:a]l chol oky ddor"
+    },
+    {
+      "locus": "f19v.10,+P0",
+      "raw": "daiin.chor.daiin.qoko[r:n].y.okchan",
+      "eva": "daiin chor daiin qoko[r:n] y okchan"
+    },
+    {
+      "locus": "f19v.11,+P0",
+      "raw": "qotol.d[o:a]r.okchor.daiin.cthor.otam",
+      "eva": "qotol d[o:a]r okchor daiin cthor otam"
+    },
+    {
+      "locus": "f19v.12,+P0",
+      "raw": "otch.okchodshy.daiin.or.otaiin.dai[s:r]",
+      "eva": "otch okchodshy daiin or otaiin dai[s:r]"
+    },
+    {
+      "locus": "f19v.13,+P0",
+      "raw": "yees.ykchol.oty.ytor.ytar.ytchor.ytaiin",
+      "eva": "yees ykchol oty ytor ytar ytchor ytaiin"
+    },
+    {
+      "locus": "f19v.14,+Pr",
+      "raw": "otchol,cheaiin.cthol<$>",
+      "eva": "otchol cheaiin cthol"
+    }
+  ],
+  "eva_text": "pochaiin cthor chpcheos opchey py kchy\nqokchy kchol sor qokchos ykchy darom\notchy chol daiin qotol ytol daiiin\nytch chcthy qotol daiin daiin\nqotchy qoteey daiin doty qot\nychoy kchor cthol chocthy s\nycho [r:s] chaiin cthor\ntoy tchey qo dchol qokchs dom\nychor oky chor yt[o:a]l chol oky ddor\ndaiin chor daiin qoko[r:n] y okchan\nqotol d[o:a]r okchor daiin cthor otam\notch okchodshy daiin or otaiin dai[s:r]\nyees ykchol oty ytor ytar ytchor ytaiin\notchol cheaiin cthol",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

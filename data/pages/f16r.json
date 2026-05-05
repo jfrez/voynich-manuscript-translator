@@ -1,0 +1,89 @@
+{
+  "folio": "f16r",
+  "page_number": 29,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Canabis, Hemp, Ampfer(?)",
+  "plant_candidates": [
+    "Canabis",
+    "Hemp",
+    "Ampfer"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f16r.1,@P0",
+      "raw": "<%>pocheody.qopchey.sykaiin.opchy,dor.ychy<->daiin.dy<->chor.orom",
+      "eva": "pocheody qopchey sykaiin opchy dor ychy daiin dy chor orom"
+    },
+    {
+      "locus": "f16r.2,+P0",
+      "raw": "ychykchy.otey<!corr?>.kol.shor.ody.otody.qoy<->oeesordy",
+      "eva": "ychykchy otey kol shor ody otody qoy oeesordy"
+    },
+    {
+      "locus": "f16r.3,+P0",
+      "raw": "ydor.sheal.okchy.qoy,koiin.choky.ykair",
+      "eva": "ydor sheal okchy qoy koiin choky ykair"
+    },
+    {
+      "locus": "f16r.4,+Pc",
+      "raw": "dainod.ychealod<$>",
+      "eva": "dainod ychealod"
+    },
+    {
+      "locus": "f16r.5,*P0",
+      "raw": "<%>tchor.chor.chs.y,kch.shocthy.opchy.ty,ky",
+      "eva": "tchor chor chs y kch shocthy opchy ty ky"
+    },
+    {
+      "locus": "f16r.6,+P0",
+      "raw": "oshaiin.dyky.oeees.deeeod.aiin.d,toaiin",
+      "eva": "oshaiin dyky oeees deeeod aiin d toaiin"
+    },
+    {
+      "locus": "f16r.7,+P0",
+      "raw": "daiin.dalchy.dyky.schy.s,aiin.doal.qoky",
+      "eva": "daiin dalchy dyky schy s aiin doal qoky"
+    },
+    {
+      "locus": "f16r.8,+P0",
+      "raw": "shotchy.ydain.yky.shody.otol.daiin",
+      "eva": "shotchy ydain yky shody otol daiin"
+    },
+    {
+      "locus": "f16r.9,+P0",
+      "raw": "saiin.ytaiin<$>",
+      "eva": "saiin ytaiin"
+    },
+    {
+      "locus": "f16r.10,+P0",
+      "raw": "<%>toror.dal[y:o],dal.opchy,fchol.ypcho{cfy}.okal",
+      "eva": "toror dal[y:o] dal opchy fchol ypchocfy okal"
+    },
+    {
+      "locus": "f16r.11,+P0",
+      "raw": "sokchy.qokol.choty.okchy.cthy.chy,kchy",
+      "eva": "sokchy qokol choty okchy cthy chy kchy"
+    },
+    {
+      "locus": "f16r.12,+P0",
+      "raw": "dy,cho,kchy.shcthy.shtshy.sho.tchokyd",
+      "eva": "dy cho kchy shcthy shtshy sho tchokyd"
+    },
+    {
+      "locus": "f16r.13,+P0",
+      "raw": "qok[{oh}:ch]or.dl.dy.shey<$>",
+      "eva": "qok[oh:ch]or dl dy shey"
+    }
+  ],
+  "eva_text": "pocheody qopchey sykaiin opchy dor ychy daiin dy chor orom\nychykchy otey kol shor ody otody qoy oeesordy\nydor sheal okchy qoy koiin choky ykair\ndainod ychealod\ntchor chor chs y kch shocthy opchy ty ky\noshaiin dyky oeees deeeod aiin d toaiin\ndaiin dalchy dyky schy s aiin doal qoky\nshotchy ydain yky shody otol daiin\nsaiin ytaiin\ntoror dal[y:o] dal opchy fchol ypchocfy okal\nsokchy qokol choty okchy cthy chy kchy\ndy cho kchy shcthy shtshy sho tchokyd\nqok[oh:ch]or dl dy shey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

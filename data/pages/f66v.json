@@ -1,0 +1,91 @@
+{
+  "folio": "f66v",
+  "page_number": 118,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Primula?",
+  "plant_candidates": [
+    "Primula?"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "gathering mark 8",
+    "Has extraneous writing",
+    "Petersen had some problems with this page, and FSG also on locus 7"
+  ],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f66v.1,@P0",
+      "raw": "<%>okeodof.sheod.ychoopy.opch.dal.dor,sheefy.ytody.da[l:?]deam",
+      "eva": "okeodof sheod ychoopy opch dal dor sheefy ytody da[l:?]deam"
+    },
+    {
+      "locus": "f66v.2,+P0",
+      "raw": "teodal.t[che:{chh}]dy.dshey.okshedy.okeedy.dcheeky.daldy.qotal.sy",
+      "eva": "teodal t[che:chh]dy dshey okshedy okeedy dcheeky daldy qotal sy"
+    },
+    {
+      "locus": "f66v.3,+P0",
+      "raw": "ytos.s.or.sheeky.okechdy.ok[ee:ch]dal.dar.otal.chody.cheky",
+      "eva": "ytos s or sheeky okechdy ok[ee:ch]dal dar otal chody cheky"
+    },
+    {
+      "locus": "f66v.4,+P0",
+      "raw": "shokeshy.daiin.cheos.chety.dol.chckhy.dal.ko,dal.chekal.dal",
+      "eva": "shokeshy daiin cheos chety dol chckhy dal ko dal chekal dal"
+    },
+    {
+      "locus": "f66v.5,+P0",
+      "raw": "shdy.shedefam.qokedy.chokal.dal<$>",
+      "eva": "shdy shedefam qokedy chokal dal"
+    },
+    {
+      "locus": "f66v.6,+P0",
+      "raw": "<%>tchod.sheody.shckhed.chos.chor.sheo.keody.chepar.sheopam",
+      "eva": "tchod sheody shckhed chos chor sheo keody chepar sheopam"
+    },
+    {
+      "locus": "f66v.7,+P0",
+      "raw": "qokeos.sheody.chekeos.chody.kotody.qotchdy.chckhd.ytchdy",
+      "eva": "qokeos sheody chekeos chody kotody qotchdy chckhd ytchdy"
+    },
+    {
+      "locus": "f66v.8,+P0",
+      "raw": "dchekeedy.cheody.qokchdy.qokol.keedy.cheky.chety.kody<$>",
+      "eva": "dchekeedy cheody qokchdy qokol keedy cheky chety kody"
+    },
+    {
+      "locus": "f66v.9,+P0",
+      "raw": "<%>pody.sheody.chpadar.sheey.fchdly.cheoseesey.kchy.qofchal",
+      "eva": "pody sheody chpadar sheey fchdly cheoseesey kchy qofchal"
+    },
+    {
+      "locus": "f66v.10,+P0",
+      "raw": "dshal.keedy.qok,[o:y]r.okaiin.dol.kaldaiin.otal.dokal.okag",
+      "eva": "dshal keedy qok [o:y]r okaiin dol kaldaiin otal dokal okag"
+    },
+    {
+      "locus": "f66v.11,+P0",
+      "raw": "yteeod.aiin.shekeod.saiin.ykofar.otaiin.otar.ched[y:o].kar[{c'}:s]",
+      "eva": "yteeod aiin shekeod saiin ykofar otaiin otar ched[y:o] kar[c':s]"
+    },
+    {
+      "locus": "f66v.12,+P0",
+      "raw": "qekar.okedy.cheky.dal.chekal.chckhy.kal.kal.dar.chk[ch:ee]ody",
+      "eva": "qekar okedy cheky dal chekal chckhy kal kal dar chk[ch:ee]ody"
+    },
+    {
+      "locus": "f66v.13,+P0",
+      "raw": "ydees.shey.daiin.dalkal<->ykedaiin.shedar.ok[ch:ee]dy.oty<$>",
+      "eva": "ydees shey daiin dalkal ykedaiin shedar ok[ch:ee]dy oty"
+    }
+  ],
+  "eva_text": "okeodof sheod ychoopy opch dal dor sheefy ytody da[l:?]deam\nteodal t[che:chh]dy dshey okshedy okeedy dcheeky daldy qotal sy\nytos s or sheeky okechdy ok[ee:ch]dal dar otal chody cheky\nshokeshy daiin cheos chety dol chckhy dal ko dal chekal dal\nshdy shedefam qokedy chokal dal\ntchod sheody shckhed chos chor sheo keody chepar sheopam\nqokeos sheody chekeos chody kotody qotchdy chckhd ytchdy\ndchekeedy cheody qokchdy qokol keedy cheky chety kody\npody sheody chpadar sheey fchdly cheoseesey kchy qofchal\ndshal keedy qok [o:y]r okaiin dol kaldaiin otal dokal okag\nyteeod aiin shekeod saiin ykofar otaiin otar ched[y:o] kar[c':s]\nqekar okedy cheky dal chekal chckhy kal kal dar chk[ch:ee]ody\nydees shey daiin dalkal ykedaiin shedar ok[ch:ee]dy oty",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

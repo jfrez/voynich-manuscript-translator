@@ -1,0 +1,137 @@
+{
+  "folio": "f68r3",
+  "page_number": 127,
+  "section": "astronomical",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "General description of page:",
+    "Moon face in centre, 8 segments around it, four containing",
+    "labeled stars, one of which probably the Pleiades.",
+    "Has 'c' in upper left corner.",
+    "Locus C1 is one ring of text around the diagram.",
+    "Radiating lines ordered cf. ThP, starting at 10:30",
+    "Labels of stars ordered cf. ThP.",
+    "Small ring of text around central moon face"
+  ],
+  "loci_count": 22,
+  "loci": [
+    {
+      "locus": "f68r3.1,@Cc",
+      "raw": "<!09:30>odeed.oteedy,cheoteey.oshchey.chokol.cheody.chedy.oteodaiin.otchodal.sol.cheor.oteo.choteey.oeteody.opcheody.dchedy.daiin.oteeody.dascheedy.oteeody.qoeee{ct}{c@204;}g.dcheeo.okeodly.do.ls.oschaiin.cheockhedchy.chodal.cheod[a:y].chol,al.oteodched.okedy.qokeey.shoky.dol.daleeed.okeoeiiir",
+      "eva": "odeed oteedy cheoteey oshchey chokol cheody chedy oteodaiin otchodal sol cheor oteo choteey oeteody opcheody dchedy daiin oteeody dascheedy oteeody qoeeectc@204;g dcheeo okeodly do ls oschaiin cheockhedchy chodal cheod[a:y] chol al oteodched okedy qokeey shoky dol daleeed okeoeiiir"
+    },
+    {
+      "locus": "f68r3.2,@Ri",
+      "raw": "toees.ykeo,she.qokolchey.qokchdy",
+      "eva": "toees ykeo she qokolchey qokchdy"
+    },
+    {
+      "locus": "f68r3.3,@Ri",
+      "raw": "tochedy.chocphy.qokchdy.dyl.okald",
+      "eva": "tochedy chocphy qokchdy dyl okald"
+    },
+    {
+      "locus": "f68r3.4,@Ri",
+      "raw": "dchy,kchy.daiir.chok.ockhydar",
+      "eva": "dchy kchy daiir chok ockhydar"
+    },
+    {
+      "locus": "f68r3.5,@Ri",
+      "raw": "qokol.chdchol.qoteey.che,kechy.okchdy",
+      "eva": "qokol chdchol qoteey che kechy okchdy"
+    },
+    {
+      "locus": "f68r3.6,@Ri",
+      "raw": "dchokchy.{c'hh}y.okey.oteos.okolshy",
+      "eva": "dchokchy c'hhy okey oteos okolshy"
+    },
+    {
+      "locus": "f68r3.7,@Ri",
+      "raw": "pchody.qokchy.dshol.d{c'y},o,tgolg?",
+      "eva": "pchody qokchy dshol dc'y o tgolg?"
+    },
+    {
+      "locus": "f68r3.8,@Ri",
+      "raw": "keeoty.oteey.daiin.dcheeody.oteey",
+      "eva": "keeoty oteey daiin dcheeody oteey"
+    },
+    {
+      "locus": "f68r3.9,@Ri",
+      "raw": "dchey.qokeey.dcheey.daiir.otchal",
+      "eva": "dchey qokeey dcheey daiir otchal"
+    },
+    {
+      "locus": "f68r3.10,@Ls",
+      "raw": "dchol,day",
+      "eva": "dchol day"
+    },
+    {
+      "locus": "f68r3.11,@Ls",
+      "raw": "doaro",
+      "eva": "doaro"
+    },
+    {
+      "locus": "f68r3.12,@La",
+      "raw": "oalcheol",
+      "eva": "oalcheol"
+    },
+    {
+      "locus": "f68r3.13,@Ls",
+      "raw": "okos",
+      "eva": "okos"
+    },
+    {
+      "locus": "f68r3.14,=Ls",
+      "raw": "otary",
+      "eva": "otary"
+    },
+    {
+      "locus": "f68r3.15,@Ls",
+      "raw": "chky.oky",
+      "eva": "chky oky"
+    },
+    {
+      "locus": "f68r3.16,+Ls",
+      "raw": "e.cphy",
+      "eva": "e cphy"
+    },
+    {
+      "locus": "f68r3.17,+Ls",
+      "raw": "okolchy",
+      "eva": "okolchy"
+    },
+    {
+      "locus": "f68r3.18,@Ls",
+      "raw": "o.cthyd",
+      "eva": "o cthyd"
+    },
+    {
+      "locus": "f68r3.19,+Ls",
+      "raw": "otydg",
+      "eva": "otydg"
+    },
+    {
+      "locus": "f68r3.20,=Ls",
+      "raw": "darall",
+      "eva": "darall"
+    },
+    {
+      "locus": "f68r3.21,*Ls",
+      "raw": "okchody",
+      "eva": "okchody"
+    },
+    {
+      "locus": "f68r3.22,@Cc",
+      "raw": "<!09:30>otcheody.chokchy.okol.cheol.dar.cho.keol.dolaiin.okeol.oly",
+      "eva": "otcheody chokchy okol cheol dar cho keol dolaiin okeol oly"
+    }
+  ],
+  "eva_text": "odeed oteedy cheoteey oshchey chokol cheody chedy oteodaiin otchodal sol cheor oteo choteey oeteody opcheody dchedy daiin oteeody dascheedy oteeody qoeeectc@204;g dcheeo okeodly do ls oschaiin cheockhedchy chodal cheod[a:y] chol al oteodched okedy qokeey shoky dol daleeed okeoeiiir\ntoees ykeo she qokolchey qokchdy\ntochedy chocphy qokchdy dyl okald\ndchy kchy daiir chok ockhydar\nqokol chdchol qoteey che kechy okchdy\ndchokchy c'hhy okey oteos okolshy\npchody qokchy dshol dc'y o tgolg?\nkeeoty oteey daiin dcheeody oteey\ndchey qokeey dcheey daiir otchal\ndchol day\ndoaro\noalcheol\nokos\notary\nchky oky\ne cphy\nokolchy\no cthyd\notydg\ndarall\nokchody\notcheody chokchy okol cheol dar cho keol dolaiin okeol oly",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,244 @@
+{
+  "folio": "f99v",
+  "page_number": 202,
+  "section": null,
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "phamaceutical",
+    "B@R p88; faces \"capsicum\"",
+    "Top row of labels. Petersen ID in curly brackets.",
+    "Second row of labels. Petersen ID in curly brackets.",
+    "Third row of labels. Petersen ID in curly brackets."
+  ],
+  "loci_count": 44,
+  "loci": [
+    {
+      "locus": "f99v.1,@Lc",
+      "raw": "<!95a>okaramy",
+      "eva": "okaramy"
+    },
+    {
+      "locus": "f99v.2,@Lf",
+      "raw": "<!95b>otoldy",
+      "eva": "otoldy"
+    },
+    {
+      "locus": "f99v.3,@Lf",
+      "raw": "<!96>otor<->chy",
+      "eva": "otor chy"
+    },
+    {
+      "locus": "f99v.4,@Lf",
+      "raw": "<!97>oldy",
+      "eva": "oldy"
+    },
+    {
+      "locus": "f99v.5,@Lf",
+      "raw": "<!98>dar<->ary",
+      "eva": "dar ary"
+    },
+    {
+      "locus": "f99v.6,@Lf",
+      "raw": "<!99>otaly",
+      "eva": "otaly"
+    },
+    {
+      "locus": "f99v.7,@Lf",
+      "raw": "<!100>olsy",
+      "eva": "olsy"
+    },
+    {
+      "locus": "f99v.8,@Lf",
+      "raw": "<!101>arol",
+      "eva": "arol"
+    },
+    {
+      "locus": "f99v.9,@Lf",
+      "raw": "<!102>otoky",
+      "eva": "otoky"
+    },
+    {
+      "locus": "f99v.10,@P0",
+      "raw": "<%>sol.cheols.ockhey.qo{ckhh}y.qkoldy.s<->ok.oleees.oteey.dain",
+      "eva": "sol cheols ockhey qockhhy qkoldy s ok oleees oteey dain"
+    },
+    {
+      "locus": "f99v.11,+P0",
+      "raw": "okoiin.choty.qokchol.qokeol.okoldy<->q{kh}oldy.toly.daiin",
+      "eva": "okoiin choty qokchol qokeol okoldy qkholdy toly daiin"
+    },
+    {
+      "locus": "f99v.12,+P0",
+      "raw": "qokeo.qokeol.chockhy.otol.daiin.oty<->oto{ck}ey.da.chor,aiin",
+      "eva": "qokeo qokeol chockhy otol daiin oty otockey da chor aiin"
+    },
+    {
+      "locus": "f99v.13,+P0",
+      "raw": "okoraiin.okol.shocthy<->qokor.oloiram<$>",
+      "eva": "okoraiin okol shocthy qokor oloiram"
+    },
+    {
+      "locus": "f99v.14,@Lc",
+      "raw": "<!103a>okoldody",
+      "eva": "okoldody"
+    },
+    {
+      "locus": "f99v.15,@Lf",
+      "raw": "<!103b>oeeesary",
+      "eva": "oeeesary"
+    },
+    {
+      "locus": "f99v.16,@Lf",
+      "raw": "<!104>daiiinc",
+      "eva": "daiiinc"
+    },
+    {
+      "locus": "f99v.17,@Lf",
+      "raw": "<!105>sary",
+      "eva": "sary"
+    },
+    {
+      "locus": "f99v.18,@Lf",
+      "raw": "<!106>saiino",
+      "eva": "saiino"
+    },
+    {
+      "locus": "f99v.19,@Lf",
+      "raw": "<!107>otolsar",
+      "eva": "otolsar"
+    },
+    {
+      "locus": "f99v.20,@Lf",
+      "raw": "<!108>osary",
+      "eva": "osary"
+    },
+    {
+      "locus": "f99v.21,@P0",
+      "raw": "<%>doror.okeeody.opar.okor.eosaiin.otoraiin.shey.ols,aiiin.qoetal",
+      "eva": "doror okeeody opar okor eosaiin otoraiin shey ols aiiin qoetal"
+    },
+    {
+      "locus": "f99v.22,+P0",
+      "raw": "doiin.otey.o.keeol,s,aiin.okeol.qokeol.ctheol.qokeol.dy.qokaiin",
+      "eva": "doiin otey o keeol s aiin okeol qokeol ctheol qokeol dy qokaiin"
+    },
+    {
+      "locus": "f99v.23,+P0",
+      "raw": "qokeey.chol.okeoldy.qokol.qokeolo.lchol.okeol.sheodol.qokeechom",
+      "eva": "qokeey chol okeoldy qokol qokeolo lchol okeol sheodol qokeechom"
+    },
+    {
+      "locus": "f99v.24,+P0",
+      "raw": "shokeeey.cholshey.okol.qokey.okeodal,oldy<$>",
+      "eva": "shokeeey cholshey okol qokey okeodal oldy"
+    },
+    {
+      "locus": "f99v.25,@Lc",
+      "raw": "<!109a>darolaly",
+      "eva": "darolaly"
+    },
+    {
+      "locus": "f99v.26,@Lf",
+      "raw": "<!109b>okechy",
+      "eva": "okechy"
+    },
+    {
+      "locus": "f99v.27,@Lf",
+      "raw": "<!110>otal",
+      "eva": "otal"
+    },
+    {
+      "locus": "f99v.28,@Lf",
+      "raw": "<!110b>chor.olekor",
+      "eva": "chor olekor"
+    },
+    {
+      "locus": "f99v.29,@Lf",
+      "raw": "<!111>okeodor",
+      "eva": "okeodor"
+    },
+    {
+      "locus": "f99v.30,@Lf",
+      "raw": "<!112>olky",
+      "eva": "olky"
+    },
+    {
+      "locus": "f99v.31,@Lf",
+      "raw": "<!113>doldam",
+      "eva": "doldam"
+    },
+    {
+      "locus": "f99v.32,@P0",
+      "raw": "<%>qokeeoy.chokol.qokeeo.dy.qokeeol.olpchey.daiir.okeedy<->okolol",
+      "eva": "qokeeoy chokol qokeeo dy qokeeol olpchey daiir okeedy okolol"
+    },
+    {
+      "locus": "f99v.33,+P0",
+      "raw": "dol.okeeol.okeor.okal.okaiin.ckheol.okolaiin.okolaiin.cheoldy",
+      "eva": "dol okeeol okeor okal okaiin ckheol okolaiin okolaiin cheoldy"
+    },
+    {
+      "locus": "f99v.34,+P0",
+      "raw": "yoiin,ol.ol.olaiin.qockhey.qokol.olshy.qokeeor.or.aiin.doldam",
+      "eva": "yoiin ol ol olaiin qockhey qokol olshy qokeeor or aiin doldam"
+    },
+    {
+      "locus": "f99v.35,+P0",
+      "raw": "ol,okeeey.oqoeeol.cheol.chody.okoiin<$>",
+      "eva": "ol okeeey oqoeeol cheol chody okoiin"
+    },
+    {
+      "locus": "f99v.36,@Lc",
+      "raw": "<!114a>oralas",
+      "eva": "oralas"
+    },
+    {
+      "locus": "f99v.37,@P0",
+      "raw": "<%>{c@132;}eol,so{c@133;h}ey.qokol.olkeol.daiin<->okoly",
+      "eva": "c@132;eol soc@133;hey qokol olkeol daiin okoly"
+    },
+    {
+      "locus": "f99v.38,+P0",
+      "raw": "ol.cheey.qokeol.okeol.okeol.shokol<->ykey",
+      "eva": "ol cheey qokeol okeol okeol shokol ykey"
+    },
+    {
+      "locus": "f99v.39,+P0",
+      "raw": "dar.shol.okchey.ckhey.qokololal<->okeol",
+      "eva": "dar shol okchey ckhey qokololal okeol"
+    },
+    {
+      "locus": "f99v.40,+P0",
+      "raw": "or.aiin.okeody.okol.odaiin.qoky<->olaldy",
+      "eva": "or aiin okeody okol odaiin qoky olaldy"
+    },
+    {
+      "locus": "f99v.41,+P0",
+      "raw": "qockhol.oiin.shody.qokol.aiidal<->aiidaiim",
+      "eva": "qockhol oiin shody qokol aiidal aiidaiim"
+    },
+    {
+      "locus": "f99v.42,+P0",
+      "raw": "ol,sheol.olkeol.okol.or.oraloly<->ykeol.okal.okaldaly",
+      "eva": "ol sheol olkeol okol or oraloly ykeol okal okaldaly"
+    },
+    {
+      "locus": "f99v.43,+P0",
+      "raw": "ychol,olkeeoldy<$>",
+      "eva": "ychol olkeeoldy"
+    },
+    {
+      "locus": "f99v.44,@Lf",
+      "raw": "<!114b>koleearol",
+      "eva": "koleearol"
+    }
+  ],
+  "eva_text": "okaramy\notoldy\notor chy\noldy\ndar ary\notaly\nolsy\narol\notoky\nsol cheols ockhey qockhhy qkoldy s ok oleees oteey dain\nokoiin choty qokchol qokeol okoldy qkholdy toly daiin\nqokeo qokeol chockhy otol daiin oty otockey da chor aiin\nokoraiin okol shocthy qokor oloiram\nokoldody\noeeesary\ndaiiinc\nsary\nsaiino\notolsar\nosary\ndoror okeeody opar okor eosaiin otoraiin shey ols aiiin qoetal\ndoiin otey o keeol s aiin okeol qokeol ctheol qokeol dy qokaiin\nqokeey chol okeoldy qokol qokeolo lchol okeol sheodol qokeechom\nshokeeey cholshey okol qokey okeodal oldy\ndarolaly\nokechy\notal\nchor olekor\nokeodor\nolky\ndoldam\nqokeeoy chokol qokeeo dy qokeeol olpchey daiir okeedy okolol\ndol okeeol okeor okal okaiin ckheol okolaiin okolaiin cheoldy\nyoiin ol ol olaiin qockhey qokol olshy qokeeor or aiin doldam\nol okeeey oqoeeol cheol chody okoiin\noralas\nc@132;eol soc@133;hey qokol olkeol daiin okoly\nol cheey qokeol okeol okeol shokol ykey\ndar shol okchey ckhey qokololal okeol\nor aiin okeody okol odaiin qoky olaldy\nqockhol oiin shody qokol aiidal aiidaiim\nol sheol olkeol okol or oraloly ykeol okal okaldaly\nychol olkeeoldy\nkoleearol",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

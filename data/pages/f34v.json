@@ -1,0 +1,77 @@
+{
+  "folio": "f34v",
+  "page_number": 66,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "libanotus umbilifera",
+  "plant_candidates": [
+    "libanotus umbilifera"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f34v.1,@P0",
+      "raw": "<%>k[e':s]chdy.chdy.chefchy.shdy.qopchdy.shdydy.chdalchdy.ypchdy.chcthdy.spaiin",
+      "eva": "k[e':s]chdy chdy chefchy shdy qopchdy shdydy chdalchdy ypchdy chcthdy spaiin"
+    },
+    {
+      "locus": "f34v.2,+P0",
+      "raw": "tol.qokchy.dychedy.okchy.chckhdy.chdaiin.ckhy.loees.ykar.aiin.oldam",
+      "eva": "tol qokchy dychedy okchy chckhdy chdaiin ckhy loees ykar aiin oldam"
+    },
+    {
+      "locus": "f34v.3,+P0",
+      "raw": "ytal.shor.chdal.olchdy.char.or.ol.kedaiiin.chcthy.okchdy.chckhy.dasam",
+      "eva": "ytal shor chdal olchdy char or ol kedaiiin chcthy okchdy chckhy dasam"
+    },
+    {
+      "locus": "f34v.4,+P0",
+      "raw": "tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam",
+      "eva": "tchdaiin chekal shedy qokedar chdaiin oldar qoldar chedy daiin otam"
+    },
+    {
+      "locus": "f34v.5,+P0",
+      "raw": "lshaiir.or,air.shedy.chechey.dykey.kair.chedy.qokar.chekaly.ch[a:o]lky<$>",
+      "eva": "lshaiir or air shedy chechey dykey kair chedy qokar chekaly ch[a:o]lky"
+    },
+    {
+      "locus": "f34v.6,+P0",
+      "raw": "<%>pchedar.shear.qokchdy.qokees.cheol.ypchdaiin.chedy.lr,ar.chedain",
+      "eva": "pchedar shear qokchdy qokees cheol ypchdaiin chedy lr ar chedain"
+    },
+    {
+      "locus": "f34v.7,+P0",
+      "raw": "olchdaiin.chedy.chey,keedy.chy.kedy.dy.qokedy.okey.s,a[ir:is].chkain.otain",
+      "eva": "olchdaiin chedy chey keedy chy kedy dy qokedy okey s a[ir:is] chkain otain"
+    },
+    {
+      "locus": "f34v.8,+P0",
+      "raw": "ysheos.otar.ar.choraiin.cheky.olchdaiin.or.oldar.chdar.oka[m:g]",
+      "eva": "ysheos otar ar choraiin cheky olchdaiin or oldar chdar oka[m:g]"
+    },
+    {
+      "locus": "f34v.9,+P0",
+      "raw": "lsheody.cphy.qokeey.keedy.kchdy.chedy.qokedy.chdy.kal,shs.oldaiin",
+      "eva": "lsheody cphy qokeey keedy kchdy chedy qokedy chdy kal shs oldaiin"
+    },
+    {
+      "locus": "f34v.10,+P0",
+      "raw": "daiin.chdy.tedy.kchdy.okeedy.checkhy.chdy.kain.chear.or.okedy.okam",
+      "eva": "daiin chdy tedy kchdy okeedy checkhy chdy kain chear or okedy okam"
+    },
+    {
+      "locus": "f34v.11,+P0",
+      "raw": "yshos.ody.s.aiin.okey.okal,shedy<$>",
+      "eva": "yshos ody s aiin okey okal shedy"
+    }
+  ],
+  "eva_text": "k[e':s]chdy chdy chefchy shdy qopchdy shdydy chdalchdy ypchdy chcthdy spaiin\ntol qokchy dychedy okchy chckhdy chdaiin ckhy loees ykar aiin oldam\nytal shor chdal olchdy char or ol kedaiiin chcthy okchdy chckhy dasam\ntchdaiin chekal shedy qokedar chdaiin oldar qoldar chedy daiin otam\nlshaiir or air shedy chechey dykey kair chedy qokar chekaly ch[a:o]lky\npchedar shear qokchdy qokees cheol ypchdaiin chedy lr ar chedain\nolchdaiin chedy chey keedy chy kedy dy qokedy okey s a[ir:is] chkain otain\nysheos otar ar choraiin cheky olchdaiin or oldar chdar oka[m:g]\nlsheody cphy qokeey keedy kchdy chedy qokedy chdy kal shs oldaiin\ndaiin chdy tedy kchdy okeedy checkhy chdy kain chear or okedy okam\nyshos ody s aiin okey okal shedy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

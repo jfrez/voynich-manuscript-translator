@@ -1,0 +1,135 @@
+{
+  "folio": "f37v",
+  "page_number": 72,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Same plant as f102r1[3,1] ? (Stolfi)"
+  ],
+  "loci_count": 23,
+  "loci": [
+    {
+      "locus": "f37v.1,@P0",
+      "raw": "<%>[t:k]shody.qocthy.qotoldy.chopdain.sol",
+      "eva": "[t:k]shody qocthy qotoldy chopdain sol"
+    },
+    {
+      "locus": "f37v.2,+P0",
+      "raw": "dor.chol.cthor.orchochor.daiin",
+      "eva": "dor chol cthor orchochor daiin"
+    },
+    {
+      "locus": "f37v.3,+P0",
+      "raw": "qokchon.shy.chon.daiin.dy",
+      "eva": "qokchon shy chon daiin dy"
+    },
+    {
+      "locus": "f37v.4,+P0",
+      "raw": "dshor.dytory.dshor.daiin",
+      "eva": "dshor dytory dshor daiin"
+    },
+    {
+      "locus": "f37v.5,+P0",
+      "raw": "dchor.qotol.ykchon.dain",
+      "eva": "dchor qotol ykchon dain"
+    },
+    {
+      "locus": "f37v.6,+P0",
+      "raw": "yokor.ytchor.saiin.oty",
+      "eva": "yokor ytchor saiin oty"
+    },
+    {
+      "locus": "f37v.7,+P0",
+      "raw": "qotchor.daiin<$>",
+      "eva": "qotchor daiin"
+    },
+    {
+      "locus": "f37v.8,+P0",
+      "raw": "<%>qotor.choiin.chetchy.daiin",
+      "eva": "qotor choiin chetchy daiin"
+    },
+    {
+      "locus": "f37v.9,+P0",
+      "raw": "dor.chor.sho.daiiin.daiin",
+      "eva": "dor chor sho daiiin daiin"
+    },
+    {
+      "locus": "f37v.10,+P0",
+      "raw": "soiin.{ch'}ey.o,koiin.chey.tom",
+      "eva": "soiin ch'ey o koiin chey tom"
+    },
+    {
+      "locus": "f37v.11,+P0",
+      "raw": "qotoiin.choror.cthol.daiin",
+      "eva": "qotoiin choror cthol daiin"
+    },
+    {
+      "locus": "f37v.12,+P0",
+      "raw": "chor,sh[y:o]ly.sheaiin.do.tody",
+      "eva": "chor sh[y:o]ly sheaiin do tody"
+    },
+    {
+      "locus": "f37v.13,+P0",
+      "raw": "sotoiiin<$>",
+      "eva": "sotoiiin"
+    },
+    {
+      "locus": "f37v.14,+P0",
+      "raw": "<%>todain.cphaiin.cphorods",
+      "eva": "todain cphaiin cphorods"
+    },
+    {
+      "locus": "f37v.15,+P0",
+      "raw": "soiiin.cheoky.daiin.dain",
+      "eva": "soiiin cheoky daiin dain"
+    },
+    {
+      "locus": "f37v.16,+P0",
+      "raw": "qotor.daiin.chotaiin",
+      "eva": "qotor daiin chotaiin"
+    },
+    {
+      "locus": "f37v.17,+P0",
+      "raw": "sokchor.qokoiiin.ykeeols",
+      "eva": "sokchor qokoiiin ykeeols"
+    },
+    {
+      "locus": "f37v.18,+P0",
+      "raw": "oyteey.daiin.daiinody",
+      "eva": "oyteey daiin daiinody"
+    },
+    {
+      "locus": "f37v.19,+P0",
+      "raw": "daiin.qkaiin.qotal.daiin",
+      "eva": "daiin qkaiin qotal daiin"
+    },
+    {
+      "locus": "f37v.20,+P0",
+      "raw": "y,cho{ckah}y.ykol,daiin,s",
+      "eva": "y chockahy ykol daiin s"
+    },
+    {
+      "locus": "f37v.21,+P0",
+      "raw": "oshctho.do.daiin.cthols",
+      "eva": "oshctho do daiin cthols"
+    },
+    {
+      "locus": "f37v.22,+P0",
+      "raw": "qotol.ytoiin.cho{cthh}y",
+      "eva": "qotol ytoiin chocthhy"
+    },
+    {
+      "locus": "f37v.23,+P0",
+      "raw": "yto.chol.daiin<$>",
+      "eva": "yto chol daiin"
+    }
+  ],
+  "eva_text": "[t:k]shody qocthy qotoldy chopdain sol\ndor chol cthor orchochor daiin\nqokchon shy chon daiin dy\ndshor dytory dshor daiin\ndchor qotol ykchon dain\nyokor ytchor saiin oty\nqotchor daiin\nqotor choiin chetchy daiin\ndor chor sho daiiin daiin\nsoiin ch'ey o koiin chey tom\nqotoiin choror cthol daiin\nchor sh[y:o]ly sheaiin do tody\nsotoiiin\ntodain cphaiin cphorods\nsoiiin cheoky daiin dain\nqotor daiin chotaiin\nsokchor qokoiiin ykeeols\noyteey daiin daiinody\ndaiin qkaiin qotal daiin\ny chockahy ykol daiin s\noshctho do daiin cthols\nqotol ytoiin chocthhy\nyto chol daiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

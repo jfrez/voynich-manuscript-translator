@@ -1,0 +1,105 @@
+{
+  "folio": "f102r1",
+  "page_number": 208,
+  "section": null,
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "pharmaceutical"
+  ],
+  "loci_count": 17,
+  "loci": [
+    {
+      "locus": "f102r1.1,@Lc",
+      "raw": "<!201a>daarod",
+      "eva": "daarod"
+    },
+    {
+      "locus": "f102r1.2,@Lf",
+      "raw": "<!201b>otodeeodor",
+      "eva": "otodeeodor"
+    },
+    {
+      "locus": "f102r1.3,@P0",
+      "raw": "<%>polaiin.shocthy.qoteol.loiiin.oteeor.cpheodar.sholdaiin",
+      "eva": "polaiin shocthy qoteol loiiin oteeor cpheodar sholdaiin"
+    },
+    {
+      "locus": "f102r1.4,+P0",
+      "raw": "dsheody.okeeoy.kod[?:a].chkeeody.daraiiin.ctheoly.qokcheololain",
+      "eva": "dsheody okeeoy kod[?:a] chkeeody daraiiin ctheoly qokcheololain"
+    },
+    {
+      "locus": "f102r1.5,+P0",
+      "raw": "ytol.sheol.she.olaiin.orain.oraroekeol.chol.ekey.qokol.dain",
+      "eva": "ytol sheol she olaiin orain oraroekeol chol ekey qokol dain"
+    },
+    {
+      "locus": "f102r1.6,+P0",
+      "raw": "daiin.ykeeol.oldy.okodaiin<$>",
+      "eva": "daiin ykeeol oldy okodaiin"
+    },
+    {
+      "locus": "f102r1.7,@Lc",
+      "raw": "<!202a>okolaly",
+      "eva": "okolaly"
+    },
+    {
+      "locus": "f102r1.8,@P0",
+      "raw": "<%>pshodaiin.qoorar.chopy<->chofol.daiin.oteol.qoteol.doly",
+      "eva": "pshodaiin qoorar chopy chofol daiin oteol qoteol doly"
+    },
+    {
+      "locus": "f102r1.9,+P0",
+      "raw": "daiin.orsheoldy.qokeol<->oteeody.lshodykeodal.qokshdy,sy",
+      "eva": "daiin orsheoldy qokeol oteeody lshodykeodal qokshdy sy"
+    },
+    {
+      "locus": "f102r1.10,+P0",
+      "raw": "ycheol.sholdy.chol.chol.ykeeol.dol.doleodaiin.dal.cthedy",
+      "eva": "ycheol sholdy chol chol ykeeol dol doleodaiin dal cthedy"
+    },
+    {
+      "locus": "f102r1.11,+P0",
+      "raw": "dcheo.qockhy.sol,sheey.okeody.qokeodol.shockhey.oleeol<$>",
+      "eva": "dcheo qockhy sol sheey okeody qokeodol shockhey oleeol"
+    },
+    {
+      "locus": "f102r1.12,@Lc",
+      "raw": "<!203a>ddardsh",
+      "eva": "ddardsh"
+    },
+    {
+      "locus": "f102r1.13,@P0",
+      "raw": "<%>teesody.qoeol.olcheor.qokey.okshey.qokeol.sheofol{ckhh}y",
+      "eva": "teesody qoeol olcheor qokey okshey qokeol sheofolckhhy"
+    },
+    {
+      "locus": "f102r1.14,+P0",
+      "raw": "doeey.keeol.qokeo.daor.shey.qoteol.okol.chos.s.or.oeeaiin",
+      "eva": "doeey keeol qokeo daor shey qoteol okol chos s or oeeaiin"
+    },
+    {
+      "locus": "f102r1.15,+P0",
+      "raw": "or.chol.daiin.dykeor.sheey.qokeody.dor.os.ykeeykam",
+      "eva": "or chol daiin dykeor sheey qokeody dor os ykeeykam"
+    },
+    {
+      "locus": "f102r1.16,+P0",
+      "raw": "ddor.chordam<->soraiin.ykeey,dy.okeol.doeoear<->s.aral.dor",
+      "eva": "ddor chordam soraiin ykeey dy okeol doeoear s aral dor"
+    },
+    {
+      "locus": "f102r1.17,+P0",
+      "raw": "ydar,arody<->oldaiin.sody.chockhy,oly<$>",
+      "eva": "ydar arody oldaiin sody chockhy oly"
+    }
+  ],
+  "eva_text": "daarod\notodeeodor\npolaiin shocthy qoteol loiiin oteeor cpheodar sholdaiin\ndsheody okeeoy kod[?:a] chkeeody daraiiin ctheoly qokcheololain\nytol sheol she olaiin orain oraroekeol chol ekey qokol dain\ndaiin ykeeol oldy okodaiin\nokolaly\npshodaiin qoorar chopy chofol daiin oteol qoteol doly\ndaiin orsheoldy qokeol oteeody lshodykeodal qokshdy sy\nycheol sholdy chol chol ykeeol dol doleodaiin dal cthedy\ndcheo qockhy sol sheey okeody qokeodol shockhey oleeol\nddardsh\nteesody qoeol olcheor qokey okshey qokeol sheofolckhhy\ndoeey keeol qokeo daor shey qoteol okol chos s or oeeaiin\nor chol daiin dykeor sheey qokeody dor os ykeeykam\nddor chordam soraiin ykeey dy okeol doeoear s aral dor\nydar arody oldaiin sody chockhy oly",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

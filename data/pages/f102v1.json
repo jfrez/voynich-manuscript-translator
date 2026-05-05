@@ -1,0 +1,144 @@
+{
+  "folio": "f102v1",
+  "page_number": 211,
+  "section": null,
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "pharmaceutical",
+    "gathering number 19",
+    "Look at folio 19r from Petersen photocopy",
+    "Top rows of labels. Petersen ID in curly brackets.",
+    "Second row of labels. Petersen ID in curly brackets."
+  ],
+  "loci_count": 24,
+  "loci": [
+    {
+      "locus": "f102v1.1,@Lc",
+      "raw": "<!234a>keoraiiin",
+      "eva": "keoraiiin"
+    },
+    {
+      "locus": "f102v1.2,@Lf",
+      "raw": "<!234b>okeody",
+      "eva": "okeody"
+    },
+    {
+      "locus": "f102v1.3,@Lf",
+      "raw": "<!235>okeody",
+      "eva": "okeody"
+    },
+    {
+      "locus": "f102v1.4,@Lf",
+      "raw": "<!236>daiisaly",
+      "eva": "daiisaly"
+    },
+    {
+      "locus": "f102v1.5,@Lf",
+      "raw": "<!237>ypary",
+      "eva": "ypary"
+    },
+    {
+      "locus": "f102v1.6,@Lf",
+      "raw": "<!238>opchyt{cy}",
+      "eva": "opchytcy"
+    },
+    {
+      "locus": "f102v1.7,@P0",
+      "raw": "<%>poaiin.ockhey.pchol.doiin.shey.shockhsy.sheocthy.qokeody",
+      "eva": "poaiin ockhey pchol doiin shey shockhsy sheocthy qokeody"
+    },
+    {
+      "locus": "f102v1.8,+P0",
+      "raw": "dairn.ol.chey.[cth:ckh]eol.qokeor.os,aiin.cheor.qokey.choky",
+      "eva": "dairn ol chey [cth:ckh]eol qokeor os aiin cheor qokey choky"
+    },
+    {
+      "locus": "f102v1.9,+P0",
+      "raw": "teody.ckheey.qokeol.sheky.qockheor.or.cheo,rchol.qoteor.dar",
+      "eva": "teody ckheey qokeol sheky qockheor or cheo rchol qoteor dar"
+    },
+    {
+      "locus": "f102v1.10,+P0",
+      "raw": "kochor.ol.ydaiin.choraiin.sheey.ykeey.kor,shey.qokey.dy",
+      "eva": "kochor ol ydaiin choraiin sheey ykeey kor shey qokey dy"
+    },
+    {
+      "locus": "f102v1.11,+P0",
+      "raw": "sol,chol.qooiin.qokol.cheol.chey.kolcheey.daiin.cheody.dy",
+      "eva": "sol chol qooiin qokol cheol chey kolcheey daiin cheody dy"
+    },
+    {
+      "locus": "f102v1.12,+P0",
+      "raw": "y,cheol.cheol.doiir.shekcheor.s,ar.cheor.{@246;kh}ey.pchodaiin",
+      "eva": "y cheol cheol doiir shekcheor s ar cheor @246;khey pchodaiin"
+    },
+    {
+      "locus": "f102v1.13,+P0",
+      "raw": "toiin.ol.daiin.qkol.cheol.daiin.qokar.oaiin.cheey.[s:r]aiim",
+      "eva": "toiin ol daiin qkol cheol daiin qokar oaiin cheey [s:r]aiim"
+    },
+    {
+      "locus": "f102v1.14,+P0",
+      "raw": "chor.cheor.ckhey.oteol.a{ikh}eky<$>",
+      "eva": "chor cheor ckhey oteol aikheky"
+    },
+    {
+      "locus": "f102v1.15,@Lc",
+      "raw": "<!239a>d?indy",
+      "eva": "d?indy"
+    },
+    {
+      "locus": "f102v1.16,@Lf",
+      "raw": "<!239b>ypcholdy",
+      "eva": "ypcholdy"
+    },
+    {
+      "locus": "f102v1.17,@Lf",
+      "raw": "<!240>loralody",
+      "eva": "loralody"
+    },
+    {
+      "locus": "f102v1.18,@Lf",
+      "raw": "<!241>opchdard",
+      "eva": "opchdard"
+    },
+    {
+      "locus": "f102v1.19,@P0",
+      "raw": "<%>fo[i:e]daiin.dair.or.sheol.okeeol.qoteol<->oro{ikh}ey.olkey",
+      "eva": "fo[i:e]daiin dair or sheol okeeol qoteol oroikhey olkey"
+    },
+    {
+      "locus": "f102v1.20,+P0",
+      "raw": "soiin.shey.qokeey.qoeeol.qokeody.sheody.qoeteey.okeey.dam",
+      "eva": "soiin shey qokeey qoeeol qokeody sheody qoeteey okeey dam"
+    },
+    {
+      "locus": "f102v1.21,+P0",
+      "raw": "qoeeody.ychey.okeody.deody.okody.cheodaiin.cheody.[r:s]am",
+      "eva": "qoeeody ychey okeody deody okody cheodaiin cheody [r:s]am"
+    },
+    {
+      "locus": "f102v1.22,+P0",
+      "raw": "yk[ee:ch]ody.chodaiin.qokeos.cheol.qool.chsey.oteody.okchy",
+      "eva": "yk[ee:ch]ody chodaiin qokeos cheol qool chsey oteody okchy"
+    },
+    {
+      "locus": "f102v1.23,+P0",
+      "raw": "ksheody.sho.qokey.sheody.qockhey.olcheor.odain.okchody",
+      "eva": "ksheody sho qokey sheody qockhey olcheor odain okchody"
+    },
+    {
+      "locus": "f102v1.24,+P0",
+      "raw": "ysaiin.ckhey.qoor.cheol<$>",
+      "eva": "ysaiin ckhey qoor cheol"
+    }
+  ],
+  "eva_text": "keoraiiin\nokeody\nokeody\ndaiisaly\nypary\nopchytcy\npoaiin ockhey pchol doiin shey shockhsy sheocthy qokeody\ndairn ol chey [cth:ckh]eol qokeor os aiin cheor qokey choky\nteody ckheey qokeol sheky qockheor or cheo rchol qoteor dar\nkochor ol ydaiin choraiin sheey ykeey kor shey qokey dy\nsol chol qooiin qokol cheol chey kolcheey daiin cheody dy\ny cheol cheol doiir shekcheor s ar cheor @246;khey pchodaiin\ntoiin ol daiin qkol cheol daiin qokar oaiin cheey [s:r]aiim\nchor cheor ckhey oteol aikheky\nd?indy\nypcholdy\nloralody\nopchdard\nfo[i:e]daiin dair or sheol okeeol qoteol oroikhey olkey\nsoiin shey qokeey qoeeol qokeody sheody qoeteey okeey dam\nqoeeody ychey okeody deody okody cheodaiin cheody [r:s]am\nyk[ee:ch]ody chodaiin qokeos cheol qool chsey oteody okchy\nksheody sho qokey sheody qockhey olcheor odain okchody\nysaiin ckhey qoor cheol",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

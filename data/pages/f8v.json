@@ -1,0 +1,110 @@
+{
+  "folio": "f8v",
+  "page_number": 16,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Silene",
+  "plant_candidates": [
+    "Silene"
+  ],
+  "plant_category_guess": "flower",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "silene"
+  ],
+  "refs": [],
+  "notes": [
+    "gathering mark 1: 13mg (Primus)",
+    "end of quire I"
+  ],
+  "loci_count": 17,
+  "loci": [
+    {
+      "locus": "f8v.1,@P0",
+      "raw": "<%>{c@216;h}od.soo{c@196;h}<->sol.shol.otol.chol.opcheaiin.opydaiin.saiin",
+      "eva": "c@216;hod sooc@196;h sol shol otol chol opcheaiin opydaiin saiin"
+    },
+    {
+      "locus": "f8v.2,+P0",
+      "raw": "shcthal.sar<->chor.sheaiin.shor.chykchy.otaiin.{ct}y",
+      "eva": "shcthal sar chor sheaiin shor chykchy otaiin cty"
+    },
+    {
+      "locus": "f8v.3,+P0",
+      "raw": "qody.cheal.sy<->chory<->chear.shol.chaiin.shaiin.dolas",
+      "eva": "qody cheal sy chory chear shol chaiin shaiin dolas"
+    },
+    {
+      "locus": "f8v.4,+P0",
+      "raw": "dshol.shol<->dol<->chean.cthar.shealy.daiin.chary",
+      "eva": "dshol shol dol chean cthar shealy daiin chary"
+    },
+    {
+      "locus": "f8v.5,+P0",
+      "raw": "chol.chol.dar<->otchar.etaiin.cthol.dar",
+      "eva": "chol chol dar otchar etaiin cthol dar"
+    },
+    {
+      "locus": "f8v.6,+P0",
+      "raw": "daiin.cthan<->ytchy.chey,kaiin.dain.ar",
+      "eva": "daiin cthan ytchy chey kaiin dain ar"
+    },
+    {
+      "locus": "f8v.7,+P0",
+      "raw": "sho.kchol<->dar.shey.cthar.chotain.ry",
+      "eva": "sho kchol dar shey cthar chotain ry"
+    },
+    {
+      "locus": "f8v.8,+P0",
+      "raw": "okcholksh<->chol.chol.chol.cthaiin.dain",
+      "eva": "okcholksh chol chol chol cthaiin dain"
+    },
+    {
+      "locus": "f8v.9,+P0",
+      "raw": "shol.orchl<->chokchy.chol.cthor.chaiin",
+      "eva": "shol orchl chokchy chol cthor chaiin"
+    },
+    {
+      "locus": "f8v.10,+P0",
+      "raw": "scharchy<->oeesody.kchey.pchy.cpharom",
+      "eva": "scharchy oeesody kchey pchy cpharom"
+    },
+    {
+      "locus": "f8v.11,+P0",
+      "raw": "sorain<$>",
+      "eva": "sorain"
+    },
+    {
+      "locus": "f8v.12,+P0",
+      "raw": "<%>pchar.cho.rol.dal<->shear.chchotaiin.chal.daiin",
+      "eva": "pchar cho rol dal shear chchotaiin chal daiin"
+    },
+    {
+      "locus": "f8v.13,+P0",
+      "raw": "kchor.otchar.oky<->chokain.keoky.otorchy.satar",
+      "eva": "kchor otchar oky chokain keoky otorchy satar"
+    },
+    {
+      "locus": "f8v.14,+P0",
+      "raw": "shor.okol.lokaiin<->shol.kol.char.cthey.tchy.ckham",
+      "eva": "shor okol lokaiin shol kol char cthey tchy ckham"
+    },
+    {
+      "locus": "f8v.15,+P0",
+      "raw": "or.chol.chan.ch{ck}y<->chor.cheain.char.cheeky.chor.ry",
+      "eva": "or chol chan chcky chor cheain char cheeky chor ry"
+    },
+    {
+      "locus": "f8v.16,+P0",
+      "raw": "chor.cheor.chear<->oteey.dchor.chodey.cho.raiin",
+      "eva": "chor cheor chear oteey dchor chodey cho raiin"
+    },
+    {
+      "locus": "f8v.17,+P0",
+      "raw": "dain.chear.daiin<$>",
+      "eva": "dain chear daiin"
+    }
+  ],
+  "eva_text": "c@216;hod sooc@196;h sol shol otol chol opcheaiin opydaiin saiin\nshcthal sar chor sheaiin shor chykchy otaiin cty\nqody cheal sy chory chear shol chaiin shaiin dolas\ndshol shol dol chean cthar shealy daiin chary\nchol chol dar otchar etaiin cthol dar\ndaiin cthan ytchy chey kaiin dain ar\nsho kchol dar shey cthar chotain ry\nokcholksh chol chol chol cthaiin dain\nshol orchl chokchy chol cthor chaiin\nscharchy oeesody kchey pchy cpharom\nsorain\npchar cho rol dal shear chchotaiin chal daiin\nkchor otchar oky chokain keoky otorchy satar\nshor okol lokaiin shol kol char cthey tchy ckham\nor chol chan chcky chor cheain char cheeky chor ry\nchor cheor chear oteey dchor chodey cho raiin\ndain chear daiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

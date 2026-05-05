@@ -1,0 +1,125 @@
+{
+  "folio": "f71v",
+  "page_number": 138,
+  "section": null,
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Taurus (light)",
+    "General description of page:",
+    "Three concentric rings of text, locus indications C1 to C3 (outer",
+    "to inner). In the centre is a Taurus feeding from a manger. Below",
+    "the bull is the word ``May'' in the Roman alphabet. Between the",
+    "inner ring of text and the middle ring are five",
+    "human figures, each in a barrel, holding a star, and labelled with a word",
+    "of Voynich text. One is naked, four are clothed. Between the middle ring",
+    "and the outer ring are 10 human figures, each in a barrel, holding a star,",
+    "and labeled with a word of Voynich text. Two are naked, eight are clothed.",
+    "Newbold calls this folio 79 and he reads the date of the comet 1273.",
+    "The photograph in Newbold is cropped, so part of ring C1 isn't visible.",
+    "There is a gap at 10:00 which could be the start instead of ThP's choice",
+    "Added text from v101: ?chey.otche",
+    "Nymph labels, outer ring:",
+    "Nymph labels, inner ring:"
+  ],
+  "loci_count": 18,
+  "loci": [
+    {
+      "locus": "f71v.1,@Cc",
+      "raw": "<!10:30>osheo.parar.oteeodaiin.she.ateey.daiin.oteokeey.dal.al.oteey.teey,dy.otchy.keey.sheeo.ochey.?chey.otcheodal.sheealody.cheol.otar.okam.oteodar.chpchy.{cp}ar.al.aiin.oteoshar.okeodaly.oteey.teeey.oteey.keor.or.arol.cheols.okaikaly",
+      "eva": "osheo parar oteeodaiin she ateey daiin oteokeey dal al oteey teey dy otchy keey sheeo ochey ?chey otcheodal sheealody cheol otar okam oteodar chpchy cpar al aiin oteoshar okeodaly oteey teeey oteey keor or arol cheols okaikaly"
+    },
+    {
+      "locus": "f71v.2,@Lz",
+      "raw": "<!10:00>char.arom",
+      "eva": "char arom"
+    },
+    {
+      "locus": "f71v.3,&Lz",
+      "raw": "<!11:00>chfaly",
+      "eva": "chfaly"
+    },
+    {
+      "locus": "f71v.4,&Lz",
+      "raw": "<!00:00>okolar",
+      "eva": "okolar"
+    },
+    {
+      "locus": "f71v.5,&Lz",
+      "raw": "<!01:00>otchody",
+      "eva": "otchody"
+    },
+    {
+      "locus": "f71v.6,&Lz",
+      "raw": "<!02:00>alcphy",
+      "eva": "alcphy"
+    },
+    {
+      "locus": "f71v.7,&Lz",
+      "raw": "<!03:00>otaiin",
+      "eva": "otaiin"
+    },
+    {
+      "locus": "f71v.8,&Lz",
+      "raw": "<!04:30>okaraiin",
+      "eva": "okaraiin"
+    },
+    {
+      "locus": "f71v.9,&Lz",
+      "raw": "<!05:30>otar.ar,aly",
+      "eva": "otar ar aly"
+    },
+    {
+      "locus": "f71v.10,&Lz",
+      "raw": "<!07:00>opalar.am.dan",
+      "eva": "opalar am dan"
+    },
+    {
+      "locus": "f71v.11,&Lz",
+      "raw": "<!09:00>opalor.ar",
+      "eva": "opalor ar"
+    },
+    {
+      "locus": "f71v.12,@Cc",
+      "raw": "<!11:00>chal.oteeos.al.sheky.okalar,ar,okeo,dar.oty.oto,kaiin.chey.tal.otchr.chtos.cheor.shepchol.otor.sheo.shopcho.ar.aly.okeo.cheey.otal.al.shldy.otaly.okol.sheeor",
+      "eva": "chal oteeos al sheky okalar ar okeo dar oty oto kaiin chey tal otchr chtos cheor shepchol otor sheo shopcho ar aly okeo cheey otal al shldy otaly okol sheeor"
+    },
+    {
+      "locus": "f71v.13,@Lz",
+      "raw": "<!10:00>ofa{if}om",
+      "eva": "ofaifom"
+    },
+    {
+      "locus": "f71v.14,&Lz",
+      "raw": "<!00:00>otalody",
+      "eva": "otalody"
+    },
+    {
+      "locus": "f71v.15,&Lz",
+      "raw": "<!03:00>otalaiin",
+      "eva": "otalaiin"
+    },
+    {
+      "locus": "f71v.16,&Lz",
+      "raw": "<!05:30>otar.sh[a:o]r",
+      "eva": "otar sh[a:o]r"
+    },
+    {
+      "locus": "f71v.17,&Lz",
+      "raw": "<!08:30>sholshdy",
+      "eva": "sholshdy"
+    },
+    {
+      "locus": "f71v.18,@Cc",
+      "raw": "<!11:30>okeey.okeosar.otaiin.chkeeal.okal.cheekaiin.okaiin.okchor.dar.oteey.kal",
+      "eva": "okeey okeosar otaiin chkeeal okal cheekaiin okaiin okchor dar oteey kal"
+    }
+  ],
+  "eva_text": "osheo parar oteeodaiin she ateey daiin oteokeey dal al oteey teey dy otchy keey sheeo ochey ?chey otcheodal sheealody cheol otar okam oteodar chpchy cpar al aiin oteoshar okeodaly oteey teeey oteey keor or arol cheols okaikaly\nchar arom\nchfaly\nokolar\notchody\nalcphy\notaiin\nokaraiin\notar ar aly\nopalar am dan\nopalor ar\nchal oteeos al sheky okalar ar okeo dar oty oto kaiin chey tal otchr chtos cheor shepchol otor sheo shopcho ar aly okeo cheey otal al shldy otaly okol sheeor\nofaifom\notalody\notalaiin\notar sh[a:o]r\nsholshdy\nokeey okeosar otaiin chkeeal okal cheekaiin okaiin okchor dar oteey kal",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

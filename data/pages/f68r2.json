@@ -1,0 +1,184 @@
+{
+  "folio": "f68r2",
+  "page_number": 126,
+  "section": "astronomical",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "General description of page:",
+    "A large circle filled with stars, with each with a label",
+    "At the top, within the large circle, is a smaller circle with a moon in",
+    "the middle and a ring of Voynich text around the circumference.",
+    "At the bottom, within the large circle, is a smaller circle with a sun in",
+    "the middle and a ring of Voynich text around the circumference.",
+    "Has 'b' in upper left corner.",
+    "Circular text around moon, badly legible",
+    "Labeled stars. Numbers one less than Petersen's",
+    "Bottom ring of text"
+  ],
+  "loci_count": 31,
+  "loci": [
+    {
+      "locus": "f68r2.1,@P0",
+      "raw": "<%>tsheeor.chor.sheal,dar.opchey.oeecthy.sheol.dokechy.otcheoly",
+      "eva": "tsheeor chor sheal dar opchey oeecthy sheol dokechy otcheoly"
+    },
+    {
+      "locus": "f68r2.2,+P0",
+      "raw": "dchy.ykeechy.dchyky.okeeody.rcheodal.chokeey.cheor.oram",
+      "eva": "dchy ykeechy dchyky okeeody rcheodal chokeey cheor oram"
+    },
+    {
+      "locus": "f68r2.3,+P0",
+      "raw": "tcheos.otchoky.okchol.okol.sheeor.chodchy.qokchdar",
+      "eva": "tcheos otchoky okchol okol sheeor chodchy qokchdar"
+    },
+    {
+      "locus": "f68r2.4,+P0",
+      "raw": "chor.chesy.or[ee:a]d.qoeeckhy.qockheol.qokeol.cheoal.dcholal",
+      "eva": "chor chesy or[ee:a]d qoeeckhy qockheol qokeol cheoal dcholal"
+    },
+    {
+      "locus": "f68r2.5,+P0",
+      "raw": "kcheoey.cheody<->sain.ykeody.chykchy<$>",
+      "eva": "kcheoey cheody sain ykeody chykchy"
+    },
+    {
+      "locus": "f68r2.6,@Cc",
+      "raw": "<!09:30>okeo.ok[a:?]r.ok[y:o].okozy.okaesy.qokool.chio.qoiol",
+      "eva": "okeo ok[a:?]r ok[y:o] okozy okaesy qokool chio qoiol"
+    },
+    {
+      "locus": "f68r2.7,@Ls",
+      "raw": "o@167;olch{c@133;h}y",
+      "eva": "o@167;olchc@133;hy"
+    },
+    {
+      "locus": "f68r2.8,@Ls",
+      "raw": "cheorol",
+      "eva": "cheorol"
+    },
+    {
+      "locus": "f68r2.9,@Ls",
+      "raw": "odaiin",
+      "eva": "odaiin"
+    },
+    {
+      "locus": "f68r2.10,@Ls",
+      "raw": "ochory",
+      "eva": "ochory"
+    },
+    {
+      "locus": "f68r2.11,@Ls",
+      "raw": "shdar",
+      "eva": "shdar"
+    },
+    {
+      "locus": "f68r2.12,@Ls",
+      "raw": "dchol",
+      "eva": "dchol"
+    },
+    {
+      "locus": "f68r2.13,@Ls",
+      "raw": "todaraiily",
+      "eva": "todaraiily"
+    },
+    {
+      "locus": "f68r2.14,@Ls",
+      "raw": "olcheesey",
+      "eva": "olcheesey"
+    },
+    {
+      "locus": "f68r2.15,@Ls",
+      "raw": "okchor",
+      "eva": "okchor"
+    },
+    {
+      "locus": "f68r2.16,@Ls",
+      "raw": "oteool",
+      "eva": "oteool"
+    },
+    {
+      "locus": "f68r2.17,@Ls",
+      "raw": "oydchy",
+      "eva": "oydchy"
+    },
+    {
+      "locus": "f68r2.18,@Ls",
+      "raw": "okeeeody",
+      "eva": "okeeeody"
+    },
+    {
+      "locus": "f68r2.19,@Ls",
+      "raw": "cholar",
+      "eva": "cholar"
+    },
+    {
+      "locus": "f68r2.20,@Ls",
+      "raw": "dcheoldy",
+      "eva": "dcheoldy"
+    },
+    {
+      "locus": "f68r2.21,@Ls",
+      "raw": "oteeear",
+      "eva": "oteeear"
+    },
+    {
+      "locus": "f68r2.22,@Ls",
+      "raw": "otoeeo",
+      "eva": "otoeeo"
+    },
+    {
+      "locus": "f68r2.23,@Ls",
+      "raw": "ofcheody",
+      "eva": "ofcheody"
+    },
+    {
+      "locus": "f68r2.24,@Ls",
+      "raw": "otcheodar",
+      "eva": "otcheodar"
+    },
+    {
+      "locus": "f68r2.25,@Ls",
+      "raw": "odair.chol",
+      "eva": "odair chol"
+    },
+    {
+      "locus": "f68r2.26,@Ls",
+      "raw": "opocphor",
+      "eva": "opocphor"
+    },
+    {
+      "locus": "f68r2.27,@Ls",
+      "raw": "otoshol",
+      "eva": "otoshol"
+    },
+    {
+      "locus": "f68r2.28,@Ls",
+      "raw": "chodar",
+      "eva": "chodar"
+    },
+    {
+      "locus": "f68r2.29,@Ls",
+      "raw": "sheey",
+      "eva": "sheey"
+    },
+    {
+      "locus": "f68r2.30,@Ls",
+      "raw": "ok[eeee:eech]or",
+      "eva": "ok[eeee:eech]or"
+    },
+    {
+      "locus": "f68r2.31,@Cc",
+      "raw": "<!09:30>okey.okoaiin.okol.o,ky.oeeeo.r.okey.okeeol.cheo.o.@231;@232;@233;@234;",
+      "eva": "okey okoaiin okol o ky oeeeo r okey okeeol cheo o @231;@232;@233;@234;"
+    }
+  ],
+  "eva_text": "tsheeor chor sheal dar opchey oeecthy sheol dokechy otcheoly\ndchy ykeechy dchyky okeeody rcheodal chokeey cheor oram\ntcheos otchoky okchol okol sheeor chodchy qokchdar\nchor chesy or[ee:a]d qoeeckhy qockheol qokeol cheoal dcholal\nkcheoey cheody sain ykeody chykchy\nokeo ok[a:?]r ok[y:o] okozy okaesy qokool chio qoiol\no@167;olchc@133;hy\ncheorol\nodaiin\nochory\nshdar\ndchol\ntodaraiily\nolcheesey\nokchor\noteool\noydchy\nokeeeody\ncholar\ndcheoldy\noteeear\notoeeo\nofcheody\notcheodar\nodair chol\nopocphor\notoshol\nchodar\nsheey\nok[eeee:eech]or\nokey okoaiin okol o ky oeeeo r okey okeeol cheo o @231;@232;@233;@234;",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

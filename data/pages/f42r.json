@@ -1,0 +1,140 @@
+{
+  "folio": "f42r",
+  "page_number": 81,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Tropical Arum sagittarium visicating,",
+  "plant_candidates": [
+    "Tropical Arum sagittarium visicating"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "Has two plants.",
+    "crelpius(sp?) ranunculus, arum sagittarii"
+  ],
+  "loci_count": 23,
+  "loci": [
+    {
+      "locus": "f42r.1,@P0",
+      "raw": "<%>{c@155;h}o.ofaiin.ctha{ih}{c@196;h}y.otcheey.pchear",
+      "eva": "c@155;ho ofaiin cthaihc@196;hy otcheey pchear"
+    },
+    {
+      "locus": "f42r.2,+P0",
+      "raw": "solkaiin.char.cheky.otshaiin.daiir[y:a]",
+      "eva": "solkaiin char cheky otshaiin daiir[y:a]"
+    },
+    {
+      "locus": "f42r.3,+P0",
+      "raw": "toshy.chtshar.chotar.chain.dal",
+      "eva": "toshy chtshar chotar chain dal"
+    },
+    {
+      "locus": "f42r.4,+P0",
+      "raw": "shor.chetar.chotai[s:r].dar.cthaiin",
+      "eva": "shor chetar chotai[s:r] dar cthaiin"
+    },
+    {
+      "locus": "f42r.5,+P0",
+      "raw": "qokar.chockhy.chotor.chy.kary",
+      "eva": "qokar chockhy chotor chy kary"
+    },
+    {
+      "locus": "f42r.6,+Pc",
+      "raw": "dorain.[{ih}:ch]ar<$>",
+      "eva": "dorain [ih:ch]ar"
+    },
+    {
+      "locus": "f42r.7,+P0",
+      "raw": "<%>pcho.chy.kshaiin.shotaiin.cham.shan",
+      "eva": "pcho chy kshaiin shotaiin cham shan"
+    },
+    {
+      "locus": "f42r.8,+P0",
+      "raw": "yshol.chees.cthol.shor.shol.ety.char,y",
+      "eva": "yshol chees cthol shor shol ety char y"
+    },
+    {
+      "locus": "f42r.9,+P0",
+      "raw": "qotch[a:o]r.otchol.ctho.kchodan.chkchory",
+      "eva": "qotch[a:o]r otchol ctho kchodan chkchory"
+    },
+    {
+      "locus": "f42r.10,+P0",
+      "raw": "choty.dol.ksheo.cthor.otol.cthol.chol<->shol,dain",
+      "eva": "choty dol ksheo cthor otol cthol chol shol dain"
+    },
+    {
+      "locus": "f42r.11,+P0",
+      "raw": "qotor.cho.chody.daiin.shol.ctheey.dar<->chy.daiidy",
+      "eva": "qotor cho chody daiin shol ctheey dar chy daiidy"
+    },
+    {
+      "locus": "f42r.12,+P0",
+      "raw": "dcheey.chol.shol.chokaiin.choeky.d{cky}<->dain.dal",
+      "eva": "dcheey chol shol chokaiin choeky dcky dain dal"
+    },
+    {
+      "locus": "f42r.13,+P0",
+      "raw": "qopor.shol.shot.shol.shol.daiin.dain.s<->cheam",
+      "eva": "qopor shol shot shol shol daiin dain s cheam"
+    },
+    {
+      "locus": "f42r.14,+P0",
+      "raw": "sho,kshey.choty.chdain.chodaiin.daiin<->dam",
+      "eva": "sho kshey choty chdain chodaiin daiin dam"
+    },
+    {
+      "locus": "f42r.15,+Pr",
+      "raw": "pchody.otshey.dodaiin<$>",
+      "eva": "pchody otshey dodaiin"
+    },
+    {
+      "locus": "f42r.16,+P0",
+      "raw": "<%>pydaiin.sheor.shaiin.tsh.olchy.sholy",
+      "eva": "pydaiin sheor shaiin tsh olchy sholy"
+    },
+    {
+      "locus": "f42r.17,+P0",
+      "raw": "shotol,shol.chety.daiin.chokchy.chkaiin",
+      "eva": "shotol shol chety daiin chokchy chkaiin"
+    },
+    {
+      "locus": "f42r.18,+P0",
+      "raw": "qody.cthochy.otaiin.shy.kshes.chorain",
+      "eva": "qody cthochy otaiin shy kshes chorain"
+    },
+    {
+      "locus": "f42r.19,+P0",
+      "raw": "otchoty.daiin.chot,sho.{ck@191;h}y<!corr?>,{cty},s.os",
+      "eva": "otchoty daiin chot sho ck@191;hy cty s os"
+    },
+    {
+      "locus": "f42r.20,+P0",
+      "raw": "shol.chol.shoky.okol.sho.chol.shol.chal",
+      "eva": "shol chol shoky okol sho chol shol chal"
+    },
+    {
+      "locus": "f42r.21,+P0",
+      "raw": "shol.chol.chol.shol.{ct}oiin.{c'o}s.odan",
+      "eva": "shol chol chol shol ctoiin c'os odan"
+    },
+    {
+      "locus": "f42r.22,+P0",
+      "raw": "kchaiin.chos.ckhaiin.choro,r.chaiin",
+      "eva": "kchaiin chos ckhaiin choro r chaiin"
+    },
+    {
+      "locus": "f42r.23,+Pr",
+      "raw": "okchol,shol.kolschees<$>",
+      "eva": "okchol shol kolschees"
+    }
+  ],
+  "eva_text": "c@155;ho ofaiin cthaihc@196;hy otcheey pchear\nsolkaiin char cheky otshaiin daiir[y:a]\ntoshy chtshar chotar chain dal\nshor chetar chotai[s:r] dar cthaiin\nqokar chockhy chotor chy kary\ndorain [ih:ch]ar\npcho chy kshaiin shotaiin cham shan\nyshol chees cthol shor shol ety char y\nqotch[a:o]r otchol ctho kchodan chkchory\nchoty dol ksheo cthor otol cthol chol shol dain\nqotor cho chody daiin shol ctheey dar chy daiidy\ndcheey chol shol chokaiin choeky dcky dain dal\nqopor shol shot shol shol daiin dain s cheam\nsho kshey choty chdain chodaiin daiin dam\npchody otshey dodaiin\npydaiin sheor shaiin tsh olchy sholy\nshotol shol chety daiin chokchy chkaiin\nqody cthochy otaiin shy kshes chorain\notchoty daiin chot sho ck@191;hy cty s os\nshol chol shoky okol sho chol shol chal\nshol chol chol shol ctoiin c'os odan\nkchaiin chos ckhaiin choro r chaiin\nokchol shol kolschees",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

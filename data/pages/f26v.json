@@ -1,0 +1,67 @@
+{
+  "folio": "f26v",
+  "page_number": 50,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Verbena foenica",
+  "plant_candidates": [
+    "Verbena foenica"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 9,
+  "loci": [
+    {
+      "locus": "f26v.1,@P0",
+      "raw": "<%>pchedar.qodary.daiiin.pcheety.s,air.shedy.ypchedy.ypchdy.qopy.shdy",
+      "eva": "pchedar qodary daiiin pcheety s air shedy ypchedy ypchdy qopy shdy"
+    },
+    {
+      "locus": "f26v.2,+P0",
+      "raw": "saraiir.chekedy.qokedy.otedy.sar,y,etedy.qokedy.or.a{i'h}e.alys.chedy",
+      "eva": "saraiir chekedy qokedy otedy sar y etedy qokedy or ai'he alys chedy"
+    },
+    {
+      "locus": "f26v.3,+P0",
+      "raw": "pchdar.opar.dar.cheeol.ofchdy.otedy.{c@176;h}dy.odar.chedy.ytedy.okchdy.g",
+      "eva": "pchdar opar dar cheeol ofchdy otedy c@176;hdy odar chedy ytedy okchdy g"
+    },
+    {
+      "locus": "f26v.4,+P0",
+      "raw": "y[ckhe:{ck}ee]ody.qokedy.deey.saldy.okedor.or.cheos.oraiin.okeo.chekaiin",
+      "eva": "y[ckhe:ckee]ody qokedy deey saldy okedor or cheos oraiin okeo chekaiin"
+    },
+    {
+      "locus": "f26v.5,+P0",
+      "raw": "deeol.cheody.qoteedy.qokody.qotedy.qotedy.opchedy.ofchy.chs.ar",
+      "eva": "deeol cheody qoteedy qokody qotedy qotedy opchedy ofchy chs ar"
+    },
+    {
+      "locus": "f26v.6,+P0",
+      "raw": "toeedy.keody.shedy.dar.chedy.sches.or,cheeky.dar.chey.cheky.yteedy",
+      "eva": "toeedy keody shedy dar chedy sches or cheeky dar chey cheky yteedy"
+    },
+    {
+      "locus": "f26v.7,+P0",
+      "raw": "pchedy.dar.cheoet.chy.sair.chees.odaiiin.chkeeey.ykey.sheey",
+      "eva": "pchedy dar cheoet chy sair chees odaiiin chkeeey ykey sheey"
+    },
+    {
+      "locus": "f26v.8,+P0",
+      "raw": "tchedy.okeeos.cheeos.ysaiin.okcheey.keody.s,aiin.cheeos.qokes.ory",
+      "eva": "tchedy okeeos cheeos ysaiin okcheey keody s aiin cheeos qokes ory"
+    },
+    {
+      "locus": "f26v.9,+P0",
+      "raw": "ysheey.okeshy.shody.peshy.todydy<$>",
+      "eva": "ysheey okeshy shody peshy todydy"
+    }
+  ],
+  "eva_text": "pchedar qodary daiiin pcheety s air shedy ypchedy ypchdy qopy shdy\nsaraiir chekedy qokedy otedy sar y etedy qokedy or ai'he alys chedy\npchdar opar dar cheeol ofchdy otedy c@176;hdy odar chedy ytedy okchdy g\ny[ckhe:ckee]ody qokedy deey saldy okedor or cheos oraiin okeo chekaiin\ndeeol cheody qoteedy qokody qotedy qotedy opchedy ofchy chs ar\ntoeedy keody shedy dar chedy sches or cheeky dar chey cheky yteedy\npchedy dar cheoet chy sair chees odaiiin chkeeey ykey sheey\ntchedy okeeos cheeos ysaiin okcheey keody s aiin cheeos qokes ory\nysheey okeshy shody peshy todydy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

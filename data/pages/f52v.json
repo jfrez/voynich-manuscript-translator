@@ -1,0 +1,88 @@
+{
+  "folio": "f52v",
+  "page_number": 102,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 14,
+  "loci": [
+    {
+      "locus": "f52v.1,@P0",
+      "raw": "<%>pchor.chcphol.cphaiiin.otcheor.ytor,kol.chocph[a:o]r",
+      "eva": "pchor chcphol cphaiiin otcheor ytor kol chocph[a:o]r"
+    },
+    {
+      "locus": "f52v.2,+P0",
+      "raw": "ytchey.chol.ctho,daiir.shy.kor.ese,chor.chy.dam",
+      "eva": "ytchey chol ctho daiir shy kor ese chor chy dam"
+    },
+    {
+      "locus": "f52v.3,+P0",
+      "raw": "oor,chor.chochar.l[s:r].chteeor.ytol.sheol.otam",
+      "eva": "oor chor chochar l[s:r] chteeor ytol sheol otam"
+    },
+    {
+      "locus": "f52v.4,+P0",
+      "raw": "tchor.ctheor.ctheol.cheeor.cheol.chckheey.s[o:a]dy",
+      "eva": "tchor ctheor ctheol cheeor cheol chckheey s[o:a]dy"
+    },
+    {
+      "locus": "f52v.5,+P0",
+      "raw": "yteey.cthor,cheo[s:r].cpheodar.dy<->sarg",
+      "eva": "yteey cthor cheo[s:r] cpheodar dy sarg"
+    },
+    {
+      "locus": "f52v.6,+P0",
+      "raw": "qotodaiin.cthor.oty.kcholy<$>",
+      "eva": "qotodaiin cthor oty kcholy"
+    },
+    {
+      "locus": "f52v.7,+P0",
+      "raw": "<%>pcheol.sholoiin.cthor.aiin",
+      "eva": "pcheol sholoiin cthor aiin"
+    },
+    {
+      "locus": "f52v.8,+P0",
+      "raw": "kodaiin.cthy.qokeey.s.ol",
+      "eva": "kodaiin cthy qokeey s ol"
+    },
+    {
+      "locus": "f52v.9,+P0",
+      "raw": "daiin.ckheol.chol.qoke[y:o]l.daiin",
+      "eva": "daiin ckheol chol qoke[y:o]l daiin"
+    },
+    {
+      "locus": "f52v.10,+P0",
+      "raw": "yokee[y:o].qokody.chol.sol,s.aiin",
+      "eva": "yokee[y:o] qokody chol sol s aiin"
+    },
+    {
+      "locus": "f52v.11,+P0",
+      "raw": "daiin.shor.qodaiin.ckhey.sal",
+      "eva": "daiin shor qodaiin ckhey sal"
+    },
+    {
+      "locus": "f52v.12,+P0",
+      "raw": "qoekar.ckhol.ykchody.ckhy",
+      "eva": "qoekar ckhol ykchody ckhy"
+    },
+    {
+      "locus": "f52v.13,+P0",
+      "raw": "yk[o:a]r.okaiiin.ckheeey.daiig",
+      "eva": "yk[o:a]r okaiiin ckheeey daiig"
+    },
+    {
+      "locus": "f52v.14,+P0",
+      "raw": "odar.cheokor.ckheey<$>",
+      "eva": "odar cheokor ckheey"
+    }
+  ],
+  "eva_text": "pchor chcphol cphaiiin otcheor ytor kol chocph[a:o]r\nytchey chol ctho daiir shy kor ese chor chy dam\noor chor chochar l[s:r] chteeor ytol sheol otam\ntchor ctheor ctheol cheeor cheol chckheey s[o:a]dy\nyteey cthor cheo[s:r] cpheodar dy sarg\nqotodaiin cthor oty kcholy\npcheol sholoiin cthor aiin\nkodaiin cthy qokeey s ol\ndaiin ckheol chol qoke[y:o]l daiin\nyokee[y:o] qokody chol sol s aiin\ndaiin shor qodaiin ckhey sal\nqoekar ckhol ykchody ckhy\nyk[o:a]r okaiiin ckheeey daiig\nodar cheokor ckheey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

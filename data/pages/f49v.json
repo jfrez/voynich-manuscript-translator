@@ -1,0 +1,286 @@
+{
+  "folio": "f49v",
+  "page_number": 96,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Lunaria. Cyclamen (Holm)",
+  "plant_candidates": [
+    "Lunaria. Cyclamen"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "has a 'key-like' sequence",
+    "In the left margin there is a vertical sequence 1 2 3 4 5 aligned with",
+    "the 1st paragraph, starting from line 2."
+  ],
+  "loci_count": 52,
+  "loci": [
+    {
+      "locus": "f49v.1,@L0",
+      "raw": "f",
+      "eva": "f"
+    },
+    {
+      "locus": "f49v.2,=P0",
+      "raw": "<%>kshor.shol.cphokchol.ch{cfhh}y",
+      "eva": "kshor shol cphokchol chcfhhy"
+    },
+    {
+      "locus": "f49v.3,*L0",
+      "raw": "o",
+      "eva": "o"
+    },
+    {
+      "locus": "f49v.4,=P0",
+      "raw": "qokchy.qokchod.sho.ckhy",
+      "eva": "qokchy qokchod sho ckhy"
+    },
+    {
+      "locus": "f49v.5,*L0",
+      "raw": "r",
+      "eva": "r"
+    },
+    {
+      "locus": "f49v.6,=P0",
+      "raw": "chotchy.chcthy.cthey.koddy",
+      "eva": "chotchy chcthy cthey koddy"
+    },
+    {
+      "locus": "f49v.7,*L0",
+      "raw": "y",
+      "eva": "y"
+    },
+    {
+      "locus": "f49v.8,=P0",
+      "raw": "okeodsho.chotshol.dam",
+      "eva": "okeodsho chotshol dam"
+    },
+    {
+      "locus": "f49v.9,*L0",
+      "raw": "e",
+      "eva": "e"
+    },
+    {
+      "locus": "f49v.10,=P0",
+      "raw": "shol.shodaiin.qotchar",
+      "eva": "shol shodaiin qotchar"
+    },
+    {
+      "locus": "f49v.11,*L0",
+      "raw": "@140;",
+      "eva": "@140;"
+    },
+    {
+      "locus": "f49v.12,=P0",
+      "raw": "qot[ch:ee]y.chokchy.choky",
+      "eva": "qot[ch:ee]y chokchy choky"
+    },
+    {
+      "locus": "f49v.13,*L0",
+      "raw": "k",
+      "eva": "k"
+    },
+    {
+      "locus": "f49v.14,=P0",
+      "raw": "chotchy.chodaiin.dan",
+      "eva": "chotchy chodaiin dan"
+    },
+    {
+      "locus": "f49v.15,*L0",
+      "raw": "s",
+      "eva": "s"
+    },
+    {
+      "locus": "f49v.16,=P0",
+      "raw": "qoteees.cheo.daiin,dol",
+      "eva": "qoteees cheo daiin dol"
+    },
+    {
+      "locus": "f49v.17,*L0",
+      "raw": "p",
+      "eva": "p"
+    },
+    {
+      "locus": "f49v.18,=P0",
+      "raw": "ochor.sheeod.ksheo,dl",
+      "eva": "ochor sheeod ksheo dl"
+    },
+    {
+      "locus": "f49v.19,*L0",
+      "raw": "o",
+      "eva": "o"
+    },
+    {
+      "locus": "f49v.20,=P0",
+      "raw": "q'oksho,daiin.shckhy,dar",
+      "eva": "q'oksho daiin shckhy dar"
+    },
+    {
+      "locus": "f49v.21,*L0",
+      "raw": "@192;",
+      "eva": "@192;"
+    },
+    {
+      "locus": "f49v.22,=P0",
+      "raw": "dchol.cthol.daiin.choky",
+      "eva": "dchol cthol daiin choky"
+    },
+    {
+      "locus": "f49v.23,*L0",
+      "raw": "y",
+      "eva": "y"
+    },
+    {
+      "locus": "f49v.24,=P0",
+      "raw": "ochokeey.ckhey.daiin.dain.chokag",
+      "eva": "ochokeey ckhey daiin dain chokag"
+    },
+    {
+      "locus": "f49v.25,*L0",
+      "raw": "e",
+      "eva": "e"
+    },
+    {
+      "locus": "f49v.26,=P0",
+      "raw": "qokeol,chokeeody.otol.kcho,s.chol.daiin<$>",
+      "eva": "qokeol chokeeody otol kcho s chol daiin"
+    },
+    {
+      "locus": "f49v.27,*L0",
+      "raw": "@140;",
+      "eva": "@140;"
+    },
+    {
+      "locus": "f49v.28,=P0",
+      "raw": "<%>fchochor.shol.tchol.opcheodal.dchsy<->chotchy",
+      "eva": "fchochor shol tchol opcheodal dchsy chotchy"
+    },
+    {
+      "locus": "f49v.29,*L0",
+      "raw": "@164;",
+      "eva": "@164;"
+    },
+    {
+      "locus": "f49v.30,=P0",
+      "raw": "dcho.d.chol.chokchodaiin.chokchy.tchol<->okchokol",
+      "eva": "dcho d chol chokchodaiin chokchy tchol okchokol"
+    },
+    {
+      "locus": "f49v.31,*L0",
+      "raw": "p",
+      "eva": "p"
+    },
+    {
+      "locus": "f49v.32,=P0",
+      "raw": "tchotchey.chokeeodol.rcheey.otchodar<->dcho.dchog",
+      "eva": "tchotchey chokeeodol rcheey otchodar dcho dchog"
+    },
+    {
+      "locus": "f49v.33,*L0",
+      "raw": "o",
+      "eva": "o"
+    },
+    {
+      "locus": "f49v.34,=P0",
+      "raw": "shocho.oaiin.sheo.choty<$>",
+      "eva": "shocho oaiin sheo choty"
+    },
+    {
+      "locus": "f49v.35,*L0",
+      "raw": "@192;",
+      "eva": "@192;"
+    },
+    {
+      "locus": "f49v.36,=P0",
+      "raw": "<%>qotcho.cheol.chol,s.cho,chcthey.dcheol<->chotchody",
+      "eva": "qotcho cheol chol s cho chcthey dcheol chotchody"
+    },
+    {
+      "locus": "f49v.37,*L0",
+      "raw": "y",
+      "eva": "y"
+    },
+    {
+      "locus": "f49v.38,=P0",
+      "raw": "chokeo.sho.cheor.cheokchet.chor.daiin,dy<->daiin.qok[g:d]",
+      "eva": "chokeo sho cheor cheokchet chor daiin dy daiin qok[g:d]"
+    },
+    {
+      "locus": "f49v.39,*L0",
+      "raw": "e",
+      "eva": "e"
+    },
+    {
+      "locus": "f49v.40,=P0",
+      "raw": "oaiin.chy.daiin.chol.chaiin.kshardy<->chokchy",
+      "eva": "oaiin chy daiin chol chaiin kshardy chokchy"
+    },
+    {
+      "locus": "f49v.41,*L0",
+      "raw": "@140;",
+      "eva": "@140;"
+    },
+    {
+      "locus": "f49v.42,=P0",
+      "raw": "qokeaiin.cheo.chor.choteey.kcheol.dain<->cho.dai[s:r]in",
+      "eva": "qokeaiin cheo chor choteey kcheol dain cho dai[s:r]in"
+    },
+    {
+      "locus": "f49v.43,*L0",
+      "raw": "d",
+      "eva": "d"
+    },
+    {
+      "locus": "f49v.44,=P0",
+      "raw": "chokaiin.cho.dls.chariin.daiin.chain.dy<->chetcho.dy",
+      "eva": "chokaiin cho dls chariin daiin chain dy chetcho dy"
+    },
+    {
+      "locus": "f49v.45,*L0",
+      "raw": "y",
+      "eva": "y"
+    },
+    {
+      "locus": "f49v.46,=P0",
+      "raw": "oaiin.cheky.@243;.cho.rchseesy.kchor.sol<->chctho.s",
+      "eva": "oaiin cheky @243; cho rchseesy kchor sol chctho s"
+    },
+    {
+      "locus": "f49v.47,*L0",
+      "raw": "e",
+      "eva": "e"
+    },
+    {
+      "locus": "f49v.48,=P0",
+      "raw": "qotcheol.chey.chor.chokaly.chor,dal<->chaiin,d",
+      "eva": "qotcheol chey chor chokaly chor dal chaiin d"
+    },
+    {
+      "locus": "f49v.49,*L0",
+      "raw": "k",
+      "eva": "k"
+    },
+    {
+      "locus": "f49v.50,=P0",
+      "raw": "chol.chor.ches.chkalchy.chokeeoky<->chokoran",
+      "eva": "chol chor ches chkalchy chokeeoky chokoran"
+    },
+    {
+      "locus": "f49v.51,*L0",
+      "raw": "y",
+      "eva": "y"
+    },
+    {
+      "locus": "f49v.52,=P0",
+      "raw": "ykchokeo.r.cheey.daiin<$>",
+      "eva": "ykchokeo r cheey daiin"
+    }
+  ],
+  "eva_text": "f\nkshor shol cphokchol chcfhhy\no\nqokchy qokchod sho ckhy\nr\nchotchy chcthy cthey koddy\ny\nokeodsho chotshol dam\ne\nshol shodaiin qotchar\n@140;\nqot[ch:ee]y chokchy choky\nk\nchotchy chodaiin dan\ns\nqoteees cheo daiin dol\np\nochor sheeod ksheo dl\no\nq'oksho daiin shckhy dar\n@192;\ndchol cthol daiin choky\ny\nochokeey ckhey daiin dain chokag\ne\nqokeol chokeeody otol kcho s chol daiin\n@140;\nfchochor shol tchol opcheodal dchsy chotchy\n@164;\ndcho d chol chokchodaiin chokchy tchol okchokol\np\ntchotchey chokeeodol rcheey otchodar dcho dchog\no\nshocho oaiin sheo choty\n@192;\nqotcho cheol chol s cho chcthey dcheol chotchody\ny\nchokeo sho cheor cheokchet chor daiin dy daiin qok[g:d]\ne\noaiin chy daiin chol chaiin kshardy chokchy\n@140;\nqokeaiin cheo chor choteey kcheol dain cho dai[s:r]in\nd\nchokaiin cho dls chariin daiin chain dy chetcho dy\ny\noaiin cheky @243; cho rchseesy kchor sol chctho s\ne\nqotcheol chey chor chokaly chor dal chaiin d\nk\nchol chor ches chkalchy chokeeoky chokoran\ny\nykchokeo r cheey daiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

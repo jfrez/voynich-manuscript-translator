@@ -1,0 +1,26 @@
+{
+  "folio": "f65r",
+  "page_number": 115,
+  "section": "herbal",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Plant with only two or three words next to it,",
+    "treated as a label."
+  ],
+  "loci_count": 1,
+  "loci": [
+    {
+      "locus": "f65r.1,@Lp",
+      "raw": "otaim,dam.alam",
+      "eva": "otaim dam alam"
+    }
+  ],
+  "eva_text": "otaim dam alam",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

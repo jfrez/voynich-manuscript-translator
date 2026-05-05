@@ -1,0 +1,60 @@
+{
+  "folio": "f5r",
+  "page_number": 9,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "[Herba] Paris, Indian Cucumber?",
+  "plant_candidates": [
+    "Herba Paris",
+    "Indian Cucumber?"
+  ],
+  "plant_category_guess": "root",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "cucumber"
+  ],
+  "refs": [],
+  "notes": [
+    "Two paragraphs"
+  ],
+  "loci_count": 7,
+  "loci": [
+    {
+      "locus": "f5r.1,@P0",
+      "raw": "<%>kchody.fchoy.chkoy.oaiin.oar,olsy.chody.dkshy,dy",
+      "eva": "kchody fchoy chkoy oaiin oar olsy chody dkshy dy"
+    },
+    {
+      "locus": "f5r.2,+P0",
+      "raw": "ochey.okey.qokaiin.sho.ckhoy.cthey.chey.ok[a:y]{@131;o}s.otol",
+      "eva": "ochey okey qokaiin sho ckhoy cthey chey ok[a:y]@131;os otol"
+    },
+    {
+      "locus": "f5r.3,+P0",
+      "raw": "qoaiin.otan,chy.daiin.oteeeb.chocthy.otchy.qotchody",
+      "eva": "qoaiin otan chy daiin oteeeb chocthy otchy qotchody"
+    },
+    {
+      "locus": "f5r.4,+P0",
+      "raw": "otain.sheody.chan.s.cheor.chocthy<$>",
+      "eva": "otain sheody chan s cheor chocthy"
+    },
+    {
+      "locus": "f5r.5,+P0",
+      "raw": "<%>tchy.shody.qoaiin.cholols.sho.qotcheo.daiin.shodaiin",
+      "eva": "tchy shody qoaiin cholols sho qotcheo daiin shodaiin"
+    },
+    {
+      "locus": "f5r.6,+P0",
+      "raw": "sho.cheor,chey.qoeeey.qoykeeey.qoeor.cthy.shotshy.dy",
+      "eva": "sho cheor chey qoeeey qoykeeey qoeor cthy shotshy dy"
+    },
+    {
+      "locus": "f5r.7,+P0",
+      "raw": "qotoeey.keey.cheo,kchy.shody<$>",
+      "eva": "qotoeey keey cheo kchy shody"
+    }
+  ],
+  "eva_text": "kchody fchoy chkoy oaiin oar olsy chody dkshy dy\nochey okey qokaiin sho ckhoy cthey chey ok[a:y]@131;os otol\nqoaiin otan chy daiin oteeeb chocthy otchy qotchody\notain sheody chan s cheor chocthy\ntchy shody qoaiin cholols sho qotcheo daiin shodaiin\nsho cheor chey qoeeey qoykeeey qoeor cthy shotshy dy\nqotoeey keey cheo kchy shody",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

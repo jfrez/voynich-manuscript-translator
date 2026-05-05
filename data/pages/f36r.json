@@ -1,0 +1,67 @@
+{
+  "folio": "f36r",
+  "page_number": 69,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Geranium (SDC = [RZ])",
+  "plant_candidates": [
+    "Geranium"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 9,
+  "loci": [
+    {
+      "locus": "f36r.1,@P0",
+      "raw": "<%>pcha@151;dan.qorain.chcfhal.soiin.cphor.shaiin.cthy.dair",
+      "eva": "pcha@151;dan qorain chcfhal soiin cphor shaiin cthy dair"
+    },
+    {
+      "locus": "f36r.2,+P0",
+      "raw": "oral.shor.ytaiin.qotaiin.qooldy.chty.chol,dy.tor",
+      "eva": "oral shor ytaiin qotaiin qooldy chty chol dy tor"
+    },
+    {
+      "locus": "f36r.3,+P0",
+      "raw": "qotchy.tchy.daiin.@152;aiin.dolsain<$>",
+      "eva": "qotchy tchy daiin @152;aiin dolsain"
+    },
+    {
+      "locus": "f36r.4,+P0",
+      "raw": "<%>podaiir.cphy.qoypchol.som<->{c'y}<->chy.dchy.fchom,dar",
+      "eva": "podaiir cphy qoypchol som c'y chy dchy fchom dar"
+    },
+    {
+      "locus": "f36r.5,+P0",
+      "raw": "daiin.qor.chol.ctholy.s<->o<->r<->chy.sy<->chytaroiin",
+      "eva": "daiin qor chol ctholy s o r chy sy chytaroiin"
+    },
+    {
+      "locus": "f36r.6,+P0",
+      "raw": "okaiin.cthor.y,kaiiin.s<->dain.an<->dan",
+      "eva": "okaiin cthor y kaiiin s dain an dan"
+    },
+    {
+      "locus": "f36r.7,+P0",
+      "raw": "qotol.cthol.okol,dy.okchy<->ytorory<->sold",
+      "eva": "qotol cthol okol dy okchy ytorory sold"
+    },
+    {
+      "locus": "f36r.8,+P0",
+      "raw": "ytchor.cthol.chaiin.yd",
+      "eva": "ytchor cthol chaiin yd"
+    },
+    {
+      "locus": "f36r.9,+P0",
+      "raw": "ytodaly.daiin.otaro<$>",
+      "eva": "ytodaly daiin otaro"
+    }
+  ],
+  "eva_text": "pcha@151;dan qorain chcfhal soiin cphor shaiin cthy dair\noral shor ytaiin qotaiin qooldy chty chol dy tor\nqotchy tchy daiin @152;aiin dolsain\npodaiir cphy qoypchol som c'y chy dchy fchom dar\ndaiin qor chol ctholy s o r chy sy chytaroiin\nokaiin cthor y kaiiin s dain an dan\nqotol cthol okol dy okchy ytorory sold\nytchor cthol chaiin yd\nytodaly daiin otaro",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

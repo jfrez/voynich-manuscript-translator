@@ -1,0 +1,131 @@
+{
+  "folio": "f6v",
+  "page_number": 12,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "blackgum tree?, arctium? Bidens(sp?)kyptis (O'Neill),",
+  "plant_candidates": [
+    "blackgum tree?",
+    "arctium? Bidenskyptis"
+  ],
+  "plant_category_guess": "root",
+  "plant_category_confidence": 0.4,
+  "plant_category_matches": [
+    "arctium"
+  ],
+  "refs": [],
+  "notes": [
+    "(castor oil busk, ricinus?)",
+    "21 lines in apparently two paragraphs"
+  ],
+  "loci_count": 21,
+  "loci": [
+    {
+      "locus": "f6v.1,@P0",
+      "raw": "<%>koary,sar.[ch:{oh}]eekar<!funny o, @246;?>.qoor.shor.chapchy.s.chear.char.otchy",
+      "eva": "koary sar [ch:oh]eekar qoor shor chapchy s chear char otchy"
+    },
+    {
+      "locus": "f6v.2,+P0",
+      "raw": "oees.chor.chckhy.qoekchar.chea[s:r].odaiiin.kchey.chor,chaiin",
+      "eva": "oees chor chckhy qoekchar chea[s:r] odaiiin kchey chor chaiin"
+    },
+    {
+      "locus": "f6v.3,+P0",
+      "raw": "qoair.ckhy.chol.oechockhy.chekchoy.ckhy.okol<->rychos",
+      "eva": "qoair ckhy chol oechockhy chekchoy ckhy okol rychos"
+    },
+    {
+      "locus": "f6v.4,+P0",
+      "raw": "y,shckhy.ytchoy.s.os.y.jajy.dchy.dey.okody<->ytody",
+      "eva": "y shckhy ytchoy s os y jajy dchy dey okody ytody"
+    },
+    {
+      "locus": "f6v.5,+P0",
+      "raw": "dair.{c'ha},chodam.dam.okor.oty<->doldom<$>",
+      "eva": "dair c'ha chodam dam okor oty doldom"
+    },
+    {
+      "locus": "f6v.6,+P0",
+      "raw": "<%>tchody.shocthol.cho{cthh}y.s",
+      "eva": "tchody shocthol chocthhy s"
+    },
+    {
+      "locus": "f6v.7,+P0",
+      "raw": "ychos.ychol.daiin.cthol.dol",
+      "eva": "ychos ychol daiin cthol dol"
+    },
+    {
+      "locus": "f6v.8,+P0",
+      "raw": "ychor.chor.okchey.qokom",
+      "eva": "ychor chor okchey qokom"
+    },
+    {
+      "locus": "f6v.9,+P0",
+      "raw": "oeeo,dal.chor.cthom.s",
+      "eva": "oeeo dal chor cthom s"
+    },
+    {
+      "locus": "f6v.10,+P0",
+      "raw": "qokchod.ychear.kchdy",
+      "eva": "qokchod ychear kchdy"
+    },
+    {
+      "locus": "f6v.11,+P0",
+      "raw": "lor.char.otam.ctho,m,dy",
+      "eva": "lor char otam ctho m dy"
+    },
+    {
+      "locus": "f6v.12,+P0",
+      "raw": "ytcho[s:r].shy.qokam.cthy",
+      "eva": "ytcho[s:r] shy qokam cthy"
+    },
+    {
+      "locus": "f6v.13,+P0",
+      "raw": "yodaiin.cthy.s.chor.oees.or",
+      "eva": "yodaiin cthy s chor oees or"
+    },
+    {
+      "locus": "f6v.14,+P0",
+      "raw": "qokor.chol.cthol.tchalody",
+      "eva": "qokor chol cthol tchalody"
+    },
+    {
+      "locus": "f6v.15,+P0",
+      "raw": "chockhy.s.or.chy.s,ain.ar",
+      "eva": "chockhy s or chy s ain ar"
+    },
+    {
+      "locus": "f6v.16,+P0",
+      "raw": "ochy.cthar.cth[a:o]r.cthy",
+      "eva": "ochy cthar cth[a:o]r cthy"
+    },
+    {
+      "locus": "f6v.17,+P0",
+      "raw": "y,chaies.ckhal.cthodam.dy",
+      "eva": "y chaies ckhal cthodam dy"
+    },
+    {
+      "locus": "f6v.18,+P0",
+      "raw": "ytchocthol.ches.{ith}or",
+      "eva": "ytchocthol ches ithor"
+    },
+    {
+      "locus": "f6v.19,+P0",
+      "raw": "ocholy.kchos.chy.dor",
+      "eva": "ocholy kchos chy dor"
+    },
+    {
+      "locus": "f6v.20,+P0",
+      "raw": "dchor.choldar.okol.daiin",
+      "eva": "dchor choldar okol daiin"
+    },
+    {
+      "locus": "f6v.21,+P0",
+      "raw": "ycheor.chor.octham<$>",
+      "eva": "ycheor chor octham"
+    }
+  ],
+  "eva_text": "koary sar [ch:oh]eekar qoor shor chapchy s chear char otchy\noees chor chckhy qoekchar chea[s:r] odaiiin kchey chor chaiin\nqoair ckhy chol oechockhy chekchoy ckhy okol rychos\ny shckhy ytchoy s os y jajy dchy dey okody ytody\ndair c'ha chodam dam okor oty doldom\ntchody shocthol chocthhy s\nychos ychol daiin cthol dol\nychor chor okchey qokom\noeeo dal chor cthom s\nqokchod ychear kchdy\nlor char otam ctho m dy\nytcho[s:r] shy qokam cthy\nyodaiin cthy s chor oees or\nqokor chol cthol tchalody\nchockhy s or chy s ain ar\nochy cthar cth[a:o]r cthy\ny chaies ckhal cthodam dy\nytchocthol ches ithor\nocholy kchos chy dor\ndchor choldar okol daiin\nycheor chor octham",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

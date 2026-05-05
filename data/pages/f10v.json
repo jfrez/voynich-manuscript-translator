@@ -1,0 +1,57 @@
+{
+  "folio": "f10v",
+  "page_number": 20,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Hellebore? orientalis",
+  "plant_candidates": [
+    "Hellebore? orientalis"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 7,
+  "loci": [
+    {
+      "locus": "f10v.1,@P0",
+      "raw": "<%>paiin,daiin.sheo.pcheey.qoty.daiin.cthor.otydy.sain",
+      "eva": "paiin daiin sheo pcheey qoty daiin cthor otydy sain"
+    },
+    {
+      "locus": "f10v.2,+P0",
+      "raw": "dain.daiin.ckhy.chcthor.choiin.qot.chodaiin.cthy.daiin",
+      "eva": "dain daiin ckhy chcthor choiin qot chodaiin cthy daiin"
+    },
+    {
+      "locus": "f10v.3,+P0",
+      "raw": "dsho.ytey.kchol.ol,ty.chol.dy<$>",
+      "eva": "dsho ytey kchol ol ty chol dy"
+    },
+    {
+      "locus": "f10v.4,+P0",
+      "raw": "<%>qotchytor.shoiin.daiin.qotchey.sh{cthh}y.ytor.dain",
+      "eva": "qotchytor shoiin daiin qotchey shcthhy ytor dain"
+    },
+    {
+      "locus": "f10v.5,+P0",
+      "raw": "sho,ykeey.daiin.qotchy.qotor.chol.daiin.qokchy,ky",
+      "eva": "sho ykeey daiin qotchy qotor chol daiin qokchy ky"
+    },
+    {
+      "locus": "f10v.6,+P0",
+      "raw": "shoiin.chor.shcthy.qoty.qotoiin.qokol.chor,aiin",
+      "eva": "shoiin chor shcthy qoty qotoiin qokol chor aiin"
+    },
+    {
+      "locus": "f10v.7,+P0",
+      "raw": "qokol.chy,ky.chol,cheky.daiin.dain.chckhan<$>",
+      "eva": "qokol chy ky chol cheky daiin dain chckhan"
+    }
+  ],
+  "eva_text": "paiin daiin sheo pcheey qoty daiin cthor otydy sain\ndain daiin ckhy chcthor choiin qot chodaiin cthy daiin\ndsho ytey kchol ol ty chol dy\nqotchytor shoiin daiin qotchey shcthhy ytor dain\nsho ykeey daiin qotchy qotor chol daiin qokchy ky\nshoiin chor shcthy qoty qotoiin qokol chor aiin\nqokol chy ky chol cheky daiin dain chckhan",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

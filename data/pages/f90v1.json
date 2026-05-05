@@ -1,0 +1,77 @@
+{
+  "folio": "f90v1",
+  "page_number": 190,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Same plant as f100r[1,3] ? (Stolfi)",
+    "gathering  mark 15",
+    "folios  91-92 missing"
+  ],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f90v1.1,@P0",
+      "raw": "<%>pcheor.chodar.oleees.chepy.shol<->shckheo<->otol.shey<->cheo,r.cheokeey",
+      "eva": "pcheor chodar oleees chepy shol shckheo otol shey cheo r cheokeey"
+    },
+    {
+      "locus": "f90v1.2,+P0",
+      "raw": "tshor.olsheod.qodaiin.qokeor.sy<->oraiin<->ykeeol<->octheody.{cthhh}y",
+      "eva": "tshor olsheod qodaiin qokeor sy oraiin ykeeol octheody cthhhy"
+    },
+    {
+      "locus": "f90v1.3,+P0",
+      "raw": "daiin.shody.cfheos.qockhy.chol,ol<->sals<->sol<->yteey.or.cheey,tey",
+      "eva": "daiin shody cfheos qockhy chol ol sals sol yteey or cheey tey"
+    },
+    {
+      "locus": "f90v1.4,+P0",
+      "raw": "kos.sheor.chockhor.qekeody.cheody<->sy<->s<->olcheey.{cthh}y.qoky",
+      "eva": "kos sheor chockhor qekeody cheody sy s olcheey cthhy qoky"
+    },
+    {
+      "locus": "f90v1.5,+P0",
+      "raw": "dcheey.keey.keeey.cthey.yty<->okeeody<->sy<->olcheey.sh.qokeys",
+      "eva": "dcheey keey keeey cthey yty okeeody sy olcheey sh qokeys"
+    },
+    {
+      "locus": "f90v1.6,+P0",
+      "raw": "shctheo,ror,sheol,ol.kaiin<$>",
+      "eva": "shctheo ror sheol ol kaiin"
+    },
+    {
+      "locus": "f90v1.7,+P0",
+      "raw": "<%>ksheodal.sheody.qocheot[o:y]<->shokol.qokeshs<->yteody.poda{i@182;h}ey",
+      "eva": "ksheodal sheody qocheot[o:y] shokol qokeshs yteody podai@182;hey"
+    },
+    {
+      "locus": "f90v1.8,+P0",
+      "raw": "daiin.okeeey.cheo.qotecheor.cthodaim.s<->cheol.chor.okeam",
+      "eva": "daiin okeeey cheo qotecheor cthodaim s cheol chor okeam"
+    },
+    {
+      "locus": "f90v1.9,+P0",
+      "raw": "sheor.ol.qokeeoky.okeeol.okeeodaiin.ytol<->sor.a[s:r]iin.aiin",
+      "eva": "sheor ol qokeeoky okeeol okeeodaiin ytol sor a[s:r]iin aiin"
+    },
+    {
+      "locus": "f90v1.10,+P0",
+      "raw": "ykeeor.cheos.q{kh}ey.cheos.oteol.okechod<->oeey.keeos.aiiin",
+      "eva": "ykeeor cheos qkhey cheos oteol okechod oeey keeos aiiin"
+    },
+    {
+      "locus": "f90v1.11,+P0",
+      "raw": "deeocthey.keeeol.sheol.{c't}sheol.daiin<$>",
+      "eva": "deeocthey keeeol sheol c'tsheol daiin"
+    }
+  ],
+  "eva_text": "pcheor chodar oleees chepy shol shckheo otol shey cheo r cheokeey\ntshor olsheod qodaiin qokeor sy oraiin ykeeol octheody cthhhy\ndaiin shody cfheos qockhy chol ol sals sol yteey or cheey tey\nkos sheor chockhor qekeody cheody sy s olcheey cthhy qoky\ndcheey keey keeey cthey yty okeeody sy olcheey sh qokeys\nshctheo ror sheol ol kaiin\nksheodal sheody qocheot[o:y] shokol qokeshs yteody podai@182;hey\ndaiin okeeey cheo qotecheor cthodaim s cheol chor okeam\nsheor ol qokeeoky okeeol okeeodaiin ytol sor a[s:r]iin aiin\nykeeor cheos qkhey cheos oteol okechod oeey keeos aiiin\ndeeocthey keeeol sheol c'tsheol daiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,112 @@
+{
+  "folio": "f68v2",
+  "page_number": 129,
+  "section": "astronomical",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Brumbaugh p41, called f.68r by him.",
+    "Circumference",
+    "Radiating text, clockwise, starting at 00:30"
+  ],
+  "loci_count": 18,
+  "loci": [
+    {
+      "locus": "f68v2.1,@P0",
+      "raw": "<%>teeody.shcthey.psheody.shocthy.ykeody.shdy.shot.ytchy",
+      "eva": "teeody shcthey psheody shocthy ykeody shdy shot ytchy"
+    },
+    {
+      "locus": "f68v2.2,+P0",
+      "raw": "dchaiin.shey.dcheedy.qokeey.shckeey.dal.dy.sheetey.daldy",
+      "eva": "dchaiin shey dcheedy qokeey shckeey dal dy sheetey daldy"
+    },
+    {
+      "locus": "f68v2.3,+P0",
+      "raw": "qoeeey.shekeey.shkeey.s.alchey.cthy.shteody.qoteeody.dam",
+      "eva": "qoeeey shekeey shkeey s alchey cthy shteody qoteeody dam"
+    },
+    {
+      "locus": "f68v2.4,+P0",
+      "raw": "okeey.sheoy.keol.ycheety.okeody.shey.qokey.chol.chekody",
+      "eva": "okeey sheoy keol ycheety okeody shey qokey chol chekody"
+    },
+    {
+      "locus": "f68v2.5,+P0",
+      "raw": "scheos.seekey.okey.chody<->okeos.cheo.sal,ar.oallchdm<$>",
+      "eva": "scheos seekey okey chody okeos cheo sal ar oallchdm"
+    },
+    {
+      "locus": "f68v2.6,@Cc",
+      "raw": "<!10:30>okeadaiin.ykeeody.shsdy.shyokeey.dalches.oko[s:r].cheky.otees.oteydy.okechoy.yteody.chetedy.cheda[d:m]y.[@150;:ch]eectheey.otychdy.oteey.cpheeo,dy.otey.[ch:ee]key.daiin.chey.da[iir:iis].oteeys.sar.o[ckhee:{ck}eee]y.dor,chy.okchy.qokeechy.dal.chy.chokeeey.sary",
+      "eva": "okeadaiin ykeeody shsdy shyokeey dalches oko[s:r] cheky otees oteydy okechoy yteody chetedy cheda[d:m]y [@150;:ch]eectheey otychdy oteey cpheeo dy otey [ch:ee]key daiin chey da[iir:iis] oteeys sar o[ckhee:ckeee]y dor chy okchy qokeechy dal chy chokeeey sary"
+    },
+    {
+      "locus": "f68v2.7,@Ro",
+      "raw": "otey.dalar",
+      "eva": "otey dalar"
+    },
+    {
+      "locus": "f68v2.8,@Ro",
+      "raw": "otosey<!star><->sary",
+      "eva": "otosey sary"
+    },
+    {
+      "locus": "f68v2.9,@Ro",
+      "raw": "yshesas.ar.shy",
+      "eva": "yshesas ar shy"
+    },
+    {
+      "locus": "f68v2.10,@Ro",
+      "raw": "socths.chety",
+      "eva": "socths chety"
+    },
+    {
+      "locus": "f68v2.11,@Ro",
+      "raw": "oteoys<!star><->orasaly",
+      "eva": "oteoys orasaly"
+    },
+    {
+      "locus": "f68v2.12,@Ro",
+      "raw": "yteody.chetey",
+      "eva": "yteody chetey"
+    },
+    {
+      "locus": "f68v2.13,@Ro",
+      "raw": "oteeos.alamchy",
+      "eva": "oteeos alamchy"
+    },
+    {
+      "locus": "f68v2.14,@Ro",
+      "raw": "otchdy<!star><->chetal",
+      "eva": "otchdy chetal"
+    },
+    {
+      "locus": "f68v2.15,@Ro",
+      "raw": "adairchdy.aiin",
+      "eva": "adairchdy aiin"
+    },
+    {
+      "locus": "f68v2.16,@Ro",
+      "raw": "dchedal.daiin",
+      "eva": "dchedal daiin"
+    },
+    {
+      "locus": "f68v2.17,@Ro",
+      "raw": "ykeeepol<!star><->ypchy",
+      "eva": "ykeeepol ypchy"
+    },
+    {
+      "locus": "f68v2.18,@Ro",
+      "raw": "choteey.dary",
+      "eva": "choteey dary"
+    }
+  ],
+  "eva_text": "teeody shcthey psheody shocthy ykeody shdy shot ytchy\ndchaiin shey dcheedy qokeey shckeey dal dy sheetey daldy\nqoeeey shekeey shkeey s alchey cthy shteody qoteeody dam\nokeey sheoy keol ycheety okeody shey qokey chol chekody\nscheos seekey okey chody okeos cheo sal ar oallchdm\nokeadaiin ykeeody shsdy shyokeey dalches oko[s:r] cheky otees oteydy okechoy yteody chetedy cheda[d:m]y [@150;:ch]eectheey otychdy oteey cpheeo dy otey [ch:ee]key daiin chey da[iir:iis] oteeys sar o[ckhee:ckeee]y dor chy okchy qokeechy dal chy chokeeey sary\notey dalar\notosey sary\nyshesas ar shy\nsocths chety\noteoys orasaly\nyteody chetey\noteeos alamchy\notchdy chetal\nadairchdy aiin\ndchedal daiin\nykeeepol ypchy\nchoteey dary",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

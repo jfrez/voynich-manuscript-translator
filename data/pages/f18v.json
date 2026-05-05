@@ -1,0 +1,70 @@
+{
+  "folio": "f18v",
+  "page_number": 34,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Same plant as f102r2[3,1] ? (FSG, Stolfi)"
+  ],
+  "loci_count": 10,
+  "loci": [
+    {
+      "locus": "f18v.1,@P0",
+      "raw": "<%>told.shor.ytshy.otchdal.dchal.dchy.ytdg",
+      "eva": "told shor ytshy otchdal dchal dchy ytdg"
+    },
+    {
+      "locus": "f18v.2,+P0",
+      "raw": "qoeees.or.oaiin.shy@140;.okshy.qokchy.qokchy.s.g",
+      "eva": "qoeees or oaiin shy@140; okshy qokchy qokchy s g"
+    },
+    {
+      "locus": "f18v.3,+P0",
+      "raw": "orshy.qoky.qoky.chkchy.qokshy.qokam",
+      "eva": "orshy qoky qoky chkchy qokshy qokam"
+    },
+    {
+      "locus": "f18v.4,+P0",
+      "raw": "qotchy.qokay.qokchy.ykcho.ydl.dar",
+      "eva": "qotchy qokay qokchy ykcho ydl dar"
+    },
+    {
+      "locus": "f18v.5,+P0",
+      "raw": "ychoees.ykchy.qol.kchy.qotchol.daiir,om",
+      "eva": "ychoees ykchy qol kchy qotchol daiir om"
+    },
+    {
+      "locus": "f18v.6,+P0",
+      "raw": "qotor,chor.otchy.qokeees.chy.s.ar.ykar",
+      "eva": "qotor chor otchy qokeees chy s ar ykar"
+    },
+    {
+      "locus": "f18v.7,+P0",
+      "raw": "ychol.dor.chod.qokol.daiin.qokol.dar.dy",
+      "eva": "ychol dor chod qokol daiin qokol dar dy"
+    },
+    {
+      "locus": "f18v.8,+P0",
+      "raw": "tolol.sh.cphoy.daror.ddy.ytor.ykam",
+      "eva": "tolol sh cphoy daror ddy ytor ykam"
+    },
+    {
+      "locus": "f18v.9,+P0",
+      "raw": "okchor.qotchy.qokchy.ytol.doky.dy",
+      "eva": "okchor qotchy qokchy ytol doky dy"
+    },
+    {
+      "locus": "f18v.10,+P0",
+      "raw": "yk[o:a].dshy.dair.ykol.dom<!spots near dom><$>",
+      "eva": "yk[o:a] dshy dair ykol dom"
+    }
+  ],
+  "eva_text": "told shor ytshy otchdal dchal dchy ytdg\nqoeees or oaiin shy@140; okshy qokchy qokchy s g\norshy qoky qoky chkchy qokshy qokam\nqotchy qokay qokchy ykcho ydl dar\nychoees ykchy qol kchy qotchol daiir om\nqotor chor otchy qokeees chy s ar ykar\nychol dor chod qokol daiin qokol dar dy\ntolol sh cphoy daror ddy ytor ykam\nokchor qotchy qokchy ytol doky dy\nyk[o:a] dshy dair ykol dom",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

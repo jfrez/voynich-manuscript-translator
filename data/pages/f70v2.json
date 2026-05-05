@@ -1,0 +1,200 @@
+{
+  "folio": "f70v2",
+  "page_number": 135,
+  "section": null,
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Pisces",
+    "General description of page:",
+    "Three concentric rings of text. In the centre are two fish (the astrological",
+    "symbol for Pisces), two stars, a ``word'' of Voynich text and the word Mars",
+    "in the Roman alphabet. Mars is French for March, Pisces is February 20th to",
+    "March 20th.",
+    "Between the inner ring and the middle ring are ten female(?) figures, each",
+    "beside a barrel and holding a star. Between the middle and the outer ring",
+    "are 19 (NOT 20) female figures, each standing in a barrel and holding a star",
+    "Each of the figures in the 29 figures is labelled with a \"word\" or phrase",
+    "of Voynich text.",
+    "Nymph labels, outer ring:",
+    "Nymph labels. Clock position is that of nymph (approx).",
+    "Ordering cf. ThP.",
+    "Inner ring:",
+    "Central star:"
+  ],
+  "loci_count": 33,
+  "loci": [
+    {
+      "locus": "f70v2.1,@Cc",
+      "raw": "<!10:30>okcheo.dar.otey.ykeey.tchy.otsheo.oteotey.she[y:o].shecth.opcheoldair.dateey.sal.ody.choteey.choeteedy.oteoteotsho.yteos.alain.sheodaly.{c@162;h}o.aiin.cholkal.chokear.oteody.cholaiin.oteeoal.al.sheeos.okey.chol,dy.otees.cho.s.ola[r:n].otoaiin.oteeody.sos.todaiin.chokain.otalal.oteeam",
+      "eva": "okcheo dar otey ykeey tchy otsheo oteotey she[y:o] shecth opcheoldair dateey sal ody choteey choeteedy oteoteotsho yteos alain sheodaly c@162;ho aiin cholkal chokear oteody cholaiin oteeoal al sheeos okey chol dy otees cho s ola[r:n] otoaiin oteeody sos todaiin chokain otalal oteeam"
+    },
+    {
+      "locus": "f70v2.2,@Lz",
+      "raw": "<!09:00>otalalg",
+      "eva": "otalalg"
+    },
+    {
+      "locus": "f70v2.3,&Lz",
+      "raw": "<!10:00>ykary",
+      "eva": "ykary"
+    },
+    {
+      "locus": "f70v2.4,&Lz",
+      "raw": "<!10:30>otar?",
+      "eva": "otar?"
+    },
+    {
+      "locus": "f70v2.5,&Lz",
+      "raw": "<!11:00>oty",
+      "eva": "oty"
+    },
+    {
+      "locus": "f70v2.6,&Lz",
+      "raw": "<!11:30>oky.ody",
+      "eva": "oky ody"
+    },
+    {
+      "locus": "f70v2.7,&Lz",
+      "raw": "<!00:00>oty.ar",
+      "eva": "oty ar"
+    },
+    {
+      "locus": "f70v2.8,&Lz",
+      "raw": "<!00:30>okala",
+      "eva": "okala"
+    },
+    {
+      "locus": "f70v2.9,&Lz",
+      "raw": "<!01:00>otody",
+      "eva": "otody"
+    },
+    {
+      "locus": "f70v2.10,&Lz",
+      "raw": "<!01:30>otald",
+      "eva": "otald"
+    },
+    {
+      "locus": "f70v2.11,&Lz",
+      "raw": "<!02:00>otaldar",
+      "eva": "otaldar"
+    },
+    {
+      "locus": "f70v2.12,&Lz",
+      "raw": "<!02:45>okody",
+      "eva": "okody"
+    },
+    {
+      "locus": "f70v2.13,&Lz",
+      "raw": "<!03:15>opysam",
+      "eva": "opysam"
+    },
+    {
+      "locus": "f70v2.14,&Lz",
+      "raw": "<!04:00>ch{ckhh}y",
+      "eva": "chckhhy"
+    },
+    {
+      "locus": "f70v2.15,&Lz",
+      "raw": "<!04:30>otaly",
+      "eva": "otaly"
+    },
+    {
+      "locus": "f70v2.16,&Lz",
+      "raw": "<!05:30>otal.arar",
+      "eva": "otal arar"
+    },
+    {
+      "locus": "f70v2.17,&Lz",
+      "raw": "<!06:30>otaldy",
+      "eva": "otaldy"
+    },
+    {
+      "locus": "f70v2.18,&Lz",
+      "raw": "<!07:00>okeoly",
+      "eva": "okeoly"
+    },
+    {
+      "locus": "f70v2.19,&Lz",
+      "raw": "<!08:00>okydy",
+      "eva": "okydy"
+    },
+    {
+      "locus": "f70v2.20,&Lz",
+      "raw": "<!08:30>okee[s:r]",
+      "eva": "okee[s:r]"
+    },
+    {
+      "locus": "f70v2.21,@Cc",
+      "raw": "<!09:00>daii@197;amdy.otar.am.aral.otair,chedaiin.oteey.dair.shchey.daiin.chalaly.oteody.chotol.chedy.oteotey.oteeeor,ar.alody.daiir.oteedar.oteey.teey.dalal.cheoltey.oteedy.sheeteey.?okeeol.ykeeos.shey.ykair.arar.alos",
+      "eva": "daii@197;amdy otar am aral otair chedaiin oteey dair shchey daiin chalaly oteody chotol chedy oteotey oteeeor ar alody daiir oteedar oteey teey dalal cheoltey oteedy sheeteey ?okeeol ykeeos shey ykair arar alos"
+    },
+    {
+      "locus": "f70v2.22,@Lz",
+      "raw": "<!10:00>otar.am",
+      "eva": "otar am"
+    },
+    {
+      "locus": "f70v2.23,&Lz",
+      "raw": "<!11:00>otar,al",
+      "eva": "otar al"
+    },
+    {
+      "locus": "f70v2.24,&Lz",
+      "raw": "<!00:00>otalar",
+      "eva": "otalar"
+    },
+    {
+      "locus": "f70v2.25,&Lz",
+      "raw": "<!01:30>otalam",
+      "eva": "otalam"
+    },
+    {
+      "locus": "f70v2.26,&Lz",
+      "raw": "<!03:00>dolaram",
+      "eva": "dolaram"
+    },
+    {
+      "locus": "f70v2.27,&Lz",
+      "raw": "<!04:00>okaram",
+      "eva": "okaram"
+    },
+    {
+      "locus": "f70v2.28,&Lz",
+      "raw": "<!05:00>oteosal",
+      "eva": "oteosal"
+    },
+    {
+      "locus": "f70v2.29,&Lz",
+      "raw": "<!06:30>salols",
+      "eva": "salols"
+    },
+    {
+      "locus": "f70v2.30,&Lz",
+      "raw": "<!08:00>okaldal",
+      "eva": "okaldal"
+    },
+    {
+      "locus": "f70v2.31,&Lz",
+      "raw": "<!09:00>ykolaiin",
+      "eva": "ykolaiin"
+    },
+    {
+      "locus": "f70v2.32,@Cc",
+      "raw": "<!09:00>otal.daly.oteoal.dal,aildy.otaiin.ar.oteey.shal.o.qoteeal.ar.al.otaiin.al.teodaiin.oteeo,cthey.oteeos.oteos.aiin.daim",
+      "eva": "otal daly oteoal dal aildy otaiin ar oteey shal o qoteeal ar al otaiin al teodaiin oteeo cthey oteeos oteos aiin daim"
+    },
+    {
+      "locus": "f70v2.33,@Lz",
+      "raw": "otolal",
+      "eva": "otolal"
+    }
+  ],
+  "eva_text": "okcheo dar otey ykeey tchy otsheo oteotey she[y:o] shecth opcheoldair dateey sal ody choteey choeteedy oteoteotsho yteos alain sheodaly c@162;ho aiin cholkal chokear oteody cholaiin oteeoal al sheeos okey chol dy otees cho s ola[r:n] otoaiin oteeody sos todaiin chokain otalal oteeam\notalalg\nykary\notar?\noty\noky ody\noty ar\nokala\notody\notald\notaldar\nokody\nopysam\nchckhhy\notaly\notal arar\notaldy\nokeoly\nokydy\nokee[s:r]\ndaii@197;amdy otar am aral otair chedaiin oteey dair shchey daiin chalaly oteody chotol chedy oteotey oteeeor ar alody daiir oteedar oteey teey dalal cheoltey oteedy sheeteey ?okeeol ykeeos shey ykair arar alos\notar am\notar al\notalar\notalam\ndolaram\nokaram\noteosal\nsalols\nokaldal\nykolaiin\notal daly oteoal dal aildy otaiin ar oteey shal o qoteeal ar al otaiin al teodaiin oteeo cthey oteeos oteos aiin daim\notolal",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

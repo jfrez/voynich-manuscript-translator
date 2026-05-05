@@ -1,0 +1,67 @@
+{
+  "folio": "f86v4",
+  "page_number": 168,
+  "section": "cosmological",
+  "currier": "B",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "moon, 5 frothy rings, 4 torsos hiding in bubble bath",
+    "Transcription of circles (C1 to C4 outside inwards).",
+    "Text partly interrupted by creases."
+  ],
+  "loci_count": 9,
+  "loci": [
+    {
+      "locus": "f86v4.1,@Cc",
+      "raw": "<!09:00>opos.os.sheody.pch???ar.odsheo.qody.cheepchdy.lpchedy.olkar.shdar.dchdor.qopcher,ches.os,eeedar.odaiin.pcheodar.chdair.orarorchy.shar.opchsey.otedy.ch{cphh}y.chedy.sarshed.odar.sheey.scheor.al.cheefar.shetchy.qoteol.otor.shar.qoteshy.do???.ofor.arar.dl",
+      "eva": "opos os sheody pch???ar odsheo qody cheepchdy lpchedy olkar shdar dchdor qopcher ches os eeedar odaiin pcheodar chdair orarorchy shar opchsey otedy chcphhy chedy sarshed odar sheey scheor al cheefar shetchy qoteol otor shar qoteshy do??? ofor arar dl"
+    },
+    {
+      "locus": "f86v4.2,@Cc",
+      "raw": "<!09:00>oeeey.[o:y].daiin.otedaiin.otedy.oteey.chedaiin.octhedy.chy.shedaiin.chotaiin.oraiin.otodeee[?:o].ar.yteeody.oteedaraiin.shedaiin.chdar.shedy.qotedaiin.chedy.tchdy.chetdy.chedy.qotar.chedy.chckhy.daiin.otedy.seeedy.yteey.sam",
+      "eva": "oeeey [o:y] daiin otedaiin otedy oteey chedaiin octhedy chy shedaiin chotaiin oraiin otodeee[?:o] ar yteeody oteedaraiin shedaiin chdar shedy qotedaiin chedy tchdy chetdy chedy qotar chedy chckhy daiin otedy seeedy yteey sam"
+    },
+    {
+      "locus": "f86v4.3,@Cc",
+      "raw": "<!09:00>tchey.dair,alody.shes.qeeor.or.odarchdy.chdy.orcheos.o[s:r],ain.or.otee[d:?].chedees.oteedy.qoty.otedy.shedy.otedy.dar,shd.shy,y.schdy.chdeedy.dodar.oiin.or.oiin.sar,orchedy.qotchdy.dchdes.ar.sheody.opcho.fcheom",
+      "eva": "tchey dair alody shes qeeor or odarchdy chdy orcheos o[s:r] ain or otee[d:?] chedees oteedy qoty otedy shedy otedy dar shd shy y schdy chdeedy dodar oiin or oiin sar orchedy qotchdy dchdes ar sheody opcho fcheom"
+    },
+    {
+      "locus": "f86v4.4,@Cc",
+      "raw": "<!09:00>pchedar.ar.o{cp}or.otees.oes.a[iir:iin].olkeor.dar.ain.desy.doeedey.opchedy.shedaiin.dar.otedy.dain.otey.dam.otedy.daiin.chocthy.dtedair.chody.sheos.otedos.qokechy.pchdeedy.dan.ol.dol.oty.sho.pol.otoldyl",
+      "eva": "pchedar ar ocpor otees oes a[iir:iin] olkeor dar ain desy doeedey opchedy shedaiin dar otedy dain otey dam otedy daiin chocthy dtedair chody sheos otedos qokechy pchdeedy dan ol dol oty sho pol otoldyl"
+    },
+    {
+      "locus": "f86v4.5,@P0",
+      "raw": "<%>pcheodar.oedy.qokeol.qoeol<->oqokeol.dar.ol.olair,am",
+      "eva": "pcheodar oedy qokeol qoeol oqokeol dar ol olair am"
+    },
+    {
+      "locus": "f86v4.6,+P0",
+      "raw": "ycheoltar.ol.ol,sheey.qokey.or.aiin.sheeor.sar.al.ol.sheey.qockheey",
+      "eva": "ycheoltar ol ol sheey qokey or aiin sheeor sar al ol sheey qockheey"
+    },
+    {
+      "locus": "f86v4.7,+P0",
+      "raw": "tol,sh,s,or.aiin.ol.keeod.lcheody.okedy.qokeody.qoain.a?",
+      "eva": "tol sh s or aiin ol keeod lcheody okedy qokeody qoain a?"
+    },
+    {
+      "locus": "f86v4.8,+P0",
+      "raw": "daiin.ol,keedy.otar.olshedy.okol,aiin.okal,cheockhy.sho{cthh}y.daiin",
+      "eva": "daiin ol keedy otar olshedy okol aiin okal cheockhy shocthhy daiin"
+    },
+    {
+      "locus": "f86v4.9,+Pc",
+      "raw": "dar.oleey.ol.yy<$>",
+      "eva": "dar oleey ol yy"
+    }
+  ],
+  "eva_text": "opos os sheody pch???ar odsheo qody cheepchdy lpchedy olkar shdar dchdor qopcher ches os eeedar odaiin pcheodar chdair orarorchy shar opchsey otedy chcphhy chedy sarshed odar sheey scheor al cheefar shetchy qoteol otor shar qoteshy do??? ofor arar dl\noeeey [o:y] daiin otedaiin otedy oteey chedaiin octhedy chy shedaiin chotaiin oraiin otodeee[?:o] ar yteeody oteedaraiin shedaiin chdar shedy qotedaiin chedy tchdy chetdy chedy qotar chedy chckhy daiin otedy seeedy yteey sam\ntchey dair alody shes qeeor or odarchdy chdy orcheos o[s:r] ain or otee[d:?] chedees oteedy qoty otedy shedy otedy dar shd shy y schdy chdeedy dodar oiin or oiin sar orchedy qotchdy dchdes ar sheody opcho fcheom\npchedar ar ocpor otees oes a[iir:iin] olkeor dar ain desy doeedey opchedy shedaiin dar otedy dain otey dam otedy daiin chocthy dtedair chody sheos otedos qokechy pchdeedy dan ol dol oty sho pol otoldyl\npcheodar oedy qokeol qoeol oqokeol dar ol olair am\nycheoltar ol ol sheey qokey or aiin sheeor sar al ol sheey qockheey\ntol sh s or aiin ol keeod lcheody okedy qokeody qoain a?\ndaiin ol keedy otar olshedy okol aiin okal cheockhy shocthhy daiin\ndar oleey ol yy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

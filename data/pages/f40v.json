@@ -1,0 +1,121 @@
+{
+  "folio": "f40v",
+  "page_number": 78,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Thistle, Gerneolem(?) Artichoke, Helianthus Tuberosus",
+  "plant_candidates": [
+    "Thistle",
+    "Gerneolem Artichoke",
+    "Helianthus Tuberosus"
+  ],
+  "plant_category_guess": "root",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "tuber"
+  ],
+  "refs": [],
+  "notes": [
+    "gathering mark 5"
+  ],
+  "loci_count": 19,
+  "loci": [
+    {
+      "locus": "f40v.1,@P0",
+      "raw": "<%>pchedain.chefaiin.oldy",
+      "eva": "pchedain chefaiin oldy"
+    },
+    {
+      "locus": "f40v.2,+P0",
+      "raw": "todar.qokaiin.ol.ara[g:m]",
+      "eva": "todar qokaiin ol ara[g:m]"
+    },
+    {
+      "locus": "f40v.3,+P0",
+      "raw": "s,air,ain.okaiin.okam",
+      "eva": "s air ain okaiin okam"
+    },
+    {
+      "locus": "f40v.4,+P0",
+      "raw": "taraiin.okaiin.ch{ckhy}",
+      "eva": "taraiin okaiin chckhy"
+    },
+    {
+      "locus": "f40v.5,+P0",
+      "raw": "solaiin.okar.oly.chckhy",
+      "eva": "solaiin okar oly chckhy"
+    },
+    {
+      "locus": "f40v.6,+P0",
+      "raw": "qoeedaiin.ol.chedy.daiin",
+      "eva": "qoeedaiin ol chedy daiin"
+    },
+    {
+      "locus": "f40v.7,+P0",
+      "raw": "shody.qokol,chedy.s.ar",
+      "eva": "shody qokol chedy s ar"
+    },
+    {
+      "locus": "f40v.8,+P0",
+      "raw": "chodaiin.chkalykedy.okal",
+      "eva": "chodaiin chkalykedy okal"
+    },
+    {
+      "locus": "f40v.9,+P0",
+      "raw": "tchy,pchody.pchdy.kor.ol",
+      "eva": "tchy pchody pchdy kor ol"
+    },
+    {
+      "locus": "f40v.10,+P0",
+      "raw": "tchkaiin.tchedy.qokaiin.oraiin",
+      "eva": "tchkaiin tchedy qokaiin oraiin"
+    },
+    {
+      "locus": "f40v.11,+P0",
+      "raw": "schedy.qokol.chedy.dalor.a{ith}y",
+      "eva": "schedy qokol chedy dalor aithy"
+    },
+    {
+      "locus": "f40v.12,+P0",
+      "raw": "ycheekeey.daiin.okaiin<$>",
+      "eva": "ycheekeey daiin okaiin"
+    },
+    {
+      "locus": "f40v.13,+P0",
+      "raw": "<%>toees.chedy.kedy.olfchedy.qokedy<->daiin.chefain",
+      "eva": "toees chedy kedy olfchedy qokedy daiin chefain"
+    },
+    {
+      "locus": "f40v.14,+P0",
+      "raw": "saiin.o.lchey.kchedy.okar.qokchdy.dy<->qokees.am.chdy",
+      "eva": "saiin o lchey kchedy okar qokchdy dy qokees am chdy"
+    },
+    {
+      "locus": "f40v.15,+P0",
+      "raw": "qokchey.qody.or.aiiin.o,kaiin.o,ckhy<->sheod.faimy",
+      "eva": "qokchey qody or aiiin o kaiin o ckhy sheod faimy"
+    },
+    {
+      "locus": "f40v.16,+P0",
+      "raw": "shol.kedy.lor.ar.okar.qoky.kedy.r<->yteey.qokam",
+      "eva": "shol kedy lor ar okar qoky kedy r yteey qokam"
+    },
+    {
+      "locus": "f40v.17,+P0",
+      "raw": "tochey.qokeedy.qokaiin.okeos.qokar<->okees.ar.o[k:?]y",
+      "eva": "tochey qokeedy qokaiin okeos qokar okees ar o[k:?]y"
+    },
+    {
+      "locus": "f40v.18,+P0",
+      "raw": "saiin.otain.chckhy.okal.okair.arol<->qokey.okary",
+      "eva": "saiin otain chckhy okal okair arol qokey okary"
+    },
+    {
+      "locus": "f40v.19,+Pc",
+      "raw": "pchedy.chetar.ofair.arody<$>",
+      "eva": "pchedy chetar ofair arody"
+    }
+  ],
+  "eva_text": "pchedain chefaiin oldy\ntodar qokaiin ol ara[g:m]\ns air ain okaiin okam\ntaraiin okaiin chckhy\nsolaiin okar oly chckhy\nqoeedaiin ol chedy daiin\nshody qokol chedy s ar\nchodaiin chkalykedy okal\ntchy pchody pchdy kor ol\ntchkaiin tchedy qokaiin oraiin\nschedy qokol chedy dalor aithy\nycheekeey daiin okaiin\ntoees chedy kedy olfchedy qokedy daiin chefain\nsaiin o lchey kchedy okar qokchdy dy qokees am chdy\nqokchey qody or aiiin o kaiin o ckhy sheod faimy\nshol kedy lor ar okar qoky kedy r yteey qokam\ntochey qokeedy qokaiin okeos qokar okees ar o[k:?]y\nsaiin otain chckhy okal okair arol qokey okary\npchedy chetar ofair arody",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

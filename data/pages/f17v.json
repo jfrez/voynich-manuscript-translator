@@ -1,0 +1,141 @@
+{
+  "folio": "f17v",
+  "page_number": 32,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Tamus communis, Polygonum dumetorum(sp?), Smilax,",
+  "plant_candidates": [
+    "Tamus communis",
+    "Polygonum dumetorum",
+    "Smilax"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "polygonum"
+  ],
+  "refs": [],
+  "notes": [
+    "trachaia leaves (Dioscorides fol/25r)"
+  ],
+  "loci_count": 23,
+  "loci": [
+    {
+      "locus": "f17v.1,@P0",
+      "raw": "<%>pchodol.chor.pchy.opydaiin.odal,dy",
+      "eva": "pchodol chor pchy opydaiin odal dy"
+    },
+    {
+      "locus": "f17v.2,+P0",
+      "raw": "ycheey.keeor.cthodal.okol.odaiin.okal",
+      "eva": "ycheey keeor cthodal okol odaiin okal"
+    },
+    {
+      "locus": "f17v.3,+P0",
+      "raw": "oldaig.odaiin.okal.oldaiin.chockhol.olol",
+      "eva": "oldaig odaiin okal oldaiin chockhol olol"
+    },
+    {
+      "locus": "f17v.4,+P0",
+      "raw": "kchor.fchol.cphol.olcheol.ok[eee:eeee]y",
+      "eva": "kchor fchol cphol olcheol ok[eee:eeee]y"
+    },
+    {
+      "locus": "f17v.5,+P0",
+      "raw": "ychol.chol.dolcheey.tchol.dar.ckhy",
+      "eva": "ychol chol dolcheey tchol dar ckhy"
+    },
+    {
+      "locus": "f17v.6,+P0",
+      "raw": "oekor.or.okaiin.or.otaiin,d",
+      "eva": "oekor or okaiin or otaiin d"
+    },
+    {
+      "locus": "f17v.7,+P0",
+      "raw": "sor.chkeey.poiis.cheor.os.s.aiin",
+      "eva": "sor chkeey poiis cheor os s aiin"
+    },
+    {
+      "locus": "f17v.8,+P0",
+      "raw": "qokeey.kchar.ol.dy.choldaiin.sy",
+      "eva": "qokeey kchar ol dy choldaiin sy"
+    },
+    {
+      "locus": "f17v.9,+P0",
+      "raw": "ycheol.shol.kchol.choltaiin.ol",
+      "eva": "ycheol shol kchol choltaiin ol"
+    },
+    {
+      "locus": "f17v.10,+P0",
+      "raw": "oytor.okeor.okar.okol.daiir,a[r:m]",
+      "eva": "oytor okeor okar okol daiir a[r:m]"
+    },
+    {
+      "locus": "f17v.11,+P0",
+      "raw": "qokcheo.qokoiir.ctheol.chol",
+      "eva": "qokcheo qokoiir ctheol chol"
+    },
+    {
+      "locus": "f17v.12,+P0",
+      "raw": "oy.choy.keaiin.chckhey.ol.chor",
+      "eva": "oy choy keaiin chckhey ol chor"
+    },
+    {
+      "locus": "f17v.13,+P0",
+      "raw": "ykeor.chol.chol.cthol.chkor.sheol",
+      "eva": "ykeor chol chol cthol chkor sheol"
+    },
+    {
+      "locus": "f17v.14,+P0",
+      "raw": "olo.r.okeeol.chodaiin.okeol.tchory",
+      "eva": "olo r okeeol chodaiin okeol tchory"
+    },
+    {
+      "locus": "f17v.15,+P0",
+      "raw": "ychor.cthy.che'eky.cheo.otor.oteol",
+      "eva": "ychor cthy che'eky cheo otor oteol"
+    },
+    {
+      "locus": "f17v.16,+P0",
+      "raw": "okcheol.chol.okeol.cthol.otcheolom",
+      "eva": "okcheol chol okeol cthol otcheolom"
+    },
+    {
+      "locus": "f17v.17,+P0",
+      "raw": "qoain.[s:e']ar.she.dol.qopchaiin.cthor",
+      "eva": "qoain [s:e']ar she dol qopchaiin cthor"
+    },
+    {
+      "locus": "f17v.18,+P0",
+      "raw": "otor.cheeor.ol.chol.dor.chr.or,eees",
+      "eva": "otor cheeor ol chol dor chr or eees"
+    },
+    {
+      "locus": "f17v.19,+P0",
+      "raw": "dain.chey.qoaiin.cthor.cholchom",
+      "eva": "dain chey qoaiin cthor cholchom"
+    },
+    {
+      "locus": "f17v.20,+P0",
+      "raw": "ykeey.okeey.cheor.chol.sho.odaiin",
+      "eva": "ykeey okeey cheor chol sho odaiin"
+    },
+    {
+      "locus": "f17v.21,+P0",
+      "raw": "oal.sheor.sholor.or.shecthy.cpheor.daiin",
+      "eva": "oal sheor sholor or shecthy cpheor daiin"
+    },
+    {
+      "locus": "f17v.22,+P0",
+      "raw": "qokeee.dar.chey.keeor.cheeol.ctheey.cthy",
+      "eva": "qokeee dar chey keeor cheeol ctheey cthy"
+    },
+    {
+      "locus": "f17v.23,+P0",
+      "raw": "chkeey.okeor.sh[a:o]r.okeom<$>",
+      "eva": "chkeey okeor sh[a:o]r okeom"
+    }
+  ],
+  "eva_text": "pchodol chor pchy opydaiin odal dy\nycheey keeor cthodal okol odaiin okal\noldaig odaiin okal oldaiin chockhol olol\nkchor fchol cphol olcheol ok[eee:eeee]y\nychol chol dolcheey tchol dar ckhy\noekor or okaiin or otaiin d\nsor chkeey poiis cheor os s aiin\nqokeey kchar ol dy choldaiin sy\nycheol shol kchol choltaiin ol\noytor okeor okar okol daiir a[r:m]\nqokcheo qokoiir ctheol chol\noy choy keaiin chckhey ol chor\nykeor chol chol cthol chkor sheol\nolo r okeeol chodaiin okeol tchory\nychor cthy che'eky cheo otor oteol\nokcheol chol okeol cthol otcheolom\nqoain [s:e']ar she dol qopchaiin cthor\notor cheeor ol chol dor chr or eees\ndain chey qoaiin cthor cholchom\nykeey okeey cheor chol sho odaiin\noal sheor sholor or shecthy cpheor daiin\nqokeee dar chey keeor cheeol ctheey cthy\nchkeey okeor sh[a:o]r okeom",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

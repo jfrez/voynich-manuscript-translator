@@ -1,0 +1,92 @@
+{
+  "folio": "f57v",
+  "page_number": 112,
+  "section": "cosmological",
+  "currier": "B",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "has `key-like' sequences",
+    "has extraneous writing ==> Saturn symbol in lower right corner",
+    "General description of page:",
+    "Four bands of circular text. Contains various sequences",
+    "of characters. Outside outer ring one word (@L0) possibly",
+    "meaning 'start here'. Inside innermost ring 8 labels,",
+    "numbered cf. Petersen.",
+    "Symbol in lower right corner: @255;"
+  ],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f57v.1,@L0",
+      "raw": "<!10:30>dairal",
+      "eva": "dairal"
+    },
+    {
+      "locus": "f57v.2,@Cc",
+      "raw": "<!10:30>v.sal,y.soeos.vs.ar.okees.o.d.soefchees.l,g.sos.okey.defo.f.o.rkedam.sh.ofol.sar.ddal.yty.s.y.daiir.otey.dshdy.dkal[s:r].oty,pchchy.a.r.opaiin.dal.karody.v,r,okeey.daram.qokar.okal.okal.d.o.l.shkeal.dy,das.o.k.sher.s,aiin",
+      "eva": "v sal y soeos vs ar okees o d soefchees l g sos okey defo f o rkedam sh ofol sar ddal yty s y daiir otey dshdy dkal[s:r] oty pchchy a r opaiin dal karody v r okeey daram qokar okal okal d o l shkeal dy das o k sher s aiin"
+    },
+    {
+      "locus": "f57v.3,+Cc",
+      "raw": "<!10:30>o.l.[d:j].r.v.x.k.m.f.@169;v.t.r.@170;.@171;.y.I.@172;.o.l.d.r.v.x.k.m.f.@169;v.t.r.@170;.@171;.y.c.@172;.o.l.d.r.v.x.k.m.p.@169;v.t.r.@170;.@171;.y.c.@172;.o.l.d.r.v.x.k.m.p.@169;v.t.r.@170;.@171;.y.c.@172;",
+      "eva": "o l [d:j] r v x k m f @169;v t r @170; @171; y I @172; o l d r v x k m f @169;v t r @170; @171; y c @172; o l d r v x k m p @169;v t r @170; @171; y c @172; o l d r v x k m p @169;v t r @170; @171; y c @172;"
+    },
+    {
+      "locus": "f57v.4,+Cc",
+      "raw": "<!10:00>daiin.otey.of[che:eee]y.shes.o.d.okeeod.l.o.lkeeol.dkedar.yf.aros.s.y.chedaiin.k.eeety.x.deeodal.vo.tchor.{ch'}.kedar.dal.@172;.daiin.aiin.otal.daro.v",
+      "eva": "daiin otey of[che:eee]y shes o d okeeod l o lkeeol dkedar yf aros s y chedaiin k eeety x deeodal vo tchor ch' kedar dal @172; daiin aiin otal daro v"
+    },
+    {
+      "locus": "f57v.5,+Cc",
+      "raw": "<!10:00>o.[v:a].l.r.m.aiin.d.@170;.c.f.[s:r].y.l.k.x.l.r.@171;,ar.o.r.[a:?].t.l.[s:r].d.y.dar.teodar.otodal.sheky.oteeody.x.[s:r].l",
+      "eva": "o [v:a] l r m aiin d @170; c f [s:r] y l k x l r @171; ar o r [a:?] t l [s:r] d y dar teodar otodal sheky oteeody x [s:r] l"
+    },
+    {
+      "locus": "f57v.6,@L0",
+      "raw": "otodara[g:m]",
+      "eva": "otodara[g:m]"
+    },
+    {
+      "locus": "f57v.7,@L0",
+      "raw": "oparairdly",
+      "eva": "oparairdly"
+    },
+    {
+      "locus": "f57v.8,@L0",
+      "raw": "olkeedal",
+      "eva": "olkeedal"
+    },
+    {
+      "locus": "f57v.9,@L0",
+      "raw": "otardaly",
+      "eva": "otardaly"
+    },
+    {
+      "locus": "f57v.10,@Ro",
+      "raw": "ark[a:o]ldy",
+      "eva": "ark[a:o]ldy"
+    },
+    {
+      "locus": "f57v.11,@Ro",
+      "raw": "ara?arar",
+      "eva": "ara?arar"
+    },
+    {
+      "locus": "f57v.12,@Ro",
+      "raw": "okeely",
+      "eva": "okeely"
+    },
+    {
+      "locus": "f57v.13,@Ro",
+      "raw": "ocfhor,okear",
+      "eva": "ocfhor okear"
+    }
+  ],
+  "eva_text": "dairal\nv sal y soeos vs ar okees o d soefchees l g sos okey defo f o rkedam sh ofol sar ddal yty s y daiir otey dshdy dkal[s:r] oty pchchy a r opaiin dal karody v r okeey daram qokar okal okal d o l shkeal dy das o k sher s aiin\no l [d:j] r v x k m f @169;v t r @170; @171; y I @172; o l d r v x k m f @169;v t r @170; @171; y c @172; o l d r v x k m p @169;v t r @170; @171; y c @172; o l d r v x k m p @169;v t r @170; @171; y c @172;\ndaiin otey of[che:eee]y shes o d okeeod l o lkeeol dkedar yf aros s y chedaiin k eeety x deeodal vo tchor ch' kedar dal @172; daiin aiin otal daro v\no [v:a] l r m aiin d @170; c f [s:r] y l k x l r @171; ar o r [a:?] t l [s:r] d y dar teodar otodal sheky oteeody x [s:r] l\notodara[g:m]\noparairdly\nolkeedal\notardaly\nark[a:o]ldy\nara?arar\nokeely\nocfhor okear",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

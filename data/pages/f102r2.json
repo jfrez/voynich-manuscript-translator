@@ -1,0 +1,131 @@
+{
+  "folio": "f102r2",
+  "page_number": 209,
+  "section": null,
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "pharmaceutical",
+    "Bottom jar has three words above each other"
+  ],
+  "loci_count": 22,
+  "loci": [
+    {
+      "locus": "f102r2.1,@Lc",
+      "raw": "kodaiig",
+      "eva": "kodaiig"
+    },
+    {
+      "locus": "f102r2.2,@P0",
+      "raw": "<%>lsais.azg.cheey.cfhey.por,aiin.chefol,y",
+      "eva": "lsais azg cheey cfhey por aiin chefol y"
+    },
+    {
+      "locus": "f102r2.3,+P0",
+      "raw": "ycheor.olaiin.olsho.qokol.olaiin.oldam",
+      "eva": "ycheor olaiin olsho qokol olaiin oldam"
+    },
+    {
+      "locus": "f102r2.4,+P0",
+      "raw": "daiin.ckheeol.oldor.okol.cheodor.sor.airam",
+      "eva": "daiin ckheeol oldor okol cheodor sor airam"
+    },
+    {
+      "locus": "f102r2.5,+P0",
+      "raw": "tor.sheo.or.chey.qoor.yteor.chol.choky",
+      "eva": "tor sheo or chey qoor yteor chol choky"
+    },
+    {
+      "locus": "f102r2.6,+P0",
+      "raw": "daiin.okody.qokeody.okeol.dor.chckhy.oteod.s,orsy<$>",
+      "eva": "daiin okody qokeody okeol dor chckhy oteod s orsy"
+    },
+    {
+      "locus": "f102r2.7,@Lc",
+      "raw": "ok[?:o]rolda",
+      "eva": "ok[?:o]rolda"
+    },
+    {
+      "locus": "f102r2.8,@P0",
+      "raw": "<%>kolor.olaiin.opor.shey.opolkod.odain.sheo.qoeol.shey",
+      "eva": "kolor olaiin opor shey opolkod odain sheo qoeol shey"
+    },
+    {
+      "locus": "f102r2.9,+P0",
+      "raw": "dor.oiin.okeody.qokeol.sheoy.qo[o:d]chey.ckheol.sheey.skeekyd",
+      "eva": "dor oiin okeody qokeol sheoy qo[o:d]chey ckheol sheey skeekyd"
+    },
+    {
+      "locus": "f102r2.10,+P0",
+      "raw": "shockhy.qockhey.sol.eeey.dol.cheol.doaiin.qkeeey.cthey",
+      "eva": "shockhy qockhey sol eeey dol cheol doaiin qkeeey cthey"
+    },
+    {
+      "locus": "f102r2.11,+P0",
+      "raw": "kockhas.okor.ykeey.okeey.qokeey.dol.ol.sheody.okey.da,l,{cthhh}y",
+      "eva": "kockhas okor ykeey okeey qokeey dol ol sheody okey da l cthhhy"
+    },
+    {
+      "locus": "f102r2.12,+P0",
+      "raw": "ytchy.o,l,ockhy.okeey.cheody.saiin.dol.ockhy.okeady<$>",
+      "eva": "ytchy o l ockhy okeey cheody saiin dol ockhy okeady"
+    },
+    {
+      "locus": "f102r2.13,@Lc",
+      "raw": "loeekadag<!top word>",
+      "eva": "loeekadag"
+    },
+    {
+      "locus": "f102r2.14,+Lc",
+      "raw": "oshea??l<!middle word>",
+      "eva": "oshea??l"
+    },
+    {
+      "locus": "f102r2.15,+Lc",
+      "raw": "so???dch<!bottom word>",
+      "eva": "so???dch"
+    },
+    {
+      "locus": "f102r2.16,@P0",
+      "raw": "<%>{c@132;h}ol.d{c@133;h}ody.cthol,soeees.ykeody.qokeey.qotchy.soefchocphy",
+      "eva": "c@132;hol dc@133;hody cthol soeees ykeody qokeey qotchy soefchocphy"
+    },
+    {
+      "locus": "f102r2.17,+P0",
+      "raw": "ykeockhey.okey.qokeeo.ckhey.qokey.desey.qyoeey.dol.chkey.choky",
+      "eva": "ykeockhey okey qokeeo ckhey qokey desey qyoeey dol chkey choky"
+    },
+    {
+      "locus": "f102r2.18,+P0",
+      "raw": "otol.shey.qockhey.dol.shey.dol.sheey.qokol.daiin.oky.oky",
+      "eva": "otol shey qockhey dol shey dol sheey qokol daiin oky oky"
+    },
+    {
+      "locus": "f102r2.19,+P0",
+      "raw": "qokeod.okeal.okeo,l.y,cheo.ckhey.q{kh}ody.qokey.ody.keeody.chody",
+      "eva": "qokeod okeal okeo l y cheo ckhey qkhody qokey ody keeody chody"
+    },
+    {
+      "locus": "f102r2.20,+P0",
+      "raw": "ykeey.keeol.cheos.ydeeal.cheody.ykeea,d,o,lchey<$>",
+      "eva": "ykeey keeol cheos ydeeal cheody ykeea d o lchey"
+    },
+    {
+      "locus": "f102r2.21,@Lf",
+      "raw": "<!212>koldarod",
+      "eva": "koldarod"
+    },
+    {
+      "locus": "f102r2.22,@Lf",
+      "raw": "<!213>odalydary",
+      "eva": "odalydary"
+    }
+  ],
+  "eva_text": "kodaiig\nlsais azg cheey cfhey por aiin chefol y\nycheor olaiin olsho qokol olaiin oldam\ndaiin ckheeol oldor okol cheodor sor airam\ntor sheo or chey qoor yteor chol choky\ndaiin okody qokeody okeol dor chckhy oteod s orsy\nok[?:o]rolda\nkolor olaiin opor shey opolkod odain sheo qoeol shey\ndor oiin okeody qokeol sheoy qo[o:d]chey ckheol sheey skeekyd\nshockhy qockhey sol eeey dol cheol doaiin qkeeey cthey\nkockhas okor ykeey okeey qokeey dol ol sheody okey da l cthhhy\nytchy o l ockhy okeey cheody saiin dol ockhy okeady\nloeekadag\noshea??l\nso???dch\nc@132;hol dc@133;hody cthol soeees ykeody qokeey qotchy soefchocphy\nykeockhey okey qokeeo ckhey qokey desey qyoeey dol chkey choky\notol shey qockhey dol shey dol sheey qokol daiin oky oky\nqokeod okeal okeo l y cheo ckhey qkhody qokey ody keeody chody\nykeey keeol cheos ydeeal cheody ykeea d o lchey\nkoldarod\nodalydary",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

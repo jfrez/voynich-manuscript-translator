@@ -1,0 +1,74 @@
+{
+  "folio": "f26r",
+  "page_number": 49,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "Flower like artemisium absinth / wermuth but leaves are not",
+  "plant_candidates": [
+    "Flower like artemisium absinth / wermuth but leaves are not"
+  ],
+  "plant_category_guess": "flower",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "flower"
+  ],
+  "refs": [],
+  "notes": [
+    "gnaphalium?"
+  ],
+  "loci_count": 10,
+  "loci": [
+    {
+      "locus": "f26r.1,@P0",
+      "raw": "<%>psheoky.odaiir.qoy<->ofshod.chypchey.ypchedy.ain<->chofo,che{ph}dy",
+      "eva": "psheoky odaiir qoy ofshod chypchey ypchedy ain chofo chephdy"
+    },
+    {
+      "locus": "f26r.2,+P0",
+      "raw": "dchey.@138;aiin.adeeody<->ykecthey.chedy.ytedy.dy<->checthedy.ls",
+      "eva": "dchey @138;aiin adeeody ykecthey chedy ytedy dy checthedy ls"
+    },
+    {
+      "locus": "f26r.3,+P0",
+      "raw": "oaiin.shcthy.cthedy.oloy<->ykeedy.olchedy.dal<->y.sheey.s,aiin.s",
+      "eva": "oaiin shcthy cthedy oloy ykeedy olchedy dal y sheey s aiin s"
+    },
+    {
+      "locus": "f26r.4,+P0",
+      "raw": "qokedy.cheos.ytedy.qokedy<->ytedy.chekedy<->daiin.odam.s,aldy",
+      "eva": "qokedy cheos ytedy qokedy ytedy chekedy daiin odam s aldy"
+    },
+    {
+      "locus": "f26r.5,+P0",
+      "raw": "saiin.shedy.eedy.eedy.s,chy<->daiin.cthedy<->qokeedy.qokedy.cthey",
+      "eva": "saiin shedy eedy eedy s chy daiin cthedy qokeedy qokedy cthey"
+    },
+    {
+      "locus": "f26r.6,+P0",
+      "raw": "rchedy.qokedy<$>",
+      "eva": "rchedy qokedy"
+    },
+    {
+      "locus": "f26r.7,+P0",
+      "raw": "<%>pcho.qokedy.dar,sheo.ypchseds.s<->aiin<->sha,p,chedyfchy.dalchedy.sar",
+      "eva": "pcho qokedy dar sheo ypchseds s aiin sha p chedyfchy dalchedy sar"
+    },
+    {
+      "locus": "f26r.8,+P0",
+      "raw": "daiin.shedy.qokeedy.qoteedar.s<->ok<->ol<->ytedy.qokeedy.qokedy",
+      "eva": "daiin shedy qokeedy qoteedar s ok ol ytedy qokeedy qokedy"
+    },
+    {
+      "locus": "f26r.9,+P0",
+      "raw": "tcheoshy.dchdy.okedy.chckhy.s<->dy<->dy<->ykeechy.okeedy.cheky",
+      "eva": "tcheoshy dchdy okedy chckhy s dy dy ykeechy okeedy cheky"
+    },
+    {
+      "locus": "f26r.10,+P0",
+      "raw": "shese.aiin.sheos.cheody<->otal<$>",
+      "eva": "shese aiin sheos cheody otal"
+    }
+  ],
+  "eva_text": "psheoky odaiir qoy ofshod chypchey ypchedy ain chofo chephdy\ndchey @138;aiin adeeody ykecthey chedy ytedy dy checthedy ls\noaiin shcthy cthedy oloy ykeedy olchedy dal y sheey s aiin s\nqokedy cheos ytedy qokedy ytedy chekedy daiin odam s aldy\nsaiin shedy eedy eedy s chy daiin cthedy qokeedy qokedy cthey\nrchedy qokedy\npcho qokedy dar sheo ypchseds s aiin sha p chedyfchy dalchedy sar\ndaiin shedy qokeedy qoteedar s ok ol ytedy qokeedy qokedy\ntcheoshy dchdy okedy chckhy s dy dy ykeechy okeedy cheky\nshese aiin sheos cheody otal",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

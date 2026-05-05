@@ -1,0 +1,78 @@
+{
+  "folio": "f29v",
+  "page_number": 56,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 12,
+  "loci": [
+    {
+      "locus": "f29v.1,@P0",
+      "raw": "<%>kooiin.shor.chetchy.ol,ls.shytchy.cthy,shy<->cho.shy.daiin",
+      "eva": "kooiin shor chetchy ol ls shytchy cthy shy cho shy daiin"
+    },
+    {
+      "locus": "f29v.2,+P0",
+      "raw": "qotcheaiin.s.chol.chol.cthy.chey.cthold<->ytchor.dary",
+      "eva": "qotcheaiin s chol chol cthy chey cthold ytchor dary"
+    },
+    {
+      "locus": "f29v.3,+P0",
+      "raw": "chol.chol.kor.shey.odaiin.qotchy.taiin<->s.she.otey.sy",
+      "eva": "chol chol kor shey odaiin qotchy taiin s she otey sy"
+    },
+    {
+      "locus": "f29v.4,+P0",
+      "raw": "ysho.otshy.okaiin.cthy.oltchy.{cto}s<->shot.sho.okaiin<$>",
+      "eva": "ysho otshy okaiin cthy oltchy ctos shot sho okaiin"
+    },
+    {
+      "locus": "f29v.5,+P0",
+      "raw": "<%>tochon.chain.shan.shoty<->chshy<->shy",
+      "eva": "tochon chain shan shoty chshy shy"
+    },
+    {
+      "locus": "f29v.6,+P0",
+      "raw": "dchor.chol.chaiin.shaiin.cthod<->dar<->chs<->shody",
+      "eva": "dchor chol chaiin shaiin cthod dar chs shody"
+    },
+    {
+      "locus": "f29v.7,+P0",
+      "raw": "qotcho.kchor.daiin.ykaiin.dy<->shdy<->chocthy.sheky",
+      "eva": "qotcho kchor daiin ykaiin dy shdy chocthy sheky"
+    },
+    {
+      "locus": "f29v.8,+P0",
+      "raw": "otol.shotchor.cholody.dain<->ch[{cti}:cth]<->chy.cthody.dol",
+      "eva": "otol shotchor cholody dain ch[cti:cth] chy cthody dol"
+    },
+    {
+      "locus": "f29v.9,+P0",
+      "raw": "sho.chokor.chor.chy.ydaiin.cho<->ykeeb<->oaiin<$>",
+      "eva": "sho chokor chor chy ydaiin cho ykeeb oaiin"
+    },
+    {
+      "locus": "f29v.10,+P0",
+      "raw": "<%>qokoiin.okaiin.cho<->[{cti}:cth]<->chyd<->chykar",
+      "eva": "qokoiin okaiin cho [cti:cth] chyd chykar"
+    },
+    {
+      "locus": "f29v.11,+P0",
+      "raw": "daiin.chteo[r:s].octhy<->dar<->chyt<->otody",
+      "eva": "daiin chteo[r:s] octhy dar chyt otody"
+    },
+    {
+      "locus": "f29v.12,+P0",
+      "raw": "qekeochor.otchey.s,y<$>",
+      "eva": "qekeochor otchey s y"
+    }
+  ],
+  "eva_text": "kooiin shor chetchy ol ls shytchy cthy shy cho shy daiin\nqotcheaiin s chol chol cthy chey cthold ytchor dary\nchol chol kor shey odaiin qotchy taiin s she otey sy\nysho otshy okaiin cthy oltchy ctos shot sho okaiin\ntochon chain shan shoty chshy shy\ndchor chol chaiin shaiin cthod dar chs shody\nqotcho kchor daiin ykaiin dy shdy chocthy sheky\notol shotchor cholody dain ch[cti:cth] chy cthody dol\nsho chokor chor chy ydaiin cho ykeeb oaiin\nqokoiin okaiin cho [cti:cth] chyd chykar\ndaiin chteo[r:s] octhy dar chyt otody\nqekeochor otchey s y",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

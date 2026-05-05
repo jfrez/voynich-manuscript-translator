@@ -1,0 +1,89 @@
+{
+  "folio": "f30r",
+  "page_number": 57,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "(Holm) Dentaria(?) leaf only. Schippenwurtz?",
+  "plant_candidates": [
+    "Dentaria leaf only. Schippenwurtz?"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "leaf"
+  ],
+  "refs": [],
+  "notes": [
+    "Menanthes trifolia"
+  ],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f30r.1,@P0",
+      "raw": "<%>okeeesy.chey.shorchey.fcheody.shey.tchy.che[s:r].d.o.shey",
+      "eva": "okeeesy chey shorchey fcheody shey tchy che[s:r] d o shey"
+    },
+    {
+      "locus": "f30r.2,+P0",
+      "raw": "ychody.chey.chkeey.ksho.keeor.cheor.shey.she.keeodol.sy",
+      "eva": "ychody chey chkeey ksho keeor cheor shey she keeodol sy"
+    },
+    {
+      "locus": "f30r.3,+P0",
+      "raw": "chodaiin.cho,ry.chey.doiin.sain.chorain.cheey,keem",
+      "eva": "chodaiin cho ry chey doiin sain chorain cheey keem"
+    },
+    {
+      "locus": "f30r.4,+P0",
+      "raw": "qokechy.qoko.qop.char.soin.chan.qot,chaiin",
+      "eva": "qokechy qoko qop char soin chan qot chaiin"
+    },
+    {
+      "locus": "f30r.5,+P0",
+      "raw": "choko.qokochy.deeey.dkeeor.cheoldain.chory",
+      "eva": "choko qokochy deeey dkeeor cheoldain chory"
+    },
+    {
+      "locus": "f30r.6,+P0",
+      "raw": "dchorol.sho.chor.cho,ro.raiin.dor.chseeor.dy",
+      "eva": "dchorol sho chor cho ro raiin dor chseeor dy"
+    },
+    {
+      "locus": "f30r.7,+P0",
+      "raw": "qor.chain.cthorchy<$>",
+      "eva": "qor chain cthorchy"
+    },
+    {
+      "locus": "f30r.8,+P0",
+      "raw": "<%>opchol,ol.chesey.scheo,r,chey.okeal<->dcheo,rchey",
+      "eva": "opchol ol chesey scheo r chey okeal dcheo rchey"
+    },
+    {
+      "locus": "f30r.9,+P0",
+      "raw": "dchey.qochar.chol.keeaiin.chcthey<->chor.cheky",
+      "eva": "dchey qochar chol keeaiin chcthey chor cheky"
+    },
+    {
+      "locus": "f30r.10,+P0",
+      "raw": "chokchaiin.dchor.chkchean.qotchy<->chctho.rchody",
+      "eva": "chokchaiin dchor chkchean qotchy chctho rchody"
+    },
+    {
+      "locus": "f30r.11,+P0",
+      "raw": "qotchor.cheor.chey.cheor.chey.so[eeb:een]<->ydey<->sor.daiin",
+      "eva": "qotchor cheor chey cheor chey so[eeb:een] ydey sor daiin"
+    },
+    {
+      "locus": "f30r.12,+P0",
+      "raw": "dcheey.ckhey.ckhey.daiin.chkeaiin.dar<->chor<->ychdain",
+      "eva": "dcheey ckhey ckhey daiin chkeaiin dar chor ychdain"
+    },
+    {
+      "locus": "f30r.13,+P0",
+      "raw": "chodaiin.chtchey.chear.shy,keey<$>",
+      "eva": "chodaiin chtchey chear shy keey"
+    }
+  ],
+  "eva_text": "okeeesy chey shorchey fcheody shey tchy che[s:r] d o shey\nychody chey chkeey ksho keeor cheor shey she keeodol sy\nchodaiin cho ry chey doiin sain chorain cheey keem\nqokechy qoko qop char soin chan qot chaiin\nchoko qokochy deeey dkeeor cheoldain chory\ndchorol sho chor cho ro raiin dor chseeor dy\nqor chain cthorchy\nopchol ol chesey scheo r chey okeal dcheo rchey\ndchey qochar chol keeaiin chcthey chor cheky\nchokchaiin dchor chkchean qotchy chctho rchody\nqotchor cheor chey cheor chey so[eeb:een] ydey sor daiin\ndcheey ckhey ckhey daiin chkeaiin dar chor ychdain\nchodaiin chtchey chear shy keey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,54 @@
+{
+  "folio": "f65v",
+  "page_number": 116,
+  "section": "herbal",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "appears as Plate II in Newbold facing p44.",
+    "It features a plant with many roots, branches and flowers; the main stem",
+    "separates the lines of text into two columns, which are well-registered",
+    "across the stem.",
+    "Transcribed 7 Dec 91 by Gillogly, 9 dec 91 by Reeds, 13 Dec 91 Gillogly"
+  ],
+  "loci_count": 6,
+  "loci": [
+    {
+      "locus": "f65v.1,@P0",
+      "raw": "<%>cphy.fchecfhy.dy<->dchepain.shety.qopy.fol.chpdy",
+      "eva": "cphy fchecfhy dy dchepain shety qopy fol chpdy"
+    },
+    {
+      "locus": "f65v.2,+P0",
+      "raw": "daiin.sheek.l,ody<->yteo.qop[s:r].air.cheot[ee:ch]y.dal[o:a]m",
+      "eva": "daiin sheek l ody yteo qop[s:r] air cheot[ee:ch]y dal[o:a]m"
+    },
+    {
+      "locus": "f65v.3,+P0",
+      "raw": "ytal.cheot.shky.y<->[s:?]as.cheody<$>",
+      "eva": "ytal cheot shky y [s:?]as cheody"
+    },
+    {
+      "locus": "f65v.4,+P0",
+      "raw": "<%>toeedy.otar.shedy<->yteey.sheody.qok[es:?]d.yfchey",
+      "eva": "toeedy otar shedy yteey sheody qok[es:?]d yfchey"
+    },
+    {
+      "locus": "f65v.5,+P0",
+      "raw": "dshedy.okeody.qokd<->shckhy.choky.chokeody.okey,dy",
+      "eva": "dshedy okeody qokd shckhy choky chokeody okey dy"
+    },
+    {
+      "locus": "f65v.6,+P0",
+      "raw": "qo.ytchey.sh,{ckhh}cphy<->ykchedy.chedy.shckhdy<$>",
+      "eva": "qo ytchey sh ckhhcphy ykchedy chedy shckhdy"
+    }
+  ],
+  "eva_text": "cphy fchecfhy dy dchepain shety qopy fol chpdy\ndaiin sheek l ody yteo qop[s:r] air cheot[ee:ch]y dal[o:a]m\nytal cheot shky y [s:?]as cheody\ntoeedy otar shedy yteey sheody qok[es:?]d yfchey\ndshedy okeody qokd shckhy choky chokeody okey dy\nqo ytchey sh ckhhcphy ykchedy chedy shckhdy",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

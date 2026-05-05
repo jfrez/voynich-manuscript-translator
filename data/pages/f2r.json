@@ -1,0 +1,102 @@
+{
+  "folio": "f2r",
+  "page_number": 3,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Cyanus segelis coeruleus (Kornblume), centaurea (cf. Holm)",
+  "plant_candidates": [
+    "Cyanus segelis coeruleus",
+    "centaurea"
+  ],
+  "plant_category_guess": "flower",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "centaurea",
+    "cyanus",
+    "kornblume"
+  ],
+  "refs": [],
+  "notes": [
+    "Two paragraphs, top one cut in many places. 1 label near plant leaf"
+  ],
+  "loci_count": 15,
+  "loci": [
+    {
+      "locus": "f2r.1,@P0",
+      "raw": "<%>kydainy.ypchol.daiin.otchal<->ypchaiin.ckholsy",
+      "eva": "kydainy ypchol daiin otchal ypchaiin ckholsy"
+    },
+    {
+      "locus": "f2r.2,+P0",
+      "raw": "dorchory<->chkar.s<->shor.cthy.{cto}",
+      "eva": "dorchory chkar s shor cthy cto"
+    },
+    {
+      "locus": "f2r.3,+P0",
+      "raw": "qotaiin<->cthey.y<->chor.chy.ydy<->chaiin",
+      "eva": "qotaiin cthey y chor chy ydy chaiin"
+    },
+    {
+      "locus": "f2r.4,+P0",
+      "raw": "{c'o}aiidy<->chtod,dy<->cphy.dals<->chokaiin.d",
+      "eva": "c'oaiidy chtod dy cphy dals chokaiin d"
+    },
+    {
+      "locus": "f2r.5,+P0",
+      "raw": "otochor.al<->shodaiin<->chol,dan<->ytchaiin.dan",
+      "eva": "otochor al shodaiin chol dan ytchaiin dan"
+    },
+    {
+      "locus": "f2r.6,+P0",
+      "raw": "saiin.dain,d<->dkol.sor<->ytoldy<->dchol.dchy.cthy",
+      "eva": "saiin dain d dkol sor ytoldy dchol dchy cthy"
+    },
+    {
+      "locus": "f2r.7,+P0",
+      "raw": "shor.ckhy.daiiny<->chol,dan<$>",
+      "eva": "shor ckhy daiiny chol dan"
+    },
+    {
+      "locus": "f2r.8,+P0",
+      "raw": "<%>kydain.shaiin.qoy.s.shol.fodan<->yksh.olsheey.daiildy",
+      "eva": "kydain shaiin qoy s shol fodan yksh olsheey daiildy"
+    },
+    {
+      "locus": "f2r.9,+P0",
+      "raw": "dls,sho.kol.sheey.qokey.ykody.so<->chol,yky.dain.daiisol",
+      "eva": "dls sho kol sheey qokey ykody so chol yky dain daiisol"
+    },
+    {
+      "locus": "f2r.10,+P0",
+      "raw": "qo'ky.cholaiin.shol.sheky.daiin<->cthey.keol.saiin.e'a'iin",
+      "eva": "qo'ky cholaiin shol sheky daiin cthey keol saiin e'a'iin"
+    },
+    {
+      "locus": "f2r.11,+P0",
+      "raw": "ychain.dal.chy.dalor.shan.dan<->olsaiin.sheey.ckhor",
+      "eva": "ychain dal chy dalor shan dan olsaiin sheey ckhor"
+    },
+    {
+      "locus": "f2r.12,+P0",
+      "raw": "okol.chy.chor.cthor.yor.an.chan<->saiin.chety.chyky.sal",
+      "eva": "okol chy chor cthor yor an chan saiin chety chyky sal"
+    },
+    {
+      "locus": "f2r.13,+P0",
+      "raw": "sho.ykeey.chey.daiin.chcthy<$>",
+      "eva": "sho ykeey chey daiin chcthy"
+    },
+    {
+      "locus": "f2r.14,@Lp",
+      "raw": "ytoail",
+      "eva": "ytoail"
+    },
+    {
+      "locus": "f2r.15,@L0",
+      "raw": "ios.an.on",
+      "eva": "ios an on"
+    }
+  ],
+  "eva_text": "kydainy ypchol daiin otchal ypchaiin ckholsy\ndorchory chkar s shor cthy cto\nqotaiin cthey y chor chy ydy chaiin\nc'oaiidy chtod dy cphy dals chokaiin d\notochor al shodaiin chol dan ytchaiin dan\nsaiin dain d dkol sor ytoldy dchol dchy cthy\nshor ckhy daiiny chol dan\nkydain shaiin qoy s shol fodan yksh olsheey daiildy\ndls sho kol sheey qokey ykody so chol yky dain daiisol\nqo'ky cholaiin shol sheky daiin cthey keol saiin e'a'iin\nychain dal chy dalor shan dan olsaiin sheey ckhor\nokol chy chor cthor yor an chan saiin chety chyky sal\nsho ykeey chey daiin chcthy\nytoail\nios an on",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

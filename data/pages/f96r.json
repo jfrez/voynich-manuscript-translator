@@ -1,0 +1,88 @@
+{
+  "folio": "f96r",
+  "page_number": 199,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "dipsaxus, calendula (O'Neill)",
+  "plant_candidates": [
+    "dipsaxus",
+    "calendula"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f96r.1,@P0",
+      "raw": "<%>tor.cheeor.ckheos.olsheeosol.cpheol.cpheor.chodar",
+      "eva": "tor cheeor ckheos olsheeosol cpheol cpheor chodar"
+    },
+    {
+      "locus": "f96r.2,+P0",
+      "raw": "ytol.oteeor.sheol.oteey.qokeody.qokeeody.cthey",
+      "eva": "ytol oteeor sheol oteey qokeody qokeeody cthey"
+    },
+    {
+      "locus": "f96r.3,+P0",
+      "raw": "toaiin.{cthh}odal.chos.ckheody.keody.chodol.oty",
+      "eva": "toaiin cthhodal chos ckheody keody chodol oty"
+    },
+    {
+      "locus": "f96r.4,+P0",
+      "raw": "or.chor.chkchol.chokchor.s.or.sheockhy.choly",
+      "eva": "or chor chkchol chokchor s or sheockhy choly"
+    },
+    {
+      "locus": "f96r.5,+P0",
+      "raw": "daiin.chodaiin.cthey.tol.sheor.qokeol.okol",
+      "eva": "daiin chodaiin cthey tol sheor qokeol okol"
+    },
+    {
+      "locus": "f96r.6,+P0",
+      "raw": "lor.ckheey.chol.cholody.cheol.ctheor.sor",
+      "eva": "lor ckheey chol cholody cheol ctheor sor"
+    },
+    {
+      "locus": "f96r.7,+P0",
+      "raw": "oiir.or.ckhor.chkey.ckhocthy.or.chockhy",
+      "eva": "oiir or ckhor chkey ckhocthy or chockhy"
+    },
+    {
+      "locus": "f96r.8,+P0",
+      "raw": "ykeor.[se:sh]cheeol.sheol.qokeeey.chol.daiin",
+      "eva": "ykeor [se:sh]cheeol sheol qokeeey chol daiin"
+    },
+    {
+      "locus": "f96r.9,+P0",
+      "raw": "todar.sheo.cthody.shokocfhy.chopcho.dory",
+      "eva": "todar sheo cthody shokocfhy chopcho dory"
+    },
+    {
+      "locus": "f96r.10,+P0",
+      "raw": "otchodol.shocthody.shockhy.otchodor.cho{cty}",
+      "eva": "otchodol shocthody shockhy otchodor chocty"
+    },
+    {
+      "locus": "f96r.11,+P0",
+      "raw": "teol.cheody.shodol.qokchod<->s<->aiin.chokey",
+      "eva": "teol cheody shodol qokchod s aiin chokey"
+    },
+    {
+      "locus": "f96r.12,+P0",
+      "raw": "dcheor.cheol.cheodaiin.ol<->dy<->d<->chs<->archeody",
+      "eva": "dcheor cheol cheodaiin ol dy d chs archeody"
+    },
+    {
+      "locus": "f96r.13,+P0",
+      "raw": "oteodsho.qotchos<$>",
+      "eva": "oteodsho qotchos"
+    }
+  ],
+  "eva_text": "tor cheeor ckheos olsheeosol cpheol cpheor chodar\nytol oteeor sheol oteey qokeody qokeeody cthey\ntoaiin cthhodal chos ckheody keody chodol oty\nor chor chkchol chokchor s or sheockhy choly\ndaiin chodaiin cthey tol sheor qokeol okol\nlor ckheey chol cholody cheol ctheor sor\noiir or ckhor chkey ckhocthy or chockhy\nykeor [se:sh]cheeol sheol qokeeey chol daiin\ntodar sheo cthody shokocfhy chopcho dory\notchodol shocthody shockhy otchodor chocty\nteol cheody shodol qokchod s aiin chokey\ndcheor cheol cheodaiin ol dy d chs archeody\noteodsho qotchos",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

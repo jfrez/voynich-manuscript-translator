@@ -1,0 +1,63 @@
+{
+  "folio": "f29r",
+  "page_number": 55,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 9,
+  "loci": [
+    {
+      "locus": "f29r.1,@P0",
+      "raw": "<%>posaiin.she.aiin.chep,oty.chy.qotchy.qoty.cheecthy",
+      "eva": "posaiin she aiin chep oty chy qotchy qoty cheecthy"
+    },
+    {
+      "locus": "f29r.2,+P0",
+      "raw": "dshe.ykchy.choty.oky.cho,l.chchoty.choky.chy,ty,dy",
+      "eva": "dshe ykchy choty oky cho l chchoty choky chy ty dy"
+    },
+    {
+      "locus": "f29r.3,+P0",
+      "raw": "qokchy.qoty.kchaiin.shear.cthor<->dchor.choly",
+      "eva": "qokchy qoty kchaiin shear cthor dchor choly"
+    },
+    {
+      "locus": "f29r.4,+P0",
+      "raw": "chocthy.qoos.chos<$>",
+      "eva": "chocthy qoos chos"
+    },
+    {
+      "locus": "f29r.5,+P0",
+      "raw": "<%>kcheol.cheor.sheos.sheey.teey.d[a:y]<->shos.o{cty}",
+      "eva": "kcheol cheor sheos sheey teey d[a:y] shos octy"
+    },
+    {
+      "locus": "f29r.6,+P0",
+      "raw": "chokshy.shocthy.shor.shor.daiin<->qokaiiin",
+      "eva": "chokshy shocthy shor shor daiin qokaiiin"
+    },
+    {
+      "locus": "f29r.7,+P0",
+      "raw": "qokchy.chol.shokchy.qokaiin.choety<->choty.kaiin",
+      "eva": "qokchy chol shokchy qokaiin choety choty kaiin"
+    },
+    {
+      "locus": "f29r.8,+P0",
+      "raw": "shor.chor.shosheky.shy.qoty,kody<->daiin.cthy",
+      "eva": "shor chor shosheky shy qoty kody daiin cthy"
+    },
+    {
+      "locus": "f29r.9,+P0",
+      "raw": "qokshe.qor.chey.kor.cheod.ychom<$>",
+      "eva": "qokshe qor chey kor cheod ychom"
+    }
+  ],
+  "eva_text": "posaiin she aiin chep oty chy qotchy qoty cheecthy\ndshe ykchy choty oky cho l chchoty choky chy ty dy\nqokchy qoty kchaiin shear cthor dchor choly\nchocthy qoos chos\nkcheol cheor sheos sheey teey d[a:y] shos octy\nchokshy shocthy shor shor daiin qokaiiin\nqokchy chol shokchy qokaiin choety choty kaiin\nshor chor shosheky shy qoty kody daiin cthy\nqokshe qor chey kor cheod ychom",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,63 @@
+{
+  "folio": "f95r2",
+  "page_number": 196,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 9,
+  "loci": [
+    {
+      "locus": "f95r2.1,@P0",
+      "raw": "<%>kshedy.or.chdy.dalfchy.qodaiin.chckhyfchy.daraiin.dalal",
+      "eva": "kshedy or chdy dalfchy qodaiin chckhyfchy daraiin dalal"
+    },
+    {
+      "locus": "f95r2.2,+P0",
+      "raw": "daiin.shody.chkain.chol.chckhy.otain.oty.oteedy.kar,okam",
+      "eva": "daiin shody chkain chol chckhy otain oty oteedy kar okam"
+    },
+    {
+      "locus": "f95r2.3,+P0",
+      "raw": "todaiin.chor.chckhy.qokol.chkar.ol.otaiin.ofar.okain.aram",
+      "eva": "todaiin chor chckhy qokol chkar ol otaiin ofar okain aram"
+    },
+    {
+      "locus": "f95r2.4,+P0",
+      "raw": "daiin.shody.tor.or.okain.chckhey<$>",
+      "eva": "daiin shody tor or okain chckhey"
+    },
+    {
+      "locus": "f95r2.5,+P0",
+      "raw": "<%>tshod.qokal.ody.chcfhol.okal.chedy.dalshdy.qopchdy.kary",
+      "eva": "tshod qokal ody chcfhol okal chedy dalshdy qopchdy kary"
+    },
+    {
+      "locus": "f95r2.6,+P0",
+      "raw": "y,olkor.ol.shol.qotar.chdy.chdy.qokar.okar.qokar.odaly",
+      "eva": "y olkor ol shol qotar chdy chdy qokar okar qokar odaly"
+    },
+    {
+      "locus": "f95r2.7,+P0",
+      "raw": "dshedy.otal.qokal.dol.or.eeedy.okeedy.okedyted.otam",
+      "eva": "dshedy otal qokal dol or eeedy okeedy okedyted otam"
+    },
+    {
+      "locus": "f95r2.8,+P0",
+      "raw": "tedykaiin.y,cheol.okal.chedy.shdy.qokchdy.otar.chctham",
+      "eva": "tedykaiin y cheol okal chedy shdy qokchdy otar chctham"
+    },
+    {
+      "locus": "f95r2.9,+P0",
+      "raw": "poiin.okar.qokol.shsdy.okar.chdaiin.olky<$>",
+      "eva": "poiin okar qokol shsdy okar chdaiin olky"
+    }
+  ],
+  "eva_text": "kshedy or chdy dalfchy qodaiin chckhyfchy daraiin dalal\ndaiin shody chkain chol chckhy otain oty oteedy kar okam\ntodaiin chor chckhy qokol chkar ol otaiin ofar okain aram\ndaiin shody tor or okain chckhey\ntshod qokal ody chcfhol okal chedy dalshdy qopchdy kary\ny olkor ol shol qotar chdy chdy qokar okar qokar odaly\ndshedy otal qokal dol or eeedy okeedy okedyted otam\ntedykaiin y cheol okal chedy shdy qokchdy otar chctham\npoiin okar qokol shsdy okar chdaiin olky",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

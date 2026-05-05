@@ -1,0 +1,171 @@
+{
+  "folio": "f88v",
+  "page_number": 182,
+  "section": null,
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "pharmaceutical",
+    "L This is another recipes page. Three rows of recipes with two paras between them"
+  ],
+  "loci_count": 30,
+  "loci": [
+    {
+      "locus": "f88v.1,@Lc",
+      "raw": "okalyd",
+      "eva": "okalyd"
+    },
+    {
+      "locus": "f88v.2,@Lf",
+      "raw": "cheocthy",
+      "eva": "cheocthy"
+    },
+    {
+      "locus": "f88v.3,@Lf",
+      "raw": "cpheor",
+      "eva": "cpheor"
+    },
+    {
+      "locus": "f88v.4,@Lf",
+      "raw": "otar.arody",
+      "eva": "otar arody"
+    },
+    {
+      "locus": "f88v.5,@Lf",
+      "raw": "otokol",
+      "eva": "otokol"
+    },
+    {
+      "locus": "f88v.6,@P0",
+      "raw": "<%>teodal.lkeo,cheor.roshckhy.sorshy<->aiin.cheokal.saldaiin",
+      "eva": "teodal lkeo cheor roshckhy sorshy aiin cheokal saldaiin"
+    },
+    {
+      "locus": "f88v.7,+P0",
+      "raw": "dshor.shor.qokeody.qokeo,lchey.chkeor.qokeey.daiin.qokeom",
+      "eva": "dshor shor qokeody qokeo lchey chkeor qokeey daiin qokeom"
+    },
+    {
+      "locus": "f88v.8,+P0",
+      "raw": "qoaiin.cheoy.olcheody.qoekeol.cho.chckhy.qoeey.key.cheokam",
+      "eva": "qoaiin cheoy olcheody qoekeol cho chckhy qoeey key cheokam"
+    },
+    {
+      "locus": "f88v.9,+P0",
+      "raw": "choeey.keeod,y.s,aiin.chody.okearcheol.archeey.sairal",
+      "eva": "choeey keeod y s aiin chody okearcheol archeey sairal"
+    },
+    {
+      "locus": "f88v.10,+P0",
+      "raw": "dar.cheorol.chekol,daraly<$>",
+      "eva": "dar cheorol chekol daraly"
+    },
+    {
+      "locus": "f88v.11,@Lc",
+      "raw": "otoram",
+      "eva": "otoram"
+    },
+    {
+      "locus": "f88v.12,@Lf",
+      "raw": "otor[a:y]",
+      "eva": "otor[a:y]"
+    },
+    {
+      "locus": "f88v.13,@Lf",
+      "raw": "cheosdy",
+      "eva": "cheosdy"
+    },
+    {
+      "locus": "f88v.14,@Lf",
+      "raw": "okaiin",
+      "eva": "okaiin"
+    },
+    {
+      "locus": "f88v.15,@P0",
+      "raw": "<%>kosholdy.qotody.opykey.oldaiin.qoteody.yfolaiin.oraiin",
+      "eva": "kosholdy qotody opykey oldaiin qoteody yfolaiin oraiin"
+    },
+    {
+      "locus": "f88v.16,+P0",
+      "raw": "ysheod.sheo.sheody.qokeody.qoky.chees.cheody.qokeody.dal",
+      "eva": "ysheod sheo sheody qokeody qoky chees cheody qokeody dal"
+    },
+    {
+      "locus": "f88v.17,+P0",
+      "raw": "qokeey.qokeody.chor.oteody.qockhol.okol.cheedy.qokody",
+      "eva": "qokeey qokeody chor oteody qockhol okol cheedy qokody"
+    },
+    {
+      "locus": "f88v.18,+P0",
+      "raw": "ykeeor.chockhy.otol.cheeol.cheody.qotody.soteol.ch[o:e]tam",
+      "eva": "ykeeor chockhy otol cheeol cheody qotody soteol ch[o:e]tam"
+    },
+    {
+      "locus": "f88v.19,+P0",
+      "raw": "odaiin.sheo,ol.qokeey.olaiin.cheody.chocthey.oteody,dy",
+      "eva": "odaiin sheo ol qokeey olaiin cheody chocthey oteody dy"
+    },
+    {
+      "locus": "f88v.20,+P0",
+      "raw": "[s:]qokeodaiin<!corr?>.cheody.oteol.cheockhy.chody<$>",
+      "eva": "[s:]qokeodaiin cheody oteol cheockhy chody"
+    },
+    {
+      "locus": "f88v.21,+P0",
+      "raw": "<%>toair{ch'}y.oteeody.cpheody.ykchey.dam.cheor.chaly,korain",
+      "eva": "toairch'y oteeody cpheody ykchey dam cheor chaly korain"
+    },
+    {
+      "locus": "f88v.22,+P0",
+      "raw": "dairodain.ykeodain.dain.shedy.qoteo.lchdy.qokeo,r,ain",
+      "eva": "dairodain ykeodain dain shedy qoteo lchdy qokeo r ain"
+    },
+    {
+      "locus": "f88v.23,+P0",
+      "raw": "tol,keeodaiin.qoky.sheol.daiin.chees.aiin.chokar.daim[d:g]",
+      "eva": "tol keeodaiin qoky sheol daiin chees aiin chokar daim[d:g]"
+    },
+    {
+      "locus": "f88v.24,+P0",
+      "raw": "daiin.sheor.sheedy.daiin.sho{ikh}y.qokeody.do{ikh}y.dair",
+      "eva": "daiin sheor sheedy daiin shoikhy qokeody doikhy dair"
+    },
+    {
+      "locus": "f88v.25,+P0",
+      "raw": "ykeey.sheor.tos.checkhy.dain.cheos.cheockhy.saldy",
+      "eva": "ykeey sheor tos checkhy dain cheos cheockhy saldy"
+    },
+    {
+      "locus": "f88v.26,+P0",
+      "raw": "saiin.choky.cheor.shy<$>",
+      "eva": "saiin choky cheor shy"
+    },
+    {
+      "locus": "f88v.27,@Lc",
+      "raw": "daramdal",
+      "eva": "daramdal"
+    },
+    {
+      "locus": "f88v.28,@Lf",
+      "raw": "otydary",
+      "eva": "otydary"
+    },
+    {
+      "locus": "f88v.29,@Lf",
+      "raw": "otdordy",
+      "eva": "otdordy"
+    },
+    {
+      "locus": "f88v.30,@Lf",
+      "raw": "dararda[?:]",
+      "eva": "dararda[?:]"
+    }
+  ],
+  "eva_text": "okalyd\ncheocthy\ncpheor\notar arody\notokol\nteodal lkeo cheor roshckhy sorshy aiin cheokal saldaiin\ndshor shor qokeody qokeo lchey chkeor qokeey daiin qokeom\nqoaiin cheoy olcheody qoekeol cho chckhy qoeey key cheokam\nchoeey keeod y s aiin chody okearcheol archeey sairal\ndar cheorol chekol daraly\notoram\notor[a:y]\ncheosdy\nokaiin\nkosholdy qotody opykey oldaiin qoteody yfolaiin oraiin\nysheod sheo sheody qokeody qoky chees cheody qokeody dal\nqokeey qokeody chor oteody qockhol okol cheedy qokody\nykeeor chockhy otol cheeol cheody qotody soteol ch[o:e]tam\nodaiin sheo ol qokeey olaiin cheody chocthey oteody dy\n[s:]qokeodaiin cheody oteol cheockhy chody\ntoairch'y oteeody cpheody ykchey dam cheor chaly korain\ndairodain ykeodain dain shedy qoteo lchdy qokeo r ain\ntol keeodaiin qoky sheol daiin chees aiin chokar daim[d:g]\ndaiin sheor sheedy daiin shoikhy qokeody doikhy dair\nykeey sheor tos checkhy dain cheos cheockhy saldy\nsaiin choky cheor shy\ndaramdal\notydary\notdordy\ndararda[?:]",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

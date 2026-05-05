@@ -1,0 +1,124 @@
+{
+  "folio": "f3r",
+  "page_number": 5,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "crassulatea (Cretan Dittany)",
+  "plant_candidates": [
+    "crassulatea"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "20 normal lines of text"
+  ],
+  "loci_count": 20,
+  "loci": [
+    {
+      "locus": "f3r.1,@P0",
+      "raw": "<%>tsheos.qopal.chol.cthol.daimg",
+      "eva": "tsheos qopal chol cthol daimg"
+    },
+    {
+      "locus": "f3r.2,+P0",
+      "raw": "ycheor.chor.dam.qotcham.cham",
+      "eva": "ycheor chor dam qotcham cham"
+    },
+    {
+      "locus": "f3r.3,+P0",
+      "raw": "ochor.qocheor.chol.daiin.cthy",
+      "eva": "ochor qocheor chol daiin cthy"
+    },
+    {
+      "locus": "f3r.4,+P0",
+      "raw": "schey.chor.chal.chag.cham.cho",
+      "eva": "schey chor chal chag cham cho"
+    },
+    {
+      "locus": "f3r.5,+P0",
+      "raw": "qokol.chololy.s.cham.cthol",
+      "eva": "qokol chololy s cham cthol"
+    },
+    {
+      "locus": "f3r.6,+P0",
+      "raw": "ychtaiin.chor.cthom.otaldam",
+      "eva": "ychtaiin chor cthom otaldam"
+    },
+    {
+      "locus": "f3r.7,+P0",
+      "raw": "otchol.qodaiin.chom.shom.damo",
+      "eva": "otchol qodaiin chom shom damo"
+    },
+    {
+      "locus": "f3r.8,+P0",
+      "raw": "ysheor.chor.chol.oky.dago",
+      "eva": "ysheor chor chol oky dago"
+    },
+    {
+      "locus": "f3r.9,+P0",
+      "raw": "sho.vor.sheoldam.otchody.ol",
+      "eva": "sho vor sheoldam otchody ol"
+    },
+    {
+      "locus": "f3r.10,+P0",
+      "raw": "ydar.cholcthom<$>",
+      "eva": "ydar cholcthom"
+    },
+    {
+      "locus": "f3r.11,+P0",
+      "raw": "<%>pcheol.shol.sols.sheol.shey",
+      "eva": "pcheol shol sols sheol shey"
+    },
+    {
+      "locus": "f3r.12,+P0",
+      "raw": "okadaiin.qokchor.qo,schodam.octhy",
+      "eva": "okadaiin qokchor qo schodam octhy"
+    },
+    {
+      "locus": "f3r.13,+P0",
+      "raw": "qokeey.qot,shey.qokody.qokshey.cheody",
+      "eva": "qokeey qot shey qokody qokshey cheody"
+    },
+    {
+      "locus": "f3r.14,+P0",
+      "raw": "chor.qodair.okeey.qokeey<$>",
+      "eva": "chor qodair okeey qokeey"
+    },
+    {
+      "locus": "f3r.15,+P0",
+      "raw": "<%>tsheoarom.shor.or.chor.olchsy.chom.otchom<->oporar",
+      "eva": "tsheoarom shor or chor olchsy chom otchom oporar"
+    },
+    {
+      "locus": "f3r.16,+P0",
+      "raw": "oteol.chol.s.cheol.ekshy.qokeom.qokol.daiin<->soleeg",
+      "eva": "oteol chol s cheol ekshy qokeom qokol daiin soleeg"
+    },
+    {
+      "locus": "f3r.17,+P0",
+      "raw": "soeom.okeom.yteody.qokeeodal.sam<$>",
+      "eva": "soeom okeom yteody qokeeodal sam"
+    },
+    {
+      "locus": "f3r.18,+P0",
+      "raw": "<%>pcheoldom.shodaiin.qopchor.qopol.opchol,qoty<->otolom",
+      "eva": "pcheoldom shodaiin qopchor qopol opchol qoty otolom"
+    },
+    {
+      "locus": "f3r.19,+P0",
+      "raw": "otchor.ol,cheor.qoeor.dair.qoteol.qosaiin<->chor.cthy",
+      "eva": "otchor ol cheor qoeor dair qoteol qosaiin chor cthy"
+    },
+    {
+      "locus": "f3r.20,+P0",
+      "raw": "ycheor.chol.odaiin.chol.s.aiin.okol,or.am<$>",
+      "eva": "ycheor chol odaiin chol s aiin okol or am"
+    }
+  ],
+  "eva_text": "tsheos qopal chol cthol daimg\nycheor chor dam qotcham cham\nochor qocheor chol daiin cthy\nschey chor chal chag cham cho\nqokol chololy s cham cthol\nychtaiin chor cthom otaldam\notchol qodaiin chom shom damo\nysheor chor chol oky dago\nsho vor sheoldam otchody ol\nydar cholcthom\npcheol shol sols sheol shey\nokadaiin qokchor qo schodam octhy\nqokeey qot shey qokody qokshey cheody\nchor qodair okeey qokeey\ntsheoarom shor or chor olchsy chom otchom oporar\noteol chol s cheol ekshy qokeom qokol daiin soleeg\nsoeom okeom yteody qokeeodal sam\npcheoldom shodaiin qopchor qopol opchol qoty otolom\notchor ol cheor qoeor dair qoteol qosaiin chor cthy\nycheor chol odaiin chol s aiin okol or am",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

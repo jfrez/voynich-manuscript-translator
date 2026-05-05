@@ -1,0 +1,66 @@
+{
+  "folio": "f41v",
+  "page_number": 80,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": "<unreadable>, Fern, Maidenhair fern??? Tansy?",
+  "plant_candidates": [
+    "<unreadable>",
+    "Fern",
+    "Maidenhair fern??? Tansy?"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "Plain carrot or variety (RZ)"
+  ],
+  "loci_count": 8,
+  "loci": [
+    {
+      "locus": "f41v.1,@Lp",
+      "raw": "keer[e:o]dal",
+      "eva": "keer[e:o]dal"
+    },
+    {
+      "locus": "f41v.2,+P0",
+      "raw": "<%>pcheody.qofcheepy.ofchdy.cfhekchdy<->ypchedy.chepchefy.shdchdy.qotal.dar",
+      "eva": "pcheody qofcheepy ofchdy cfhekchdy ypchedy chepchefy shdchdy qotal dar"
+    },
+    {
+      "locus": "f41v.3,+P0",
+      "raw": "dshedy.tchey.s,aiin.shekey.okedy.okaly<->daiin.okedy.ykeeody.choy.keoy.dam",
+      "eva": "dshedy tchey s aiin shekey okedy okaly daiin okedy ykeeody choy keoy dam"
+    },
+    {
+      "locus": "f41v.4,+P0",
+      "raw": "qoke[o:d]dy.okey.qokeody.oleeol.lkedy<->lkeeody.qokeedy.okeey.qokol.sheols",
+      "eva": "qoke[o:d]dy okey qokeody oleeol lkedy lkeeody qokeedy okeey qokol sheols"
+    },
+    {
+      "locus": "f41v.5,+P0",
+      "raw": "ycheos.olchey.daiin.or.chol[a:o]laiin<->oteedy.qoteol.oteodar.orain",
+      "eva": "ycheos olchey daiin or chol[a:o]laiin oteedy qoteol oteodar orain"
+    },
+    {
+      "locus": "f41v.6,+P0",
+      "raw": "tadaiin.ol.cheos.yteedy.okal.[o:a]ld<->oteol.qokal.or.oteody",
+      "eva": "tadaiin ol cheos yteedy okal [o:a]ld oteol qokal or oteody"
+    },
+    {
+      "locus": "f41v.7,+P0",
+      "raw": "ykeey.okey.ykeeol.ckhdy.chdal<->ykeo,aiin.okeody.oly",
+      "eva": "ykeey okey ykeeol ckhdy chdal ykeo aiin okeody oly"
+    },
+    {
+      "locus": "f41v.8,+P0",
+      "raw": "daiin.olkeeo.lkol,chedy.okeey<$>",
+      "eva": "daiin olkeeo lkol chedy okeey"
+    }
+  ],
+  "eva_text": "keer[e:o]dal\npcheody qofcheepy ofchdy cfhekchdy ypchedy chepchefy shdchdy qotal dar\ndshedy tchey s aiin shekey okedy okaly daiin okedy ykeeody choy keoy dam\nqoke[o:d]dy okey qokeody oleeol lkedy lkeeody qokeedy okeey qokol sheols\nycheos olchey daiin or chol[a:o]laiin oteedy qoteol oteodar orain\ntadaiin ol cheos yteedy okal [o:a]ld oteol qokal or oteody\nykeey okey ykeeol ckhdy chdal ykeo aiin okeody oly\ndaiin olkeeo lkol chedy okeey",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

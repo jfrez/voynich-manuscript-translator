@@ -1,0 +1,67 @@
+{
+  "folio": "f28r",
+  "page_number": 53,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Arum or Arisarum (Haselwurtz)",
+  "plant_candidates": [
+    "Arum or Arisarum"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 9,
+  "loci": [
+    {
+      "locus": "f28r.1,@P0",
+      "raw": "<%>pchodar.shod.chocphy.opchol.daiin<->otchol.chy.qo,ldy",
+      "eva": "pchodar shod chocphy opchol daiin otchol chy qo ldy"
+    },
+    {
+      "locus": "f28r.2,+P0",
+      "raw": "otchor.otchor.cthol.{ct}y.ctheol.dy<->dchar.chakod.dly",
+      "eva": "otchor otchor cthol cty ctheol dy dchar chakod dly"
+    },
+    {
+      "locus": "f28r.3,+P0",
+      "raw": "qotchaiin.shor.cthol.cthol.shor<->chotchy.tchodar",
+      "eva": "qotchaiin shor cthol cthol shor chotchy tchodar"
+    },
+    {
+      "locus": "f28r.4,+P0",
+      "raw": "choty.chtol.otol.chotchy.cthol<->otol.choky.qoty",
+      "eva": "choty chtol otol chotchy cthol otol choky qoty"
+    },
+    {
+      "locus": "f28r.5,+P0",
+      "raw": "oksho.otorchy.kchoror.chodaiin<->sho,cthody.okoy",
+      "eva": "oksho otorchy kchoror chodaiin sho cthody okoy"
+    },
+    {
+      "locus": "f28r.6,+P0",
+      "raw": "qokchol.qodaiin.otcholchy.daiin<->cho.qokol.o,kam",
+      "eva": "qokchol qodaiin otcholchy daiin cho qokol o kam"
+    },
+    {
+      "locus": "f28r.7,+P0",
+      "raw": "sho.otor.shockhy.shocthy.otoldy<->dshor.dol.dar",
+      "eva": "sho otor shockhy shocthy otoldy dshor dol dar"
+    },
+    {
+      "locus": "f28r.8,+P0",
+      "raw": "oschotshl.daiin.okchey.kol.daiin<->shol.dsho.otaiin",
+      "eva": "oschotshl daiin okchey kol daiin shol dsho otaiin"
+    },
+    {
+      "locus": "f28r.9,+P0",
+      "raw": "ytchol.deey.yteol.deaiin<$>",
+      "eva": "ytchol deey yteol deaiin"
+    }
+  ],
+  "eva_text": "pchodar shod chocphy opchol daiin otchol chy qo ldy\notchor otchor cthol cty ctheol dy dchar chakod dly\nqotchaiin shor cthol cthol shor chotchy tchodar\nchoty chtol otol chotchy cthol otol choky qoty\noksho otorchy kchoror chodaiin sho cthody okoy\nqokchol qodaiin otcholchy daiin cho qokol o kam\nsho otor shockhy shocthy otoldy dshor dol dar\noschotshl daiin okchey kol daiin shol dsho otaiin\nytchol deey yteol deaiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

@@ -1,0 +1,79 @@
+{
+  "folio": "f47r",
+  "page_number": 91,
+  "section": "herbal",
+  "currier": null,
+  "plant_id": "Indian cucumber?",
+  "plant_candidates": [
+    "Indian cucumber?"
+  ],
+  "plant_category_guess": "root",
+  "plant_category_confidence": 0.95,
+  "plant_category_matches": [
+    "cucumber"
+  ],
+  "refs": [],
+  "notes": [
+    "Curriers language A, hand 1"
+  ],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f47r.1,@P0",
+      "raw": "<%>@159;chair.oly.sheaiin.shol.daiin.chdy",
+      "eva": "@159;chair oly sheaiin shol daiin chdy"
+    },
+    {
+      "locus": "f47r.2,+P0",
+      "raw": "chokchol.chol,choldy.dair.cha[d:j],aiin",
+      "eva": "chokchol chol choldy dair cha[d:j] aiin"
+    },
+    {
+      "locus": "f47r.3,+P0",
+      "raw": "dor.chol.chy.chaiin.ckhey.chol.dain.okaiin",
+      "eva": "dor chol chy chaiin ckhey chol dain okaiin"
+    },
+    {
+      "locus": "f47r.4,+P0",
+      "raw": "qokcheo.cthey.chokain.chol.daiin.kchdal",
+      "eva": "qokcheo cthey chokain chol daiin kchdal"
+    },
+    {
+      "locus": "f47r.5,+P0",
+      "raw": "dain.olshey.chokolg<$>",
+      "eva": "dain olshey chokolg"
+    },
+    {
+      "locus": "f47r.6,+P0",
+      "raw": "<%>folr.chey,so.chol.shol,aiin.shol.shol.chdy.cholol",
+      "eva": "folr chey so chol shol aiin shol shol chdy cholol"
+    },
+    {
+      "locus": "f47r.7,+P0",
+      "raw": "schesy.kchor.cthaiin.chol.chol.chol.chor.{ck@191;h}ey",
+      "eva": "schesy kchor cthaiin chol chol chol chor ck@191;hey"
+    },
+    {
+      "locus": "f47r.8,+P0",
+      "raw": "shokeey.chy.tchod.choy.sho.chtchy.@161;char.ctham",
+      "eva": "shokeey chy tchod choy sho chtchy @161;char ctham"
+    },
+    {
+      "locus": "f47r.9,+P0",
+      "raw": "qoko,kor.chaiin.okal.chol.daiin.okcho,kcho[r:s]sy",
+      "eva": "qoko kor chaiin okal chol daiin okcho kcho[r:s]sy"
+    },
+    {
+      "locus": "f47r.10,+P0",
+      "raw": "shy.otcho.keey.tor.chey.otchy.tchol.dain.dam",
+      "eva": "shy otcho keey tor chey otchy tchol dain dam"
+    },
+    {
+      "locus": "f47r.11,+P0",
+      "raw": "dsho.cphy.daiin.daiiny<$>",
+      "eva": "dsho cphy daiin daiiny"
+    }
+  ],
+  "eva_text": "@159;chair oly sheaiin shol daiin chdy\nchokchol chol choldy dair cha[d:j] aiin\ndor chol chy chaiin ckhey chol dain okaiin\nqokcheo cthey chokain chol daiin kchdal\ndain olshey chokolg\nfolr chey so chol shol aiin shol shol chdy cholol\nschesy kchor cthaiin chol chol chol chor ck@191;hey\nshokeey chy tchod choy sho chtchy @161;char ctham\nqoko kor chaiin okal chol daiin okcho kcho[r:s]sy\nshy otcho keey tor chey otchy tchol dain dam\ndsho cphy daiin daiiny",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

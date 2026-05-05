@@ -1,0 +1,60 @@
+{
+  "folio": "f52r",
+  "page_number": 101,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "(unreadable)",
+  "plant_candidates": [],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 8,
+  "loci": [
+    {
+      "locus": "f52r.1,@P0",
+      "raw": "<%>tdokchcfhy.ycphko.ytair.shar.qofy,daiin.ypchy.otchol.dar.yty",
+      "eva": "tdokchcfhy ycphko ytair shar qofy daiin ypchy otchol dar yty"
+    },
+    {
+      "locus": "f52r.2,+P0",
+      "raw": "oty.shor.ykoldy.qoky.koldal.oteees.dals<->otar,dl",
+      "eva": "oty shor ykoldy qoky koldal oteees dals otar dl"
+    },
+    {
+      "locus": "f52r.3,+P0",
+      "raw": "tchotshey.qoty.okchol.tchody.qotam.oky<->ytoldy",
+      "eva": "tchotshey qoty okchol tchody qotam oky ytoldy"
+    },
+    {
+      "locus": "f52r.4,+P0",
+      "raw": "l,shopchy.qoky.qotchy.oty.dar.oty.dam<->ychcthod",
+      "eva": "l shopchy qoky qotchy oty dar oty dam ychcthod"
+    },
+    {
+      "locus": "f52r.5,+P0",
+      "raw": "oky.chor.okchal.okchar.shor.tol.ykair<->ytchdam",
+      "eva": "oky chor okchal okchar shor tol ykair ytchdam"
+    },
+    {
+      "locus": "f52r.6,+P0",
+      "raw": "daiin.shedaiin.qodal.dy.[ch:ee]okam.otchordy<->okchol.do",
+      "eva": "daiin shedaiin qodal dy [ch:ee]okam otchordy okchol do"
+    },
+    {
+      "locus": "f52r.7,+P0",
+      "raw": "qok[{ch'}:{cs}]y.qockhom.dals.shodaim.tcham.dody<->ykeey.dai[g:m:d].a[m:@175;]",
+      "eva": "qok[ch':cs]y qockhom dals shodaim tcham dody ykeey dai[g:m:d] a[m:@175;]"
+    },
+    {
+      "locus": "f52r.8,+P0",
+      "raw": "or,cheey.dor.shey.kom.s.cheey.dch[o:a]m.daiin<$>",
+      "eva": "or cheey dor shey kom s cheey dch[o:a]m daiin"
+    }
+  ],
+  "eva_text": "tdokchcfhy ycphko ytair shar qofy daiin ypchy otchol dar yty\noty shor ykoldy qoky koldal oteees dals otar dl\ntchotshey qoty okchol tchody qotam oky ytoldy\nl shopchy qoky qotchy oty dar oty dam ychcthod\noky chor okchal okchar shor tol ykair ytchdam\ndaiin shedaiin qodal dy [ch:ee]okam otchordy okchol do\nqok[ch':cs]y qockhom dals shodaim tcham dody ykeey dai[g:m:d] a[m:@175;]\nor cheey dor shey kom s cheey dch[o:a]m daiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

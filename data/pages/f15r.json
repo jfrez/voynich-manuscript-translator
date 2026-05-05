@@ -1,0 +1,97 @@
+{
+  "folio": "f15r",
+  "page_number": 27,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Saw/Some thistle?",
+  "plant_candidates": [
+    "Saw/Some thistle?"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 15,
+  "loci": [
+    {
+      "locus": "f15r.1,@P0",
+      "raw": "<%>tshor.shey.tchaly<->shy.chtols.shey.daiin",
+      "eva": "tshor shey tchaly shy chtols shey daiin"
+    },
+    {
+      "locus": "f15r.2,+P0",
+      "raw": "otchor.qokchor.oly<->okor.shy.koly",
+      "eva": "otchor qokchor oly okor shy koly"
+    },
+    {
+      "locus": "f15r.3,+P0",
+      "raw": "qokaiin.qotchy,tydy<->daiin.chol.cthy",
+      "eva": "qokaiin qotchy tydy daiin chol cthy"
+    },
+    {
+      "locus": "f15r.4,+P0",
+      "raw": "scheaiin.chodaiin.chl<->sol.ckhaiin.sal",
+      "eva": "scheaiin chodaiin chl sol ckhaiin sal"
+    },
+    {
+      "locus": "f15r.5,+P0",
+      "raw": "qotchy.r,shor.cthy<->daiin.cthy.dy",
+      "eva": "qotchy r shor cthy daiin cthy dy"
+    },
+    {
+      "locus": "f15r.6,+P0",
+      "raw": "dchy.ko,kaiin.chdy<->saiin.okear",
+      "eva": "dchy ko kaiin chdy saiin okear"
+    },
+    {
+      "locus": "f15r.7,+P0",
+      "raw": "daiin.shkaiin.cthy<->sho.keocthy",
+      "eva": "daiin shkaiin cthy sho keocthy"
+    },
+    {
+      "locus": "f15r.8,+P0",
+      "raw": "shocthy.tol,kaiin,s<->dain.ctholy",
+      "eva": "shocthy tol kaiin s dain ctholy"
+    },
+    {
+      "locus": "f15r.9,+P0",
+      "raw": "octhain.qokaiin.chos<->odaiin.cthl,s.y",
+      "eva": "octhain qokaiin chos odaiin cthl s y"
+    },
+    {
+      "locus": "f15r.10,+P0",
+      "raw": "ychain.ch{ckhh}y.okshy<->saiiin.dolchds",
+      "eva": "ychain chckhhy okshy saiiin dolchds"
+    },
+    {
+      "locus": "f15r.11,+P0",
+      "raw": "okaiin.otaiin.chl.sy<->chor.choross",
+      "eva": "okaiin otaiin chl sy chor choross"
+    },
+    {
+      "locus": "f15r.12,+P0",
+      "raw": "qotor.shor.tcheor.chy<->cthaiin<->shan",
+      "eva": "qotor shor tcheor chy cthaiin shan"
+    },
+    {
+      "locus": "f15r.13,+P0",
+      "raw": "ykshol.dor.sheey.cthy.dain<->sky<->shor,shoty",
+      "eva": "ykshol dor sheey cthy dain sky shor shoty"
+    },
+    {
+      "locus": "f15r.14,+P0",
+      "raw": "otcho.kchy.chol.daiin.{ith}ar<->ytol.dor.dom",
+      "eva": "otcho kchy chol daiin ithar ytol dor dom"
+    },
+    {
+      "locus": "f15r.15,+P0",
+      "raw": "qotchor.chaiin.chy,kol.daky<$>",
+      "eva": "qotchor chaiin chy kol daky"
+    }
+  ],
+  "eva_text": "tshor shey tchaly shy chtols shey daiin\notchor qokchor oly okor shy koly\nqokaiin qotchy tydy daiin chol cthy\nscheaiin chodaiin chl sol ckhaiin sal\nqotchy r shor cthy daiin cthy dy\ndchy ko kaiin chdy saiin okear\ndaiin shkaiin cthy sho keocthy\nshocthy tol kaiin s dain ctholy\nocthain qokaiin chos odaiin cthl s y\nychain chckhhy okshy saiiin dolchds\nokaiin otaiin chl sy chor choross\nqotor shor tcheor chy cthaiin shan\nykshol dor sheey cthy dain sky shor shoty\notcho kchy chol daiin ithar ytol dor dom\nqotchor chaiin chy kol daky",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

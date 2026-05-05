@@ -1,0 +1,2015 @@
+[
+  {
+    "folio": "f1r",
+    "section": "text only",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f1r.recipe.json"
+  },
+  {
+    "folio": "f1v",
+    "section": "herbal",
+    "plant_id": "uva lupi, aterpa belladonn[a], solatrum d[iv|w]ale, solanum nigrum=morella",
+    "plant_candidates": [
+      "uva lupi",
+      "aterpa belladonna",
+      "solatrum divale",
+      "solanum nigrum=morella"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f1v.recipe.json"
+  },
+  {
+    "folio": "f2r",
+    "section": "herbal",
+    "plant_id": "Cyanus segelis coeruleus (Kornblume), centaurea (cf. Holm)",
+    "plant_candidates": [
+      "Cyanus segelis coeruleus",
+      "centaurea"
+    ],
+    "plant_category_guess": "flower",
+    "recipe_file": "f2r.recipe.json"
+  },
+  {
+    "folio": "f2v",
+    "section": "herbal",
+    "plant_id": "Collocasia, Egyptian lotus, Nymphoides Peltata (R. Zandbergen)",
+    "plant_candidates": [
+      "Collocasia",
+      "Egyptian lotus",
+      "Nymphoides Peltata"
+    ],
+    "plant_category_guess": "aquatic",
+    "recipe_file": "f2v.recipe.json"
+  },
+  {
+    "folio": "f3r",
+    "section": "herbal",
+    "plant_id": "crassulatea (Cretan Dittany)",
+    "plant_candidates": [
+      "crassulatea"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f3r.recipe.json"
+  },
+  {
+    "folio": "f3v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f3v.recipe.json"
+  },
+  {
+    "folio": "f4r",
+    "section": "herbal",
+    "plant_id": "Hypericum; Centaurium Erythaea (O'Neill)",
+    "plant_candidates": [
+      "Hypericum",
+      "Centaurium Erythaea"
+    ],
+    "plant_category_guess": "flower",
+    "recipe_file": "f4r.recipe.json"
+  },
+  {
+    "folio": "f4v",
+    "section": "herbal",
+    "plant_id": "Convulvula Ipomea? (climbing plant)",
+    "plant_candidates": [
+      "Convulvula Ipomea?"
+    ],
+    "plant_category_guess": "root",
+    "recipe_file": "f4v.recipe.json"
+  },
+  {
+    "folio": "f5r",
+    "section": "herbal",
+    "plant_id": "[Herba] Paris, Indian Cucumber?",
+    "plant_candidates": [
+      "Herba Paris",
+      "Indian Cucumber?"
+    ],
+    "plant_category_guess": "root",
+    "recipe_file": "f5r.recipe.json"
+  },
+  {
+    "folio": "f5v",
+    "section": "herbal",
+    "plant_id": "Paretaria Urtica (O'Neill)",
+    "plant_candidates": [
+      "Paretaria Urtica"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f5v.recipe.json"
+  },
+  {
+    "folio": "f6r",
+    "section": "herbal",
+    "plant_id": "Asclepiades, but with wrong leaves (of Pediculum)",
+    "plant_candidates": [
+      "Asclepiades",
+      "but with wrong leaves"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f6r.recipe.json"
+  },
+  {
+    "folio": "f6v",
+    "section": "herbal",
+    "plant_id": "blackgum tree?, arctium? Bidens(sp?)kyptis (O'Neill),",
+    "plant_candidates": [
+      "blackgum tree?",
+      "arctium? Bidenskyptis"
+    ],
+    "plant_category_guess": "root",
+    "recipe_file": "f6v.recipe.json"
+  },
+  {
+    "folio": "f7r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f7r.recipe.json"
+  },
+  {
+    "folio": "f7v",
+    "section": "herbal",
+    "plant_id": "polygonum persicaria, potentilla silvestris, oculus christi",
+    "plant_candidates": [
+      "polygonum persicaria",
+      "potentilla silvestris",
+      "oculus christi"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f7v.recipe.json"
+  },
+  {
+    "folio": "f8r",
+    "section": "herbal",
+    "plant_id": "Praenanthes (O'Neill), Atriplex hastata (spinach?)(Voynich)",
+    "plant_candidates": [
+      "Praenanthes",
+      "Atriplex hastata"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f8r.recipe.json"
+  },
+  {
+    "folio": "f8v",
+    "section": "herbal",
+    "plant_id": "Silene",
+    "plant_candidates": [
+      "Silene"
+    ],
+    "plant_category_guess": "flower",
+    "recipe_file": "f8v.recipe.json"
+  },
+  {
+    "folio": "f9r",
+    "section": "herbal",
+    "plant_id": "Chelidonium Majus, Sallkraut (sp?)",
+    "plant_candidates": [
+      "Chelidonium Majus",
+      "Sallkraut"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f9r.recipe.json"
+  },
+  {
+    "folio": "f9v",
+    "section": "herbal",
+    "plant_id": "Herba Trinitatis, Freyschamkraut(sp?) (O'Neill)",
+    "plant_candidates": [
+      "Herba Trinitatis",
+      "Freyschamkraut"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f9v.recipe.json"
+  },
+  {
+    "folio": "f10r",
+    "section": "herbal",
+    "plant_id": "Scabiosa",
+    "plant_candidates": [
+      "Scabiosa"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f10r.recipe.json"
+  },
+  {
+    "folio": "f10v",
+    "section": "herbal",
+    "plant_id": "Hellebore? orientalis",
+    "plant_candidates": [
+      "Hellebore? orientalis"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f10v.recipe.json"
+  },
+  {
+    "folio": "f11r",
+    "section": "herbal",
+    "plant_id": "Silene Aca[ul|nt]is (O'N)",
+    "plant_candidates": [
+      "Silene Acaulis"
+    ],
+    "plant_category_guess": "flower",
+    "recipe_file": "f11r.recipe.json"
+  },
+  {
+    "folio": "f11v",
+    "section": "herbal",
+    "plant_id": "Leonotus or Leonarus",
+    "plant_candidates": [
+      "Leonotus or Leonarus"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f11v.recipe.json"
+  },
+  {
+    "folio": "f13r",
+    "section": "herbal",
+    "plant_id": "Tussilago petronitas, colto foot (all sp?)",
+    "plant_candidates": [
+      "Tussilago petronitas",
+      "colto foot"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f13r.recipe.json"
+  },
+  {
+    "folio": "f13v",
+    "section": "herbal",
+    "plant_id": "Crassulatea Fetthenne(sp?)",
+    "plant_candidates": [
+      "Crassulatea Fetthenne"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f13v.recipe.json"
+  },
+  {
+    "folio": "f14r",
+    "section": "herbal",
+    "plant_id": "Pfeilkraut - scorpion, Sagittaria",
+    "plant_candidates": [
+      "Pfeilkraut - scorpion",
+      "Sagittaria"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f14r.recipe.json"
+  },
+  {
+    "folio": "f14v",
+    "section": "herbal",
+    "plant_id": "Osmodei (fern root)",
+    "plant_candidates": [
+      "Osmodei"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f14v.recipe.json"
+  },
+  {
+    "folio": "f15r",
+    "section": "herbal",
+    "plant_id": "Saw/Some thistle?",
+    "plant_candidates": [
+      "Saw/Some thistle?"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f15r.recipe.json"
+  },
+  {
+    "folio": "f15v",
+    "section": "herbal",
+    "plant_id": "Herba Paris (liliacesus), Herba Mortis",
+    "plant_candidates": [
+      "Herba Paris",
+      "Herba Mortis"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f15v.recipe.json"
+  },
+  {
+    "folio": "f16r",
+    "section": "herbal",
+    "plant_id": "Canabis, Hemp, Ampfer(?)",
+    "plant_candidates": [
+      "Canabis",
+      "Hemp",
+      "Ampfer"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f16r.recipe.json"
+  },
+  {
+    "folio": "f16v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f16v.recipe.json"
+  },
+  {
+    "folio": "f17r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f17r.recipe.json"
+  },
+  {
+    "folio": "f17v",
+    "section": "herbal",
+    "plant_id": "Tamus communis, Polygonum dumetorum(sp?), Smilax,",
+    "plant_candidates": [
+      "Tamus communis",
+      "Polygonum dumetorum",
+      "Smilax"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f17v.recipe.json"
+  },
+  {
+    "folio": "f18r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f18r.recipe.json"
+  },
+  {
+    "folio": "f18v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f18v.recipe.json"
+  },
+  {
+    "folio": "f19r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f19r.recipe.json"
+  },
+  {
+    "folio": "f19v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f19v.recipe.json"
+  },
+  {
+    "folio": "f20r",
+    "section": "herbal",
+    "plant_id": "Moss Polytrichum (O'Neill), cranberry",
+    "plant_candidates": [
+      "Moss Polytrichum",
+      "cranberry"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f20r.recipe.json"
+  },
+  {
+    "folio": "f20v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f20v.recipe.json"
+  },
+  {
+    "folio": "f21r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f21r.recipe.json"
+  },
+  {
+    "folio": "f21v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f21v.recipe.json"
+  },
+  {
+    "folio": "f22r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f22r.recipe.json"
+  },
+  {
+    "folio": "f22v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f22v.recipe.json"
+  },
+  {
+    "folio": "f23r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f23r.recipe.json"
+  },
+  {
+    "folio": "f23v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f23v.recipe.json"
+  },
+  {
+    "folio": "f24r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f24r.recipe.json"
+  },
+  {
+    "folio": "f24v",
+    "section": "herbal",
+    "plant_id": "(hard to read)",
+    "plant_candidates": [],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f24v.recipe.json"
+  },
+  {
+    "folio": "f25r",
+    "section": "herbal",
+    "plant_id": "too many to list here but mostly nettle- or mint-like",
+    "plant_candidates": [
+      "too many to list here but mostly nettle- or mint-like"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f25r.recipe.json"
+  },
+  {
+    "folio": "f25v",
+    "section": "herbal",
+    "plant_id": "Leontopodium Edelweiss + unreadable",
+    "plant_candidates": [
+      "Leontopodium Edelweiss + unreadable"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f25v.recipe.json"
+  },
+  {
+    "folio": "f26r",
+    "section": "herbal",
+    "plant_id": "Flower like artemisium absinth / wermuth but leaves are not",
+    "plant_candidates": [
+      "Flower like artemisium absinth / wermuth but leaves are not"
+    ],
+    "plant_category_guess": "flower",
+    "recipe_file": "f26r.recipe.json"
+  },
+  {
+    "folio": "f26v",
+    "section": "herbal",
+    "plant_id": "Verbena foenica",
+    "plant_candidates": [
+      "Verbena foenica"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f26v.recipe.json"
+  },
+  {
+    "folio": "f27r",
+    "section": "herbal",
+    "plant_id": "(small one:) Asarium Europeum (Haselwurz)",
+    "plant_candidates": [
+      "Asarium Europeum"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f27r.recipe.json"
+  },
+  {
+    "folio": "f27v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f27v.recipe.json"
+  },
+  {
+    "folio": "f28r",
+    "section": "herbal",
+    "plant_id": "Arum or Arisarum (Haselwurtz)",
+    "plant_candidates": [
+      "Arum or Arisarum"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f28r.recipe.json"
+  },
+  {
+    "folio": "f28v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f28v.recipe.json"
+  },
+  {
+    "folio": "f29r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f29r.recipe.json"
+  },
+  {
+    "folio": "f29v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f29v.recipe.json"
+  },
+  {
+    "folio": "f30r",
+    "section": "herbal",
+    "plant_id": "(Holm) Dentaria(?) leaf only. Schippenwurtz?",
+    "plant_candidates": [
+      "Dentaria leaf only. Schippenwurtz?"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f30r.recipe.json"
+  },
+  {
+    "folio": "f30v",
+    "section": "herbal",
+    "plant_id": "Boragine",
+    "plant_candidates": [
+      "Boragine"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f30v.recipe.json"
+  },
+  {
+    "folio": "f31r",
+    "section": "herbal",
+    "plant_id": "Hyrcio[unreadable] Arabum",
+    "plant_candidates": [
+      "Hyrciounreadable Arabum"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f31r.recipe.json"
+  },
+  {
+    "folio": "f31v",
+    "section": "herbal",
+    "plant_id": "Heracleum cervofilum",
+    "plant_candidates": [
+      "Heracleum cervofilum"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f31v.recipe.json"
+  },
+  {
+    "folio": "f32r",
+    "section": "herbal",
+    "plant_id": "Mentastrum/Ros*(illegible)muentz (O'Neill),",
+    "plant_candidates": [
+      "Mentastrum/Ros*muentz"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f32r.recipe.json"
+  },
+  {
+    "folio": "f32v",
+    "section": "herbal",
+    "plant_id": "Campanula Ranunculus (Holm), Archangelica, Glockenblume,",
+    "plant_candidates": [
+      "Campanula Ranunculus",
+      "Archangelica",
+      "Glockenblume"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f32v.recipe.json"
+  },
+  {
+    "folio": "f33r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f33r.recipe.json"
+  },
+  {
+    "folio": "f33v",
+    "section": "herbal",
+    "plant_id": "Scabiosa",
+    "plant_candidates": [
+      "Scabiosa"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f33v.recipe.json"
+  },
+  {
+    "folio": "f34r",
+    "section": "herbal",
+    "plant_id": "smaller scabiosa",
+    "plant_candidates": [
+      "smaller scabiosa"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f34r.recipe.json"
+  },
+  {
+    "folio": "f34v",
+    "section": "herbal",
+    "plant_id": "libanotus umbilifera",
+    "plant_candidates": [
+      "libanotus umbilifera"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f34v.recipe.json"
+  },
+  {
+    "folio": "f35r",
+    "section": "herbal",
+    "plant_id": "orchid root?",
+    "plant_candidates": [
+      "orchid root?"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f35r.recipe.json"
+  },
+  {
+    "folio": "f35v",
+    "section": "herbal",
+    "plant_id": "uva quercia (vitis), oak/quercus, gall apple?",
+    "plant_candidates": [
+      "uva quercia",
+      "oak/quercus",
+      "gall apple?"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f35v.recipe.json"
+  },
+  {
+    "folio": "f36r",
+    "section": "herbal",
+    "plant_id": "Geranium (SDC = [RZ])",
+    "plant_candidates": [
+      "Geranium"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f36r.recipe.json"
+  },
+  {
+    "folio": "f36v",
+    "section": "herbal",
+    "plant_id": "Indian hemp",
+    "plant_candidates": [
+      "Indian hemp"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f36v.recipe.json"
+  },
+  {
+    "folio": "f37r",
+    "section": "herbal",
+    "plant_id": "Baldrian, Valerian, dwarf ceder(?), (+illegible)",
+    "plant_candidates": [
+      "Baldrian",
+      "Valerian",
+      "dwarf ceder"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f37r.recipe.json"
+  },
+  {
+    "folio": "f37v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f37v.recipe.json"
+  },
+  {
+    "folio": "f38r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f38r.recipe.json"
+  },
+  {
+    "folio": "f38v",
+    "section": "herbal",
+    "plant_id": "Cickorium?, Lactuca",
+    "plant_candidates": [
+      "Cickorium?",
+      "Lactuca"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f38v.recipe.json"
+  },
+  {
+    "folio": "f39r",
+    "section": "herbal",
+    "plant_id": "crocus? (RZ)",
+    "plant_candidates": [
+      "crocus?"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f39r.recipe.json"
+  },
+  {
+    "folio": "f39v",
+    "section": "herbal",
+    "plant_id": "Primulaceon(?) (ag arthritis)",
+    "plant_candidates": [
+      "Primulaceon"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f39v.recipe.json"
+  },
+  {
+    "folio": "f40r",
+    "section": "herbal",
+    "plant_id": "Primulaceon",
+    "plant_candidates": [
+      "Primulaceon"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f40r.recipe.json"
+  },
+  {
+    "folio": "f40v",
+    "section": "herbal",
+    "plant_id": "Thistle, Gerneolem(?) Artichoke, Helianthus Tuberosus",
+    "plant_candidates": [
+      "Thistle",
+      "Gerneolem Artichoke",
+      "Helianthus Tuberosus"
+    ],
+    "plant_category_guess": "root",
+    "recipe_file": "f40v.recipe.json"
+  },
+  {
+    "folio": "f41r",
+    "section": "herbal",
+    "plant_id": "Thistle",
+    "plant_candidates": [
+      "Thistle"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f41r.recipe.json"
+  },
+  {
+    "folio": "f41v",
+    "section": "herbal",
+    "plant_id": "<unreadable>, Fern, Maidenhair fern??? Tansy?",
+    "plant_candidates": [
+      "<unreadable>",
+      "Fern",
+      "Maidenhair fern??? Tansy?"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f41v.recipe.json"
+  },
+  {
+    "folio": "f42r",
+    "section": "herbal",
+    "plant_id": "Tropical Arum sagittarium visicating,",
+    "plant_candidates": [
+      "Tropical Arum sagittarium visicating"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f42r.recipe.json"
+  },
+  {
+    "folio": "f42v",
+    "section": "herbal",
+    "plant_id": "ranunculacea helleboria(?) (Mrs Voynich)",
+    "plant_candidates": [
+      "ranunculacea helleboria"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f42v.recipe.json"
+  },
+  {
+    "folio": "f43r",
+    "section": "herbal",
+    "plant_id": "Antennaria Gnaphalium",
+    "plant_candidates": [
+      "Antennaria Gnaphalium"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f43r.recipe.json"
+  },
+  {
+    "folio": "f43v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f43v.recipe.json"
+  },
+  {
+    "folio": "f44r",
+    "section": "herbal",
+    "plant_id": "Veratrum (sp?)",
+    "plant_candidates": [
+      "Veratrum"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f44r.recipe.json"
+  },
+  {
+    "folio": "f44v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f44v.recipe.json"
+  },
+  {
+    "folio": "f45r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f45r.recipe.json"
+  },
+  {
+    "folio": "f45v",
+    "section": "herbal",
+    "plant_id": "Sentellaria, Veronica? carnedris(sp), Ehrenpreis?,",
+    "plant_candidates": [
+      "Sentellaria",
+      "Veronica? carnedris",
+      "Ehrenpreis?"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f45v.recipe.json"
+  },
+  {
+    "folio": "f46r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f46r.recipe.json"
+  },
+  {
+    "folio": "f46v",
+    "section": "herbal",
+    "plant_id": "Boragine, Anchusa (has red mark along top of roots)",
+    "plant_candidates": [
+      "Boragine",
+      "Anchusa"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f46v.recipe.json"
+  },
+  {
+    "folio": "f47r",
+    "section": "herbal",
+    "plant_id": "Indian cucumber?",
+    "plant_candidates": [
+      "Indian cucumber?"
+    ],
+    "plant_category_guess": "root",
+    "recipe_file": "f47r.recipe.json"
+  },
+  {
+    "folio": "f47v",
+    "section": "herbal",
+    "plant_id": "Toronicum Pardalianchus (Holm) [Gemswurtz]",
+    "plant_candidates": [
+      "Toronicum Pardalianchus Gemswurtz"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f47v.recipe.json"
+  },
+  {
+    "folio": "f48r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f48r.recipe.json"
+  },
+  {
+    "folio": "f48v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f48v.recipe.json"
+  },
+  {
+    "folio": "f49r",
+    "section": "herbal",
+    "plant_id": "Tamus communis (Holm), Scamonia",
+    "plant_candidates": [
+      "Tamus communis",
+      "Scamonia"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f49r.recipe.json"
+  },
+  {
+    "folio": "f49v",
+    "section": "herbal",
+    "plant_id": "Lunaria. Cyclamen (Holm)",
+    "plant_candidates": [
+      "Lunaria. Cyclamen"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f49v.recipe.json"
+  },
+  {
+    "folio": "f50r",
+    "section": "herbal",
+    "plant_id": "Artichoke, (species of sunflower?)",
+    "plant_candidates": [
+      "Artichoke"
+    ],
+    "plant_category_guess": "flower",
+    "recipe_file": "f50r.recipe.json"
+  },
+  {
+    "folio": "f50v",
+    "section": "herbal",
+    "plant_id": "Umbellifera? (O'Neill), (coxcomb?)",
+    "plant_candidates": [
+      "Umbellifera?"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f50v.recipe.json"
+  },
+  {
+    "folio": "f51r",
+    "section": "herbal",
+    "plant_id": "Mandrake (Manley)",
+    "plant_candidates": [
+      "Mandrake"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f51r.recipe.json"
+  },
+  {
+    "folio": "f51v",
+    "section": "herbal",
+    "plant_id": "Cow's tongue, Licopsis, Sedum Majus (Hauswurtz)",
+    "plant_candidates": [
+      "Cow's tongue",
+      "Licopsis",
+      "Sedum Majus"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f51v.recipe.json"
+  },
+  {
+    "folio": "f52r",
+    "section": "herbal",
+    "plant_id": "(unreadable)",
+    "plant_candidates": [],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f52r.recipe.json"
+  },
+  {
+    "folio": "f52v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f52v.recipe.json"
+  },
+  {
+    "folio": "f53r",
+    "section": "herbal",
+    "plant_id": "Elecampane",
+    "plant_candidates": [
+      "Elecampane"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f53r.recipe.json"
+  },
+  {
+    "folio": "f53v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f53v.recipe.json"
+  },
+  {
+    "folio": "f54r",
+    "section": "herbal",
+    "plant_id": "Thistle, leaves of boneset",
+    "plant_candidates": [
+      "Thistle",
+      "leaves of boneset"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f54r.recipe.json"
+  },
+  {
+    "folio": "f54v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f54v.recipe.json"
+  },
+  {
+    "folio": "f55r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f55r.recipe.json"
+  },
+  {
+    "folio": "f55v",
+    "section": "herbal",
+    "plant_id": "Elephant's ear?",
+    "plant_candidates": [
+      "Elephant's ear?"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f55v.recipe.json"
+  },
+  {
+    "folio": "f56r",
+    "section": "herbal",
+    "plant_id": "Boragine echium, Dianthus flower (convolvulus?)",
+    "plant_candidates": [
+      "Boragine echium",
+      "Dianthus flower"
+    ],
+    "plant_category_guess": "flower",
+    "recipe_file": "f56r.recipe.json"
+  },
+  {
+    "folio": "f56v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f56v.recipe.json"
+  },
+  {
+    "folio": "f57r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f57r.recipe.json"
+  },
+  {
+    "folio": "f57v",
+    "section": "cosmological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f57v.recipe.json"
+  },
+  {
+    "folio": "f58r",
+    "section": "text only",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f58r.recipe.json"
+  },
+  {
+    "folio": "f58v",
+    "section": "text only",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f58v.recipe.json"
+  },
+  {
+    "folio": "f65r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f65r.recipe.json"
+  },
+  {
+    "folio": "f65v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f65v.recipe.json"
+  },
+  {
+    "folio": "f66r",
+    "section": "text only",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f66r.recipe.json"
+  },
+  {
+    "folio": "f66v",
+    "section": "herbal",
+    "plant_id": "Primula?",
+    "plant_candidates": [
+      "Primula?"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f66v.recipe.json"
+  },
+  {
+    "folio": "f67r1",
+    "section": "astronomical",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f67r1.recipe.json"
+  },
+  {
+    "folio": "f67r2",
+    "section": "astronomical",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f67r2.recipe.json"
+  },
+  {
+    "folio": "f67v2",
+    "section": "cosmological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f67v2.recipe.json"
+  },
+  {
+    "folio": "f67v1",
+    "section": "astronomical",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f67v1.recipe.json"
+  },
+  {
+    "folio": "f68r1",
+    "section": "astronomical",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f68r1.recipe.json"
+  },
+  {
+    "folio": "f68r2",
+    "section": "astronomical",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f68r2.recipe.json"
+  },
+  {
+    "folio": "f68r3",
+    "section": "astronomical",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f68r3.recipe.json"
+  },
+  {
+    "folio": "f68v3",
+    "section": "cosmological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f68v3.recipe.json"
+  },
+  {
+    "folio": "f68v2",
+    "section": "astronomical",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f68v2.recipe.json"
+  },
+  {
+    "folio": "f68v1",
+    "section": "astronomical",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f68v1.recipe.json"
+  },
+  {
+    "folio": "f69r",
+    "section": "cosmological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f69r.recipe.json"
+  },
+  {
+    "folio": "f69v",
+    "section": "cosmological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f69v.recipe.json"
+  },
+  {
+    "folio": "f70r1",
+    "section": "cosmological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f70r1.recipe.json"
+  },
+  {
+    "folio": "f70r2",
+    "section": "cosmological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f70r2.recipe.json"
+  },
+  {
+    "folio": "f70v2",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f70v2.recipe.json"
+  },
+  {
+    "folio": "f70v1",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f70v1.recipe.json"
+  },
+  {
+    "folio": "f71r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f71r.recipe.json"
+  },
+  {
+    "folio": "f71v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f71v.recipe.json"
+  },
+  {
+    "folio": "f72r1",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f72r1.recipe.json"
+  },
+  {
+    "folio": "f72r2",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f72r2.recipe.json"
+  },
+  {
+    "folio": "f72r3",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f72r3.recipe.json"
+  },
+  {
+    "folio": "f72v3",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f72v3.recipe.json"
+  },
+  {
+    "folio": "f72v2",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f72v2.recipe.json"
+  },
+  {
+    "folio": "f72v1",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f72v1.recipe.json"
+  },
+  {
+    "folio": "f73r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f73r.recipe.json"
+  },
+  {
+    "folio": "f73v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f73v.recipe.json"
+  },
+  {
+    "folio": "f75r",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f75r.recipe.json"
+  },
+  {
+    "folio": "f75v",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f75v.recipe.json"
+  },
+  {
+    "folio": "f76r",
+    "section": "text only",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f76r.recipe.json"
+  },
+  {
+    "folio": "f76v",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f76v.recipe.json"
+  },
+  {
+    "folio": "f77r",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f77r.recipe.json"
+  },
+  {
+    "folio": "f77v",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f77v.recipe.json"
+  },
+  {
+    "folio": "f78r",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f78r.recipe.json"
+  },
+  {
+    "folio": "f78v",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f78v.recipe.json"
+  },
+  {
+    "folio": "f79r",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f79r.recipe.json"
+  },
+  {
+    "folio": "f79v",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f79v.recipe.json"
+  },
+  {
+    "folio": "f80r",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f80r.recipe.json"
+  },
+  {
+    "folio": "f80v",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f80v.recipe.json"
+  },
+  {
+    "folio": "f81r",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f81r.recipe.json"
+  },
+  {
+    "folio": "f81v",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f81v.recipe.json"
+  },
+  {
+    "folio": "f82r",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f82r.recipe.json"
+  },
+  {
+    "folio": "f82v",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f82v.recipe.json"
+  },
+  {
+    "folio": "f83r",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f83r.recipe.json"
+  },
+  {
+    "folio": "f83v",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f83v.recipe.json"
+  },
+  {
+    "folio": "f84r",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f84r.recipe.json"
+  },
+  {
+    "folio": "f84v",
+    "section": "biological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f84v.recipe.json"
+  },
+  {
+    "folio": "f85r1",
+    "section": "text only",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f85r1.recipe.json"
+  },
+  {
+    "folio": "f85r2",
+    "section": "cosmological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f85r2.recipe.json"
+  },
+  {
+    "folio": "f86v4",
+    "section": "cosmological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f86v4.recipe.json"
+  },
+  {
+    "folio": "f86v6",
+    "section": "text only",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f86v6.recipe.json"
+  },
+  {
+    "folio": "f86v5",
+    "section": "text only",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f86v5.recipe.json"
+  },
+  {
+    "folio": "f86v3",
+    "section": "cosmological",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f86v3.recipe.json"
+  },
+  {
+    "folio": "f87r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f87r.recipe.json"
+  },
+  {
+    "folio": "f87v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f87v.recipe.json"
+  },
+  {
+    "folio": "f88r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f88r.recipe.json"
+  },
+  {
+    "folio": "f88v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f88v.recipe.json"
+  },
+  {
+    "folio": "f89r1",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f89r1.recipe.json"
+  },
+  {
+    "folio": "f89r2",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f89r2.recipe.json"
+  },
+  {
+    "folio": "f89v2",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f89v2.recipe.json"
+  },
+  {
+    "folio": "f89v1",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f89v1.recipe.json"
+  },
+  {
+    "folio": "f90r1",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f90r1.recipe.json"
+  },
+  {
+    "folio": "f90r2",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f90r2.recipe.json"
+  },
+  {
+    "folio": "f90v2",
+    "section": "herbal",
+    "plant_id": "Xerantrium? Leaves of Osmuda regalis",
+    "plant_candidates": [
+      "Xerantrium? Leaves of Osmuda regalis"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f90v2.recipe.json"
+  },
+  {
+    "folio": "f90v1",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f90v1.recipe.json"
+  },
+  {
+    "folio": "f93r",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f93r.recipe.json"
+  },
+  {
+    "folio": "f93v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f93v.recipe.json"
+  },
+  {
+    "folio": "f94r",
+    "section": "herbal",
+    "plant_id": "Botriculum (Lunaria? Mondform?}",
+    "plant_candidates": [
+      "Botriculum (Lunaria? Mondform?}"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f94r.recipe.json"
+  },
+  {
+    "folio": "f94v",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f94v.recipe.json"
+  },
+  {
+    "folio": "f95r1",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f95r1.recipe.json"
+  },
+  {
+    "folio": "f95r2",
+    "section": "herbal",
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f95r2.recipe.json"
+  },
+  {
+    "folio": "f95v2",
+    "section": "herbal",
+    "plant_id": "Banberry? Actaea Waxberry",
+    "plant_candidates": [
+      "Banberry? Actaea Waxberry"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f95v2.recipe.json"
+  },
+  {
+    "folio": "f95v1",
+    "section": "herbal",
+    "plant_id": "Wermut, Artemisium Absynthum",
+    "plant_candidates": [
+      "Wermut",
+      "Artemisium Absynthum"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f95v1.recipe.json"
+  },
+  {
+    "folio": "f96r",
+    "section": "herbal",
+    "plant_id": "dipsaxus, calendula (O'Neill)",
+    "plant_candidates": [
+      "dipsaxus",
+      "calendula"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f96r.recipe.json"
+  },
+  {
+    "folio": "f96v",
+    "section": "herbal",
+    "plant_id": "Smilax tracheia, or Chenopodium",
+    "plant_candidates": [
+      "Smilax tracheia",
+      "or Chenopodium"
+    ],
+    "plant_category_guess": "leaf",
+    "recipe_file": "f96v.recipe.json"
+  },
+  {
+    "folio": "f99r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f99r.recipe.json"
+  },
+  {
+    "folio": "f99v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f99v.recipe.json"
+  },
+  {
+    "folio": "f100r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f100r.recipe.json"
+  },
+  {
+    "folio": "f100v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f100v.recipe.json"
+  },
+  {
+    "folio": "f101r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f101r.recipe.json"
+  },
+  {
+    "folio": "f101v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f101v.recipe.json"
+  },
+  {
+    "folio": "f102r1",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f102r1.recipe.json"
+  },
+  {
+    "folio": "f102r2",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f102r2.recipe.json"
+  },
+  {
+    "folio": "f102v2",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f102v2.recipe.json"
+  },
+  {
+    "folio": "f102v1",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f102v1.recipe.json"
+  },
+  {
+    "folio": "f103r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f103r.recipe.json"
+  },
+  {
+    "folio": "f103v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f103v.recipe.json"
+  },
+  {
+    "folio": "f104r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f104r.recipe.json"
+  },
+  {
+    "folio": "f104v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f104v.recipe.json"
+  },
+  {
+    "folio": "f105r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f105r.recipe.json"
+  },
+  {
+    "folio": "f105v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f105v.recipe.json"
+  },
+  {
+    "folio": "f106r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f106r.recipe.json"
+  },
+  {
+    "folio": "f106v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f106v.recipe.json"
+  },
+  {
+    "folio": "f107r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f107r.recipe.json"
+  },
+  {
+    "folio": "f107v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f107v.recipe.json"
+  },
+  {
+    "folio": "f108r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f108r.recipe.json"
+  },
+  {
+    "folio": "f108v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f108v.recipe.json"
+  },
+  {
+    "folio": "f111r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f111r.recipe.json"
+  },
+  {
+    "folio": "f111v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f111v.recipe.json"
+  },
+  {
+    "folio": "f112r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f112r.recipe.json"
+  },
+  {
+    "folio": "f112v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f112v.recipe.json"
+  },
+  {
+    "folio": "f113r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f113r.recipe.json"
+  },
+  {
+    "folio": "f113v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f113v.recipe.json"
+  },
+  {
+    "folio": "f114r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f114r.recipe.json"
+  },
+  {
+    "folio": "f114v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f114v.recipe.json"
+  },
+  {
+    "folio": "f115r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f115r.recipe.json"
+  },
+  {
+    "folio": "f115v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f115v.recipe.json"
+  },
+  {
+    "folio": "f116r",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f116r.recipe.json"
+  },
+  {
+    "folio": "f116v",
+    "section": null,
+    "plant_id": null,
+    "plant_candidates": [],
+    "plant_category_guess": "unknown",
+    "recipe_file": "f116v.recipe.json"
+  }
+]

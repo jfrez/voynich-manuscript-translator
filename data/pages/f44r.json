@@ -1,0 +1,79 @@
+{
+  "folio": "f44r",
+  "page_number": 85,
+  "section": "herbal",
+  "currier": null,
+  "plant_id": "Veratrum (sp?)",
+  "plant_candidates": [
+    "Veratrum"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "Curriers language A, hand 1"
+  ],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f44r.1,@P0",
+      "raw": "<%>tshodpy.ora{iph}y.koees.ypsholy.shy.otoloaiin",
+      "eva": "tshodpy oraiphy koees ypsholy shy otoloaiin"
+    },
+    {
+      "locus": "f44r.2,+P0",
+      "raw": "ydsh.dyeees.y,ty.oky.okchey.qykchey.dchy,dy",
+      "eva": "ydsh dyeees y ty oky okchey qykchey dchy dy"
+    },
+    {
+      "locus": "f44r.3,+P0",
+      "raw": "oair.ekokeey.kshotol.otal.daiin.ototaykal",
+      "eva": "oair ekokeey kshotol otal daiin ototaykal"
+    },
+    {
+      "locus": "f44r.4,+P0",
+      "raw": "ychor.ykchey.ykchy.chody.dam<$>",
+      "eva": "ychor ykchey ykchy chody dam"
+    },
+    {
+      "locus": "f44r.5,+P0",
+      "raw": "<%>toy.shysho.qoteey.char.cheeky.sheey.ytey.daiin",
+      "eva": "toy shysho qoteey char cheeky sheey ytey daiin"
+    },
+    {
+      "locus": "f44r.6,+P0",
+      "raw": "dshor.y,tchol.shy.o.@190;cheekchy.qotchy.otchy.dar",
+      "eva": "dshor y tchol shy o @190;cheekchy qotchy otchy dar"
+    },
+    {
+      "locus": "f44r.7,+P0",
+      "raw": "qot{ch'}.o[q:y]d.shol.qotshy.oyty.chom<$>",
+      "eva": "qotch' o[q:y]d shol qotshy oyty chom"
+    },
+    {
+      "locus": "f44r.8,+P0",
+      "raw": "<%>pshy.opchey.qopchy.ofchey.roiry.sholos.ykchy<!separated ch>",
+      "eva": "pshy opchey qopchy ofchey roiry sholos ykchy"
+    },
+    {
+      "locus": "f44r.9,+P0",
+      "raw": "otchol.ol,dchckhy.qoky.qotchy.qokchy.qokyd",
+      "eva": "otchol ol dchckhy qoky qotchy qokchy qokyd"
+    },
+    {
+      "locus": "f44r.10,+P0",
+      "raw": "qokchor.okchy.qoto.ykol.choky.choky.chol,dam",
+      "eva": "qokchor okchy qoto ykol choky choky chol dam"
+    },
+    {
+      "locus": "f44r.11,+P0",
+      "raw": "ytsho.qockhy.okchody<$>",
+      "eva": "ytsho qockhy okchody"
+    }
+  ],
+  "eva_text": "tshodpy oraiphy koees ypsholy shy otoloaiin\nydsh dyeees y ty oky okchey qykchey dchy dy\noair ekokeey kshotol otal daiin ototaykal\nychor ykchey ykchy chody dam\ntoy shysho qoteey char cheeky sheey ytey daiin\ndshor y tchol shy o @190;cheekchy qotchy otchy dar\nqotch' o[q:y]d shol qotshy oyty chom\npshy opchey qopchy ofchey roiry sholos ykchy\notchol ol dchckhy qoky qotchy qokchy qokyd\nqokchor okchy qoto ykol choky choky chol dam\nytsho qockhy okchody",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

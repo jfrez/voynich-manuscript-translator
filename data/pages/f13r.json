@@ -1,0 +1,73 @@
+{
+  "folio": "f13r",
+  "page_number": 23,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Tussilago petronitas, colto foot (all sp?)",
+  "plant_candidates": [
+    "Tussilago petronitas",
+    "colto foot"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 10,
+  "loci": [
+    {
+      "locus": "f13r.1,@P0",
+      "raw": "<%>torshor.opchy.shol.dy.qopchy.shol.opchor.dypchy.dchg",
+      "eva": "torshor opchy shol dy qopchy shol opchor dypchy dchg"
+    },
+    {
+      "locus": "f13r.2,+P0",
+      "raw": "dchol.chol.dol.shkchy.ydal.shy.ykchy.qot[?:ch]y.daiin.s.y",
+      "eva": "dchol chol dol shkchy ydal shy ykchy qot[?:ch]y daiin s y"
+    },
+    {
+      "locus": "f13r.3,+P0",
+      "raw": "s,y.dchor.shaiin.oeees.ykor.chor.ytshy.ykchy.kchy.dar",
+      "eva": "s y dchor shaiin oeees ykor chor ytshy ykchy kchy dar"
+    },
+    {
+      "locus": "f13r.4,+P0",
+      "raw": "qodchy.ytchy.otchor<$>",
+      "eva": "qodchy ytchy otchor"
+    },
+    {
+      "locus": "f13r.5,+P0",
+      "raw": "<%>shorodo.shy.tshy.kchol.dpchy,qopchy.otchol.cfholdy",
+      "eva": "shorodo shy tshy kchol dpchy qopchy otchol cfholdy"
+    },
+    {
+      "locus": "f13r.6,+P0",
+      "raw": "tchor.dor.daiin.qotchol.okchy.okchor,oiin.chckhy.d",
+      "eva": "tchor dor daiin qotchol okchy okchor oiin chckhy d"
+    },
+    {
+      "locus": "f13r.7,+P0",
+      "raw": "dchy.qoky.chol.dy.qo{kh}y.d,oldy<->okchor.doaiin",
+      "eva": "dchy qoky chol dy qokhy d oldy okchor doaiin"
+    },
+    {
+      "locus": "f13r.8,+P0",
+      "raw": "shochy.qokchy.torchy.k{chky}<->s.okchey.daiin",
+      "eva": "shochy qokchy torchy kchky s okchey daiin"
+    },
+    {
+      "locus": "f13r.9,+P0",
+      "raw": "oldy.shey.chol.d[o:a]iin.ykoly<->okchal.daldy",
+      "eva": "oldy shey chol d[o:a]iin ykoly okchal daldy"
+    },
+    {
+      "locus": "f13r.10,+P0",
+      "raw": "sotchy.kchy.okorory<$>",
+      "eva": "sotchy kchy okorory"
+    }
+  ],
+  "eva_text": "torshor opchy shol dy qopchy shol opchor dypchy dchg\ndchol chol dol shkchy ydal shy ykchy qot[?:ch]y daiin s y\ns y dchor shaiin oeees ykor chor ytshy ykchy kchy dar\nqodchy ytchy otchor\nshorodo shy tshy kchol dpchy qopchy otchol cfholdy\ntchor dor daiin qotchol okchy okchor oiin chckhy d\ndchy qoky chol dy qokhy d oldy okchor doaiin\nshochy qokchy torchy kchky s okchey daiin\noldy shey chol d[o:a]iin ykoly okchal daldy\nsotchy kchy okorory",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

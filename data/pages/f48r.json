@@ -1,0 +1,66 @@
+{
+  "folio": "f48r",
+  "page_number": 93,
+  "section": "herbal",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Curriers language B, hand 2",
+    "Same plant as f89v2[3,4] ? (Stolfi)"
+  ],
+  "loci_count": 9,
+  "loci": [
+    {
+      "locus": "f48r.1,@P0",
+      "raw": "<%>pshdaiin.ypchdy.opchey.{c@162;h}y.dal.sheodaiin.sheokeol.ykeeody.olaiin.opaldy",
+      "eva": "pshdaiin ypchdy opchey c@162;hy dal sheodaiin sheokeol ykeeody olaiin opaldy"
+    },
+    {
+      "locus": "f48r.2,+P0",
+      "raw": "daiin.yteeol.cheody.kechodshey.qotedy.chtaiin.otchdy.tedain.okain.ckhy",
+      "eva": "daiin yteeol cheody kechodshey qotedy chtaiin otchdy tedain okain ckhy"
+    },
+    {
+      "locus": "f48r.3,+P0",
+      "raw": "sheody.she.teoteey.oteodaiin.ody.qoteo.l.kedy.dol,odal.qotar.opchety.ldy",
+      "eva": "sheody she teoteey oteodaiin ody qoteo l kedy dol odal qotar opchety ldy"
+    },
+    {
+      "locus": "f48r.4,+P0",
+      "raw": "tolkeol,dain.otaiin.ykeedy.chet.ytedy,tedy.qokdy.tshdy.chetedy.ctheety.r",
+      "eva": "tolkeol dain otaiin ykeedy chet ytedy tedy qokdy tshdy chetedy ctheety r"
+    },
+    {
+      "locus": "f48r.5,+P0",
+      "raw": "yteey.teol.okeody.cheockhy.olsheey.qoekaiin.octhey.cholkar.aiin.cthar.od",
+      "eva": "yteey teol okeody cheockhy olsheey qoekaiin octhey cholkar aiin cthar od"
+    },
+    {
+      "locus": "f48r.6,+P0",
+      "raw": "alshey.lkeedy.ytchedy.qokedy.lotal.qotol.otal,ched.o,key.ykeey.da[l:?]dy",
+      "eva": "alshey lkeedy ytchedy qokedy lotal qotol otal ched o key ykeey da[l:?]dy"
+    },
+    {
+      "locus": "f48r.7,+P0",
+      "raw": "tocthy.qokeol.yteedy.lolkeol.otolches.al.ar.ykeeodam.okedy.okam",
+      "eva": "tocthy qokeol yteedy lolkeol otolches al ar ykeeodam okedy okam"
+    },
+    {
+      "locus": "f48r.8,+Pr",
+      "raw": "otchdain.shol.oteol.oteoly.ykeey.dam,dr",
+      "eva": "otchdain shol oteol oteoly ykeey dam dr"
+    },
+    {
+      "locus": "f48r.9,+Pc",
+      "raw": "yteched.ar.olkey.okeoam<$>",
+      "eva": "yteched ar olkey okeoam"
+    }
+  ],
+  "eva_text": "pshdaiin ypchdy opchey c@162;hy dal sheodaiin sheokeol ykeeody olaiin opaldy\ndaiin yteeol cheody kechodshey qotedy chtaiin otchdy tedain okain ckhy\nsheody she teoteey oteodaiin ody qoteo l kedy dol odal qotar opchety ldy\ntolkeol dain otaiin ykeedy chet ytedy tedy qokdy tshdy chetedy ctheety r\nyteey teol okeody cheockhy olsheey qoekaiin octhey cholkar aiin cthar od\nalshey lkeedy ytchedy qokedy lotal qotol otal ched o key ykeey da[l:?]dy\ntocthy qokeol yteedy lolkeol otolches al ar ykeeodam okedy okam\notchdain shol oteol oteoly ykeey dam dr\nyteched ar olkey okeoam",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

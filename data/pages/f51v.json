@@ -1,0 +1,89 @@
+{
+  "folio": "f51v",
+  "page_number": 100,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Cow's tongue, Licopsis, Sedum Majus (Hauswurtz)",
+  "plant_candidates": [
+    "Cow's tongue",
+    "Licopsis",
+    "Sedum Majus"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [],
+  "loci_count": 13,
+  "loci": [
+    {
+      "locus": "f51v.1,@P0",
+      "raw": "<%>poshody.qokodar.shodaiin.qotal<->dscheey.saiin,dy",
+      "eva": "poshody qokodar shodaiin qotal dscheey saiin dy"
+    },
+    {
+      "locus": "f51v.2,+P0",
+      "raw": "dshody.ckhody.qokol.dykaiin.chy<->qokey.daiin.cthy",
+      "eva": "dshody ckhody qokol dykaiin chy qokey daiin cthy"
+    },
+    {
+      "locus": "f51v.3,+P0",
+      "raw": "tchody.cthy.chckhey.qod.ytchody<->dchol.saiin.ytam",
+      "eva": "tchody cthy chckhey qod ytchody dchol saiin ytam"
+    },
+    {
+      "locus": "f51v.4,+P0",
+      "raw": "otaiin.qodal.yt[o:a]l.cheodar.s,ody<->oteo,daiin.shokog",
+      "eva": "otaiin qodal yt[o:a]l cheodar s ody oteo daiin shokog"
+    },
+    {
+      "locus": "f51v.5,+P0",
+      "raw": "todaiin.yt[a:o]dy.qokol.shodol.qockhy<->ykol.otaiin.dar.y",
+      "eva": "todaiin yt[a:o]dy qokol shodol qockhy ykol otaiin dar y"
+    },
+    {
+      "locus": "f51v.6,+P0",
+      "raw": "okor.ctheody.qocphy.qok[a:o]l.qotaiin<->otyk[o:a]l.chol,daiin",
+      "eva": "okor ctheody qocphy qok[a:o]l qotaiin otyk[o:a]l chol daiin"
+    },
+    {
+      "locus": "f51v.7,+P0",
+      "raw": "qotol.chodaiin.qokcheody.cho,r.chod<->ycthol.s.olcheety",
+      "eva": "qotol chodaiin qokcheody cho r chod ycthol s olcheety"
+    },
+    {
+      "locus": "f51v.8,+P0",
+      "raw": "olkeeody.qokal.qodaiin.{ykh}or.[{ofa}:{yfa}:?]l",
+      "eva": "olkeeody qokal qodaiin ykhor [ofa:yfa:?]l"
+    },
+    {
+      "locus": "f51v.9,+P0",
+      "raw": "daiin.ckhol.shain.kcholol",
+      "eva": "daiin ckhol shain kcholol"
+    },
+    {
+      "locus": "f51v.10,+P0",
+      "raw": "ykeol.sheo.qok[o:a]dy.fold",
+      "eva": "ykeol sheo qok[o:a]dy fold"
+    },
+    {
+      "locus": "f51v.11,+P0",
+      "raw": "ycheoky.sheey.ykeey.chey",
+      "eva": "ycheoky sheey ykeey chey"
+    },
+    {
+      "locus": "f51v.12,+P0",
+      "raw": "ochockhy.daiin.cho,ckhey",
+      "eva": "ochockhy daiin cho ckhey"
+    },
+    {
+      "locus": "f51v.13,+P0",
+      "raw": "daiin.cheol.cheodain<$>",
+      "eva": "daiin cheol cheodain"
+    }
+  ],
+  "eva_text": "poshody qokodar shodaiin qotal dscheey saiin dy\ndshody ckhody qokol dykaiin chy qokey daiin cthy\ntchody cthy chckhey qod ytchody dchol saiin ytam\notaiin qodal yt[o:a]l cheodar s ody oteo daiin shokog\ntodaiin yt[a:o]dy qokol shodol qockhy ykol otaiin dar y\nokor ctheody qocphy qok[a:o]l qotaiin otyk[o:a]l chol daiin\nqotol chodaiin qokcheody cho r chod ycthol s olcheety\nolkeeody qokal qodaiin ykhor [ofa:yfa:?]l\ndaiin ckhol shain kcholol\nykeol sheo qok[o:a]dy fold\nycheoky sheey ykeey chey\nochockhy daiin cho ckhey\ndaiin cheol cheodain",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

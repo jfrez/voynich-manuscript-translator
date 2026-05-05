@@ -1,0 +1,409 @@
+{
+  "folio": "f67r2",
+  "page_number": null,
+  "section": "astronomical",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "page 121, 124",
+    "General description of page:",
+    "Circular diagram with 12 sectors and 12 moon or planet faces.",
+    "One outer circle in red ink, with 12 pieces of scattered writing in red ink.",
+    "Middle circle is divided in 12 radial sections with short paragraphs.",
+    "Sector nrs are cf. Petersen, first = from 09:00 to 10:00 and further clockwise.",
+    "Inner circle with  8 words around an 8-point star with clouds (?)",
+    "From one of the star point there is a radiating dotted line that runs up",
+    "to the lower part of the middle section.",
+    "Each of the middle sections starts with text, in 7 cases with one \"heading\",",
+    "which is transcribed as a combination of Pb (blocked) and L0 loci.",
+    "More inside are 12 labels near moon faces and inside that 8 more words (Ls loci).",
+    "At NW of the circle there seems to be a line that marks the start of text (?)",
+    "Has 'b' in upper right corner",
+    "Outside ring, all in red ink:",
+    "Blocked text and individual words in sectors, starting at 10:00",
+    "Labels near moon or planet faces",
+    "Words inside moon or planet faces",
+    "Now text in normal paragraphs, at bottom",
+    "The following single line is in red ink"
+  ],
+  "loci_count": 74,
+  "loci": [
+    {
+      "locus": "f67r2.1,@L0",
+      "raw": "ykshy.s.aram",
+      "eva": "ykshy s aram"
+    },
+    {
+      "locus": "f67r2.2,&L0",
+      "raw": "ykecho.ols.eesydy",
+      "eva": "ykecho ols eesydy"
+    },
+    {
+      "locus": "f67r2.3,&L0",
+      "raw": "[{c'}:@164;]ey.shs.okar",
+      "eva": "[c':@164;]ey shs okar"
+    },
+    {
+      "locus": "f67r2.4,&L0",
+      "raw": "shekchy.sykos",
+      "eva": "shekchy sykos"
+    },
+    {
+      "locus": "f67r2.5,&L0",
+      "raw": "ykeody.okchy",
+      "eva": "ykeody okchy"
+    },
+    {
+      "locus": "f67r2.6,&L0",
+      "raw": "dchetay",
+      "eva": "dchetay"
+    },
+    {
+      "locus": "f67r2.7,&L0",
+      "raw": "ykchy.kchey.ykchys",
+      "eva": "ykchy kchey ykchys"
+    },
+    {
+      "locus": "f67r2.8,&L0",
+      "raw": "chkchdar",
+      "eva": "chkchdar"
+    },
+    {
+      "locus": "f67r2.9,&L0",
+      "raw": "ykar.ykaly",
+      "eva": "ykar ykaly"
+    },
+    {
+      "locus": "f67r2.10,&L0",
+      "raw": "lkshy,kchy.okar",
+      "eva": "lkshy kchy okar"
+    },
+    {
+      "locus": "f67r2.11,&L0",
+      "raw": "chky.chykchs.chy",
+      "eva": "chky chykchs chy"
+    },
+    {
+      "locus": "f67r2.12,&L0",
+      "raw": "ykees.ykchos",
+      "eva": "ykees ykchos"
+    },
+    {
+      "locus": "f67r2.13,@Pb",
+      "raw": "<%>opodchol.s.ain.aldy",
+      "eva": "opodchol s ain aldy"
+    },
+    {
+      "locus": "f67r2.14,+Pb",
+      "raw": "soeey.doiin.oldy<$>",
+      "eva": "soeey doiin oldy"
+    },
+    {
+      "locus": "f67r2.15,+L0",
+      "raw": "dolchsody",
+      "eva": "dolchsody"
+    },
+    {
+      "locus": "f67r2.16,@Pb",
+      "raw": "<%>oda[eiin:iiin].okoes.oekain.y",
+      "eva": "oda[eiin:iiin] okoes oekain y"
+    },
+    {
+      "locus": "f67r2.17,+Pb",
+      "raw": "otchey.soraiir.dy",
+      "eva": "otchey soraiir dy"
+    },
+    {
+      "locus": "f67r2.18,+Pb",
+      "raw": "qopchy.daiin.dal<$>",
+      "eva": "qopchy daiin dal"
+    },
+    {
+      "locus": "f67r2.19,@Pb",
+      "raw": "<%>ydchos.ain.ar.amy",
+      "eva": "ydchos ain ar amy"
+    },
+    {
+      "locus": "f67r2.20,+Pb",
+      "raw": "chocfhy.saral",
+      "eva": "chocfhy saral"
+    },
+    {
+      "locus": "f67r2.21,+Pb",
+      "raw": "sain.am.ar<$>",
+      "eva": "sain am ar"
+    },
+    {
+      "locus": "f67r2.22,+L0",
+      "raw": "okal",
+      "eva": "okal"
+    },
+    {
+      "locus": "f67r2.23,@Pb",
+      "raw": "<%>oparchy.salsain",
+      "eva": "oparchy salsain"
+    },
+    {
+      "locus": "f67r2.24,+Pb",
+      "raw": "sodar.ofar.ar",
+      "eva": "sodar ofar ar"
+    },
+    {
+      "locus": "f67r2.25,+Pb",
+      "raw": "ydam<$>",
+      "eva": "ydam"
+    },
+    {
+      "locus": "f67r2.26,@Pb",
+      "raw": "<%>yteoor.yto.ykor",
+      "eva": "yteoor yto ykor"
+    },
+    {
+      "locus": "f67r2.27,+Pb",
+      "raw": "okeo,r.aiin.am<$>",
+      "eva": "okeo r aiin am"
+    },
+    {
+      "locus": "f67r2.28,+L0",
+      "raw": "okain.a[m:g]",
+      "eva": "okain a[m:g]"
+    },
+    {
+      "locus": "f67r2.29,@Pb",
+      "raw": "<%>ytody.saiin",
+      "eva": "ytody saiin"
+    },
+    {
+      "locus": "f67r2.30,+Pb",
+      "raw": "ochol.olol<$>",
+      "eva": "ochol olol"
+    },
+    {
+      "locus": "f67r2.31,+L0",
+      "raw": "opcholdy",
+      "eva": "opcholdy"
+    },
+    {
+      "locus": "f67r2.32,@Pb",
+      "raw": "<%>dosar.odas.air.alaiin",
+      "eva": "dosar odas air alaiin"
+    },
+    {
+      "locus": "f67r2.33,+Pb",
+      "raw": "dokan.oear.odal<$>",
+      "eva": "dokan oear odal"
+    },
+    {
+      "locus": "f67r2.34,+L0",
+      "raw": "ofar.oeoldan",
+      "eva": "ofar oeoldan"
+    },
+    {
+      "locus": "f67r2.35,@Pb",
+      "raw": "<%>chol.[g:d]iin.okol",
+      "eva": "chol [g:d]iin okol"
+    },
+    {
+      "locus": "f67r2.36,+Pb",
+      "raw": "ytor.daiin.or<$>",
+      "eva": "ytor daiin or"
+    },
+    {
+      "locus": "f67r2.37,+L0",
+      "raw": "ytoaiin",
+      "eva": "ytoaiin"
+    },
+    {
+      "locus": "f67r2.38,@Pb",
+      "raw": "<%>otoldos.octhole",
+      "eva": "otoldos octhole"
+    },
+    {
+      "locus": "f67r2.39,+Pb",
+      "raw": "sor.chedaiin.dy",
+      "eva": "sor chedaiin dy"
+    },
+    {
+      "locus": "f67r2.40,+Pb",
+      "raw": "yteos.oiin.og<$>",
+      "eva": "yteos oiin og"
+    },
+    {
+      "locus": "f67r2.41,@Pb",
+      "raw": "<%>ytoeopchey.chekody",
+      "eva": "ytoeopchey chekody"
+    },
+    {
+      "locus": "f67r2.42,+Pb",
+      "raw": "sosho.chos.ockhy",
+      "eva": "sosho chos ockhy"
+    },
+    {
+      "locus": "f67r2.43,+Pb",
+      "raw": "daiin.aiin.os.qsg<$>",
+      "eva": "daiin aiin os qsg"
+    },
+    {
+      "locus": "f67r2.44,@Pb",
+      "raw": "<%>ofydy.sheody.aiin",
+      "eva": "ofydy sheody aiin"
+    },
+    {
+      "locus": "f67r2.45,+Pb",
+      "raw": "ycheody.es.odaiiin",
+      "eva": "ycheody es odaiiin"
+    },
+    {
+      "locus": "f67r2.46,+Pb",
+      "raw": "yekees.oraly<$>",
+      "eva": "yekees oraly"
+    },
+    {
+      "locus": "f67r2.47,+L0",
+      "raw": "yfain",
+      "eva": "yfain"
+    },
+    {
+      "locus": "f67r2.48,@Pb",
+      "raw": "<%>todaiin.dain.dy",
+      "eva": "todaiin dain dy"
+    },
+    {
+      "locus": "f67r2.49,+Pb",
+      "raw": "os,choer.aiin",
+      "eva": "os choer aiin"
+    },
+    {
+      "locus": "f67r2.50,+Pb",
+      "raw": "choee[a:y].sal",
+      "eva": "choee[a:y] sal"
+    },
+    {
+      "locus": "f67r2.51,+Pb",
+      "raw": "da[d:g]aiin<$>",
+      "eva": "da[d:g]aiin"
+    },
+    {
+      "locus": "f67r2.52,@Ls",
+      "raw": "qotoear",
+      "eva": "qotoear"
+    },
+    {
+      "locus": "f67r2.53,&Ls",
+      "raw": "dchdar",
+      "eva": "dchdar"
+    },
+    {
+      "locus": "f67r2.54,&Ls",
+      "raw": "y,saldal",
+      "eva": "y saldal"
+    },
+    {
+      "locus": "f67r2.55,&Ls",
+      "raw": "ytodal",
+      "eva": "ytodal"
+    },
+    {
+      "locus": "f67r2.56,&Ls",
+      "raw": "tol.daiin",
+      "eva": "tol daiin"
+    },
+    {
+      "locus": "f67r2.57,&Ls",
+      "raw": "otar,dy",
+      "eva": "otar dy"
+    },
+    {
+      "locus": "f67r2.58,&Ls",
+      "raw": "cho.dal,g",
+      "eva": "cho dal g"
+    },
+    {
+      "locus": "f67r2.59,&Ls",
+      "raw": "ytchodly",
+      "eva": "ytchodly"
+    },
+    {
+      "locus": "f67r2.60,&Ls",
+      "raw": "octhys",
+      "eva": "octhys"
+    },
+    {
+      "locus": "f67r2.61,&Ls",
+      "raw": "ytokar",
+      "eva": "ytokar"
+    },
+    {
+      "locus": "f67r2.62,&Ls",
+      "raw": "otolor",
+      "eva": "otolor"
+    },
+    {
+      "locus": "f67r2.63,&Ls",
+      "raw": "okodar",
+      "eva": "okodar"
+    },
+    {
+      "locus": "f67r2.64,@L0",
+      "raw": "s.air",
+      "eva": "s air"
+    },
+    {
+      "locus": "f67r2.65,&L0",
+      "raw": "soe[a:o]r",
+      "eva": "soe[a:o]r"
+    },
+    {
+      "locus": "f67r2.66,&L0",
+      "raw": "cpheey",
+      "eva": "cpheey"
+    },
+    {
+      "locus": "f67r2.67,&L0",
+      "raw": "okodar",
+      "eva": "okodar"
+    },
+    {
+      "locus": "f67r2.68,&L0",
+      "raw": "oepchod",
+      "eva": "oepchod"
+    },
+    {
+      "locus": "f67r2.69,&L0",
+      "raw": "s.a{cthh}y",
+      "eva": "s acthhy"
+    },
+    {
+      "locus": "f67r2.70,&L0",
+      "raw": "osar",
+      "eva": "osar"
+    },
+    {
+      "locus": "f67r2.71,&L0",
+      "raw": "oran",
+      "eva": "oran"
+    },
+    {
+      "locus": "f67r2.72,@P0",
+      "raw": "<%>dar.aldaiin.ydaiin.qkoy.ydaiin.qofair.ypair.ykoaiin.ydoly.ytalchos.oly.okey",
+      "eva": "dar aldaiin ydaiin qkoy ydaiin qofair ypair ykoaiin ydoly ytalchos oly okey"
+    },
+    {
+      "locus": "f67r2.73,+P0",
+      "raw": "sshey.sy,shees.qeykeey.ykchey.ykchey.qokeochy.oaiin.okol.ar.olar",
+      "eva": "sshey sy shees qeykeey ykchey ykchey qokeochy oaiin okol ar olar"
+    },
+    {
+      "locus": "f67r2.74,+P0",
+      "raw": "yshey.qokeeody.cheos.oeeos.qockhy.chos.aiin.okeeody.qokoaiin.odain.ar.air.ay<$>",
+      "eva": "yshey qokeeody cheos oeeos qockhy chos aiin okeeody qokoaiin odain ar air ay"
+    }
+  ],
+  "eva_text": "ykshy s aram\nykecho ols eesydy\n[c':@164;]ey shs okar\nshekchy sykos\nykeody okchy\ndchetay\nykchy kchey ykchys\nchkchdar\nykar ykaly\nlkshy kchy okar\nchky chykchs chy\nykees ykchos\nopodchol s ain aldy\nsoeey doiin oldy\ndolchsody\noda[eiin:iiin] okoes oekain y\notchey soraiir dy\nqopchy daiin dal\nydchos ain ar amy\nchocfhy saral\nsain am ar\nokal\noparchy salsain\nsodar ofar ar\nydam\nyteoor yto ykor\nokeo r aiin am\nokain a[m:g]\nytody saiin\nochol olol\nopcholdy\ndosar odas air alaiin\ndokan oear odal\nofar oeoldan\nchol [g:d]iin okol\nytor daiin or\nytoaiin\notoldos octhole\nsor chedaiin dy\nyteos oiin og\nytoeopchey chekody\nsosho chos ockhy\ndaiin aiin os qsg\nofydy sheody aiin\nycheody es odaiiin\nyekees oraly\nyfain\ntodaiin dain dy\nos choer aiin\nchoee[a:y] sal\nda[d:g]aiin\nqotoear\ndchdar\ny saldal\nytodal\ntol daiin\notar dy\ncho dal g\nytchodly\nocthys\nytokar\notolor\nokodar\ns air\nsoe[a:o]r\ncpheey\nokodar\noepchod\ns acthhy\nosar\noran\ndar aldaiin ydaiin qkoy ydaiin qofair ypair ykoaiin ydoly ytalchos oly okey\nsshey sy shees qeykeey ykchey ykchey qokeochy oaiin okol ar olar\nyshey qokeeody cheos oeeos qockhy chos aiin okeeody qokoaiin odain ar air ay",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

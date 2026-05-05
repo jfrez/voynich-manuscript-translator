@@ -1,0 +1,131 @@
+{
+  "folio": "f49r",
+  "page_number": 95,
+  "section": "herbal",
+  "currier": null,
+  "plant_id": "Tamus communis (Holm), Scamonia",
+  "plant_candidates": [
+    "Tamus communis",
+    "Scamonia"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "Curriers language A, hand 1",
+    "Brumbaugh p4, Harper's 'potato'"
+  ],
+  "loci_count": 21,
+  "loci": [
+    {
+      "locus": "f49r.1,@P0",
+      "raw": "<%>pychol.dy.[sh:ch]or.shol.shtchy.shorpchor.opchor.shor,kchy",
+      "eva": "pychol dy [sh:ch]or shol shtchy shorpchor opchor shor kchy"
+    },
+    {
+      "locus": "f49r.2,+P0",
+      "raw": "qotor.sho.chotchy.choshy.qopchar.q'o.dor.daiin",
+      "eva": "qotor sho chotchy choshy qopchar q'o dor daiin"
+    },
+    {
+      "locus": "f49r.3,+P0",
+      "raw": "dsho<->dchor.dchor.daiin.dor.cheoraiin<$>",
+      "eva": "dsho dchor dchor daiin dor cheoraiin"
+    },
+    {
+      "locus": "f49r.4,+P0",
+      "raw": "<%>ksh[o:a].qodain.chotshy.dodar",
+      "eva": "ksh[o:a] qodain chotshy dodar"
+    },
+    {
+      "locus": "f49r.5,+P0",
+      "raw": "chor.sheor.chey.teey.qotan",
+      "eva": "chor sheor chey teey qotan"
+    },
+    {
+      "locus": "f49r.6,+P0",
+      "raw": "ol,or,sh{e'e}es.sheoty.choldaiin",
+      "eva": "ol or she'ees sheoty choldaiin"
+    },
+    {
+      "locus": "f49r.7,+P0",
+      "raw": "qokeor.cheey.qokchy.qotody",
+      "eva": "qokeor cheey qokchy qotody"
+    },
+    {
+      "locus": "f49r.8,+P0",
+      "raw": "chot,chor.chy.cheet.qolsor",
+      "eva": "chot chor chy cheet qolsor"
+    },
+    {
+      "locus": "f49r.9,+P0",
+      "raw": "oykeeey.chey.kshey.choroiin",
+      "eva": "oykeeey chey kshey choroiin"
+    },
+    {
+      "locus": "f49r.10,+P0",
+      "raw": "sho.r.choiin.shor.shor,shy",
+      "eva": "sho r choiin shor shor shy"
+    },
+    {
+      "locus": "f49r.11,+P0",
+      "raw": "chotcheol.dchol<$>",
+      "eva": "chotcheol dchol"
+    },
+    {
+      "locus": "f49r.12,+P0",
+      "raw": "<%>podaiin.cheo.kcho.daiin.chcthy",
+      "eva": "podaiin cheo kcho daiin chcthy"
+    },
+    {
+      "locus": "f49r.13,+P0",
+      "raw": "{c'o}d.chol,y.tcheol.daiin.cthodd",
+      "eva": "c'od chol y tcheol daiin cthodd"
+    },
+    {
+      "locus": "f49r.14,+P0",
+      "raw": "q'o.shoqoky.shor.sheor.otol.daiin",
+      "eva": "q'o shoqoky shor sheor otol daiin"
+    },
+    {
+      "locus": "f49r.15,+P0",
+      "raw": "ochol.chol.chody.dchodaiin.da'iin",
+      "eva": "ochol chol chody dchodaiin da'iin"
+    },
+    {
+      "locus": "f49r.16,+P0",
+      "raw": "q'ocho.cheey.dchey.qotchody",
+      "eva": "q'ocho cheey dchey qotchody"
+    },
+    {
+      "locus": "f49r.17,+P0",
+      "raw": "olol,ol.chey.chey.kchy.qotchol.chosory",
+      "eva": "olol ol chey chey kchy qotchol chosory"
+    },
+    {
+      "locus": "f49r.18,+P0",
+      "raw": "sheor.cheol.od.cho.dcheeey.qot,chotchy",
+      "eva": "sheor cheol od cho dcheeey qot chotchy"
+    },
+    {
+      "locus": "f49r.19,+P0",
+      "raw": "dcheo.r.cheey.keolchey.chokchol.chokan",
+      "eva": "dcheo r cheey keolchey chokchol chokan"
+    },
+    {
+      "locus": "f49r.20,+P0",
+      "raw": "qotcho.chods.cho.cho[ch:sh]y.chs.oriin",
+      "eva": "qotcho chods cho cho[ch:sh]y chs oriin"
+    },
+    {
+      "locus": "f49r.21,+P0",
+      "raw": "odch[o:y].chor.ety.shol<$>",
+      "eva": "odch[o:y] chor ety shol"
+    }
+  ],
+  "eva_text": "pychol dy [sh:ch]or shol shtchy shorpchor opchor shor kchy\nqotor sho chotchy choshy qopchar q'o dor daiin\ndsho dchor dchor daiin dor cheoraiin\nksh[o:a] qodain chotshy dodar\nchor sheor chey teey qotan\nol or she'ees sheoty choldaiin\nqokeor cheey qokchy qotody\nchot chor chy cheet qolsor\noykeeey chey kshey choroiin\nsho r choiin shor shor shy\nchotcheol dchol\npodaiin cheo kcho daiin chcthy\nc'od chol y tcheol daiin cthodd\nq'o shoqoky shor sheor otol daiin\nochol chol chody dchodaiin da'iin\nq'ocho cheey dchey qotchody\nolol ol chey chey kchy qotchol chosory\nsheor cheol od cho dcheeey qot chotchy\ndcheo r cheey keolchey chokchol chokan\nqotcho chods cho cho[ch:sh]y chs oriin\nodch[o:y] chor ety shol",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

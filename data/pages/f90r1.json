@@ -1,0 +1,63 @@
+{
+  "folio": "f90r1",
+  "page_number": 187,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 9,
+  "loci": [
+    {
+      "locus": "f90r1.1,@P0",
+      "raw": "<%>poleeol.qokeol.qokchod.choly.ctho[g:m]",
+      "eva": "poleeol qokeol qokchod choly ctho[g:m]"
+    },
+    {
+      "locus": "f90r1.2,+P0",
+      "raw": "yshol.tor.sheor.qotchor.qoky.darala",
+      "eva": "yshol tor sheor qotchor qoky darala"
+    },
+    {
+      "locus": "f90r1.3,+P0",
+      "raw": "dair.shkeea.s.sary.okar.ykorshy.lkaldy",
+      "eva": "dair shkeea s sary okar ykorshy lkaldy"
+    },
+    {
+      "locus": "f90r1.4,+P0",
+      "raw": "talchor.chodaiin.chocfhor.qokchor.chockhy<->okchod.qofchol",
+      "eva": "talchor chodaiin chocfhor qokchor chockhy okchod qofchol"
+    },
+    {
+      "locus": "f90r1.5,+P0",
+      "raw": "ytor.ckhy.lpychol.sho.ol.okachey.[r:s].sheom.kchol.dchy.dasady",
+      "eva": "ytor ckhy lpychol sho ol okachey [r:s] sheom kchol dchy dasady"
+    },
+    {
+      "locus": "f90r1.6,+P0",
+      "raw": "tol.otchol.shorydar.qokeos.okeoschso.chol,ytod.qokeos.dolshy",
+      "eva": "tol otchol shorydar qokeos okeoschso chol ytod qokeos dolshy"
+    },
+    {
+      "locus": "f90r1.7,+P0",
+      "raw": "dar.chos.qocthy.qokcha.shko.qokol.oteey.chofy.ykeody.qokod",
+      "eva": "dar chos qocthy qokcha shko qokol oteey chofy ykeody qokod"
+    },
+    {
+      "locus": "f90r1.8,+P0",
+      "raw": "kor.sheol.qodar.oko.ykeey.qokeey.qodar.qokeed.s.choky",
+      "eva": "kor sheol qodar oko ykeey qokeey qodar qokeed s choky"
+    },
+    {
+      "locus": "f90r1.9,+Pr",
+      "raw": "ykodar.qoekchy.shokol.okam<$>",
+      "eva": "ykodar qoekchy shokol okam"
+    }
+  ],
+  "eva_text": "poleeol qokeol qokchod choly ctho[g:m]\nyshol tor sheor qotchor qoky darala\ndair shkeea s sary okar ykorshy lkaldy\ntalchor chodaiin chocfhor qokchor chockhy okchod qofchol\nytor ckhy lpychol sho ol okachey [r:s] sheom kchol dchy dasady\ntol otchol shorydar qokeos okeoschso chol ytod qokeos dolshy\ndar chos qocthy qokcha shko qokol oteey chofy ykeody qokod\nkor sheol qodar oko ykeey qokeey qodar qokeed s choky\nykodar qoekchy shokol okam",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

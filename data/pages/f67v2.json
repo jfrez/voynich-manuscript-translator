@@ -1,0 +1,160 @@
+{
+  "folio": "f67v2",
+  "page_number": 122,
+  "section": "cosmological",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Roe, 6th September 1993",
+    "Machine-translated from transcription in Bennett notation dated April 1990",
+    "This is plate XX in Newbold, and plate IV in Manly31. Newbold's folio number",
+    "scheme has this as 67r.",
+    "This is the folio Newbold claimed showed an annular eclipse. See also John",
+    "Manley's 1931 article in Speculum: \"Furthermore, I invite the reader to",
+    "examine carefully Plate IV and say whether it bears any resemblance whatever",
+    "to an annular eclipse.\"",
+    "General description of page:",
+    "There is a large circle centered on the page. Outside this circle, in the",
+    "NE, SE, SW and NW corners, are four smaller circles. In the center of the",
+    "large circle is a square, within which is inscribed another circle, within",
+    "which is a star.",
+    "From the square, lines radiate out in the N, S, E and W directions. Lines",
+    "come in towards the square from the perimeter of the large circle in the NE,",
+    "NW, SE and SW direction. Each of these eight lines are terminated with a",
+    "branching broccoli-like structure.",
+    "The small circles in the corners contain between one and four human faces,",
+    "joined by lines.",
+    "There is a \"sentence'' of Voynich text above, below, to the left and the",
+    "right of the large circle. The bottom left small circle contains a \"word''",
+    "of Voynich text.",
+    "Labels in upper left and right circles",
+    "Above large circle",
+    "To the right of large circle",
+    "Below large circle",
+    "To the left of large circle",
+    "Radiating texts.",
+    "Text alternates between outside in and inside out",
+    "Words near square counted as astro labels",
+    "Labels in lower left and right circles"
+  ],
+  "loci_count": 22,
+  "loci": [
+    {
+      "locus": "f67v2.1,@La",
+      "raw": "otchdy",
+      "eva": "otchdy"
+    },
+    {
+      "locus": "f67v2.2,@La",
+      "raw": "otararain",
+      "eva": "otararain"
+    },
+    {
+      "locus": "f67v2.3,@Pb",
+      "raw": "<%>tol.or.ain.am.otoly.sair.[g:m]",
+      "eva": "tol or ain am otoly sair [g:m]"
+    },
+    {
+      "locus": "f67v2.4,+Pb",
+      "raw": "daiin.[t:k]aedaiin.ar.okor<!corr?><$>",
+      "eva": "daiin [t:k]aedaiin ar okor"
+    },
+    {
+      "locus": "f67v2.5,@Pb",
+      "raw": "<%>okeey.keoy.salal",
+      "eva": "okeey keoy salal"
+    },
+    {
+      "locus": "f67v2.6,+Pb",
+      "raw": "ykaralam.olalade.odam<$>",
+      "eva": "ykaralam olalade odam"
+    },
+    {
+      "locus": "f67v2.7,@Pb",
+      "raw": "<%>taol.daig.sakar.dam",
+      "eva": "taol daig sakar dam"
+    },
+    {
+      "locus": "f67v2.8,+Pb",
+      "raw": "solair.cphey.solal.daly<$>",
+      "eva": "solair cphey solal daly"
+    },
+    {
+      "locus": "f67v2.9,@Pb",
+      "raw": "<%>okeal.o?ol.ar.okaldam",
+      "eva": "okeal o?ol ar okaldam"
+    },
+    {
+      "locus": "f67v2.10,+Pb",
+      "raw": "koain.opal.ol.of[o:y]lain.oar<$>",
+      "eva": "koain opal ol of[o:y]lain oar"
+    },
+    {
+      "locus": "f67v2.11,@Ro",
+      "raw": "dcheeor.ochepalain",
+      "eva": "dcheeor ochepalain"
+    },
+    {
+      "locus": "f67v2.12,@Ri",
+      "raw": "oeolales.ai[s:r]ar",
+      "eva": "oeolales ai[s:r]ar"
+    },
+    {
+      "locus": "f67v2.13,@Ro",
+      "raw": "okydseog.oeepoaly",
+      "eva": "okydseog oeepoaly"
+    },
+    {
+      "locus": "f67v2.14,@Ri",
+      "raw": "o?r.ykaly.char",
+      "eva": "o?r ykaly char"
+    },
+    {
+      "locus": "f67v2.15,@Ro",
+      "raw": "o.chekais.okolaim",
+      "eva": "o chekais okolaim"
+    },
+    {
+      "locus": "f67v2.16,@Ri",
+      "raw": "okar.alet.olkao",
+      "eva": "okar alet olkao"
+    },
+    {
+      "locus": "f67v2.17,@Ro",
+      "raw": "qokoaiin.ocfhhy",
+      "eva": "qokoaiin ocfhhy"
+    },
+    {
+      "locus": "f67v2.18,@Ri",
+      "raw": "okeeey.oekchdy",
+      "eva": "okeeey oekchdy"
+    },
+    {
+      "locus": "f67v2.19,@La",
+      "raw": "soaiin.dalam",
+      "eva": "soaiin dalam"
+    },
+    {
+      "locus": "f67v2.20,+La",
+      "raw": "sary.okora[l:n]",
+      "eva": "sary okora[l:n]"
+    },
+    {
+      "locus": "f67v2.21,@La",
+      "raw": "oko???",
+      "eva": "oko???"
+    },
+    {
+      "locus": "f67v2.22,@La",
+      "raw": "okchos,am",
+      "eva": "okchos am"
+    }
+  ],
+  "eva_text": "otchdy\notararain\ntol or ain am otoly sair [g:m]\ndaiin [t:k]aedaiin ar okor\nokeey keoy salal\nykaralam olalade odam\ntaol daig sakar dam\nsolair cphey solal daly\nokeal o?ol ar okaldam\nkoain opal ol of[o:y]lain oar\ndcheeor ochepalain\noeolales ai[s:r]ar\nokydseog oeepoaly\no?r ykaly char\no chekais okolaim\nokar alet olkao\nqokoaiin ocfhhy\nokeeey oekchdy\nsoaiin dalam\nsary okora[l:n]\noko???\nokchos am",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

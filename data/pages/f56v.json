@@ -1,0 +1,100 @@
+{
+  "folio": "f56v",
+  "page_number": 110,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "gathering mark 7"
+  ],
+  "loci_count": 16,
+  "loci": [
+    {
+      "locus": "f56v.1,@P0",
+      "raw": "<%>kche[a:o]t.shol.chey.qokoiin.shor,qotcheol.choror",
+      "eva": "kche[a:o]t shol chey qokoiin shor qotcheol choror"
+    },
+    {
+      "locus": "f56v.2,+P0",
+      "raw": "shodshey.qot[eee:ech]y.qoteey.daiin.qoteey.cthar",
+      "eva": "shodshey qot[eee:ech]y qoteey daiin qoteey cthar"
+    },
+    {
+      "locus": "f56v.3,+P0",
+      "raw": "ochey.chol.chol.qotchey.daiin.choteeey,dal",
+      "eva": "ochey chol chol qotchey daiin choteeey dal"
+    },
+    {
+      "locus": "f56v.4,+P0",
+      "raw": "schy.t,chey.daiin.d,eey.tad<->dain",
+      "eva": "schy t chey daiin d eey tad dain"
+    },
+    {
+      "locus": "f56v.5,+P0",
+      "raw": "qoteees.sho.kcheey.s,aiin",
+      "eva": "qoteees sho kcheey s aiin"
+    },
+    {
+      "locus": "f56v.6,+P0",
+      "raw": "chokchol.chor.ckhos<$>",
+      "eva": "chokchol chor ckhos"
+    },
+    {
+      "locus": "f56v.7,+P0",
+      "raw": "<%>kchokchy.{ck}chol.shol.chol.otchyd",
+      "eva": "kchokchy ckchol shol chol otchyd"
+    },
+    {
+      "locus": "f56v.8,+P0",
+      "raw": "ykchor.chokchy.qokcho.tcheey.kol",
+      "eva": "ykchor chokchy qokcho tcheey kol"
+    },
+    {
+      "locus": "f56v.9,+P0",
+      "raw": "shotchot.chokcho.kcho,kaiin.oky",
+      "eva": "shotchot chokcho kcho kaiin oky"
+    },
+    {
+      "locus": "f56v.10,+P0",
+      "raw": "ol,kchy.ksho.shy.ytol.chotor,y,dy",
+      "eva": "ol kchy ksho shy ytol chotor y dy"
+    },
+    {
+      "locus": "f56v.11,+P0",
+      "raw": "chotchey.keeol.chey.kchol.tchain",
+      "eva": "chotchey keeol chey kchol tchain"
+    },
+    {
+      "locus": "f56v.12,+P0",
+      "raw": "qokchey.ctheey.lkeey.kcheeytain",
+      "eva": "qokchey ctheey lkeey kcheeytain"
+    },
+    {
+      "locus": "f56v.13,+P0",
+      "raw": "ykor.aiin.chorol.sho,shol.daiin",
+      "eva": "ykor aiin chorol sho shol daiin"
+    },
+    {
+      "locus": "f56v.14,+P0",
+      "raw": "chol,cheo.kchol.chol.choky.chotor",
+      "eva": "chol cheo kchol chol choky chotor"
+    },
+    {
+      "locus": "f56v.15,+P0",
+      "raw": "otchol.chol.chol.daiin.chotaiin",
+      "eva": "otchol chol chol daiin chotaiin"
+    },
+    {
+      "locus": "f56v.16,+P0",
+      "raw": "s,o,kchol.chol.chol.daiin<$>",
+      "eva": "s o kchol chol chol daiin"
+    }
+  ],
+  "eva_text": "kche[a:o]t shol chey qokoiin shor qotcheol choror\nshodshey qot[eee:ech]y qoteey daiin qoteey cthar\nochey chol chol qotchey daiin choteeey dal\nschy t chey daiin d eey tad dain\nqoteees sho kcheey s aiin\nchokchol chor ckhos\nkchokchy ckchol shol chol otchyd\nykchor chokchy qokcho tcheey kol\nshotchot chokcho kcho kaiin oky\nol kchy ksho shy ytol chotor y dy\nchotchey keeol chey kchol tchain\nqokchey ctheey lkeey kcheeytain\nykor aiin chorol sho shol daiin\nchol cheo kchol chol choky chotor\notchol chol chol daiin chotaiin\ns o kchol chol chol daiin",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

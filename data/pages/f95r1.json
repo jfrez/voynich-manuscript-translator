@@ -1,0 +1,73 @@
+{
+  "folio": "f95r1",
+  "page_number": 195,
+  "section": "herbal",
+  "currier": "B",
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [],
+  "loci_count": 11,
+  "loci": [
+    {
+      "locus": "f95r1.1,@P0",
+      "raw": "<%>kshdor.chepchdy.ofaiin.ol.oldaiin.opshol.qokaiin.oty.odain",
+      "eva": "kshdor chepchdy ofaiin ol oldaiin opshol qokaiin oty odain"
+    },
+    {
+      "locus": "f95r1.2,+P0",
+      "raw": "ol.chdy.chdy.qokaiin.shdy.qokaiin.chdy,kol,chdy.qoty.oky,dan",
+      "eva": "ol chdy chdy qokaiin shdy qokaiin chdy kol chdy qoty oky dan"
+    },
+    {
+      "locus": "f95r1.3,+P0",
+      "raw": "teodaiin.oekeey.qokees.ody.chekaiin.chekaiin.chky.chaiin",
+      "eva": "teodaiin oekeey qokees ody chekaiin chekaiin chky chaiin"
+    },
+    {
+      "locus": "f95r1.4,+P0",
+      "raw": "ycheey,ky.olkain.chey,kain.cholky.chedy.qokaiin.chy.kaiin.ly",
+      "eva": "ycheey ky olkain chey kain cholky chedy qokaiin chy kaiin ly"
+    },
+    {
+      "locus": "f95r1.5,+P0",
+      "raw": "atar.chedy.todaiin.qoky.shdaly<$>",
+      "eva": "atar chedy todaiin qoky shdaly"
+    },
+    {
+      "locus": "f95r1.6,+P0",
+      "raw": "<%>tchdor.or.chekchdy.qokar.chcthy.qotchdy,lshedy.qoky.qofain.dy",
+      "eva": "tchdor or chekchdy qokar chcthy qotchdy lshedy qoky qofain dy"
+    },
+    {
+      "locus": "f95r1.7,+P0",
+      "raw": "ykchedy.sheky.chekar.chdain.chdaiin.okar.chetchdy.chdy.chkam",
+      "eva": "ykchedy sheky chekar chdain chdaiin okar chetchdy chdy chkam"
+    },
+    {
+      "locus": "f95r1.8,+P0",
+      "raw": "olkor.chdaiin.cholkaiin.qokeedy.qoky.chey.lchedy.chedy.alod",
+      "eva": "olkor chdaiin cholkaiin qokeedy qoky chey lchedy chedy alod"
+    },
+    {
+      "locus": "f95r1.9,+P0",
+      "raw": "tchdy.tchor.chol.tar.chdy.okol.ykoldy.olkeedy.qotaiin.or",
+      "eva": "tchdy tchor chol tar chdy okol ykoldy olkeedy qotaiin or"
+    },
+    {
+      "locus": "f95r1.10,+P0",
+      "raw": "daiin.chckhy.okaiin.chckhy.daiin.ykedy.ep[?:a]iin.okaraiin.ls",
+      "eva": "daiin chckhy okaiin chckhy daiin ykedy ep[?:a]iin okaraiin ls"
+    },
+    {
+      "locus": "f95r1.11,+P0",
+      "raw": "ykaiin.or.chdy.chekain.ol,dar.ykar.olkeey.ldar.chekal<$>",
+      "eva": "ykaiin or chdy chekain ol dar ykar olkeey ldar chekal"
+    }
+  ],
+  "eva_text": "kshdor chepchdy ofaiin ol oldaiin opshol qokaiin oty odain\nol chdy chdy qokaiin shdy qokaiin chdy kol chdy qoty oky dan\nteodaiin oekeey qokees ody chekaiin chekaiin chky chaiin\nycheey ky olkain chey kain cholky chedy qokaiin chy kaiin ly\natar chedy todaiin qoky shdaly\ntchdor or chekchdy qokar chcthy qotchdy lshedy qoky qofain dy\nykchedy sheky chekar chdain chdaiin okar chetchdy chdy chkam\nolkor chdaiin cholkaiin qokeedy qoky chey lchedy chedy alod\ntchdy tchor chol tar chdy okol ykoldy olkeedy qotaiin or\ndaiin chckhy okaiin chckhy daiin ykedy ep[?:a]iin okaraiin ls\nykaiin or chdy chekain ol dar ykar olkeey ldar chekal",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

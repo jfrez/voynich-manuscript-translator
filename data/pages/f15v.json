@@ -1,0 +1,85 @@
+{
+  "folio": "f15v",
+  "page_number": 28,
+  "section": "herbal",
+  "currier": "A",
+  "plant_id": "Herba Paris (liliacesus), Herba Mortis",
+  "plant_candidates": [
+    "Herba Paris",
+    "Herba Mortis"
+  ],
+  "plant_category_guess": "leaf",
+  "plant_category_confidence": 0.25,
+  "plant_category_matches": [
+    "section=herbal_default"
+  ],
+  "refs": [],
+  "notes": [
+    "Leaves = Aconitum / Paris Quadrifolia (O'Neill)"
+  ],
+  "loci_count": 12,
+  "loci": [
+    {
+      "locus": "f15v.1,@P0",
+      "raw": "<%>poror.orshy.choiin.dtchan.opchordy",
+      "eva": "poror orshy choiin dtchan opchordy"
+    },
+    {
+      "locus": "f15v.2,+P0",
+      "raw": "@138;chor.or.oro.r,aiin.cthy.[?:t]ain,dar",
+      "eva": "@138;chor or oro r aiin cthy [?:t]ain dar"
+    },
+    {
+      "locus": "f15v.3,+P0",
+      "raw": "cthor.daiin.qokor.okeor.okaiin",
+      "eva": "cthor daiin qokor okeor okaiin"
+    },
+    {
+      "locus": "f15v.4,+P0",
+      "raw": "doiin.choky.shol.qoky.qotchod",
+      "eva": "doiin choky shol qoky qotchod"
+    },
+    {
+      "locus": "f15v.5,+P0",
+      "raw": "otchor.chor.chor.ytchor.cthy.s",
+      "eva": "otchor chor chor ytchor cthy s"
+    },
+    {
+      "locus": "f15v.6,+P0",
+      "raw": "qotchey.choty.kaiin.otchy.r.aiin",
+      "eva": "qotchey choty kaiin otchy r aiin"
+    },
+    {
+      "locus": "f15v.7,+P0",
+      "raw": "{co}y.cho[iin:iir].sho.[?:s].chy.s.chy.tor.ols",
+      "eva": "coy cho[iin:iir] sho [?:s] chy s chy tor ols"
+    },
+    {
+      "locus": "f15v.8,+P0",
+      "raw": "ytchor.chor.ol.oiin.oty.shol.daiin",
+      "eva": "ytchor chor ol oiin oty shol daiin"
+    },
+    {
+      "locus": "f15v.9,+P0",
+      "raw": "otchol,octhol.chol.chol.chody.kan",
+      "eva": "otchol octhol chol chol chody kan"
+    },
+    {
+      "locus": "f15v.10,+P0",
+      "raw": "sor.chor.cthoiin.cthy.qokaiin",
+      "eva": "sor chor cthoiin cthy qokaiin"
+    },
+    {
+      "locus": "f15v.11,+P0",
+      "raw": "sol,oiin.cheor.chol.daiin.cthy",
+      "eva": "sol oiin cheor chol daiin cthy"
+    },
+    {
+      "locus": "f15v.12,+P0",
+      "raw": "daiin.cthor.chol.chor<$>",
+      "eva": "daiin cthor chol chor"
+    }
+  ],
+  "eva_text": "poror orshy choiin dtchan opchordy\n@138;chor or oro r aiin cthy [?:t]ain dar\ncthor daiin qokor okeor okaiin\ndoiin choky shol qoky qotchod\notchor chor chor ytchor cthy s\nqotchey choty kaiin otchy r aiin\ncoy cho[iin:iir] sho [?:s] chy s chy tor ols\nytchor chor ol oiin oty shol daiin\notchol octhol chol chol chody kan\nsor chor cthoiin cthy qokaiin\nsol oiin cheor chol daiin cthy\ndaiin cthor chol chor",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}

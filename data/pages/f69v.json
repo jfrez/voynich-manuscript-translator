@@ -1,0 +1,177 @@
+{
+  "folio": "f69v",
+  "page_number": 132,
+  "section": "cosmological",
+  "currier": null,
+  "plant_id": null,
+  "plant_candidates": [],
+  "plant_category_guess": "unknown",
+  "plant_category_confidence": 0.0,
+  "plant_category_matches": [],
+  "refs": [],
+  "notes": [
+    "Three bands of circular text. Text assumed to start",
+    "in each case after wide gap near 11:00 hours.",
+    "28 words along radiating segments"
+  ],
+  "loci_count": 31,
+  "loci": [
+    {
+      "locus": "f69v.1,@Cc",
+      "raw": "<!11:00>dair.cheyky.otaza.sar,ar,chykar.okoirsh,ar.chetody.okeeos.o,tey.otokeeey.okeeody.okeey.doiir.{c@204;}teeo.y.chey.ot.y.okedy.chsdy.okeod.y.dy.choaiin.okar.okar.chol.chees.yto.odair.oty.oteeo.dar.o,eykeody.dchor.char",
+      "eva": "dair cheyky otaza sar ar chykar okoirsh ar chetody okeeos o tey otokeeey okeeody okeey doiir c@204;teeo y chey ot y okedy chsdy okeod y dy choaiin okar okar chol chees yto odair oty oteeo dar o eykeody dchor char"
+    },
+    {
+      "locus": "f69v.2,@Cc",
+      "raw": "<!11:00>yka{c@204;}.chol.ykar.dal.ykady.[i:?]okeeor.cheey.choly.ykeeal.cheo[?:s].oaram.ockhy.sheey.aiin,y.daii[a:?]l.cheody.cheal.yetey.chear,y,dy.ykey.ch.y.dy.chol.ykar.ol,y.ykeeody,chey.dal,ody.airchy.choky.ychey.chey",
+      "eva": "ykac@204; chol ykar dal ykady [i:?]okeeor cheey choly ykeeal cheo[?:s] oaram ockhy sheey aiin y daii[a:?]l cheody cheal yetey chear y dy ykey ch y dy chol ykar ol y ykeeody chey dal ody airchy choky ychey chey"
+    },
+    {
+      "locus": "f69v.3,@Cc",
+      "raw": "<!11:00>doair.otaldal.dair.@240;.chdy.otoar.ar,@240;,chy.qoteor.cho.qotair.chda.oteeal.cheor,ar,air.oteody.ytyd,a.dchy.otoly.okeodal.oteoarar.cheteese?r.dair.chey.okody.dal.oteey.oteey",
+      "eva": "doair otaldal dair @240; chdy otoar ar @240; chy qoteor cho qotair chda oteeal cheor ar air oteody ytyd a dchy otoly okeodal oteoarar cheteese?r dair chey okody dal oteey oteey"
+    },
+    {
+      "locus": "f69v.4,@Ri",
+      "raw": "<!09:30>okeey,sar",
+      "eva": "okeey sar"
+    },
+    {
+      "locus": "f69v.5,@Ri",
+      "raw": "<!10:00>okeo,dy",
+      "eva": "okeo dy"
+    },
+    {
+      "locus": "f69v.6,@Ri",
+      "raw": "<!10:30>ochoyk",
+      "eva": "ochoyk"
+    },
+    {
+      "locus": "f69v.7,@Ri",
+      "raw": "<!11:00>ykeey",
+      "eva": "ykeey"
+    },
+    {
+      "locus": "f69v.8,@Ri",
+      "raw": "<!11:30>ytory",
+      "eva": "ytory"
+    },
+    {
+      "locus": "f69v.9,@Ri",
+      "raw": "<!00:00>oeesy",
+      "eva": "oeesy"
+    },
+    {
+      "locus": "f69v.10,@Ri",
+      "raw": "<!00:15>ytody",
+      "eva": "ytody"
+    },
+    {
+      "locus": "f69v.11,@Ri",
+      "raw": "<!00:30>okody",
+      "eva": "okody"
+    },
+    {
+      "locus": "f69v.12,@Ri",
+      "raw": "<!01:00>otody",
+      "eva": "otody"
+    },
+    {
+      "locus": "f69v.13,@Ri",
+      "raw": "<!01:30>oke[a:o]l",
+      "eva": "oke[a:o]l"
+    },
+    {
+      "locus": "f69v.14,@Ri",
+      "raw": "<!02:00>okeod",
+      "eva": "okeod"
+    },
+    {
+      "locus": "f69v.15,@Ri",
+      "raw": "<!02:15>oteeys",
+      "eva": "oteeys"
+    },
+    {
+      "locus": "f69v.16,@Ri",
+      "raw": "<!02:45>oteol",
+      "eva": "oteol"
+    },
+    {
+      "locus": "f69v.17,@Ri",
+      "raw": "<!03:00>ykeydy",
+      "eva": "ykeydy"
+    },
+    {
+      "locus": "f69v.18,@Ri",
+      "raw": "<!03:15>okeod",
+      "eva": "okeod"
+    },
+    {
+      "locus": "f69v.19,@Ri",
+      "raw": "<!03:30>saral",
+      "eva": "saral"
+    },
+    {
+      "locus": "f69v.20,@Ri",
+      "raw": "<!04:00>saiir",
+      "eva": "saiir"
+    },
+    {
+      "locus": "f69v.21,@Ri",
+      "raw": "<!04:30>okolar",
+      "eva": "okolar"
+    },
+    {
+      "locus": "f69v.22,@Ri",
+      "raw": "<!05:00>ykeody",
+      "eva": "ykeody"
+    },
+    {
+      "locus": "f69v.23,@Ri",
+      "raw": "<!05:15>sarydy",
+      "eva": "sarydy"
+    },
+    {
+      "locus": "f69v.24,@Ri",
+      "raw": "<!05:45>otchy",
+      "eva": "otchy"
+    },
+    {
+      "locus": "f69v.25,@Ri",
+      "raw": "<!06:00>okeey,dy",
+      "eva": "okeey dy"
+    },
+    {
+      "locus": "f69v.26,@Ri",
+      "raw": "<!06:30>okey,[d:g]",
+      "eva": "okey [d:g]"
+    },
+    {
+      "locus": "f69v.27,@Ri",
+      "raw": "<!07:00>okeod",
+      "eva": "okeod"
+    },
+    {
+      "locus": "f69v.28,@Ri",
+      "raw": "<!07:30>okodchy",
+      "eva": "okodchy"
+    },
+    {
+      "locus": "f69v.29,@Ri",
+      "raw": "<!08:00>okeody",
+      "eva": "okeody"
+    },
+    {
+      "locus": "f69v.30,@Ri",
+      "raw": "<!08:30>okchey[s:r]",
+      "eva": "okchey[s:r]"
+    },
+    {
+      "locus": "f69v.31,@Ri",
+      "raw": "<!08:45>oar.alys",
+      "eva": "oar alys"
+    }
+  ],
+  "eva_text": "dair cheyky otaza sar ar chykar okoirsh ar chetody okeeos o tey otokeeey okeeody okeey doiir c@204;teeo y chey ot y okedy chsdy okeod y dy choaiin okar okar chol chees yto odair oty oteeo dar o eykeody dchor char\nykac@204; chol ykar dal ykady [i:?]okeeor cheey choly ykeeal cheo[?:s] oaram ockhy sheey aiin y daii[a:?]l cheody cheal yetey chear y dy ykey ch y dy chol ykar ol y ykeeody chey dal ody airchy choky ychey chey\ndoair otaldal dair @240; chdy otoar ar @240; chy qoteor cho qotair chda oteeal cheor ar air oteody ytyd a dchy otoly okeodal oteoarar cheteese?r dair chey okody dal oteey oteey\nokeey sar\nokeo dy\nochoyk\nykeey\nytory\noeesy\nytody\nokody\notody\noke[a:o]l\nokeod\noteeys\noteol\nykeydy\nokeod\nsaral\nsaiir\nokolar\nykeody\nsarydy\notchy\nokeey dy\nokey [d:g]\nokeod\nokodchy\nokeody\nokchey[s:r]\noar alys",
+  "disclaimer": "This dataset is a transliteration (IVTFF/EVA) and does not imply a validated translation. Any downstream 'recipe' interpretations are speculative/procedural."
+}
