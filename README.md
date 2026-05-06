@@ -145,10 +145,6 @@ Given the structural grammar above, we make additional interpretive assumptions 
 4. **Page as a “protocol set”.** Operationally, we treat a page as a set of line-level protocol units.
 5. **Internal coherence is the evaluation criterion.** The model is useful if it generates internally consistent, materially plausible protocols—even without any claim of matching the manuscript’s true meaning.
 
-### Safety note
-
-This repo does not provide validated real-world instructions. If you choose to instantiate any procedural output into a real process, treat it as experimental and apply appropriate safety and domain expertise.
-
 ## 4. Example (direct gloss)
 
 Example EVA line:
