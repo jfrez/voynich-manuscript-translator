@@ -28,17 +28,42 @@ def _load_json(path: pathlib.Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def _extract_gloss_terms(domain_readme: str) -> list[str]:
-    terms: list[str] = []
-    # lines like: - `word` → ... → Italian anagram `x`; English: gloss
+MARKERS = ["qo", "q", "o", "k", "t", "p", "ch", "sh", "f", "cth", "ckh", "cph", "cfh", "dy", "iin", "aiin"]
+
+
+def _extract_domain_lexicon_rows(domain_readme: str) -> list[dict]:
+    """
+    Parse the Domain Lexicon markdown table produced by scripts/domain_word_summaries.py.
+
+    Expected row shape:
+    | `EVA` | 12 | `reduced` | `it` | gloss |
+    """
+    rows: list[dict] = []
+    in_table = False
     for line in domain_readme.splitlines():
-        if "English:" not in line:
+        if line.strip().startswith("| EVA baseword |"):
+            in_table = True
             continue
-        gloss = line.split("English:", 1)[1].strip()
-        if gloss in ("[n/a]", ""):
+        if in_table and line.strip().startswith("|---"):
             continue
-        terms.append(gloss)
-    return terms
+        if in_table:
+            if not line.strip().startswith("|"):
+                break
+            parts = [p.strip() for p in line.strip().strip("|").split("|")]
+            if len(parts) < 5:
+                continue
+            eva = parts[0].strip("`")
+            try:
+                cnt = int(parts[1])
+            except Exception:
+                cnt = 0
+            it = parts[3].strip()
+            it = it.strip("`") if it.startswith("`") else None
+            gloss = parts[4].strip()
+            if gloss == "[n/a]":
+                gloss = ""
+            rows.append({"eva": eva, "count": cnt, "it": it, "gloss": gloss})
+    return rows
 
 
 def _score_keywords(glosses: list[str]) -> dict[str, int]:
@@ -51,14 +76,11 @@ def _score_keywords(glosses: list[str]) -> dict[str, int]:
     return dict(score)
 
 
-def _suggest_marker_sense(domain: str, keyword_scores: dict[str, int]) -> dict[str, str]:
+def _suggest_marker_sense_from_labels(top_labels: list[str]) -> dict[str, str]:
     """
     Produce a *heuristic* per-domain sense mapping for the procedural markers.
     This does not claim decipherment; it only provides one possible "story" layer.
     """
-    top = sorted(keyword_scores.items(), key=lambda kv: kv[1], reverse=True)
-    top_labels = [k for k, v in top if v > 0][:3]
-
     # Baseline generic meanings (no fermentation bias)
     mapping = {
         "qo": "base liquid / carrier",
@@ -115,16 +137,41 @@ def main(argv: list[str]) -> int:
         if not readme.exists():
             continue
         text = readme.read_text(encoding="utf-8", errors="replace")
-        glosses = _extract_gloss_terms(text)
-        scores = _score_keywords(glosses)
-        mapping = _suggest_marker_sense(p.name, scores)
+        lex_rows = _extract_domain_lexicon_rows(text)
+
+        all_glosses = [r["gloss"] for r in lex_rows if r.get("gloss")]
+        scores = _score_keywords(all_glosses)
+        top = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
+        top_labels = [k for k, v in top if v > 0][:3]
+
+        mapping = _suggest_marker_sense_from_labels(top_labels)
+
+        # Marker-specific evidence from the domain lexicon: basewords that contain the marker
+        marker_scores: dict[str, dict] = {}
+        for mk in MARKERS:
+            mk_glosses = [r["gloss"] for r in lex_rows if r.get("gloss") and mk in (r.get("eva") or "")]
+            if not mk_glosses:
+                continue
+            mk_scores = _score_keywords(mk_glosses)
+            mk_top = sorted(mk_scores.items(), key=lambda kv: kv[1], reverse=True)
+            mk_labels = [k for k, v in mk_top if v > 0][:3]
+            marker_scores[mk] = {
+                "keyword_scores": mk_scores,
+                "top_keyword_labels": mk_labels,
+                "examples": [
+                    {"eva": r["eva"], "it": r.get("it"), "gloss": r.get("gloss")}
+                    for r in lex_rows
+                    if r.get("gloss") and mk in (r.get("eva") or "")
+                ][:8],
+            }
 
         payload = {
             "domain": p.name,
-            "source": "data/domains/<domain>/README.md (Associated words English glosses)",
-            "note": "Heuristic 'sense layer' generated from gloss keywords; not a translation or decipherment.",
+            "source": "data/domains/<domain>/README.md (Domain Lexicon table: medieval-ish Italian proxy + English gloss)",
+            "note": "Heuristic 'sense layer' generated from medieval-ish lexicon matches; not a translation or decipherment.",
             "keyword_scores": scores,
             "marker_sense": mapping,
+            "marker_evidence": marker_scores,
         }
         (out_dir / f"{p.name}.sense.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         index_rows.append({"domain": p.name, "sense_file": f"{p.name}.sense.json"})
@@ -136,4 +183,3 @@ def main(argv: list[str]) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main(sys.argv[1:]))
-

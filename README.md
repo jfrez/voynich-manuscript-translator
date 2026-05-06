@@ -172,8 +172,12 @@ Concrete example:
 
 | EVA word | Normalized | Segmentation | Procedural gloss (structural) |
 |---|---|---|---|
-| `qokeedy` | `qokeepy` (from `d→p`, and keeping `dy`) | `qo + k + ee + dy` | base liquid + solutes + level-2 active step + 2 days |
-| `daiin` | `paiin` | `p + aiin` | activation/starter marker + long phase |
+| `qokeedy` | `qokeepy` (from `d→p`, and keeping `dy`) | `qo + k + ee + dy` | marker `qo` + marker `k` + state `ee` + suffix `dy` |
+| `daiin` | `paiin` | `p + aiin` | marker `p` + suffix `aiin` |
+
+If you want the markers to have a **domain-tinted sense**, this repo generates an optional “sense layer” from the domain lexicon tables (WikWik “medieval-ish Italian” proxy + English gloss keywords):
+
+- `data/domain_sense/<domain>.sense.json` (built by `python scripts/assign_domain_sense.py`)
 
 ### Herbal (botanical)
 

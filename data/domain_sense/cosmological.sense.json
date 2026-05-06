@@ -1,8 +1,15 @@
 {
   "domain": "cosmological",
-  "source": "data/domains/<domain>/README.md (Associated words English glosses)",
-  "note": "Heuristic 'sense layer' generated from gloss keywords; not a translation or decipherment.",
-  "keyword_scores": {},
+  "source": "data/domains/<domain>/README.md (Domain Lexicon table: medieval-ish Italian proxy + English gloss)",
+  "note": "Heuristic 'sense layer' generated from medieval-ish lexicon matches; not a translation or decipherment.",
+  "keyword_scores": {
+    "bath/wash": 0,
+    "heat/boil": 0,
+    "oil/wax": 0,
+    "plant/food": 1,
+    "measure/time": 0,
+    "astral": 0
+  },
   "marker_sense": {
     "qo": "base liquid / carrier",
     "q": "generic base marker",
@@ -20,6 +27,236 @@
     "dy": "explicit days marker",
     "iin": "medium phase marker",
     "aiin": "long phase marker",
-    "_top_keyword_labels": "none"
+    "_top_keyword_labels": "plant/food"
+  },
+  "marker_evidence": {
+    "qo": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "qokal",
+          "it": "calco",
+          "gloss": "cast (of sculpture)"
+        }
+      ]
+    },
+    "q": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "qokal",
+          "it": "calco",
+          "gloss": "cast (of sculpture)"
+        }
+      ]
+    },
+    "o": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 1,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [
+        "plant/food"
+      ],
+      "examples": [
+        {
+          "eva": "qokal",
+          "it": "calco",
+          "gloss": "cast (of sculpture)"
+        },
+        {
+          "eva": "odaiin",
+          "it": "inopia",
+          "gloss": "poverty"
+        },
+        {
+          "eva": "opaiin",
+          "it": "inopia",
+          "gloss": "poverty"
+        },
+        {
+          "eva": "olaiin",
+          "it": "ialino",
+          "gloss": "hyaline, glassy"
+        },
+        {
+          "eva": "otair",
+          "it": "atrio",
+          "gloss": "entrance hall, lobby (of a hotel etc.)"
+        },
+        {
+          "eva": "otedar",
+          "it": "aperto",
+          "gloss": "open"
+        },
+        {
+          "eva": "okeos",
+          "it": "coeso",
+          "gloss": "cohesive"
+        },
+        {
+          "eva": "okain",
+          "it": "acino",
+          "gloss": "a berry"
+        }
+      ]
+    },
+    "k": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 1,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [
+        "plant/food"
+      ],
+      "examples": [
+        {
+          "eva": "qokal",
+          "it": "calco",
+          "gloss": "cast (of sculpture)"
+        },
+        {
+          "eva": "okeos",
+          "it": "coeso",
+          "gloss": "cohesive"
+        },
+        {
+          "eva": "okain",
+          "it": "acino",
+          "gloss": "a berry"
+        }
+      ]
+    },
+    "t": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "otair",
+          "it": "atrio",
+          "gloss": "entrance hall, lobby (of a hotel etc.)"
+        },
+        {
+          "eva": "otedar",
+          "it": "aperto",
+          "gloss": "open"
+        }
+      ]
+    },
+    "p": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "opaiin",
+          "it": "inopia",
+          "gloss": "poverty"
+        }
+      ]
+    },
+    "iin": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "daiin",
+          "it": "piani",
+          "gloss": "plans (arrangements)"
+        },
+        {
+          "eva": "odaiin",
+          "it": "inopia",
+          "gloss": "poverty"
+        },
+        {
+          "eva": "opaiin",
+          "it": "inopia",
+          "gloss": "poverty"
+        },
+        {
+          "eva": "olaiin",
+          "it": "ialino",
+          "gloss": "hyaline, glassy"
+        }
+      ]
+    },
+    "aiin": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "daiin",
+          "it": "piani",
+          "gloss": "plans (arrangements)"
+        },
+        {
+          "eva": "odaiin",
+          "it": "inopia",
+          "gloss": "poverty"
+        },
+        {
+          "eva": "opaiin",
+          "it": "inopia",
+          "gloss": "poverty"
+        },
+        {
+          "eva": "olaiin",
+          "it": "ialino",
+          "gloss": "hyaline, glassy"
+        }
+      ]
+    }
   }
 }

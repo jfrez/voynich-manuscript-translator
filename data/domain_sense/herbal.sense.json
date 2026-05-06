@@ -1,8 +1,15 @@
 {
   "domain": "herbal",
-  "source": "data/domains/<domain>/README.md (Associated words English glosses)",
-  "note": "Heuristic 'sense layer' generated from gloss keywords; not a translation or decipherment.",
-  "keyword_scores": {},
+  "source": "data/domains/<domain>/README.md (Domain Lexicon table: medieval-ish Italian proxy + English gloss)",
+  "note": "Heuristic 'sense layer' generated from medieval-ish lexicon matches; not a translation or decipherment.",
+  "keyword_scores": {
+    "bath/wash": 0,
+    "heat/boil": 0,
+    "oil/wax": 0,
+    "plant/food": 1,
+    "measure/time": 0,
+    "astral": 0
+  },
   "marker_sense": {
     "qo": "base liquid / carrier",
     "q": "generic base marker",
@@ -20,6 +27,266 @@
     "dy": "explicit days marker",
     "iin": "medium phase marker",
     "aiin": "long phase marker",
-    "_top_keyword_labels": "none"
+    "_top_keyword_labels": "plant/food"
+  },
+  "marker_evidence": {
+    "qo": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "qotol",
+          "it": "colto",
+          "gloss": "cultivated"
+        },
+        {
+          "eva": "qotor",
+          "it": "corto",
+          "gloss": "short"
+        },
+        {
+          "eva": "qokal",
+          "it": "calco",
+          "gloss": "cast (of sculpture)"
+        }
+      ]
+    },
+    "q": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "qotol",
+          "it": "colto",
+          "gloss": "cultivated"
+        },
+        {
+          "eva": "qotor",
+          "it": "corto",
+          "gloss": "short"
+        },
+        {
+          "eva": "qokal",
+          "it": "calco",
+          "gloss": "cast (of sculpture)"
+        }
+      ]
+    },
+    "o": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 1,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [
+        "plant/food"
+      ],
+      "examples": [
+        {
+          "eva": "odaiin",
+          "it": "inopia",
+          "gloss": "poverty"
+        },
+        {
+          "eva": "otchol",
+          "it": "colto",
+          "gloss": "cultivated"
+        },
+        {
+          "eva": "qotol",
+          "it": "colto",
+          "gloss": "cultivated"
+        },
+        {
+          "eva": "okain",
+          "it": "acino",
+          "gloss": "a berry"
+        },
+        {
+          "eva": "qotor",
+          "it": "corto",
+          "gloss": "short"
+        },
+        {
+          "eva": "otchor",
+          "it": "corto",
+          "gloss": "short"
+        },
+        {
+          "eva": "qokal",
+          "it": "calco",
+          "gloss": "cast (of sculpture)"
+        },
+        {
+          "eva": "olaiin",
+          "it": "ialino",
+          "gloss": "hyaline, glassy"
+        }
+      ]
+    },
+    "k": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 1,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [
+        "plant/food"
+      ],
+      "examples": [
+        {
+          "eva": "okain",
+          "it": "acino",
+          "gloss": "a berry"
+        },
+        {
+          "eva": "qokal",
+          "it": "calco",
+          "gloss": "cast (of sculpture)"
+        }
+      ]
+    },
+    "t": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "otchol",
+          "it": "colto",
+          "gloss": "cultivated"
+        },
+        {
+          "eva": "qotol",
+          "it": "colto",
+          "gloss": "cultivated"
+        },
+        {
+          "eva": "qotor",
+          "it": "corto",
+          "gloss": "short"
+        },
+        {
+          "eva": "otchor",
+          "it": "corto",
+          "gloss": "short"
+        }
+      ]
+    },
+    "ch": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "otchol",
+          "it": "colto",
+          "gloss": "cultivated"
+        },
+        {
+          "eva": "otchor",
+          "it": "corto",
+          "gloss": "short"
+        }
+      ]
+    },
+    "iin": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "daiin",
+          "it": "piani",
+          "gloss": "plans (arrangements)"
+        },
+        {
+          "eva": "odaiin",
+          "it": "inopia",
+          "gloss": "poverty"
+        },
+        {
+          "eva": "ydaiin",
+          "it": "piani",
+          "gloss": "plans (arrangements)"
+        },
+        {
+          "eva": "olaiin",
+          "it": "ialino",
+          "gloss": "hyaline, glassy"
+        }
+      ]
+    },
+    "aiin": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "daiin",
+          "it": "piani",
+          "gloss": "plans (arrangements)"
+        },
+        {
+          "eva": "odaiin",
+          "it": "inopia",
+          "gloss": "poverty"
+        },
+        {
+          "eva": "ydaiin",
+          "it": "piani",
+          "gloss": "plans (arrangements)"
+        },
+        {
+          "eva": "olaiin",
+          "it": "ialino",
+          "gloss": "hyaline, glassy"
+        }
+      ]
+    }
   }
 }
