@@ -12,56 +12,29 @@
     "transliteration": "IVTFF/EVA (ZL file as downloaded by scripts/build_pages.py)",
     "pages_file": "data/pages/f70v1.json"
   },
-  "page_pantry_max_per_line_recipe": {
-    "water_l": 0.5,
-    "sugar_or_honey_g": 75,
-    "main_plant_substitute": [
-      "chamomile (safe default substitute)"
-    ],
-    "main_plant_dry_g": 15,
-    "secondary_herb_substitute": [
-      "mint"
-    ],
-    "secondary_herb_dry_g": 7,
-    "starter_g": 1,
-    "starter_note": [
-      "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
-    ],
-    "safe_complex_herbal_blend": [
-      "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
-    ]
-  },
+  "page_pantry_max_per_line_recipe": {},
   "page_summary_procedural": {
     "disclaimer": "IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.",
     "plant_category_guess": "unknown",
     "procedural_summary": {
       "compound_counts": {
-        "activation/starter": 27,
-        "mix/transfer": 78,
-        "heat": 29,
-        "secondary herb": 13,
-        "sugars": 20,
-        "main herb": 20,
-        "complex herbal compound": 1,
-        "liquid base": 1
+        "p": 27,
+        "o": 78,
+        "t": 29,
+        "sh": 13,
+        "k": 20,
+        "ch": 20,
+        "cth": 1,
+        "qo": 1
       },
       "dose_level": 3,
-      "phase_duration_estimate": "7–14 days"
+      "phase_marker": "aiin",
+      "duration_estimate": "7–14 days (heuristic long phase)"
     },
-    "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-    "does_it_make_sense": "partial",
-    "risks": [
-      "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-      "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-      "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-      "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-      "No medical claims: this is an experimental procedural model."
-    ],
-    "recommended_adjustments": [
-      "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-      "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-      "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-    ]
+    "expected_result": null,
+    "does_it_make_sense": null,
+    "risks": [],
+    "recommended_adjustments": []
   },
   "line_recipes": [
     {
@@ -84,9 +57,9 @@
               "p"
             ],
             "compounds": [
-              "activation/starter",
-              "mix/transfer",
-              "activation/starter"
+              "p",
+              "o",
+              "p"
             ],
             "connectors": [
               "l",
@@ -94,7 +67,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "mix / transfer → add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: p a l a l o p → connectors: l l → vowel_run: a (level 1; class a)"
           },
           {
             "word": "oteoshey",
@@ -108,15 +81,15 @@
               "e"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "mix/transfer",
-              "secondary herb"
+              "o",
+              "t",
+              "o",
+              "sh"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o t e o sh e → vowel_run: e (level 1; class e)"
           },
           {
             "word": "okoksheo",
@@ -131,17 +104,17 @@
               "o"
             ],
             "compounds": [
-              "mix/transfer",
-              "sugars",
-              "mix/transfer",
-              "sugars",
-              "secondary herb",
-              "mix/transfer"
+              "o",
+              "k",
+              "o",
+              "k",
+              "sh",
+              "o"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o k o k sh e o → vowel_run: e (level 1; class e)"
           },
           {
             "word": "shokey",
@@ -153,14 +126,14 @@
               "e"
             ],
             "compounds": [
-              "secondary herb",
-              "mix/transfer",
-              "sugars"
+              "sh",
+              "o",
+              "k"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: sh o k e → vowel_run: e (level 1; class e)"
           },
           {
             "word": "raiin",
@@ -174,8 +147,8 @@
               "r"
             ],
             "vowel_run": "a",
-            "suffix": "long phase",
-            "interpretation": "duration level 1 → state: phase transition/start → long phase"
+            "suffix": "aiin",
+            "interpretation": "tokens: r aiin → connectors: r → vowel_run: a (level 1; class a) → suffix: aiin"
           },
           {
             "word": "otor",
@@ -187,16 +160,16 @@
               "r"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "mix/transfer"
+              "o",
+              "t",
+              "o"
             ],
             "connectors": [
               "r"
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer"
+            "interpretation": "tokens: o t o r → connectors: r"
           },
           {
             "word": "ochy",
@@ -206,13 +179,13 @@
               "ch"
             ],
             "compounds": [
-              "mix/transfer",
-              "main herb"
+              "o",
+              "ch"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → mix / transfer"
+            "interpretation": "tokens: o ch"
           },
           {
             "word": "s",
@@ -226,7 +199,7 @@
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "[unparsed]"
+            "interpretation": "tokens: s → connectors: s"
           },
           {
             "word": "a",
@@ -238,7 +211,7 @@
             "connectors": [],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: a → vowel_run: a (level 1; class a)"
           },
           {
             "word": "ir",
@@ -253,7 +226,7 @@
             ],
             "vowel_run": "i",
             "suffix": null,
-            "interpretation": "duration level 1 → state: cooling/rest"
+            "interpretation": "tokens: i r → connectors: r → vowel_run: i (level 1; class i)"
           },
           {
             "word": "is",
@@ -268,7 +241,7 @@
             ],
             "vowel_run": "i",
             "suffix": null,
-            "interpretation": "duration level 1 → state: cooling/rest"
+            "interpretation": "tokens: i s → connectors: s → vowel_run: i (level 1; class i)"
           },
           {
             "word": "cheody",
@@ -280,14 +253,14 @@
               "p"
             ],
             "compounds": [
-              "main herb",
-              "mix/transfer",
-              "activation/starter"
+              "ch",
+              "o",
+              "p"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction"
+            "interpretation": "tokens: ch e o p → vowel_run: e (level 1; class e)"
           },
           {
             "word": "cheey",
@@ -297,12 +270,12 @@
               "ee"
             ],
             "compounds": [
-              "main herb"
+              "ch"
             ],
             "connectors": [],
             "vowel_run": "ee",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → duration level 2 → state: active extraction"
+            "interpretation": "tokens: ch ee → vowel_run: ee (level 2; class e)"
           },
           {
             "word": "oteo",
@@ -314,14 +287,14 @@
               "o"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "mix/transfer"
+              "o",
+              "t",
+              "o"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o t e o → vowel_run: e (level 1; class e)"
           },
           {
             "word": "ch",
@@ -330,12 +303,12 @@
               "ch"
             ],
             "compounds": [
-              "main herb"
+              "ch"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "add main plant (safe substitute)"
+            "interpretation": "tokens: ch"
           },
           {
             "word": "ee",
@@ -347,7 +320,7 @@
             "connectors": [],
             "vowel_run": "ee",
             "suffix": null,
-            "interpretation": "duration level 2 → state: active extraction"
+            "interpretation": "tokens: ee → vowel_run: ee (level 2; class e)"
           },
           {
             "word": "y",
@@ -369,14 +342,14 @@
               "r"
             ],
             "compounds": [
-              "activation/starter"
+              "p"
             ],
             "connectors": [
               "r"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a)"
           },
           {
             "word": "chcthy",
@@ -386,13 +359,13 @@
               "cth"
             ],
             "compounds": [
-              "main herb",
-              "complex herbal compound"
+              "ch",
+              "cth"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → add complex herbal compound (safe blend)"
+            "interpretation": "tokens: ch cth"
           },
           {
             "word": "dlal",
@@ -404,7 +377,7 @@
               "l"
             ],
             "compounds": [
-              "activation/starter"
+              "p"
             ],
             "connectors": [
               "l",
@@ -412,7 +385,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: p l a l → connectors: l l → vowel_run: a (level 1; class a)"
           },
           {
             "word": "oteodaiin",
@@ -426,15 +399,15 @@
               "aiin"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "mix/transfer",
-              "activation/starter"
+              "o",
+              "t",
+              "o",
+              "p"
             ],
             "connectors": [],
             "vowel_run": "e",
-            "suffix": "long phase",
-            "interpretation": "apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction → long phase"
+            "suffix": "aiin",
+            "interpretation": "tokens: o t e o p aiin → vowel_run: e (level 1; class e) → suffix: aiin"
           },
           {
             "word": "ykeody",
@@ -446,14 +419,14 @@
               "p"
             ],
             "compounds": [
-              "sugars",
-              "mix/transfer",
-              "activation/starter"
+              "k",
+              "o",
+              "p"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → mix / transfer → add starter / activate → duration level 1 → state: active extraction"
+            "interpretation": "tokens: k e o p → vowel_run: e (level 1; class e)"
           },
           {
             "word": "oteody",
@@ -466,15 +439,15 @@
               "p"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "mix/transfer",
-              "activation/starter"
+              "o",
+              "t",
+              "o",
+              "p"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o t e o p → vowel_run: e (level 1; class e)"
           },
           {
             "word": "sheo",
@@ -485,13 +458,13 @@
               "o"
             ],
             "compounds": [
-              "secondary herb",
-              "mix/transfer"
+              "sh",
+              "o"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: sh e o → vowel_run: e (level 1; class e)"
           },
           {
             "word": "daiin",
@@ -501,12 +474,12 @@
               "aiin"
             ],
             "compounds": [
-              "activation/starter"
+              "p"
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long phase",
-            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start → long phase"
+            "suffix": "aiin",
+            "interpretation": "tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin"
           },
           {
             "word": "oteedy",
@@ -518,14 +491,14 @@
               "p"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "activation/starter"
+              "o",
+              "t",
+              "p"
             ],
             "connectors": [],
             "vowel_run": "ee",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → add starter / activate → duration level 2 → state: active extraction"
+            "interpretation": "tokens: o t ee p → vowel_run: ee (level 2; class e)"
           },
           {
             "word": "chetalchs",
@@ -540,9 +513,9 @@
               "s"
             ],
             "compounds": [
-              "main herb",
-              "heat",
-              "main herb"
+              "ch",
+              "t",
+              "ch"
             ],
             "connectors": [
               "l",
@@ -550,7 +523,7 @@
             ],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction"
+            "interpretation": "tokens: ch e t a l ch s → connectors: l s → vowel_run: e (level 1; class e)"
           },
           {
             "word": "zar",
@@ -566,7 +539,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "duration level 1 → state: phase transition/start → unmodeled token(s) present: z"
+            "interpretation": "tokens: z a r → connectors: r → vowel_run: a (level 1; class a) → unmodeled_tokens: z"
           },
           {
             "word": "shoteeody",
@@ -580,16 +553,16 @@
               "p"
             ],
             "compounds": [
-              "secondary herb",
-              "mix/transfer",
-              "heat",
-              "mix/transfer",
-              "activation/starter"
+              "sh",
+              "o",
+              "t",
+              "o",
+              "p"
             ],
             "connectors": [],
             "vowel_run": "ee",
             "suffix": null,
-            "interpretation": "apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → add starter / activate → duration level 2 → state: active extraction"
+            "interpretation": "tokens: sh o t ee o p → vowel_run: ee (level 2; class e)"
           },
           {
             "word": "okeeo",
@@ -601,14 +574,14 @@
               "o"
             ],
             "compounds": [
-              "mix/transfer",
-              "sugars",
-              "mix/transfer"
+              "o",
+              "k",
+              "o"
             ],
             "connectors": [],
             "vowel_run": "ee",
             "suffix": null,
-            "interpretation": "add fermentable sugars → mix / transfer → duration level 2 → state: active extraction"
+            "interpretation": "tokens: o k ee o → vowel_run: ee (level 2; class e)"
           },
           {
             "word": "dal",
@@ -619,14 +592,14 @@
               "l"
             ],
             "compounds": [
-              "activation/starter"
+              "p"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: p a l → connectors: l → vowel_run: a (level 1; class a)"
           },
           {
             "word": "cheody",
@@ -638,14 +611,14 @@
               "p"
             ],
             "compounds": [
-              "main herb",
-              "mix/transfer",
-              "activation/starter"
+              "ch",
+              "o",
+              "p"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction"
+            "interpretation": "tokens: ch e o p → vowel_run: e (level 1; class e)"
           },
           {
             "word": "okchoteees",
@@ -660,18 +633,18 @@
               "s"
             ],
             "compounds": [
-              "mix/transfer",
-              "sugars",
-              "main herb",
-              "mix/transfer",
-              "heat"
+              "o",
+              "k",
+              "ch",
+              "o",
+              "t"
             ],
             "connectors": [
               "s"
             ],
             "vowel_run": "eee",
             "suffix": null,
-            "interpretation": "add fermentable sugars → apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 3 → state: active extraction"
+            "interpretation": "tokens: o k ch o t eee s → connectors: s → vowel_run: eee (level 3; class e)"
           },
           {
             "word": "oteeody",
@@ -684,15 +657,15 @@
               "p"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "mix/transfer",
-              "activation/starter"
+              "o",
+              "t",
+              "o",
+              "p"
             ],
             "connectors": [],
             "vowel_run": "ee",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → add starter / activate → duration level 2 → state: active extraction"
+            "interpretation": "tokens: o t ee o p → vowel_run: ee (level 2; class e)"
           },
           {
             "word": "cheokeo",
@@ -706,15 +679,15 @@
               "o"
             ],
             "compounds": [
-              "main herb",
-              "mix/transfer",
-              "sugars",
-              "mix/transfer"
+              "ch",
+              "o",
+              "k",
+              "o"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: ch e o k e o → vowel_run: e (level 1; class e)"
           },
           {
             "word": "otaiin",
@@ -725,13 +698,13 @@
               "aiin"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat"
+              "o",
+              "t"
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long phase",
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start → long phase"
+            "suffix": "aiin",
+            "interpretation": "tokens: o t aiin → vowel_run: a (level 1; class a) → suffix: aiin"
           },
           {
             "word": "shes",
@@ -742,14 +715,14 @@
               "s"
             ],
             "compounds": [
-              "secondary herb"
+              "sh"
             ],
             "connectors": [
               "s"
             ],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add secondary herb (safe substitute) → duration level 1 → state: active extraction"
+            "interpretation": "tokens: sh e s → connectors: s → vowel_run: e (level 1; class e)"
           },
           {
             "word": "to",
@@ -759,13 +732,13 @@
               "o"
             ],
             "compounds": [
-              "heat",
-              "mix/transfer"
+              "t",
+              "o"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer"
+            "interpretation": "tokens: t o"
           },
           {
             "word": "ar",
@@ -780,7 +753,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: a r → connectors: r → vowel_run: a (level 1; class a)"
           },
           {
             "word": "oly",
@@ -790,14 +763,14 @@
               "l"
             ],
             "compounds": [
-              "mix/transfer"
+              "o"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "mix / transfer"
+            "interpretation": "tokens: o l → connectors: l"
           },
           {
             "word": "daly",
@@ -808,14 +781,14 @@
               "l"
             ],
             "compounds": [
-              "activation/starter"
+              "p"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: p a l → connectors: l → vowel_run: a (level 1; class a)"
           },
           {
             "word": "sheal",
@@ -827,66 +800,36 @@
               "l"
             ],
             "compounds": [
-              "secondary herb"
+              "sh"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add secondary herb (safe substitute) → duration level 1 → state: active extraction"
+            "interpretation": "tokens: sh e a l → connectors: l → vowel_run: e (level 1; class e)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "activation/starter": 15,
-            "mix/transfer": 34,
-            "heat": 12,
-            "secondary herb": 7,
-            "sugars": 7,
-            "main herb": 10,
-            "complex herbal compound": 1
+            "p": 15,
+            "o": 34,
+            "t": 12,
+            "sh": 7,
+            "k": 7,
+            "ch": 10,
+            "cth": 1
           },
           "dose_level": 3,
-          "phase_duration_estimate": "7–14 days"
+          "phase_marker": "aiin",
+          "duration_estimate": "7–14 days (heuristic long phase)"
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 75,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 15,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 7,
-          "starter_g": 1,
-          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present.",
-          "safe_complex_herbal_blend": "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 75 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~15 g dried).",
-          "Add secondary herb: mint (~7 g dried).",
-          "If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.",
-          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
-          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -913,16 +856,16 @@
               "ch"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "main herb"
+              "o",
+              "t",
+              "ch"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: o t a l ch → connectors: l → vowel_run: a (level 1; class a)"
           },
           {
             "word": "tar",
@@ -933,14 +876,14 @@
               "r"
             ],
             "compounds": [
-              "heat"
+              "t"
             ],
             "connectors": [
               "r"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "apply heat/cooking → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: t a r → connectors: r → vowel_run: a (level 1; class a)"
           },
           {
             "word": "am",
@@ -955,7 +898,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: a m → connectors: m → vowel_run: a (level 1; class a)"
           },
           {
             "word": "dy",
@@ -964,59 +907,31 @@
               "p"
             ],
             "compounds": [
-              "activation/starter"
+              "p"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "add starter / activate"
+            "interpretation": "tokens: p"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 1,
-            "heat": 2,
-            "main herb": 1,
-            "activation/starter": 1
+            "o": 1,
+            "t": 2,
+            "ch": 1,
+            "p": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 12,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 5,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1,
-          "starter_g": 1,
-          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -1042,14 +957,14 @@
               "e"
             ],
             "compounds": [
-              "mix/transfer",
-              "activation/starter",
-              "main herb"
+              "o",
+              "p",
+              "ch"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o p ch e → vowel_run: e (level 1; class e)"
           },
           {
             "word": "sal",
@@ -1066,53 +981,25 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: s a l → connectors: s l → vowel_run: a (level 1; class a)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 1,
-            "activation/starter": 1,
-            "main herb": 1
+            "o": 1,
+            "p": 1,
+            "ch": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 12,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 5,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1,
-          "starter_g": 1,
-          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -1143,59 +1030,34 @@
               "n"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "sugars"
+              "o",
+              "t",
+              "k"
             ],
             "connectors": [
               "n"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add fermentable sugars → apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start → unmodeled token(s) present: z"
+            "interpretation": "tokens: o t a k a i z a n → connectors: n → vowel_run: a (level 1; class a) → unmodeled_tokens: z"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 1,
-            "heat": 1,
-            "sugars": 1
+            "o": 1,
+            "t": 1,
+            "k": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 25,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -1223,8 +1085,8 @@
               "l"
             ],
             "compounds": [
-              "mix/transfer",
-              "sugars"
+              "o",
+              "k"
             ],
             "connectors": [
               "l",
@@ -1232,49 +1094,24 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add fermentable sugars → mix / transfer → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: o k a l a l → connectors: l l → vowel_run: a (level 1; class a)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 1,
-            "sugars": 1
+            "o": 1,
+            "k": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 25,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -1300,57 +1137,32 @@
               "l"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat"
+              "o",
+              "t"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: o t a l → connectors: l → vowel_run: a (level 1; class a)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 1,
-            "heat": 1
+            "o": 1,
+            "t": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 12,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -1378,57 +1190,32 @@
               "g"
             ],
             "compounds": [
-              "mix/transfer",
-              "main herb"
+              "o",
+              "ch"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: o a l ch e g → connectors: l → vowel_run: a (level 1; class a)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 1,
-            "main herb": 1
+            "o": 1,
+            "ch": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 12,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 5,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -1458,11 +1245,11 @@
               "s"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "main herb",
-              "mix/transfer",
-              "activation/starter"
+              "o",
+              "t",
+              "ch",
+              "o",
+              "p"
             ],
             "connectors": [
               "l",
@@ -1470,54 +1257,26 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "apply heat/cooking → add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: o t ch o p a l s → connectors: l s → vowel_run: a (level 1; class a)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 2,
-            "heat": 1,
-            "main herb": 1,
-            "activation/starter": 1
+            "o": 2,
+            "t": 1,
+            "ch": 1,
+            "p": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 12,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 5,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1,
-          "starter_g": 1,
-          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~5 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -1544,60 +1303,35 @@
               "sh"
             ],
             "compounds": [
-              "mix/transfer",
-              "sugars",
-              "mix/transfer",
-              "secondary herb"
+              "o",
+              "k",
+              "o",
+              "sh"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "add fermentable sugars → add secondary herb (safe substitute) → mix / transfer"
+            "interpretation": "tokens: o k o l sh → connectors: l"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 2,
-            "sugars": 1,
-            "secondary herb": 1
+            "o": 2,
+            "k": 1,
+            "sh": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 25,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 2
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~2 g dried).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -1624,63 +1358,35 @@
               "p"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "secondary herb",
-              "secondary herb",
-              "activation/starter"
+              "o",
+              "t",
+              "sh",
+              "sh",
+              "p"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → add starter / activate"
+            "interpretation": "tokens: o t sh sh p"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 1,
-            "heat": 1,
-            "secondary herb": 2,
-            "activation/starter": 1
+            "o": 1,
+            "t": 1,
+            "sh": 2,
+            "p": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 12,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 2,
-          "starter_g": 1,
-          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~2 g dried).",
-          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -1706,15 +1412,15 @@
               "l"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat"
+              "o",
+              "t"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: o t a l → connectors: l → vowel_run: a (level 1; class a)"
           },
           {
             "word": "ypsharal",
@@ -1728,8 +1434,8 @@
               "l"
             ],
             "compounds": [
-              "activation/starter",
-              "secondary herb"
+              "p",
+              "sh"
             ],
             "connectors": [
               "r",
@@ -1737,54 +1443,26 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add secondary herb (safe substitute) → add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: p sh a r a l → connectors: r l → vowel_run: a (level 1; class a)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 1,
-            "heat": 1,
-            "activation/starter": 1,
-            "secondary herb": 1
+            "o": 1,
+            "t": 1,
+            "p": 1,
+            "sh": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 12,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 2,
-          "starter_g": 1,
-          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~2 g dried).",
-          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -1808,12 +1486,12 @@
               "aiin"
             ],
             "compounds": [
-              "activation/starter"
+              "p"
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long phase",
-            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start → long phase"
+            "suffix": "aiin",
+            "interpretation": "tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin"
           },
           {
             "word": "okey",
@@ -1824,13 +1502,13 @@
               "e"
             ],
             "compounds": [
-              "mix/transfer",
-              "sugars"
+              "o",
+              "k"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o k e → vowel_run: e (level 1; class e)"
           },
           {
             "word": "otodal",
@@ -1844,17 +1522,17 @@
               "l"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "mix/transfer",
-              "activation/starter"
+              "o",
+              "t",
+              "o",
+              "p"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: o t o p a l → connectors: l → vowel_run: a (level 1; class a)"
           },
           {
             "word": "cheokeeo",
@@ -1868,15 +1546,15 @@
               "o"
             ],
             "compounds": [
-              "main herb",
-              "mix/transfer",
-              "sugars",
-              "mix/transfer"
+              "ch",
+              "o",
+              "k",
+              "o"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: ch e o k ee o → vowel_run: e (level 1; class e)"
           },
           {
             "word": "okeodal",
@@ -1891,17 +1569,17 @@
               "l"
             ],
             "compounds": [
-              "mix/transfer",
-              "sugars",
-              "mix/transfer",
-              "activation/starter"
+              "o",
+              "k",
+              "o",
+              "p"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → mix / transfer → add starter / activate → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o k e o p a l → connectors: l → vowel_run: e (level 1; class e)"
           },
           {
             "word": "shol",
@@ -1912,15 +1590,15 @@
               "l"
             ],
             "compounds": [
-              "secondary herb",
-              "mix/transfer"
+              "sh",
+              "o"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "add secondary herb (safe substitute) → mix / transfer"
+            "interpretation": "tokens: sh o l → connectors: l"
           },
           {
             "word": "olaiin",
@@ -1931,14 +1609,14 @@
               "aiin"
             ],
             "compounds": [
-              "mix/transfer"
+              "o"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
-            "suffix": "long phase",
-            "interpretation": "mix / transfer → duration level 1 → state: phase transition/start → long phase"
+            "suffix": "aiin",
+            "interpretation": "tokens: o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin"
           },
           {
             "word": "saiin",
@@ -1952,8 +1630,8 @@
               "s"
             ],
             "vowel_run": "a",
-            "suffix": "long phase",
-            "interpretation": "duration level 1 → state: phase transition/start → long phase"
+            "suffix": "aiin",
+            "interpretation": "tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin"
           },
           {
             "word": "sheo",
@@ -1964,13 +1642,13 @@
               "o"
             ],
             "compounds": [
-              "secondary herb",
-              "mix/transfer"
+              "sh",
+              "o"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: sh e o → vowel_run: e (level 1; class e)"
           },
           {
             "word": "qokeeol",
@@ -1983,16 +1661,16 @@
               "l"
             ],
             "compounds": [
-              "liquid base",
-              "sugars",
-              "mix/transfer"
+              "qo",
+              "k",
+              "o"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "ee",
             "suffix": null,
-            "interpretation": "prepare liquid base → add fermentable sugars → mix / transfer → duration level 2 → state: active extraction"
+            "interpretation": "tokens: qo k ee o l → connectors: l → vowel_run: ee (level 2; class e)"
           },
           {
             "word": "otchykey",
@@ -2005,15 +1683,15 @@
               "e"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "main herb",
-              "sugars"
+              "o",
+              "t",
+              "ch",
+              "k"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o t ch k e → vowel_run: e (level 1; class e)"
           },
           {
             "word": "chekeal",
@@ -2027,15 +1705,15 @@
               "l"
             ],
             "compounds": [
-              "main herb",
-              "sugars"
+              "ch",
+              "k"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction"
+            "interpretation": "tokens: ch e k e a l → connectors: l → vowel_run: e (level 1; class e)"
           },
           {
             "word": "oteosaiin",
@@ -2049,16 +1727,16 @@
               "aiin"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "mix/transfer"
+              "o",
+              "t",
+              "o"
             ],
             "connectors": [
               "s"
             ],
             "vowel_run": "e",
-            "suffix": "long phase",
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: active extraction → long phase"
+            "suffix": "aiin",
+            "interpretation": "tokens: o t e o s aiin → connectors: s → vowel_run: e (level 1; class e) → suffix: aiin"
           },
           {
             "word": "chekey",
@@ -2070,13 +1748,13 @@
               "e"
             ],
             "compounds": [
-              "main herb",
-              "sugars"
+              "ch",
+              "k"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction"
+            "interpretation": "tokens: ch e k e → vowel_run: e (level 1; class e)"
           },
           {
             "word": "okeolol",
@@ -2091,10 +1769,10 @@
               "l"
             ],
             "compounds": [
-              "mix/transfer",
-              "sugars",
-              "mix/transfer",
-              "mix/transfer"
+              "o",
+              "k",
+              "o",
+              "o"
             ],
             "connectors": [
               "l",
@@ -2102,7 +1780,7 @@
             ],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o k e o l o l → connectors: l l → vowel_run: e (level 1; class e)"
           },
           {
             "word": "chees",
@@ -2113,14 +1791,14 @@
               "s"
             ],
             "compounds": [
-              "main herb"
+              "ch"
             ],
             "connectors": [
               "s"
             ],
             "vowel_run": "ee",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → duration level 2 → state: active extraction"
+            "interpretation": "tokens: ch ee s → connectors: s → vowel_run: ee (level 2; class e)"
           },
           {
             "word": "o",
@@ -2129,12 +1807,12 @@
               "o"
             ],
             "compounds": [
-              "mix/transfer"
+              "o"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "mix / transfer"
+            "interpretation": "tokens: o"
           },
           {
             "word": "eey",
@@ -2146,7 +1824,7 @@
             "connectors": [],
             "vowel_run": "ee",
             "suffix": null,
-            "interpretation": "duration level 2 → state: active extraction"
+            "interpretation": "tokens: ee → vowel_run: ee (level 2; class e)"
           },
           {
             "word": "opotey",
@@ -2159,15 +1837,15 @@
               "e"
             ],
             "compounds": [
-              "mix/transfer",
-              "activation/starter",
-              "mix/transfer",
-              "heat"
+              "o",
+              "p",
+              "o",
+              "t"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o p o t e → vowel_run: e (level 1; class e)"
           },
           {
             "word": "dal",
@@ -2178,14 +1856,14 @@
               "l"
             ],
             "compounds": [
-              "activation/starter"
+              "p"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: p a l → connectors: l → vowel_run: a (level 1; class a)"
           },
           {
             "word": "al",
@@ -2200,7 +1878,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: a l → connectors: l → vowel_run: a (level 1; class a)"
           },
           {
             "word": "s",
@@ -2214,7 +1892,7 @@
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "[unparsed]"
+            "interpretation": "tokens: s → connectors: s"
           },
           {
             "word": "otecheo",
@@ -2228,15 +1906,15 @@
               "o"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "main herb",
-              "mix/transfer"
+              "o",
+              "t",
+              "ch",
+              "o"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o t e ch e o → vowel_run: e (level 1; class e)"
           },
           {
             "word": "dal",
@@ -2247,64 +1925,36 @@
               "l"
             ],
             "compounds": [
-              "activation/starter"
+              "p"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: p a l → connectors: l → vowel_run: a (level 1; class a)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "activation/starter": 6,
-            "mix/transfer": 22,
-            "sugars": 8,
-            "heat": 5,
-            "main herb": 6,
-            "secondary herb": 2,
-            "liquid base": 1
+            "p": 6,
+            "o": 22,
+            "k": 8,
+            "t": 5,
+            "ch": 6,
+            "sh": 2,
+            "qo": 1
           },
           "dose_level": 2,
-          "phase_duration_estimate": "7–14 days"
+          "phase_marker": "aiin",
+          "duration_estimate": "7–14 days (heuristic long phase)"
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 50,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 10,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 5,
-          "starter_g": 1,
-          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 50 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~10 g dried).",
-          "Add secondary herb: mint (~5 g dried).",
-          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
-          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -2330,58 +1980,33 @@
               "l"
             ],
             "compounds": [
-              "mix/transfer",
-              "sugars",
-              "mix/transfer"
+              "o",
+              "k",
+              "o"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "add fermentable sugars → mix / transfer"
+            "interpretation": "tokens: o k o l → connectors: l"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 2,
-            "sugars": 1
+            "o": 2,
+            "k": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 25,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -2408,57 +2033,32 @@
               "aiin"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat"
+              "o",
+              "t"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
-            "suffix": "long phase",
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start → long phase"
+            "suffix": "aiin",
+            "interpretation": "tokens: o t a l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 1,
-            "heat": 1
+            "o": 1,
+            "t": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "7–14 days"
+          "phase_marker": "aiin",
+          "duration_estimate": "7–14 days (heuristic long phase)"
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 12,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -2484,14 +2084,14 @@
               "o"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "mix/transfer"
+              "o",
+              "t",
+              "o"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o t e o → vowel_run: e (level 1; class e)"
           },
           {
             "word": "alals",
@@ -2511,7 +2111,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: a l a l s → connectors: l l s → vowel_run: a (level 1; class a)"
           },
           {
             "word": "araly",
@@ -2529,49 +2129,24 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: a r a l → connectors: r l → vowel_run: a (level 1; class a)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 2,
-            "heat": 1
+            "o": 2,
+            "t": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 12,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -2598,14 +2173,14 @@
               "ee"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat",
-              "mix/transfer"
+              "o",
+              "t",
+              "o"
             ],
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o t e o ee → vowel_run: e (level 1; class e)"
           },
           {
             "word": "otal",
@@ -2617,15 +2192,15 @@
               "l"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat"
+              "o",
+              "t"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: o t a l → connectors: l → vowel_run: a (level 1; class a)"
           },
           {
             "word": "okealar",
@@ -2640,8 +2215,8 @@
               "r"
             ],
             "compounds": [
-              "mix/transfer",
-              "sugars"
+              "o",
+              "k"
             ],
             "connectors": [
               "l",
@@ -2649,50 +2224,25 @@
             ],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "add fermentable sugars → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o k e a l a r → connectors: l r → vowel_run: e (level 1; class e)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 4,
-            "heat": 2,
-            "sugars": 1
+            "o": 4,
+            "t": 2,
+            "k": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 25,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,
@@ -2719,15 +2269,15 @@
               "r"
             ],
             "compounds": [
-              "mix/transfer",
-              "heat"
+              "o",
+              "t"
             ],
             "connectors": [
               "r"
             ],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: active extraction"
+            "interpretation": "tokens: o t e a r → connectors: r → vowel_run: e (level 1; class e)"
           },
           {
             "word": "araydy",
@@ -2739,60 +2289,32 @@
               "p"
             ],
             "compounds": [
-              "activation/starter"
+              "p"
             ],
             "connectors": [
               "r"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
+            "interpretation": "tokens: a r a p → connectors: r → vowel_run: a (level 1; class a)"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "mix/transfer": 1,
-            "heat": 1,
-            "activation/starter": 1
+            "o": 1,
+            "t": 1,
+            "p": 1
           },
           "dose_level": 1,
-          "phase_duration_estimate": "1–3 days"
+          "phase_marker": null,
+          "duration_estimate": null
         },
-        "ingredients": {
-          "water_l": 0.5,
-          "sugar_or_honey_g": 12,
-          "main_plant_substitute": "chamomile (safe default substitute)",
-          "main_plant_dry_g": 2,
-          "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1,
-          "starter_g": 1,
-          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
-        },
-        "process": [
-          "Sanitize the vessel and utensils (good practice for any wet process).",
-          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
-          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
-          "Add main plant: chamomile (safe default substitute) (~2 g dried).",
-          "Add secondary herb: mint (~1 g dried).",
-          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
-          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
-          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
-          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
-        ],
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": "partial",
-        "risks": [
-          "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-          "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-          "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental procedural model."
-        ],
-        "recommended_adjustments": [
-          "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
-        ],
+        "ingredients": {},
+        "process": [],
+        "expected_result": null,
+        "does_it_make_sense": null,
+        "risks": [],
+        "recommended_adjustments": [],
         "plant_interpretation": {
           "category": "unknown",
           "confidence": 0.0,

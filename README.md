@@ -179,6 +179,8 @@ If you want the markers to have a **domain-tinted sense**, this repo generates a
 
 - `data/domain_sense/<domain>.sense.json` (built by `python scripts/assign_domain_sense.py`)
 
+Note on `daiin`: after normalization `d→p`, `daiin` becomes `paiin` and tokenizes as `p + aiin`. In this repo’s time heuristic, `aiin` is a **long phase marker** (typically treated as multi-day, e.g. ~7–14 days) even though it does not explicitly contain `dy`.
+
 ## Best lexicon-grounded examples (by domain)
 
 Selected because they have a **non-empty English gloss** in the domain lexicon table (WikWik “medieval-ish Italian” proxy + Wiktionary gloss extraction). Still not a translation.
@@ -224,6 +226,148 @@ Selected because they have a **non-empty English gloss** in the domain lexicon t
 | `daiin` | 231 | `piani` | plans (arrangements) | `f70v2` (f70v2.21,@Cc) → `data/recipe_readmes/unknown/f70v2/README.md` |
 | `okain` | 69 | `acino` | a berry | `f89r2` (f89r2.29,@Lc) → `data/recipe_readmes/unknown/f89r2/README.md` |
 | `qokal` | 43 | `calco` | cast (of sculpture) | `f89r2` (f89r2.22,@P0) → `data/recipe_readmes/unknown/f89r2/README.md` |
+
+## Top candidate basewords by domain (first 20)
+
+These are taken directly from `data/domains/<domain>/README.md` (Domain Lexicon table).
+
+### herbal
+| EVA baseword | Count | Italian candidate | English gloss |
+|---|---:|---|---|
+| `daiin` | 461 | `piani` | plans (arrangements) |
+| `okaiin` | 59 | `coniai` | [n/a] |
+| `chaiin` | 39 | `acini` | [n/a] |
+| `saiin` | 37 | `asini` | [n/a] |
+| `qokaiin` | 34 | `ciancio` | [n/a] |
+| `qokar` | 29 | `carco` | [n/a] |
+| `odaiin` | 27 | `inopia` | poverty |
+| `otchol` | 25 | `colto` | cultivated |
+| `kaiin` | 24 | `acini` | [n/a] |
+| `chodaiin` | 24 | `apocini` | [n/a] |
+| `qotol` | 20 | `colto` | cultivated |
+| `okain` | 19 | `acino` | a berry |
+| `qotor` | 18 | `corto` | short |
+| `ykaiin` | 16 | `acini` | [n/a] |
+| `qodaiin` | 15 | `apocini` | [n/a] |
+| `shodaiin` | 15 | `sinopia` | [n/a] |
+| `qotaiin` | 14 | `cationi` | [n/a] |
+| `otchor` | 14 | `corto` | short |
+| `shaiin` | 13 | `asini` | [n/a] |
+| `qokal` | 12 | `calco` | cast (of sculpture) |
+
+### astronomical
+| EVA baseword | Count | Italian candidate | English gloss |
+|---|---:|---|---|
+| `daiin` | 11 | `piani` | plans (arrangements) |
+| `daiir` | 4 | `aprii` | [n/a] |
+| `saiin` | 2 | `asini` | [n/a] |
+| `odaiin` | 2 | `inopia` | poverty |
+| `ydaiin` | 2 | `piani` | plans (arrangements) |
+| `okain` | 1 | `acino` | a berry |
+| `qokeol` | 1 | `eccolo` | [n/a] |
+| `chedar` | 1 | `capre` | [n/a] |
+| `oteos` | 1 | `osteo` | [n/a] |
+| `okees` | 1 | `coese` | [n/a] |
+| `okchor` | 1 | `corco` | [n/a] |
+| `odain` | 1 | `opina` | opine |
+| `chodar` | 1 | `capro` | male goat |
+| `okeos` | 1 | `coeso` | cohesive |
+
+### biological
+| EVA baseword | Count | Italian candidate | English gloss |
+|---|---:|---|---|
+| `qokain` | 158 | `acconi` | [n/a] |
+| `qokal` | 102 | `calco` | cast (of sculpture) |
+| `daiin` | 81 | `piani` | plans (arrangements) |
+| `qokaiin` | 81 | `ciancio` | [n/a] |
+| `qokar` | 45 | `carco` | [n/a] |
+| `okain` | 40 | `acino` | a berry |
+| `okaiin` | 31 | `coniai` | [n/a] |
+| `saiin` | 30 | `asini` | [n/a] |
+| `olkain` | 26 | `alcino` | smart, clever, intelligent, bright |
+| `qotal` | 25 | `colta` | [n/a] |
+| `otain` | 23 | `anito` | [n/a] |
+| `qotain` | 20 | `antico` | ancient |
+| `qotar` | 16 | `corta` | [n/a] |
+| `qotaiin` | 13 | `cationi` | [n/a] |
+| `kaiin` | 7 | `acini` | [n/a] |
+| `qotol` | 7 | `colto` | cultivated |
+| `olkaiin` | 7 | `caolini` | [n/a] |
+| `olaiin` | 6 | `ialino` | hyaline, glassy |
+| `olkar` | 6 | `carlo` | [n/a] |
+| `qokaly` | 6 | `calco` | cast (of sculpture) |
+
+### cosmological
+| EVA baseword | Count | Italian candidate | English gloss |
+|---|---:|---|---|
+| `daiin` | 28 | `piani` | plans (arrangements) |
+| `qokal` | 13 | `calco` | cast (of sculpture) |
+| `odaiin` | 8 | `inopia` | poverty |
+| `okees` | 7 | `coese` | [n/a] |
+| `opaiin` | 6 | `inopia` | poverty |
+| `ykaiin` | 5 | `acini` | [n/a] |
+| `qodaiin` | 5 | `apocini` | [n/a] |
+| `oteos` | 5 | `osteo` | [n/a] |
+| `olkar` | 5 | `carlo` | [n/a] |
+| `okaiin` | 4 | `coniai` | [n/a] |
+| `qotaiin` | 4 | `cationi` | [n/a] |
+| `qokaiin` | 3 | `ciancio` | [n/a] |
+| `qokar` | 3 | `carco` | [n/a] |
+| `olaiin` | 3 | `ialino` | hyaline, glassy |
+| `oraiin` | 3 | `aironi` | [n/a] |
+| `olkaiin` | 3 | `caolini` | [n/a] |
+| `otair` | 3 | `atrio` | entrance hall, lobby (of a hotel etc.) |
+| `shodaiin` | 3 | `sinopia` | [n/a] |
+| `otain` | 2 | `anito` | [n/a] |
+| `kaiin` | 2 | `acini` | [n/a] |
+
+### text_only
+| EVA baseword | Count | Italian candidate | English gloss |
+|---|---:|---|---|
+| `daiin` | 40 | `piani` | plans (arrangements) |
+| `qokar` | 31 | `carco` | [n/a] |
+| `qokaiin` | 25 | `ciancio` | [n/a] |
+| `qokal` | 23 | `calco` | cast (of sculpture) |
+| `ykaiin` | 15 | `acini` | [n/a] |
+| `okaiin` | 12 | `coniai` | [n/a] |
+| `qokain` | 10 | `acconi` | [n/a] |
+| `okain` | 10 | `acino` | a berry |
+| `saiin` | 10 | `asini` | [n/a] |
+| `kaiin` | 9 | `acini` | [n/a] |
+| `odaiin` | 9 | `inopia` | poverty |
+| `qotaiin` | 8 | `cationi` | [n/a] |
+| `qotar` | 8 | `corta` | [n/a] |
+| `qotal` | 8 | `colta` | [n/a] |
+| `otain` | 7 | `anito` | [n/a] |
+| `qokaly` | 7 | `calco` | cast (of sculpture) |
+| `qotain` | 6 | `antico` | ancient |
+| `qokair` | 6 | `accori` | [n/a] |
+| `olkar` | 6 | `carlo` | [n/a] |
+| `olaiin` | 5 | `ialino` | hyaline, glassy |
+
+### unknown
+| EVA baseword | Count | Italian candidate | English gloss |
+|---|---:|---|---|
+| `daiin` | 231 | `piani` | plans (arrangements) |
+| `qokaiin` | 122 | `ciancio` | [n/a] |
+| `okaiin` | 109 | `coniai` | [n/a] |
+| `qokain` | 101 | `acconi` | [n/a] |
+| `okain` | 69 | `acino` | a berry |
+| `otain` | 53 | `anito` | [n/a] |
+| `qokar` | 48 | `carco` | [n/a] |
+| `saiin` | 46 | `asini` | [n/a] |
+| `qokal` | 43 | `calco` | cast (of sculpture) |
+| `qotaiin` | 40 | `cationi` | [n/a] |
+| `lkaiin` | 39 | `ancili` | [n/a] |
+| `kaiin` | 37 | `acini` | [n/a] |
+| `qokeol` | 37 | `eccolo` | [n/a] |
+| `qotain` | 34 | `antico` | ancient |
+| `qotar` | 29 | `corta` | [n/a] |
+| `olaiin` | 29 | `ialino` | hyaline, glassy |
+| `lkain` | 28 | `lanci` | [n/a] |
+| `chedar` | 25 | `capre` | [n/a] |
+| `odaiin` | 24 | `inopia` | poverty |
+| `otair` | 21 | `atrio` | entrance hall, lobby (of a hotel etc.) |
 
 ## 3. Model Assumptions (procedural interpretation)
 

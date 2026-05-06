@@ -70,6 +70,6 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: otaim dam alam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- otaim: apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start
-- dam: add starter / activate → duration level 1 → state: phase transition/start
-- alam: duration level 1 → state: phase transition/start
+- otaim: tokens: o t a i m → connectors: m → vowel_run: a (level 1; class a)
+- dam: tokens: p a m → connectors: m → vowel_run: a (level 1; class a)
+- alam: tokens: a l a m → connectors: l m → vowel_run: a (level 1; class a)

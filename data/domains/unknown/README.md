@@ -8,7 +8,7 @@
 ## Summary stats
 - folios: 52
 - EVA word tokens (approx): 15392
-- top procedural compounds: [('mix/transfer', 8017), ('activation/starter', 5345), ('sugars', 4266), ('main herb', 4180), ('heat', 2353), ('liquid base', 2139), ('secondary herb', 1476), ('complex herbal compound', 589)]
+- top procedural compounds: [('o', 8017), ('p', 5345), ('k', 4266), ('ch', 4180), ('t', 2353), ('qo', 2139), ('sh', 1476), ('ckh', 323)]
 
 ## Domain Lexicon (Medieval-ish Italian proxy; heuristic)
 This section defines **domain-associated basewords** using a pragmatic proxy: anagram candidates from a large Wiktionary-derived Italian wordlist (WikWik).

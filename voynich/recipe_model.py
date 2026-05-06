@@ -12,21 +12,22 @@ DISCLAIMER_EN = (
 )
 
 
-# Gramática (alineada con lo que diste + ampliada para tokens comunes en IVTFF)
+# Grammar: tokenization + structural gloss only (no semantic translation claims).
 COMPOUNDS = {
-    "qo": "liquid base",
-    "q": "general base",
-    "o": "mix/transfer",
-    "k": "sugars",
-    "t": "heat",
-    "p": "activation/starter",
-    "ch": "main herb",
-    "sh": "secondary herb",
-    "f": "aroma modifier",
-    "cth": "complex herbal compound",
-    "ckh": "complex herbal compound",
-    "cph": "complex herbal compound",
-    "cfh": "complex herbal compound",
+    # These are treated as structural markers, not words with validated meaning.
+    "qo": "qo",
+    "q": "q",
+    "o": "o",
+    "k": "k",
+    "t": "t",
+    "p": "p",
+    "ch": "ch",
+    "sh": "sh",
+    "f": "f",
+    "cth": "cth",
+    "ckh": "ckh",
+    "cph": "cph",
+    "cfh": "cfh",
 }
 
 CONNECTORS = {"l", "r", "n", "s", "m"}
@@ -37,9 +38,10 @@ SUFFIX_TOKENS = {"dy", "iin", "aiin"}
 FILLER_TOKENS = {"v", "x", "c", "g", "j"}
 
 STATE_MAP = {
-    "e": "active extraction",
-    "i": "cooling/rest",
-    "a": "phase transition/start",
+    # Structural state classes (labels only)
+    "e": "class e",
+    "i": "class i",
+    "a": "class a",
 }
 
 
@@ -70,11 +72,11 @@ def extract_vowel_run(word: str) -> str | None:
 
 def extract_suffix(word: str) -> str | None:
     if "aiin" in word:
-        return "long phase"
+        return "aiin"
     if "iin" in word:
-        return "medium phase"
+        return "iin"
     if "dy" in word:
-        return "days"
+        return "dy"
     return None
 
 
@@ -152,51 +154,24 @@ def interpret_word(word: str) -> WordInterpretation:
     vowel = extract_vowel_run(normalized)
     suffix = extract_suffix(normalized)
 
+    # Structural gloss only: show decomposition + state/suffix flags.
     steps: list[str] = []
-    if "liquid base" in compounds:
-        steps.append("prepare liquid base")
-    if "general base" in compounds and "liquid base" not in compounds:
-        steps.append("prepare base (generic)")
-    if "sugars" in compounds:
-        steps.append("add fermentable sugars")
-    if "heat" in compounds:
-        steps.append("apply heat/cooking")
-    if "main herb" in compounds:
-        steps.append("add main plant (safe substitute)")
-    if "secondary herb" in compounds:
-        steps.append("add secondary herb (safe substitute)")
-    if "aroma modifier" in compounds:
-        steps.append("add aroma modifier")
-    if "mix/transfer" in compounds:
-        steps.append("mix / transfer")
-    if "activation/starter" in compounds:
-        steps.append("add starter / activate")
-    if "complex herbal compound" in compounds:
-        steps.append("add complex herbal compound (safe blend)")
-
+    if tokens:
+        steps.append("tokens: " + " ".join(tokens))
+    if connectors:
+        steps.append("connectors: " + " ".join(connectors))
     if vowel:
         duration = len(vowel)
         state = STATE_MAP.get(vowel[0], "unknown")
-        if suffix == "days":
-            steps.append(f"{duration} day(s)")
-        else:
-            steps.append(f"duration level {duration}")
-        steps.append(f"state: {state}")
-
-    if suffix == "long phase":
-        steps.append("long phase")
-    elif suffix == "medium phase":
-        steps.append("medium phase")
-
-    # If the word contains unmodeled tokens, surface that fact (without assigning meaning).
+        steps.append(f"vowel_run: {vowel} (level {duration}; {state})")
+    if suffix:
+        steps.append(f"suffix: {suffix}")
     if unknown_tokens:
-        # Show up to 6 distinct tokens for readability
         uniq = []
         for t in unknown_tokens:
             if t not in uniq:
                 uniq.append(t)
-        preview = ", ".join(uniq[:6])
-        steps.append(f"unmodeled token(s) present: {preview}")
+        steps.append("unmodeled_tokens: " + " ".join(uniq[:12]))
 
     return WordInterpretation(
         word=word,
@@ -246,90 +221,20 @@ def generate_recipe(eva_text: str, plant_category_guess: str = "unknown", batch_
     c = Counter(compounds_all)
     level = _dose_level(interpreted)
 
-    # Base doses (default 2L batch). Keep conservative.
-    if batch_l <= 0:
-        batch_l = 2.0
-    scale = batch_l / 2.0
-    water_l = float(batch_l)
-
-    sugar_g = (100 * level) * scale
-    if c.get("sugars", 0) == 0:
-        # If no explicit sugars marker, keep low sugar so it stays more "infusion-like"
-        sugar_g = (50 * level) * scale
-
-    main_dry_g = (20 * level if c.get("main herb", 0) else 10 * level) * scale
-    secondary_dry_g = (10 * level if c.get("secondary herb", 0) else 5 * level) * scale
-    starter_g = {1: 2, 2: 3, 3: 4}[level] if c.get("activation/starter", 0) else 0
-    starter_g = starter_g * scale
-
-    has_heat = c.get("heat", 0) > 0
-    has_aroma = c.get("aroma modifier", 0) > 0
-    has_complex = c.get("complex herbal compound", 0) > 0
-
-    # Phase time (generic)
+    # Phase/intensity summary (structural only)
     norm_all = " ".join(w.normalized for w in interpreted)
+    phase = None
+    duration_est = None
     if "aiin" in norm_all:
-        phase_days = "7–14 days"
+        phase = "aiin"
+        duration_est = "7–14 days (heuristic long phase)"
     elif "iin" in norm_all:
-        phase_days = "3–5 days"
-    else:
-        phase_days = "1–3 days"
-
-    subs = _substitutes_for_category(plant_category_guess)
-
-    ingredients = {
-        "water_l": water_l,
-        "sugar_or_honey_g": int(sugar_g),
-        "main_plant_substitute": subs["main"],
-        "main_plant_dry_g": int(main_dry_g),
-        "secondary_herb_substitute": subs["secondary"],
-        "secondary_herb_dry_g": int(secondary_dry_g),
-    }
-    if starter_g > 0:
-        ingredients["starter_g"] = max(1, int(round(starter_g)))
-        ingredients["starter_note"] = "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
-    if has_aroma:
-        ingredients["aroma_modifier"] = subs["aroma"]
-        ingredients["aroma_modifier_dose"] = "2–5 g (or 1 strip of peel, avoiding the bitter pith)"
-    if has_complex:
-        ingredients["safe_complex_herbal_blend"] = "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
-
-    process: list[str] = []
-    process.append("Sanitize the vessel and utensils (good practice for any wet process).")
-    process.append(f"Base: combine {water_l} L water with {int(sugar_g)} g sugar or honey (or reduce/omit if you want a non-sweet infusion).")
-    if has_heat:
-        process.append("Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.")
-    else:
-        process.append("Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.")
-    process.append(f"Add main plant: {subs['main']} (~{int(main_dry_g)} g dried).")
-    process.append(f"Add secondary herb: {subs['secondary']} (~{int(secondary_dry_g)} g dried).")
-    if has_aroma:
-        process.append("Add aroma modifier (optional) in a low dose.")
-    if has_complex:
-        process.append("If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.")
-    if starter_g > 0:
-        process.append(f"Add starter: {ingredients['starter_g']} g (generic activation step; exact culture depends on your chosen domain interpretation).")
-    process.append(f"Hold for the indicated phase: {phase_days} (guided by dy/iin/aiin cues).")
-    process.append("Strain/filter if needed, then rest cold 12–24 h for clarity (optional).")
-    process.append("Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable.")
-
-    does_make_sense = "yes"
-    if plant_category_guess == "unknown":
-        does_make_sense = "partial"
-
-    risks = [
-        "Never use unidentified Voynich plants directly; only use known edible substitutes.",
-        "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-        "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
-        "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-        "No medical claims: this is an experimental procedural model.",
-    ]
-
-    adjustments = [
-        "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-        "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
-        "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract.",
-    ]
+        phase = "iin"
+        duration_est = "3–5 days (heuristic medium phase)"
+    elif "dy" in norm_all:
+        phase = "dy"
+        # If dy appears anywhere, interpret the max vowel-run level as an explicit day-count cue.
+        duration_est = f"{level} day(s) (from max vowel-run level + dy)"
 
     return {
         "disclaimer": DISCLAIMER_EN,
@@ -350,12 +255,13 @@ def generate_recipe(eva_text: str, plant_category_guess: str = "unknown", batch_
         "procedural_summary": {
             "compound_counts": dict(Counter(compounds_all)),
             "dose_level": level,
-            "phase_duration_estimate": phase_days,
+            "phase_marker": phase,
+            "duration_estimate": duration_est,
         },
-        "ingredients": ingredients,
-        "process": process,
-        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
-        "does_it_make_sense": does_make_sense,
-        "risks": risks,
-        "recommended_adjustments": adjustments,
+        "ingredients": {},
+        "process": [],
+        "expected_result": None,
+        "does_it_make_sense": None,
+        "risks": [],
+        "recommended_adjustments": [],
     }

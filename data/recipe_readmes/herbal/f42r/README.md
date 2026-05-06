@@ -115,13 +115,13 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: c@155;ho ofaiin cthaihc@196;hy otcheey pchear
 
 Direct Gloss (Procedural, Not a Real Translation):
-- c: [unparsed]
-- ho: mix / transfer → unmodeled token(s) present: h
-- ofaiin: add aroma modifier → mix / transfer → duration level 1 → state: phase transition/start → long phase
-- cthaihc: add complex herbal compound (safe blend) → duration level 1 → state: phase transition/start → unmodeled token(s) present: h
-- hy: unmodeled token(s) present: h
-- otcheey: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
-- pchear: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- c: tokens: c
+- ho: tokens: h o → unmodeled_tokens: h
+- ofaiin: tokens: o f aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- cthaihc: tokens: cth a i h c → vowel_run: a (level 1; class a) → unmodeled_tokens: h
+- hy: tokens: h → unmodeled_tokens: h
+- otcheey: tokens: o t ch ee → vowel_run: ee (level 2; class e)
+- pchear: tokens: p ch e a r → connectors: r → vowel_run: e (level 1; class e)
 
 <a id="f42r-2-f42r-2-p0"></a>
 
@@ -130,13 +130,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: solkaiin char cheky otshaiin daiir[y:a]
 
 Direct Gloss (Procedural, Not a Real Translation):
-- solkaiin: add fermentable sugars → mix / transfer → duration level 1 → state: phase transition/start → long phase
-- char: add main plant (safe substitute) → duration level 1 → state: phase transition/start
-- cheky: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction
-- otshaiin: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start → long phase
-- daiir: add starter / activate → duration level 1 → state: phase transition/start
+- solkaiin: tokens: s o l k aiin → connectors: s l → vowel_run: a (level 1; class a) → suffix: aiin
+- char: tokens: ch a r → connectors: r → vowel_run: a (level 1; class a)
+- cheky: tokens: ch e k → vowel_run: e (level 1; class e)
+- otshaiin: tokens: o t sh aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a)
 - y: [unparsed]
-- a: duration level 1 → state: phase transition/start
+- a: tokens: a → vowel_run: a (level 1; class a)
 
 <a id="f42r-3-f42r-3-p0"></a>
 
@@ -145,11 +145,11 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: toshy chtshar chotar chain dal
 
 Direct Gloss (Procedural, Not a Real Translation):
-- toshy: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer
-- chtshar: apply heat/cooking → add main plant (safe substitute) → add secondary herb (safe substitute) → duration level 1 → state: phase transition/start
-- chotar: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start
-- chain: add main plant (safe substitute) → duration level 1 → state: phase transition/start
-- dal: add starter / activate → duration level 1 → state: phase transition/start
+- toshy: tokens: t o sh
+- chtshar: tokens: ch t sh a r → connectors: r → vowel_run: a (level 1; class a)
+- chotar: tokens: ch o t a r → connectors: r → vowel_run: a (level 1; class a)
+- chain: tokens: ch a i n → connectors: n → vowel_run: a (level 1; class a)
+- dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a)
 
 <a id="f42r-4-f42r-4-p0"></a>
 
@@ -158,13 +158,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: shor chetar chotai[s:r] dar cthaiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- shor: add secondary herb (safe substitute) → mix / transfer
-- chetar: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
-- chotai: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start
-- s: [unparsed]
-- r: [unparsed]
-- dar: add starter / activate → duration level 1 → state: phase transition/start
-- cthaiin: add complex herbal compound (safe blend) → duration level 1 → state: phase transition/start → long phase
+- shor: tokens: sh o r → connectors: r
+- chetar: tokens: ch e t a r → connectors: r → vowel_run: e (level 1; class e)
+- chotai: tokens: ch o t a i → vowel_run: a (level 1; class a)
+- s: tokens: s → connectors: s
+- r: tokens: r → connectors: r
+- dar: tokens: p a r → connectors: r → vowel_run: a (level 1; class a)
+- cthaiin: tokens: cth aiin → vowel_run: a (level 1; class a) → suffix: aiin
 
 <a id="f42r-5-f42r-5-p0"></a>
 
@@ -173,11 +173,11 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qokar chockhy chotor chy kary
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qokar: prepare liquid base → add fermentable sugars → duration level 1 → state: phase transition/start
-- chockhy: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
-- chotor: apply heat/cooking → add main plant (safe substitute) → mix / transfer
-- chy: add main plant (safe substitute)
-- kary: add fermentable sugars → duration level 1 → state: phase transition/start
+- qokar: tokens: qo k a r → connectors: r → vowel_run: a (level 1; class a)
+- chockhy: tokens: ch o ckh
+- chotor: tokens: ch o t o r → connectors: r
+- chy: tokens: ch
+- kary: tokens: k a r → connectors: r → vowel_run: a (level 1; class a)
 
 <a id="f42r-6-f42r-6-pc"></a>
 
@@ -186,10 +186,10 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: dorain [ih:ch]ar
 
 Direct Gloss (Procedural, Not a Real Translation):
-- dorain: mix / transfer → add starter / activate → duration level 1 → state: phase transition/start
-- ih: duration level 1 → state: cooling/rest → unmodeled token(s) present: h
-- ch: add main plant (safe substitute)
-- ar: duration level 1 → state: phase transition/start
+- dorain: tokens: p o r a i n → connectors: r n → vowel_run: a (level 1; class a)
+- ih: tokens: i h → vowel_run: i (level 1; class i) → unmodeled_tokens: h
+- ch: tokens: ch
+- ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
 
 <a id="f42r-7-f42r-7-p0"></a>
 
@@ -198,12 +198,12 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: pcho chy kshaiin shotaiin cham shan
 
 Direct Gloss (Procedural, Not a Real Translation):
-- pcho: add main plant (safe substitute) → mix / transfer → add starter / activate
-- chy: add main plant (safe substitute)
-- kshaiin: add fermentable sugars → add secondary herb (safe substitute) → duration level 1 → state: phase transition/start → long phase
-- shotaiin: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start → long phase
-- cham: add main plant (safe substitute) → duration level 1 → state: phase transition/start
-- shan: add secondary herb (safe substitute) → duration level 1 → state: phase transition/start
+- pcho: tokens: p ch o
+- chy: tokens: ch
+- kshaiin: tokens: k sh aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- shotaiin: tokens: sh o t aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- cham: tokens: ch a m → connectors: m → vowel_run: a (level 1; class a)
+- shan: tokens: sh a n → connectors: n → vowel_run: a (level 1; class a)
 
 <a id="f42r-8-f42r-8-p0"></a>
 
@@ -212,13 +212,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: yshol chees cthol shor shol ety char y
 
 Direct Gloss (Procedural, Not a Real Translation):
-- yshol: add secondary herb (safe substitute) → mix / transfer
-- chees: add main plant (safe substitute) → duration level 2 → state: active extraction
-- cthol: mix / transfer → add complex herbal compound (safe blend)
-- shor: add secondary herb (safe substitute) → mix / transfer
-- shol: add secondary herb (safe substitute) → mix / transfer
-- ety: apply heat/cooking → duration level 1 → state: active extraction
-- char: add main plant (safe substitute) → duration level 1 → state: phase transition/start
+- yshol: tokens: sh o l → connectors: l
+- chees: tokens: ch ee s → connectors: s → vowel_run: ee (level 2; class e)
+- cthol: tokens: cth o l → connectors: l
+- shor: tokens: sh o r → connectors: r
+- shol: tokens: sh o l → connectors: l
+- ety: tokens: e t → vowel_run: e (level 1; class e)
+- char: tokens: ch a r → connectors: r → vowel_run: a (level 1; class a)
 - y: [unparsed]
 
 <a id="f42r-9-f42r-9-p0"></a>
@@ -228,14 +228,14 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qotch[a:o]r otchol ctho kchodan chkchory
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qotch: prepare liquid base → apply heat/cooking → add main plant (safe substitute)
-- a: duration level 1 → state: phase transition/start
-- o: mix / transfer
-- r: [unparsed]
-- otchol: apply heat/cooking → add main plant (safe substitute) → mix / transfer
-- ctho: mix / transfer → add complex herbal compound (safe blend)
-- kchodan: add fermentable sugars → add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: phase transition/start
-- chkchory: add fermentable sugars → add main plant (safe substitute) → mix / transfer
+- qotch: tokens: qo t ch
+- a: tokens: a → vowel_run: a (level 1; class a)
+- o: tokens: o
+- r: tokens: r → connectors: r
+- otchol: tokens: o t ch o l → connectors: l
+- ctho: tokens: cth o
+- kchodan: tokens: k ch o p a n → connectors: n → vowel_run: a (level 1; class a)
+- chkchory: tokens: ch k ch o r → connectors: r
 
 <a id="f42r-10-f42r-10-p0"></a>
 
@@ -244,15 +244,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: choty dol ksheo cthor otol cthol chol shol dain
 
 Direct Gloss (Procedural, Not a Real Translation):
-- choty: apply heat/cooking → add main plant (safe substitute) → mix / transfer
-- dol: mix / transfer → add starter / activate
-- ksheo: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- cthor: mix / transfer → add complex herbal compound (safe blend)
-- otol: apply heat/cooking → mix / transfer
-- cthol: mix / transfer → add complex herbal compound (safe blend)
-- chol: add main plant (safe substitute) → mix / transfer
-- shol: add secondary herb (safe substitute) → mix / transfer
-- dain: add starter / activate → duration level 1 → state: phase transition/start
+- choty: tokens: ch o t
+- dol: tokens: p o l → connectors: l
+- ksheo: tokens: k sh e o → vowel_run: e (level 1; class e)
+- cthor: tokens: cth o r → connectors: r
+- otol: tokens: o t o l → connectors: l
+- cthol: tokens: cth o l → connectors: l
+- chol: tokens: ch o l → connectors: l
+- shol: tokens: sh o l → connectors: l
+- dain: tokens: p a i n → connectors: n → vowel_run: a (level 1; class a)
 
 <a id="f42r-11-f42r-11-p0"></a>
 
@@ -261,15 +261,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qotor cho chody daiin shol ctheey dar chy daiidy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qotor: prepare liquid base → apply heat/cooking → mix / transfer
-- cho: add main plant (safe substitute) → mix / transfer
-- chody: add main plant (safe substitute) → mix / transfer → add starter / activate
-- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
-- shol: add secondary herb (safe substitute) → mix / transfer
-- ctheey: add complex herbal compound (safe blend) → duration level 2 → state: active extraction
-- dar: add starter / activate → duration level 1 → state: phase transition/start
-- chy: add main plant (safe substitute)
-- daiidy: add starter / activate → duration level 1 → state: phase transition/start
+- qotor: tokens: qo t o r → connectors: r
+- cho: tokens: ch o
+- chody: tokens: ch o p
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- shol: tokens: sh o l → connectors: l
+- ctheey: tokens: cth ee → vowel_run: ee (level 2; class e)
+- dar: tokens: p a r → connectors: r → vowel_run: a (level 1; class a)
+- chy: tokens: ch
+- daiidy: tokens: p a ii p → vowel_run: a (level 1; class a)
 
 <a id="f42r-12-f42r-12-p0"></a>
 
@@ -278,14 +278,14 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: dcheey chol shol chokaiin choeky dcky dain dal
 
 Direct Gloss (Procedural, Not a Real Translation):
-- dcheey: add main plant (safe substitute) → add starter / activate → duration level 2 → state: active extraction
-- chol: add main plant (safe substitute) → mix / transfer
-- shol: add secondary herb (safe substitute) → mix / transfer
-- chokaiin: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start → long phase
-- choeky: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- dcky: add fermentable sugars → add starter / activate
-- dain: add starter / activate → duration level 1 → state: phase transition/start
-- dal: add starter / activate → duration level 1 → state: phase transition/start
+- dcheey: tokens: p ch ee → vowel_run: ee (level 2; class e)
+- chol: tokens: ch o l → connectors: l
+- shol: tokens: sh o l → connectors: l
+- chokaiin: tokens: ch o k aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- choeky: tokens: ch o e k → vowel_run: e (level 1; class e)
+- dcky: tokens: p c k
+- dain: tokens: p a i n → connectors: n → vowel_run: a (level 1; class a)
+- dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a)
 
 <a id="f42r-13-f42r-13-p0"></a>
 
@@ -294,15 +294,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qopor shol shot shol shol daiin dain s cheam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qopor: prepare liquid base → mix / transfer → add starter / activate
-- shol: add secondary herb (safe substitute) → mix / transfer
-- shot: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer
-- shol: add secondary herb (safe substitute) → mix / transfer
-- shol: add secondary herb (safe substitute) → mix / transfer
-- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
-- dain: add starter / activate → duration level 1 → state: phase transition/start
-- s: [unparsed]
-- cheam: add main plant (safe substitute) → duration level 1 → state: active extraction
+- qopor: tokens: qo p o r → connectors: r
+- shol: tokens: sh o l → connectors: l
+- shot: tokens: sh o t
+- shol: tokens: sh o l → connectors: l
+- shol: tokens: sh o l → connectors: l
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- dain: tokens: p a i n → connectors: n → vowel_run: a (level 1; class a)
+- s: tokens: s → connectors: s
+- cheam: tokens: ch e a m → connectors: m → vowel_run: e (level 1; class e)
 
 <a id="f42r-14-f42r-14-p0"></a>
 
@@ -311,13 +311,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: sho kshey choty chdain chodaiin daiin dam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- sho: add secondary herb (safe substitute) → mix / transfer
-- kshey: add fermentable sugars → add secondary herb (safe substitute) → duration level 1 → state: active extraction
-- choty: apply heat/cooking → add main plant (safe substitute) → mix / transfer
-- chdain: add main plant (safe substitute) → add starter / activate → duration level 1 → state: phase transition/start
-- chodaiin: add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: phase transition/start → long phase
-- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
-- dam: add starter / activate → duration level 1 → state: phase transition/start
+- sho: tokens: sh o
+- kshey: tokens: k sh e → vowel_run: e (level 1; class e)
+- choty: tokens: ch o t
+- chdain: tokens: ch p a i n → connectors: n → vowel_run: a (level 1; class a)
+- chodaiin: tokens: ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- dam: tokens: p a m → connectors: m → vowel_run: a (level 1; class a)
 
 <a id="f42r-15-f42r-15-pr"></a>
 
@@ -326,9 +326,9 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: pchody otshey dodaiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- pchody: add main plant (safe substitute) → mix / transfer → add starter / activate
-- otshey: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- dodaiin: mix / transfer → add starter / activate → duration level 1 → state: phase transition/start → long phase
+- pchody: tokens: p ch o p
+- otshey: tokens: o t sh e → vowel_run: e (level 1; class e)
+- dodaiin: tokens: p o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
 
 <a id="f42r-16-f42r-16-p0"></a>
 
@@ -337,12 +337,12 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: pydaiin sheor shaiin tsh olchy sholy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- pydaiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
-- sheor: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- shaiin: add secondary herb (safe substitute) → duration level 1 → state: phase transition/start → long phase
-- tsh: apply heat/cooking → add secondary herb (safe substitute)
-- olchy: add main plant (safe substitute) → mix / transfer
-- sholy: add secondary herb (safe substitute) → mix / transfer
+- pydaiin: tokens: p p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- sheor: tokens: sh e o r → connectors: r → vowel_run: e (level 1; class e)
+- shaiin: tokens: sh aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- tsh: tokens: t sh
+- olchy: tokens: o l ch → connectors: l
+- sholy: tokens: sh o l → connectors: l
 
 <a id="f42r-17-f42r-17-p0"></a>
 
@@ -351,12 +351,12 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: shotol shol chety daiin chokchy chkaiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- shotol: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer
-- shol: add secondary herb (safe substitute) → mix / transfer
-- chety: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
-- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
-- chokchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer
-- chkaiin: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: phase transition/start → long phase
+- shotol: tokens: sh o t o l → connectors: l
+- shol: tokens: sh o l → connectors: l
+- chety: tokens: ch e t → vowel_run: e (level 1; class e)
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chokchy: tokens: ch o k ch
+- chkaiin: tokens: ch k aiin → vowel_run: a (level 1; class a) → suffix: aiin
 
 <a id="f42r-18-f42r-18-p0"></a>
 
@@ -365,12 +365,12 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qody cthochy otaiin shy kshes chorain
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qody: prepare liquid base → add starter / activate
-- cthochy: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
-- otaiin: apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start → long phase
-- shy: add secondary herb (safe substitute)
-- kshes: add fermentable sugars → add secondary herb (safe substitute) → duration level 1 → state: active extraction
-- chorain: add main plant (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start
+- qody: tokens: qo p
+- cthochy: tokens: cth o ch
+- otaiin: tokens: o t aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- shy: tokens: sh
+- kshes: tokens: k sh e s → connectors: s → vowel_run: e (level 1; class e)
+- chorain: tokens: ch o r a i n → connectors: r n → vowel_run: a (level 1; class a)
 
 <a id="f42r-19-f42r-19-p0"></a>
 
@@ -379,15 +379,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: otchoty daiin chot sho ck@191;hy cty s os
 
 Direct Gloss (Procedural, Not a Real Translation):
-- otchoty: apply heat/cooking → add main plant (safe substitute) → mix / transfer
-- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
-- chot: apply heat/cooking → add main plant (safe substitute) → mix / transfer
-- sho: add secondary herb (safe substitute) → mix / transfer
-- ck: add fermentable sugars
-- hy: unmodeled token(s) present: h
-- cty: apply heat/cooking
-- s: [unparsed]
-- os: mix / transfer
+- otchoty: tokens: o t ch o t
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chot: tokens: ch o t
+- sho: tokens: sh o
+- ck: tokens: c k
+- hy: tokens: h → unmodeled_tokens: h
+- cty: tokens: c t
+- s: tokens: s → connectors: s
+- os: tokens: o s → connectors: s
 
 <a id="f42r-20-f42r-20-p0"></a>
 
@@ -396,14 +396,14 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: shol chol shoky okol sho chol shol chal
 
 Direct Gloss (Procedural, Not a Real Translation):
-- shol: add secondary herb (safe substitute) → mix / transfer
-- chol: add main plant (safe substitute) → mix / transfer
-- shoky: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer
-- okol: add fermentable sugars → mix / transfer
-- sho: add secondary herb (safe substitute) → mix / transfer
-- chol: add main plant (safe substitute) → mix / transfer
-- shol: add secondary herb (safe substitute) → mix / transfer
-- chal: add main plant (safe substitute) → duration level 1 → state: phase transition/start
+- shol: tokens: sh o l → connectors: l
+- chol: tokens: ch o l → connectors: l
+- shoky: tokens: sh o k
+- okol: tokens: o k o l → connectors: l
+- sho: tokens: sh o
+- chol: tokens: ch o l → connectors: l
+- shol: tokens: sh o l → connectors: l
+- chal: tokens: ch a l → connectors: l → vowel_run: a (level 1; class a)
 
 <a id="f42r-21-f42r-21-p0"></a>
 
@@ -412,14 +412,14 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: shol chol chol shol ctoiin c'os odan
 
 Direct Gloss (Procedural, Not a Real Translation):
-- shol: add secondary herb (safe substitute) → mix / transfer
-- chol: add main plant (safe substitute) → mix / transfer
-- chol: add main plant (safe substitute) → mix / transfer
-- shol: add secondary herb (safe substitute) → mix / transfer
-- ctoiin: apply heat/cooking → mix / transfer → duration level 2 → state: cooling/rest → medium phase
-- c: [unparsed]
-- os: mix / transfer
-- odan: mix / transfer → add starter / activate → duration level 1 → state: phase transition/start
+- shol: tokens: sh o l → connectors: l
+- chol: tokens: ch o l → connectors: l
+- chol: tokens: ch o l → connectors: l
+- shol: tokens: sh o l → connectors: l
+- ctoiin: tokens: c t o iin → vowel_run: ii (level 2; class i) → suffix: iin
+- c: tokens: c
+- os: tokens: o s → connectors: s
+- odan: tokens: o p a n → connectors: n → vowel_run: a (level 1; class a)
 
 <a id="f42r-22-f42r-22-p0"></a>
 
@@ -428,12 +428,12 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: kchaiin chos ckhaiin choro r chaiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- kchaiin: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: phase transition/start → long phase
-- chos: add main plant (safe substitute) → mix / transfer
-- ckhaiin: add complex herbal compound (safe blend) → duration level 1 → state: phase transition/start → long phase
-- choro: add main plant (safe substitute) → mix / transfer
-- r: [unparsed]
-- chaiin: add main plant (safe substitute) → duration level 1 → state: phase transition/start → long phase
+- kchaiin: tokens: k ch aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chos: tokens: ch o s → connectors: s
+- ckhaiin: tokens: ckh aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- choro: tokens: ch o r o → connectors: r
+- r: tokens: r → connectors: r
+- chaiin: tokens: ch aiin → vowel_run: a (level 1; class a) → suffix: aiin
 
 <a id="f42r-23-f42r-23-pr"></a>
 
@@ -442,6 +442,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: okchol shol kolschees
 
 Direct Gloss (Procedural, Not a Real Translation):
-- okchol: add fermentable sugars → add main plant (safe substitute) → mix / transfer
-- shol: add secondary herb (safe substitute) → mix / transfer
-- kolschees: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
+- okchol: tokens: o k ch o l → connectors: l
+- shol: tokens: sh o l → connectors: l
+- kolschees: tokens: k o l s ch ee s → connectors: l s s → vowel_run: ee (level 2; class e)

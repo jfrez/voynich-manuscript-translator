@@ -102,14 +102,14 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: teeody shcthey psheody shocthy ykeody shdy shot ytchy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- teeody: apply heat/cooking → mix / transfer → add starter / activate → duration level 2 → state: active extraction
-- shcthey: add secondary herb (safe substitute) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
-- psheody: add secondary herb (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
-- shocthy: add secondary herb (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
-- ykeody: add fermentable sugars → mix / transfer → add starter / activate → duration level 1 → state: active extraction
-- shdy: add secondary herb (safe substitute) → add starter / activate
-- shot: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer
-- ytchy: apply heat/cooking → add main plant (safe substitute)
+- teeody: tokens: t ee o p → vowel_run: ee (level 2; class e)
+- shcthey: tokens: sh cth e → vowel_run: e (level 1; class e)
+- psheody: tokens: p sh e o p → vowel_run: e (level 1; class e)
+- shocthy: tokens: sh o cth
+- ykeody: tokens: k e o p → vowel_run: e (level 1; class e)
+- shdy: tokens: sh p
+- shot: tokens: sh o t
+- ytchy: tokens: t ch
 
 <a id="f68v2-2-f68v2-2-p0"></a>
 
@@ -118,15 +118,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: dchaiin shey dcheedy qokeey shckeey dal dy sheetey daldy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- dchaiin: add main plant (safe substitute) → add starter / activate → duration level 1 → state: phase transition/start → long phase
-- shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
-- dcheedy: add main plant (safe substitute) → add starter / activate → duration level 2 → state: active extraction
-- qokeey: prepare liquid base → add fermentable sugars → duration level 2 → state: active extraction
-- shckeey: add fermentable sugars → add secondary herb (safe substitute) → duration level 2 → state: active extraction
-- dal: add starter / activate → duration level 1 → state: phase transition/start
-- dy: add starter / activate
-- sheetey: apply heat/cooking → add secondary herb (safe substitute) → duration level 2 → state: active extraction
-- daldy: add starter / activate → duration level 1 → state: phase transition/start
+- dchaiin: tokens: p ch aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- shey: tokens: sh e → vowel_run: e (level 1; class e)
+- dcheedy: tokens: p ch ee p → vowel_run: ee (level 2; class e)
+- qokeey: tokens: qo k ee → vowel_run: ee (level 2; class e)
+- shckeey: tokens: sh c k ee → vowel_run: ee (level 2; class e)
+- dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a)
+- dy: tokens: p
+- sheetey: tokens: sh ee t e → vowel_run: ee (level 2; class e)
+- daldy: tokens: p a l p → connectors: l → vowel_run: a (level 1; class a)
 
 <a id="f68v2-3-f68v2-3-p0"></a>
 
@@ -135,15 +135,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qoeeey shekeey shkeey s alchey cthy shteody qoteeody dam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qoeeey: prepare liquid base → duration level 3 → state: active extraction
-- shekeey: add fermentable sugars → add secondary herb (safe substitute) → duration level 1 → state: active extraction
-- shkeey: add fermentable sugars → add secondary herb (safe substitute) → duration level 2 → state: active extraction
-- s: [unparsed]
-- alchey: add main plant (safe substitute) → duration level 1 → state: phase transition/start
-- cthy: add complex herbal compound (safe blend)
-- shteody: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
-- qoteeody: prepare liquid base → apply heat/cooking → mix / transfer → add starter / activate → duration level 2 → state: active extraction
-- dam: add starter / activate → duration level 1 → state: phase transition/start
+- qoeeey: tokens: qo eee → vowel_run: eee (level 3; class e)
+- shekeey: tokens: sh e k ee → vowel_run: e (level 1; class e)
+- shkeey: tokens: sh k ee → vowel_run: ee (level 2; class e)
+- s: tokens: s → connectors: s
+- alchey: tokens: a l ch e → connectors: l → vowel_run: a (level 1; class a)
+- cthy: tokens: cth
+- shteody: tokens: sh t e o p → vowel_run: e (level 1; class e)
+- qoteeody: tokens: qo t ee o p → vowel_run: ee (level 2; class e)
+- dam: tokens: p a m → connectors: m → vowel_run: a (level 1; class a)
 
 <a id="f68v2-4-f68v2-4-p0"></a>
 
@@ -152,15 +152,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: okeey sheoy keol ycheety okeody shey qokey chol chekody
 
 Direct Gloss (Procedural, Not a Real Translation):
-- okeey: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
-- sheoy: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- keol: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
-- ycheety: apply heat/cooking → add main plant (safe substitute) → duration level 2 → state: active extraction
-- okeody: add fermentable sugars → mix / transfer → add starter / activate → duration level 1 → state: active extraction
-- shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
-- qokey: prepare liquid base → add fermentable sugars → duration level 1 → state: active extraction
-- chol: add main plant (safe substitute) → mix / transfer
-- chekody: add fermentable sugars → add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- okeey: tokens: o k ee → vowel_run: ee (level 2; class e)
+- sheoy: tokens: sh e o → vowel_run: e (level 1; class e)
+- keol: tokens: k e o l → connectors: l → vowel_run: e (level 1; class e)
+- ycheety: tokens: ch ee t → vowel_run: ee (level 2; class e)
+- okeody: tokens: o k e o p → vowel_run: e (level 1; class e)
+- shey: tokens: sh e → vowel_run: e (level 1; class e)
+- qokey: tokens: qo k e → vowel_run: e (level 1; class e)
+- chol: tokens: ch o l → connectors: l
+- chekody: tokens: ch e k o p → vowel_run: e (level 1; class e)
 
 <a id="f68v2-5-f68v2-5-p0"></a>
 
@@ -169,15 +169,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: scheos seekey okey chody okeos cheo sal ar oallchdm
 
 Direct Gloss (Procedural, Not a Real Translation):
-- scheos: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- seekey: add fermentable sugars → duration level 2 → state: active extraction
-- okey: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
-- chody: add main plant (safe substitute) → mix / transfer → add starter / activate
-- okeos: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
-- cheo: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- sal: duration level 1 → state: phase transition/start
-- ar: duration level 1 → state: phase transition/start
-- oallchdm: add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: phase transition/start
+- scheos: tokens: s ch e o s → connectors: s s → vowel_run: e (level 1; class e)
+- seekey: tokens: s ee k e → connectors: s → vowel_run: ee (level 2; class e)
+- okey: tokens: o k e → vowel_run: e (level 1; class e)
+- chody: tokens: ch o p
+- okeos: tokens: o k e o s → connectors: s → vowel_run: e (level 1; class e)
+- cheo: tokens: ch e o → vowel_run: e (level 1; class e)
+- sal: tokens: s a l → connectors: s l → vowel_run: a (level 1; class a)
+- ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
+- oallchdm: tokens: o a l l ch p m → connectors: l l m → vowel_run: a (level 1; class a)
 
 <a id="f68v2-6-f68v2-6-cc"></a>
 
@@ -186,53 +186,53 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: okeadaiin ykeeody shsdy shyokeey dalches oko[s:r] cheky otees oteydy okechoy yteody chetedy cheda[d:m]y [@150;:ch]eectheey otychdy oteey cpheeo dy otey [ch:ee]key daiin chey da[iir:iis] oteeys sar o[ckhee:ckeee]y dor chy okchy qokeechy dal chy chokeeey sary
 
 Direct Gloss (Procedural, Not a Real Translation):
-- okeadaiin: add fermentable sugars → mix / transfer → add starter / activate → duration level 1 → state: active extraction → long phase
-- ykeeody: add fermentable sugars → mix / transfer → add starter / activate → duration level 2 → state: active extraction
-- shsdy: add secondary herb (safe substitute) → add starter / activate
-- shyokeey: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer → duration level 2 → state: active extraction
-- dalches: add main plant (safe substitute) → add starter / activate → duration level 1 → state: phase transition/start
-- oko: add fermentable sugars → mix / transfer
-- s: [unparsed]
-- r: [unparsed]
-- cheky: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction
-- otees: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
-- oteydy: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
-- okechoy: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- yteody: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
-- chetedy: apply heat/cooking → add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
-- cheda: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
-- d: add starter / activate
-- m: [unparsed]
+- okeadaiin: tokens: o k e a p aiin → vowel_run: e (level 1; class e) → suffix: aiin
+- ykeeody: tokens: k ee o p → vowel_run: ee (level 2; class e)
+- shsdy: tokens: sh s p → connectors: s
+- shyokeey: tokens: sh o k ee → vowel_run: ee (level 2; class e)
+- dalches: tokens: p a l ch e s → connectors: l s → vowel_run: a (level 1; class a)
+- oko: tokens: o k o
+- s: tokens: s → connectors: s
+- r: tokens: r → connectors: r
+- cheky: tokens: ch e k → vowel_run: e (level 1; class e)
+- otees: tokens: o t ee s → connectors: s → vowel_run: ee (level 2; class e)
+- oteydy: tokens: o t e p → vowel_run: e (level 1; class e)
+- okechoy: tokens: o k e ch o → vowel_run: e (level 1; class e)
+- yteody: tokens: t e o p → vowel_run: e (level 1; class e)
+- chetedy: tokens: ch e t e p → vowel_run: e (level 1; class e)
+- cheda: tokens: ch e p a → vowel_run: e (level 1; class e)
+- d: tokens: p
+- m: tokens: m → connectors: m
 - y: [unparsed]
-- ch: add main plant (safe substitute)
-- eectheey: add complex herbal compound (safe blend) → duration level 2 → state: active extraction
-- otychdy: apply heat/cooking → add main plant (safe substitute) → mix / transfer → add starter / activate
-- oteey: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
-- cpheeo: mix / transfer → add complex herbal compound (safe blend) → duration level 2 → state: active extraction
-- dy: add starter / activate
-- otey: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
-- ch: add main plant (safe substitute)
-- ee: duration level 2 → state: active extraction
-- key: add fermentable sugars → duration level 1 → state: active extraction
-- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
-- chey: add main plant (safe substitute) → duration level 1 → state: active extraction
-- da: add starter / activate → duration level 1 → state: phase transition/start
-- iir: duration level 2 → state: cooling/rest
-- iis: duration level 2 → state: cooling/rest
-- oteeys: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
-- sar: duration level 1 → state: phase transition/start
-- o: mix / transfer
-- ckhee: add complex herbal compound (safe blend) → duration level 2 → state: active extraction
-- ckeee: add fermentable sugars → duration level 3 → state: active extraction
+- ch: tokens: ch
+- eectheey: tokens: ee cth ee → vowel_run: ee (level 2; class e)
+- otychdy: tokens: o t ch p
+- oteey: tokens: o t ee → vowel_run: ee (level 2; class e)
+- cpheeo: tokens: cph ee o → vowel_run: ee (level 2; class e)
+- dy: tokens: p
+- otey: tokens: o t e → vowel_run: e (level 1; class e)
+- ch: tokens: ch
+- ee: tokens: ee → vowel_run: ee (level 2; class e)
+- key: tokens: k e → vowel_run: e (level 1; class e)
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chey: tokens: ch e → vowel_run: e (level 1; class e)
+- da: tokens: p a → vowel_run: a (level 1; class a)
+- iir: tokens: ii r → connectors: r → vowel_run: ii (level 2; class i)
+- iis: tokens: ii s → connectors: s → vowel_run: ii (level 2; class i)
+- oteeys: tokens: o t ee s → connectors: s → vowel_run: ee (level 2; class e)
+- sar: tokens: s a r → connectors: s r → vowel_run: a (level 1; class a)
+- o: tokens: o
+- ckhee: tokens: ckh ee → vowel_run: ee (level 2; class e)
+- ckeee: tokens: c k eee → vowel_run: eee (level 3; class e)
 - y: [unparsed]
-- dor: mix / transfer → add starter / activate
-- chy: add main plant (safe substitute)
-- okchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer
-- qokeechy: prepare liquid base → add fermentable sugars → add main plant (safe substitute) → duration level 2 → state: active extraction
-- dal: add starter / activate → duration level 1 → state: phase transition/start
-- chy: add main plant (safe substitute)
-- chokeeey: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 3 → state: active extraction
-- sary: duration level 1 → state: phase transition/start
+- dor: tokens: p o r → connectors: r
+- chy: tokens: ch
+- okchy: tokens: o k ch
+- qokeechy: tokens: qo k ee ch → vowel_run: ee (level 2; class e)
+- dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a)
+- chy: tokens: ch
+- chokeeey: tokens: ch o k eee → vowel_run: eee (level 3; class e)
+- sary: tokens: s a r → connectors: s r → vowel_run: a (level 1; class a)
 
 <a id="f68v2-7-f68v2-7-ro"></a>
 
@@ -241,8 +241,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: otey dalar
 
 Direct Gloss (Procedural, Not a Real Translation):
-- otey: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
-- dalar: add starter / activate → duration level 1 → state: phase transition/start
+- otey: tokens: o t e → vowel_run: e (level 1; class e)
+- dalar: tokens: p a l a r → connectors: l r → vowel_run: a (level 1; class a)
 
 <a id="f68v2-8-f68v2-8-ro"></a>
 
@@ -251,8 +251,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: otosey sary
 
 Direct Gloss (Procedural, Not a Real Translation):
-- otosey: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
-- sary: duration level 1 → state: phase transition/start
+- otosey: tokens: o t o s e → connectors: s → vowel_run: e (level 1; class e)
+- sary: tokens: s a r → connectors: s r → vowel_run: a (level 1; class a)
 
 <a id="f68v2-9-f68v2-9-ro"></a>
 
@@ -261,9 +261,9 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: yshesas ar shy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- yshesas: add secondary herb (safe substitute) → duration level 1 → state: active extraction
-- ar: duration level 1 → state: phase transition/start
-- shy: add secondary herb (safe substitute)
+- yshesas: tokens: sh e s a s → connectors: s s → vowel_run: e (level 1; class e)
+- ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
+- shy: tokens: sh
 
 <a id="f68v2-10-f68v2-10-ro"></a>
 
@@ -272,8 +272,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: socths chety
 
 Direct Gloss (Procedural, Not a Real Translation):
-- socths: mix / transfer → add complex herbal compound (safe blend)
-- chety: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
+- socths: tokens: s o cth s → connectors: s s
+- chety: tokens: ch e t → vowel_run: e (level 1; class e)
 
 <a id="f68v2-11-f68v2-11-ro"></a>
 
@@ -282,8 +282,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: oteoys orasaly
 
 Direct Gloss (Procedural, Not a Real Translation):
-- oteoys: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
-- orasaly: mix / transfer → duration level 1 → state: phase transition/start
+- oteoys: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e)
+- orasaly: tokens: o r a s a l → connectors: r s l → vowel_run: a (level 1; class a)
 
 <a id="f68v2-12-f68v2-12-ro"></a>
 
@@ -292,8 +292,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: yteody chetey
 
 Direct Gloss (Procedural, Not a Real Translation):
-- yteody: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
-- chetey: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
+- yteody: tokens: t e o p → vowel_run: e (level 1; class e)
+- chetey: tokens: ch e t e → vowel_run: e (level 1; class e)
 
 <a id="f68v2-13-f68v2-13-ro"></a>
 
@@ -302,8 +302,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: oteeos alamchy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- oteeos: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
-- alamchy: add main plant (safe substitute) → duration level 1 → state: phase transition/start
+- oteeos: tokens: o t ee o s → connectors: s → vowel_run: ee (level 2; class e)
+- alamchy: tokens: a l a m ch → connectors: l m → vowel_run: a (level 1; class a)
 
 <a id="f68v2-14-f68v2-14-ro"></a>
 
@@ -312,8 +312,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: otchdy chetal
 
 Direct Gloss (Procedural, Not a Real Translation):
-- otchdy: apply heat/cooking → add main plant (safe substitute) → mix / transfer → add starter / activate
-- chetal: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
+- otchdy: tokens: o t ch p
+- chetal: tokens: ch e t a l → connectors: l → vowel_run: e (level 1; class e)
 
 <a id="f68v2-15-f68v2-15-ro"></a>
 
@@ -322,8 +322,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: adairchdy aiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- adairchdy: add main plant (safe substitute) → add starter / activate → duration level 1 → state: phase transition/start
-- aiin: duration level 1 → state: phase transition/start → long phase
+- adairchdy: tokens: a p a i r ch p → connectors: r → vowel_run: a (level 1; class a)
+- aiin: tokens: aiin → vowel_run: a (level 1; class a) → suffix: aiin
 
 <a id="f68v2-16-f68v2-16-ro"></a>
 
@@ -332,8 +332,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: dchedal daiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- dchedal: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
-- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
+- dchedal: tokens: p ch e p a l → connectors: l → vowel_run: e (level 1; class e)
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
 
 <a id="f68v2-17-f68v2-17-ro"></a>
 
@@ -342,8 +342,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: ykeeepol ypchy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- ykeeepol: add fermentable sugars → mix / transfer → add starter / activate → duration level 3 → state: active extraction
-- ypchy: add main plant (safe substitute) → add starter / activate
+- ykeeepol: tokens: k eee p o l → connectors: l → vowel_run: eee (level 3; class e)
+- ypchy: tokens: p ch
 
 <a id="f68v2-18-f68v2-18-ro"></a>
 
@@ -352,5 +352,5 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: choteey dary
 
 Direct Gloss (Procedural, Not a Real Translation):
-- choteey: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 2 → state: active extraction
-- dary: add starter / activate → duration level 1 → state: phase transition/start
+- choteey: tokens: ch o t ee → vowel_run: ee (level 2; class e)
+- dary: tokens: p a r → connectors: r → vowel_run: a (level 1; class a)

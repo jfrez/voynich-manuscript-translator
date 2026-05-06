@@ -69,5 +69,5 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: oror sheey
 
 Direct Gloss (Procedural, Not a Real Translation):
-- oror: mix / transfer
-- sheey: add secondary herb (safe substitute) → duration level 2 → state: active extraction
+- oror: tokens: o r o r → connectors: r r
+- sheey: tokens: sh ee → vowel_run: ee (level 2; class e)
