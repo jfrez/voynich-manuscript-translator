@@ -154,6 +154,46 @@ python scripts/italianized_anagrams.py
 python scripts/classify_anagram_candidates.py
 ```
 
+## Example “translations” by domain (procedural gloss)
+
+The tables below show what this repository means by “process words”: each EVA token is treated as a compact instruction-like unit (markers + phase/state + optional day/phase suffixes). This is a **procedural gloss**, not a validated translation.
+
+### Herbal (botanical)
+
+| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
+|---|---|---|
+| `f1v` (`data/recipe_readmes/herbal/f1v/README.md`) | `kchsy chydaiin ol o l tchey char cfhar am` | `kchsy`→add solutes; `chydaiin`→main material + activation + long phase; `ol/o`→mix/transfer; `tchey`→heat + main material + extraction… |
+
+### Astronomical / Astrological
+
+| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
+|---|---|---|
+| `f67r1` (`data/recipe_readmes/astronomical/f67r1/README.md`) | `teeodaiin shey epairody osaiin yteeoey…` | `teeodaiin`→heat + mix + activation + long phase; `shey`→secondary material + extraction; `epairody`→mix + activation + days… |
+
+### Biological
+
+| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
+|---|---|---|
+| `f75r` (`data/recipe_readmes/biological/f75r/README.md`) | `kchedykary okeey qokar shyk chedy…` | `kchedykary`→solutes + main material + activation; `okeey`→solutes + mix + extraction; `qokar`→base + solutes + phase-start… |
+
+### Cosmological
+
+| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
+|---|---|---|
+| `f57v` (`data/recipe_readmes/cosmological/f57v/README.md`) | `dairal` | `dairal`→activation + phase-start (single compact token) |
+
+### Text-only (“recipes” pages)
+
+| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
+|---|---|---|
+| `f1r` (`data/recipe_readmes/text_only/f1r/README.md`) | `fachys ykal ar ataiin shol shory…` | `fachys`→main material + aroma + phase-start; `ykal`→solutes + phase-start; `ataiin`→heat + long phase; `shol/shory`→secondary material + mix… |
+
+### Unknown / other
+
+| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
+|---|---|---|
+| `f70v2` (`data/recipe_readmes/unknown/f70v2/README.md`) | `okcheo dar otey ykeey tchy…` | `okcheo`→solutes + main material + mix + extraction; `dar`→activation + phase-start; `otey`→heat + mix + extraction… |
+
 ## 3. Model Assumptions (procedural interpretation)
 
 Given the structural grammar above, we make additional interpretive assumptions to convert EVA sequences into procedural instructions:
