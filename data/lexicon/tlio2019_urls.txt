@@ -1,0 +1,30 @@
+# TLIO 2019 PDF volumes (open access) as linked from https://iris.cnr.it/handle/20.500.14243/390952
+# NOTE: Some volumes may return 403 depending on the host; the downloader will skip failures.
+https://iris.cnr.it/retrieve/bb026738-ad98-4550-baa9-c23f1f6f89cc/prod_437185-doc_156640.pdf
+https://iris.cnr.it/retrieve/cb41afb6-74a1-4f9c-9bea-a5b28ad55918/prod_437185-doc_156642.pdf
+https://iris.cnr.it/retrieve/64c35e1d-5bd4-4118-8f4b-fe6e94a986e9/prod_437185-doc_156643.pdf
+https://iris.cnr.it/retrieve/615eb4f5-1acc-4187-9bd5-178327497738/prod_437185-doc_156644.pdf
+https://iris.cnr.it/retrieve/5d37b766-986f-40a3-8b60-d0de8652ea32/prod_437185-doc_156646.pdf
+https://iris.cnr.it/retrieve/f4db2094-0a75-4afb-99a8-e2c98525c5b7/prod_437185-doc_156645.pdf
+# volume 7 (156647) may be 403 from some clients:
+https://iris.cnr.it/retrieve/9e6b8f2a-9d59-42e0-b6ab-468a18581d45/prod_437185-doc_156647.pdf
+https://iris.cnr.it/retrieve/16c9d696-99fb-4880-853d-e07f99bf25ff/prod_437185-doc_156648.pdf
+https://iris.cnr.it/retrieve/f82d587d-0c7e-4808-b8a5-588e2794b246/prod_437185-doc_156649.pdf
+# volume 10 (156650) may be 403 from some clients:
+https://iris.cnr.it/retrieve/c74b9b20-a45e-44d0-9d85-0fe02a6a6d0e/prod_437185-doc_156650.pdf
+https://iris.cnr.it/retrieve/376c66a5-a7e6-4e59-8bd7-b5ecbb43cd8d/prod_437185-doc_156651.pdf
+https://iris.cnr.it/retrieve/a7269b53-eaf2-4e2c-a89c-f35fd45b5dfa/prod_437185-doc_156652.pdf
+https://iris.cnr.it/retrieve/f5968dcd-d64f-4e83-bfc9-41b253dd62aa/prod_437185-doc_156653.pdf
+https://iris.cnr.it/retrieve/c6ce5698-fded-4404-9eb0-01b557d5aa58/prod_437185-doc_156654.pdf
+https://iris.cnr.it/retrieve/fb1d8273-70e0-4cbb-9bfb-1d5e76e9b9d0/prod_437185-doc_156655.pdf
+https://iris.cnr.it/retrieve/3305f8f5-6a8f-4d1b-8033-6fa7c267f658/prod_437185-doc_156656.pdf
+https://iris.cnr.it/retrieve/bfc0fee6-1a52-4cfc-8288-21b010bc9451/prod_437185-doc_156657.pdf
+https://iris.cnr.it/retrieve/3c2a79b3-ce59-4fce-87c6-e4955fa60265/prod_437185-doc_156658.pdf
+https://iris.cnr.it/retrieve/77c9c137-bd6d-41d4-8c93-d1bf3183ae8e/prod_437185-doc_156659.pdf
+https://iris.cnr.it/retrieve/d8b6639f-21f1-49cd-89b2-493b0ad8380b/prod_437185-doc_156660.pdf
+https://iris.cnr.it/retrieve/06b379b6-dee2-4445-87c2-bc95b8ad63e9/prod_437185-doc_156661.pdf
+https://iris.cnr.it/retrieve/602f8466-fc7a-4d34-9595-341742ee65c6/prod_437185-doc_156662.pdf
+https://iris.cnr.it/retrieve/35be24ee-bff4-4449-a800-b1d7e9409ff1/prod_437185-doc_156663.pdf
+https://iris.cnr.it/retrieve/4dc5910a-f9f6-4615-b546-4a5be89641f7/prod_437185-doc_156666.pdf
+https://iris.cnr.it/retrieve/9a888d5d-7256-4a2e-a047-4c0ea73db8d2/prod_437185-doc_156667.pdf
+https://iris.cnr.it/retrieve/818ac519-34ef-4d98-ba42-ee03945d52de/prod_437185-doc_156668.pdf

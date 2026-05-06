@@ -1,0 +1,368 @@
+{
+  "folio": "f99r",
+  "equiv_ou": true,
+  "wordlists": [
+    "data/lexicon/italian_words.txt"
+  ],
+  "italian_word_count": 60404,
+  "claimed_mapping": {
+    "description": "Minimal EVA->AVA rules: k->tl, ain->m, others identity; then anagram match against Italian wordlist.",
+    "total_words": 197,
+    "matched_words": 42,
+    "match_rate": 0.2131979695431472
+  },
+  "baseline_random_mapping": {
+    "permutations": 200,
+    "seed": 1,
+    "mean_match_rate": 0.06870558375634518,
+    "p_value_ge_claimed": 0.009950248756218905
+  },
+  "sample_matches": [
+    {
+      "locus": "f99r.2,@Lf",
+      "eva": "okar",
+      "mapped": "otlar",
+      "candidates": [
+        "altro",
+        "latro"
+      ]
+    },
+    {
+      "locus": "f99r.2,@Lf",
+      "eva": "y",
+      "mapped": "y",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "locus": "f99r.5,@Lf",
+      "eva": "salo",
+      "mapped": "salo",
+      "candidates": [
+        "salo",
+        "sola"
+      ]
+    },
+    {
+      "locus": "f99r.6,@Lf",
+      "eva": "aro",
+      "mapped": "aro",
+      "candidates": [
+        "aro",
+        "ora"
+      ]
+    },
+    {
+      "locus": "f99r.7,+Lf",
+      "eva": "ain",
+      "mapped": "m",
+      "candidates": [
+        "m"
+      ]
+    },
+    {
+      "locus": "f99r.8,@Lf",
+      "eva": "okor",
+      "mapped": "otlor",
+      "candidates": [
+        "rotol"
+      ]
+    },
+    {
+      "locus": "f99r.9,@Lf",
+      "eva": "ralol",
+      "mapped": "ralol",
+      "candidates": [
+        "rulla"
+      ]
+    },
+    {
+      "locus": "f99r.13,@Lf",
+      "eva": "otalam",
+      "mapped": "otalam",
+      "candidates": [
+        "malato"
+      ]
+    },
+    {
+      "locus": "f99r.15,@P0",
+      "eva": "daiin",
+      "mapped": "daiin",
+      "candidates": [
+        "daini"
+      ]
+    },
+    {
+      "locus": "f99r.15,@P0",
+      "eva": "dal",
+      "mapped": "dal",
+      "candidates": [
+        "dal"
+      ]
+    },
+    {
+      "locus": "f99r.16,+P0",
+      "eva": "s",
+      "mapped": "s",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "locus": "f99r.17,+P0",
+      "eva": "al",
+      "mapped": "al",
+      "candidates": [
+        "al",
+        "la"
+      ]
+    },
+    {
+      "locus": "f99r.17,+P0",
+      "eva": "oraiin",
+      "mapped": "oraiin",
+      "candidates": [
+        "ironia",
+        "unirai"
+      ]
+    },
+    {
+      "locus": "f99r.18,+P0",
+      "eva": "daiin",
+      "mapped": "daiin",
+      "candidates": [
+        "daini"
+      ]
+    },
+    {
+      "locus": "f99r.18,+P0",
+      "eva": "daiin",
+      "mapped": "daiin",
+      "candidates": [
+        "daini"
+      ]
+    },
+    {
+      "locus": "f99r.19,@Lc",
+      "eva": "oparal",
+      "mapped": "oparal",
+      "candidates": [
+        "parola"
+      ]
+    },
+    {
+      "locus": "f99r.22,@Lf",
+      "eva": "r",
+      "mapped": "r",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "locus": "f99r.28,@P0",
+      "eva": "kodaiin",
+      "mapped": "tlodaiin",
+      "candidates": [
+        "dilatino"
+      ]
+    },
+    {
+      "locus": "f99r.28,@P0",
+      "eva": "dar",
+      "mapped": "dar",
+      "candidates": [
+        "dar"
+      ]
+    },
+    {
+      "locus": "f99r.31,+P0",
+      "eva": "chees",
+      "mapped": "chees",
+      "candidates": [
+        "esche"
+      ]
+    },
+    {
+      "locus": "f99r.31,+P0",
+      "eva": "daiin",
+      "mapped": "daiin",
+      "candidates": [
+        "daini"
+      ]
+    },
+    {
+      "locus": "f99r.35,@Lf",
+      "eva": "dar",
+      "mapped": "dar",
+      "candidates": [
+        "dar"
+      ]
+    },
+    {
+      "locus": "f99r.36,@Lf",
+      "eva": "a",
+      "mapped": "a",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "locus": "f99r.36,@Lf",
+      "eva": "y",
+      "mapped": "y",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "locus": "f99r.37,@Lf",
+      "eva": "r",
+      "mapped": "r",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "locus": "f99r.42,+P0",
+      "eva": "sol",
+      "mapped": "sol",
+      "candidates": [
+        "sul"
+      ]
+    },
+    {
+      "locus": "f99r.42,+P0",
+      "eva": "daiin",
+      "mapped": "daiin",
+      "candidates": [
+        "daini"
+      ]
+    },
+    {
+      "locus": "f99r.43,+P0",
+      "eva": "daiin",
+      "mapped": "daiin",
+      "candidates": [
+        "daini"
+      ]
+    },
+    {
+      "locus": "f99r.43,+P0",
+      "eva": "dor",
+      "mapped": "dor",
+      "candidates": [
+        "ord"
+      ]
+    },
+    {
+      "locus": "f99r.43,+P0",
+      "eva": "s",
+      "mapped": "s",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "locus": "f99r.43,+P0",
+      "eva": "ols",
+      "mapped": "ols",
+      "candidates": [
+        "sul"
+      ]
+    },
+    {
+      "locus": "f99r.44,+P0",
+      "eva": "oiin",
+      "mapped": "oiin",
+      "candidates": [
+        "unii"
+      ]
+    },
+    {
+      "locus": "f99r.44,+P0",
+      "eva": "air",
+      "mapped": "air",
+      "candidates": [
+        "ari",
+        "ira"
+      ]
+    },
+    {
+      "locus": "f99r.44,+P0",
+      "eva": "oeksa",
+      "mapped": "oetlsa",
+      "candidates": [
+        "esalto",
+        "esulta",
+        "salute",
+        "setola"
+      ]
+    },
+    {
+      "locus": "f99r.48,+P0",
+      "eva": "r",
+      "mapped": "r",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "locus": "f99r.48,+P0",
+      "eva": "orar",
+      "mapped": "orar",
+      "candidates": [
+        "raro"
+      ]
+    },
+    {
+      "locus": "f99r.49,+P0",
+      "eva": "daiin",
+      "mapped": "daiin",
+      "candidates": [
+        "daini"
+      ]
+    },
+    {
+      "locus": "f99r.49,+P0",
+      "eva": "s",
+      "mapped": "s",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "locus": "f99r.50,+P0",
+      "eva": "al",
+      "mapped": "al",
+      "candidates": [
+        "al",
+        "la"
+      ]
+    },
+    {
+      "locus": "f99r.51,+P0",
+      "eva": "daiin",
+      "mapped": "daiin",
+      "candidates": [
+        "daini"
+      ]
+    },
+    {
+      "locus": "f99r.51,+P0",
+      "eva": "okor",
+      "mapped": "otlor",
+      "candidates": [
+        "rotol"
+      ]
+    },
+    {
+      "locus": "f99r.52,+P0",
+      "eva": "ols",
+      "mapped": "ols",
+      "candidates": [
+        "sul"
+      ]
+    }
+  ]
+}

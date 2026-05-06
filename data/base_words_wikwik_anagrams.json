@@ -1,0 +1,174 @@
+{
+  "min_dominance": 0.7,
+  "rows": [
+    {
+      "baseword": "qol",
+      "total": 143,
+      "top_section": "biological",
+      "top_section_count": 104,
+      "dominance": 0.7273,
+      "italianized": "col",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "shor",
+      "total": 94,
+      "top_section": "herbal",
+      "top_section_count": 67,
+      "dominance": 0.7128,
+      "italianized": "sor",
+      "anagram_candidates": [
+        "ros"
+      ]
+    },
+    {
+      "baseword": "cthol",
+      "total": 56,
+      "top_section": "herbal",
+      "top_section_count": 46,
+      "dominance": 0.8214,
+      "italianized": "col",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "qokeol",
+      "total": 50,
+      "top_section": "unknown",
+      "top_section_count": 37,
+      "dominance": 0.74,
+      "italianized": "coceol",
+      "anagram_candidates": [
+        "eccolo"
+      ]
+    },
+    {
+      "baseword": "chaiin",
+      "total": 48,
+      "top_section": "herbal",
+      "top_section_count": 39,
+      "dominance": 0.8125,
+      "italianized": "caiin",
+      "anagram_candidates": [
+        "acini",
+        "caini"
+      ]
+    },
+    {
+      "baseword": "lkaiin",
+      "total": 48,
+      "top_section": "unknown",
+      "top_section_count": 39,
+      "dominance": 0.8125,
+      "italianized": "lcaiin",
+      "anagram_candidates": [
+        "ancili",
+        "canili",
+        "lincia"
+      ]
+    },
+    {
+      "baseword": "lkeey",
+      "total": 39,
+      "top_section": "unknown",
+      "top_section_count": 34,
+      "dominance": 0.8718,
+      "italianized": "lcee",
+      "anagram_candidates": [
+        "elce"
+      ]
+    },
+    {
+      "baseword": "chedar",
+      "total": 34,
+      "top_section": "unknown",
+      "top_section_count": 25,
+      "dominance": 0.7353,
+      "italianized": "cepar",
+      "anagram_candidates": [
+        "capre",
+        "carpe",
+        "crepa"
+      ]
+    },
+    {
+      "baseword": "olkain",
+      "total": 34,
+      "top_section": "biological",
+      "top_section_count": 26,
+      "dominance": 0.7647,
+      "italianized": "olcain",
+      "anagram_candidates": [
+        "alcino",
+        "alnico",
+        "calino",
+        "clonai",
+        "colina",
+        "lancio",
+        "nicola"
+      ]
+    },
+    {
+      "baseword": "lkain",
+      "total": 34,
+      "top_section": "unknown",
+      "top_section_count": 28,
+      "dominance": 0.8235,
+      "italianized": "lcain",
+      "anagram_candidates": [
+        "lanci"
+      ]
+    },
+    {
+      "baseword": "otchol",
+      "total": 30,
+      "top_section": "herbal",
+      "top_section_count": 25,
+      "dominance": 0.8333,
+      "italianized": "otcol",
+      "anagram_candidates": [
+        "colto"
+      ]
+    },
+    {
+      "baseword": "otair",
+      "total": 26,
+      "top_section": "unknown",
+      "top_section_count": 21,
+      "dominance": 0.8077,
+      "italianized": "otair",
+      "anagram_candidates": [
+        "atrio",
+        "irato",
+        "ratio",
+        "troia"
+      ]
+    },
+    {
+      "baseword": "ckhol",
+      "total": 21,
+      "top_section": "herbal",
+      "top_section_count": 15,
+      "dominance": 0.7143,
+      "italianized": "col",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "rain",
+      "total": 21,
+      "top_section": "unknown",
+      "top_section_count": 15,
+      "dominance": 0.7143,
+      "italianized": "rain",
+      "anagram_candidates": [
+        "iran",
+        "rina"
+      ]
+    }
+  ]
+}
