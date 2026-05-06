@@ -30,6 +30,11 @@ COMPOUNDS = {
 }
 
 CONNECTORS = {"l", "r", "n", "s", "m"}
+STATE_TOKENS = {"e", "ee", "eee", "i", "ii", "iii", "a"}
+SUFFIX_TOKENS = {"dy", "iin", "aiin"}
+# Extra single-letter tokens observed in IVTFF that we deliberately treat as
+# "filler" (no meaning assigned) so coverage can be audited without inventing semantics.
+FILLER_TOKENS = {"v", "x", "c", "g", "j"}
 
 STATE_MAP = {
     "e": "active extraction",
@@ -116,6 +121,7 @@ class WordInterpretation:
     tokens: list[str]
     compounds: list[str]
     connectors: list[str]
+    unknown_tokens: list[str]
     vowel_run: str | None
     suffix: str | None
     steps: list[str]
@@ -127,11 +133,21 @@ def interpret_word(word: str) -> WordInterpretation:
 
     compounds: list[str] = []
     connectors: list[str] = []
+    unknown_tokens: list[str] = []
     for tok in tokens:
         if tok in COMPOUNDS:
             compounds.append(COMPOUNDS[tok])
         elif tok in CONNECTORS:
             connectors.append(tok)
+        elif tok in STATE_TOKENS or tok in SUFFIX_TOKENS:
+            # Explicitly modeled elsewhere (vowel-run + suffix extraction)
+            continue
+        elif tok in FILLER_TOKENS:
+            # Intentionally ignored (no semantics claimed)
+            continue
+        else:
+            # Preserve any leftover single-letter/glyph tokens so we can audit coverage
+            unknown_tokens.append(tok)
 
     vowel = extract_vowel_run(normalized)
     suffix = extract_suffix(normalized)
@@ -172,12 +188,23 @@ def interpret_word(word: str) -> WordInterpretation:
     elif suffix == "medium fermentation":
         steps.append("medium fermentation phase")
 
+    # If the word contains unmodeled tokens, surface that fact (without assigning meaning).
+    if unknown_tokens:
+        # Show up to 6 distinct tokens for readability
+        uniq = []
+        for t in unknown_tokens:
+            if t not in uniq:
+                uniq.append(t)
+        preview = ", ".join(uniq[:6])
+        steps.append(f"unmodeled token(s) present: {preview}")
+
     return WordInterpretation(
         word=word,
         normalized=normalized,
         tokens=tokens,
         compounds=compounds,
         connectors=connectors,
+        unknown_tokens=unknown_tokens,
         vowel_run=vowel,
         suffix=suffix,
         steps=steps,
