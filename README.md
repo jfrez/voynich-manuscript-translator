@@ -2,7 +2,7 @@
 
 Tools to download an IVTFF (EVA) transliteration and split it by folio/page.
 
-Important: this is **transliteration**, not translation. Any downstream interpretation (e.g., “recipes”) is **speculative/procedural**.
+Important: this is **transliteration**, not translation. Any downstream interpretation is **speculative/procedural**.
 
 ## 1. Introduction
 
@@ -10,7 +10,7 @@ The Voynich Manuscript (15th century) remains one of the most persistent open pr
 
 To enable computational analysis, many researchers use EVA (Extensible/European Voynich Alphabet), a transliteration scheme that maps manuscript glyphs to Latin characters. This transliteration is **not a translation**; it is a consistent representation that allows the text to be studied with computational tools. The EVA corpus exhibits notable properties such as frequent pattern repetition, small variations between words, and statistical distributions that sometimes resemble natural language.
 
-This repository does **not** attempt semantic decipherment. Instead, it explores an alternative approach: treating EVA as a **procedural system**. Concretely, the hypothesis is that recurring sequences can be modeled as structured instructions—analogous to recipes or technical protocols. This turns unknown text into an interpretable (and in our case, executable) symbolic workflow while staying aligned with observed string-level patterns.
+This repository does **not** attempt semantic decipherment. Instead, it explores an alternative approach: treating EVA as a **procedural system**. Concretely, the hypothesis is that recurring sequences can be modeled as structured instructions (technical protocols). This turns unknown text into an interpretable symbolic workflow while staying aligned with observed string-level patterns.
 
 ## What is EVA (in this repo)?
 
@@ -18,7 +18,7 @@ EVA (“European Voynich Alphabet”) is a **symbol-to-ASCII transliteration con
 
 - EVA here is treated as **input tokens** (strings) extracted from IVTFF/EVA files.
 - EVA is **not** assumed to encode a known language, and we do **not** claim any validated meaning.
-- This project uses EVA **procedurally**: we map recurring letter patterns to actions/states in a hypothetical fermentation workflow.
+- This project uses EVA **procedurally**: we map recurring letter patterns to abstract operations/states in a token system.
 
 ## 2. Proposed Grammar and Corpus Coverage (speculative)
 
@@ -97,8 +97,8 @@ Run length encodes a level:
 Suffixes:
 
 - `dy` = interpret the vowel-run length as **days**
-- `iin` = medium fermentation phase (heuristic)
-- `aiin` = long fermentation/aging phase (heuristic)
+- `iin` = medium phase marker (heuristic)
+- `aiin` = long phase marker (heuristic)
 
 ### 2.2 Coverage measurement (implemented)
 
@@ -116,18 +116,15 @@ Given the structural grammar above, we make additional interpretive assumptions 
 
 1. **Process, not narrative.** Each EVA word is treated as an action/state in a protocol.
 2. **Vowel-run length is quantitative.** Repetitions like `e/ee/eee` or `i/ii/iii` are interpreted as level increments that can drive quantities/durations.
-3. **Domain: herbal fermentation / mixing protocols.** Because botanical imagery dominates, we apply the model to transformations such as steeping/extraction, heating, mixing/transferring, and fermentation.
-4. **Page as a “recipe set” around a main plant.** Operationally, we treat a page as a set of line-recipes. The illustrated plant is never used directly; we always substitute a known edible analog based on a heuristic category (`root/flower/leaf/aquatic/unknown`).
+3. **Domain: procedural protocols (generic).** We apply the model to abstract transformations (e.g., extraction, heating, mixing/transferring, phase transitions) as procedural classes, not validated semantics.
+4. **Page as a “protocol set”.** Operationally, we treat a page as a set of line-level protocol units.
 5. **Internal coherence is the evaluation criterion.** The model is useful if it generates internally consistent, materially plausible protocols—even without any claim of matching the manuscript’s true meaning.
 
-### Safety model
+### Safety note
 
-- **Never** use an unidentified Voynich plant directly.
-- Every “main plant/secondary herb” marker is converted to a **known edible substitute** based on a heuristic plant category:
-  `root / flower / leaf / aquatic / unknown`.
-- If classification is unknown or low confidence, recipes remain **experimental** and are flagged as only partially coherent.
+This repo does not provide validated real-world instructions. If you choose to instantiate any procedural output into a real process, treat it as experimental and apply appropriate safety and domain expertise.
 
-## 4. Example (direct gloss + speculative instantiation)
+## 4. Example (direct gloss)
 
 Example EVA line:
 
@@ -140,23 +137,20 @@ Example EVA line:
 - `chedy`   → `ch + e + dy`
 - `daiin`   → `p + aiin` (after normalization `d → p`)
 
-### Structural interpretation
+### Structural interpretation (procedural gloss layer)
 
-- `qo` = liquid base
-- `k` = fermentable sugar
-- `ch` = main plant (from the page; always substituted safely)
-- `p` = fermentation/yeast
+- `qo`, `k`, `ch`, `p` are treated as structural markers in the gloss layer.
 - `e/ee` = level (1/2)
 - `dy` = duration in days
-- `aiin` = prolonged fermentation/aging phase
+- `aiin` = prolonged phase marker
 
 ### Direct procedural gloss (not a real translation)
 
-“Prepare a liquid base and add fermentables for two days; repeat the adjustment for one additional day; add the main plant for one day; start a prolonged fermentation/aging phase.”
+“Prepare a base and apply markers for two days; repeat for one additional day; add the main component marker for one day; start a prolonged phase.”
 
-### Instantiation into a small experimental recipe
+### Optional instantiation (experimental)
 
-In the generators in this repo, each manuscript line is treated as an independent small batch (default 0.5 L), with ingredient quantities derived from the detected level markers. The main/secondary plants are always **safe edible substitutes** chosen from a conservative list (e.g., chamomile/lemon balm/mint/ginger/hibiscus) based on the page’s heuristic category.
+The codebase includes generators that can turn a procedural gloss into structured steps and quantities. This is experimental and does not imply validated semantics.
 
 ## Usage
 
@@ -178,17 +172,17 @@ python scripts/build_pages.py --force-download
 - `data/pages/<folio>.eva.txt`: “cleaned” EVA text (space-separated).
 - `data/pages/<folio>.json`: metadata + IVTFF loci + `eva_text`.
 
-## Generated recipes & readmes
+## Generated outputs & readmes
 
-After building pages, generate speculative per-line recipes and plain-text READMEs:
+After building pages, generate per-line outputs and plain-text READMEs:
 
 ```sh
 python scripts/generate_recipes.py
 python scripts/render_recipes_text.py
 ```
 
-- `data/recipes/<folio>.recipe.json`: one folio containing multiple **line-recipes** (each locus line is treated as an independent recipe).
-- `data/recipe_readmes/<folio>/README.md`: human-readable version with EVA text, direct gloss, and speculative recipe steps.
+- `data/recipes/<folio>.recipe.json`: one folio containing multiple line-level protocol units (JSON).
+- `data/recipe_readmes/<folio>/README.md`: human-readable version with EVA text and a direct procedural gloss.
 
 Quick links:
 
