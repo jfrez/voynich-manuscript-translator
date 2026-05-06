@@ -334,9 +334,10 @@ def main(argv: list[str]) -> int:
                 blocks.append(f'<a id="{anchor}"></a>')
                 blocks.append(f"### {locus}")
                 if eva_line:
-                    blocks.append(f"EVA: {eva_line}")
+                    blocks.append("EVA (original line):\n```text\n" + eva_line + "\n```")
                 parsing = recipe.get("parsing", [])
                 if parsing:
+                    blocks.append("English structural gloss (generated):")
                     gloss_lines = []
                     for p in parsing:
                         w = p.get("word")
@@ -353,9 +354,9 @@ def main(argv: list[str]) -> int:
                                 if it or gl:
                                     extra = f" (lexicon-context: `{bw}` → `{it}`; {gl or '[n/a]'})"
                         gloss_lines.append(f"- {w}: {interp}{extra}")
-                    blocks.append("Direct Gloss (Procedural, Not a Real Translation):\n" + "\n".join(gloss_lines))
+                    blocks.append("\n".join(gloss_lines))
                 else:
-                    blocks.append("Direct Gloss (Procedural, Not a Real Translation):\n- [no parsed tokens]")
+                    blocks.append("English structural gloss (generated):\n- [no parsed tokens]")
             parts.append("\n\n".join(blocks))
 
         # Intentionally omit speculative recipe instantiation (ingredients/process/etc.) from READMEs.

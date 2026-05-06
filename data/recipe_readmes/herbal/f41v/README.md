@@ -81,9 +81,13 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 ### f41v.1,@Lp
 
-EVA: keer[e:o]dal
+EVA (original line):
+```text
+keer[e:o]dal
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - keer: tokens: k ee r → connectors: r → vowel_run: ee (level 2; class e)
 - e: tokens: e → vowel_run: e (level 1; class e)
 - o: tokens: o
@@ -93,9 +97,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f41v.2,+P0
 
-EVA: pcheody qofcheepy ofchdy cfhekchdy ypchedy chepchefy shdchdy qotal dar
+EVA (original line):
+```text
+pcheody qofcheepy ofchdy cfhekchdy ypchedy chepchefy shdchdy qotal dar
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - pcheody: tokens: p ch e o p → vowel_run: e (level 1; class e)
 - qofcheepy: tokens: qo f ch ee p → vowel_run: ee (level 2; class e)
 - ofchdy: tokens: o f ch p
@@ -110,9 +118,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f41v.3,+P0
 
-EVA: dshedy tchey s aiin shekey okedy okaly daiin okedy ykeeody choy keoy dam
+EVA (original line):
+```text
+dshedy tchey s aiin shekey okedy okaly daiin okedy ykeeody choy keoy dam
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - dshedy: tokens: p sh e p → vowel_run: e (level 1; class e)
 - tchey: tokens: t ch e → vowel_run: e (level 1; class e)
 - s: tokens: s → connectors: s
@@ -131,9 +143,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f41v.4,+P0
 
-EVA: qoke[o:d]dy okey qokeody oleeol lkedy lkeeody qokeedy okeey qokol sheols
+EVA (original line):
+```text
+qoke[o:d]dy okey qokeody oleeol lkedy lkeeody qokeedy okeey qokol sheols
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - qoke: tokens: qo k e → vowel_run: e (level 1; class e)
 - o: tokens: o
 - d: tokens: p
@@ -152,9 +168,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f41v.5,+P0
 
-EVA: ycheos olchey daiin or chol[a:o]laiin oteedy qoteol oteodar orain
+EVA (original line):
+```text
+ycheos olchey daiin or chol[a:o]laiin oteedy qoteol oteodar orain
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ycheos: tokens: ch e o s → connectors: s → vowel_run: e (level 1; class e)
 - olchey: tokens: o l ch e → connectors: l → vowel_run: e (level 1; class e)
 - daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
@@ -172,9 +192,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f41v.6,+P0
 
-EVA: tadaiin ol cheos yteedy okal [o:a]ld oteol qokal or oteody
+EVA (original line):
+```text
+tadaiin ol cheos yteedy okal [o:a]ld oteol qokal or oteody
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - tadaiin: tokens: t a p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - ol: tokens: o l → connectors: l
 - cheos: tokens: ch e o s → connectors: s → vowel_run: e (level 1; class e)
@@ -192,9 +216,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f41v.7,+P0
 
-EVA: ykeey okey ykeeol ckhdy chdal ykeo aiin okeody oly
+EVA (original line):
+```text
+ykeey okey ykeeol ckhdy chdal ykeo aiin okeody oly
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ykeey: tokens: k ee → vowel_run: ee (level 2; class e)
 - okey: tokens: o k e → vowel_run: e (level 1; class e)
 - ykeeol: tokens: k ee o l → connectors: l → vowel_run: ee (level 2; class e)
@@ -209,9 +237,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f41v.8,+P0
 
-EVA: daiin olkeeo lkol chedy okeey
+EVA (original line):
+```text
+daiin olkeeo lkol chedy okeey
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - olkeeo: tokens: o l k ee o → connectors: l → vowel_run: ee (level 2; class e)
 - lkol: tokens: l k o l → connectors: l l

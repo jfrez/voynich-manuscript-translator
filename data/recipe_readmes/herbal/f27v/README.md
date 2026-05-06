@@ -81,9 +81,13 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 ### f27v.1,@P0
 
-EVA: pochof chof cho sho soly shol ytchar opchory kchor chor
+EVA (original line):
+```text
+pochof chof cho sho soly shol ytchar opchory kchor chor
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - pochof: tokens: p o ch o f
 - chof: tokens: ch o f
 - cho: tokens: ch o
@@ -99,9 +103,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f27v.2,+P0
 
-EVA: dchy chkar otchy shy shy dchy dshy kchy cheo daidy dchy
+EVA (original line):
+```text
+dchy chkar otchy shy shy dchy dshy kchy cheo daidy dchy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - dchy: tokens: p ch
 - chkar: tokens: ch k a r → connectors: r → vowel_run: a (level 1; class a)
 - otchy: tokens: o t ch
@@ -118,9 +126,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f27v.3,+P0
 
-EVA: kchey kchy dchokchy dsho dcar chodchy etcheody shld
+EVA (original line):
+```text
+kchey kchy dchokchy dsho dcar chodchy etcheody shld
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - kchey: tokens: k ch e → vowel_run: e (level 1; class e)
 - kchy: tokens: k ch
 - dchokchy: tokens: p ch o k ch
@@ -134,9 +146,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f27v.4,+P0
 
-EVA: okcho chy kch[ee:o]d chl chol kod o oksho do cheesg
+EVA (original line):
+```text
+okcho chy kch[ee:o]d chl chol kod o oksho do cheesg
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - okcho: tokens: o k ch o
 - chy: tokens: ch
 - kch: tokens: k ch
@@ -155,9 +171,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f27v.5,+P0
 
-EVA: qoky sh keeo [s:r]cho dar shkol chotchy ctho dol
+EVA (original line):
+```text
+qoky sh keeo [s:r]cho dar shkol chotchy ctho dol
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - qoky: tokens: qo k
 - sh: tokens: sh
 - keeo: tokens: k ee o → vowel_run: ee (level 2; class e)
@@ -174,9 +194,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f27v.6,+P0
 
-EVA: dsho kchrrr okeedy dch[s:r]chy sotchdy
+EVA (original line):
+```text
+dsho kchrrr okeedy dch[s:r]chy sotchdy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - dsho: tokens: p sh o
 - kchrrr: tokens: k ch r r r → connectors: r r r
 - okeedy: tokens: o k ee p → vowel_run: ee (level 2; class e)
@@ -190,9 +214,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f27v.7,+P0
 
-EVA: sho shoykcho shdy dchd chschsy otchdy
+EVA (original line):
+```text
+sho shoykcho shdy dchd chschsy otchdy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - sho: tokens: sh o
 - shoykcho: tokens: sh o k ch o
 - shdy: tokens: sh p
@@ -204,8 +232,12 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f27v.8,+P0
 
-EVA: okshes okchokshy
+EVA (original line):
+```text
+okshes okchokshy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - okshes: tokens: o k sh e s → connectors: s → vowel_run: e (level 1; class e)
 - okchokshy: tokens: o k ch o k sh

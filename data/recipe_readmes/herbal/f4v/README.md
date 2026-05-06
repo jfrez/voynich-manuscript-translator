@@ -93,9 +93,13 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 ### f4v.1,@P0
 
-EVA: pchooiin ksheo kchoy chopchy dolds dlod
+EVA (original line):
+```text
+pchooiin ksheo kchoy chopchy dolds dlod
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - pchooiin: tokens: p ch o o iin → vowel_run: ii (level 2; class i) → suffix: iin
 - ksheo: tokens: k sh e o → vowel_run: e (level 1; class e)
 - kchoy: tokens: k ch o
@@ -107,9 +111,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.2,+P0
 
-EVA: ol chey chy cthy shkchor sheo cheory choldy
+EVA (original line):
+```text
+ol chey chy cthy shkchor sheo cheory choldy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ol: tokens: o l → connectors: l
 - chey: tokens: ch e → vowel_run: e (level 1; class e)
 - chy: tokens: ch
@@ -123,9 +131,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.3,+P0
 
-EVA: sho sho chaiin shaiin daiin qodaiin o aram
+EVA (original line):
+```text
+sho sho chaiin shaiin daiin qodaiin o aram
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - sho: tokens: sh o
 - sho: tokens: sh o
 - chaiin: tokens: ch aiin → vowel_run: a (level 1; class a) → suffix: aiin
@@ -139,9 +151,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.4,+P0
 
-EVA: qok[sh:ch]y qocthy choteol daiin cthey choaiin
+EVA (original line):
+```text
+qok[sh:ch]y qocthy choteol daiin cthey choaiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - qok: tokens: qo k
 - sh: tokens: sh
 - ch: tokens: ch
@@ -156,9 +172,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.5,+P0
 
-EVA: shor sheey cto otoiin shey qotchoiin chodain
+EVA (original line):
+```text
+shor sheey cto otoiin shey qotchoiin chodain
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - shor: tokens: sh o r → connectors: r
 - sheey: tokens: sh ee → vowel_run: ee (level 2; class e)
 - cto: tokens: c t o
@@ -171,9 +191,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.6,+P0
 
-EVA: ytchoy shokchy cphody
+EVA (original line):
+```text
+ytchoy shokchy cphody
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ytchoy: tokens: t ch o
 - shokchy: tokens: sh o k ch
 - cphody: tokens: cph o p
@@ -182,9 +206,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.7,+P0
 
-EVA: torchy sheeor chor chokch[y:e] cphydy
+EVA (original line):
+```text
+torchy sheeor chor chokch[y:e] cphydy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - torchy: tokens: t o r ch → connectors: r
 - sheeor: tokens: sh ee o r → connectors: r → vowel_run: ee (level 2; class e)
 - chor: tokens: ch o r → connectors: r
@@ -197,9 +225,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.8,+P0
 
-EVA: oleeeb chor cthol sho otor cthory
+EVA (original line):
+```text
+oleeeb chor cthol sho otor cthory
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - oleeeb: tokens: o l eee b → connectors: l → vowel_run: eee (level 3; class e) → unmodeled_tokens: b
 - chor: tokens: ch o r → connectors: r
 - cthol: tokens: cth o l → connectors: l
@@ -211,9 +243,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.9,+P0
 
-EVA: qooko iiin cheog chcthy shoky daiin
+EVA (original line):
+```text
+qooko iiin cheog chcthy shoky daiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - qooko: tokens: qo o k o
 - iiin: tokens: iii n → connectors: n → vowel_run: iii (level 3; class i) → suffix: iin
 - cheog: tokens: ch e o g → vowel_run: e (level 1; class e)
@@ -225,9 +261,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.10,+P0
 
-EVA: otaiin sheo okeody chol chokeody
+EVA (original line):
+```text
+otaiin sheo okeody chol chokeody
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - otaiin: tokens: o t aiin → vowel_run: a (level 1; class a) → suffix: aiin
 - sheo: tokens: sh e o → vowel_run: e (level 1; class e)
 - okeody: tokens: o k e o p → vowel_run: e (level 1; class e)
@@ -238,9 +278,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.11,+P0
 
-EVA: sho kcheor shody shtaiin qotol daiin
+EVA (original line):
+```text
+sho kcheor shody shtaiin qotol daiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - sho: tokens: sh o
 - kcheor: tokens: k ch e o r → connectors: r → vowel_run: e (level 1; class e)
 - shody: tokens: sh o p
@@ -252,9 +296,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.12,+P0
 
-EVA: qokey sho okeol s keey shar char ody
+EVA (original line):
+```text
+qokey sho okeol s keey shar char ody
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - qokey: tokens: qo k e → vowel_run: e (level 1; class e)
 - sho: tokens: sh o
 - okeol: tokens: o k e o l → connectors: l → vowel_run: e (level 1; class e)
@@ -268,9 +316,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.13,+P0
 
-EVA: shody s cheor chokody shodaiin qoty
+EVA (original line):
+```text
+shody s cheor chokody shodaiin qoty
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - shody: tokens: sh o p
 - s: tokens: s → connectors: s
 - cheor: tokens: ch e o r → connectors: r → vowel_run: e (level 1; class e)
@@ -282,9 +334,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f4v.14,+P0
 
-EVA: ochody chy key chtody
+EVA (original line):
+```text
+ochody chy key chtody
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ochody: tokens: o ch o p
 - chy: tokens: ch
 - key: tokens: k e → vowel_run: e (level 1; class e)

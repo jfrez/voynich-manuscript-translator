@@ -97,9 +97,13 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 ### f87r.1,@P0
 
-EVA: poalshsal shocphor ypcho cpheo saiin oteodal saiin
+EVA (original line):
+```text
+poalshsal shocphor ypcho cpheo saiin oteodal saiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - poalshsal: tokens: p o a l sh s a l → connectors: l s l → vowel_run: a (level 1; class a)
 - shocphor: tokens: sh o cph o r → connectors: r
 - ypcho: tokens: p ch o
@@ -112,9 +116,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.2,+P0
 
-EVA: dcheeckhos chety cthodal yteodam cphecthy syty
+EVA (original line):
+```text
+dcheeckhos chety cthodal yteodam cphecthy syty
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - dcheeckhos: tokens: p ch ee ckh o s → connectors: s → vowel_run: ee (level 2; class e)
 - chety: tokens: ch e t → vowel_run: e (level 1; class e)
 - cthodal: tokens: cth o p a l → connectors: l → vowel_run: a (level 1; class a)
@@ -126,9 +134,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.3,+P0
 
-EVA: tchor oteedy ykeey cthhody keos sheekchey saiidy
+EVA (original line):
+```text
+tchor oteedy ykeey cthhody keos sheekchey saiidy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - tchor: tokens: t ch o r → connectors: r
 - oteedy: tokens: o t ee p → vowel_run: ee (level 2; class e)
 - ykeey: tokens: k ee → vowel_run: ee (level 2; class e)
@@ -141,9 +153,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.4,+P0
 
-EVA: soraiin qockhos cheodor ckheokey chcthody s odar
+EVA (original line):
+```text
+soraiin qockhos cheodor ckheokey chcthody s odar
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - soraiin: tokens: s o r aiin → connectors: s r → vowel_run: a (level 1; class a) → suffix: aiin
 - qockhos: tokens: qo ckh o s → connectors: s
 - cheodor: tokens: ch e o p o r → connectors: r → vowel_run: e (level 1; class e)
@@ -156,9 +172,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.5,+P0
 
-EVA: daiin ctheey ckheckhy cthody chor s al dar chor
+EVA (original line):
+```text
+daiin ctheey ckheckhy cthody chor s al dar chor
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - ctheey: tokens: cth ee → vowel_run: ee (level 2; class e)
 - ckheckhy: tokens: ckh e ckh → vowel_run: e (level 1; class e)
@@ -173,9 +193,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.6,+P0
 
-EVA: tos she keodaiin pcheos sheo so shkeody soraiin
+EVA (original line):
+```text
+tos she keodaiin pcheos sheo so shkeody soraiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - tos: tokens: t o s → connectors: s
 - she: tokens: sh e → vowel_run: e (level 1; class e)
 - keodaiin: tokens: k e o p aiin → vowel_run: e (level 1; class e) → suffix: aiin (lexicon-context: `opaiin` → `opinai`; [n/a])
@@ -189,9 +213,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.7,+P0
 
-EVA: y teeodal cho keeody shy ko[o:l] sols chekol
+EVA (original line):
+```text
+y teeodal cho keeody shy ko[o:l] sols chekol
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - y: [unparsed]
 - teeodal: tokens: t ee o p a l → connectors: l → vowel_run: ee (level 2; class e)
 - cho: tokens: ch o
@@ -207,9 +235,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.8,+P0
 
-EVA: solsheor ysaiin chor cheory kchody
+EVA (original line):
+```text
+solsheor ysaiin chor cheory kchody
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - solsheor: tokens: s o l sh e o r → connectors: s l r → vowel_run: e (level 1; class e)
 - ysaiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `saiin` → `asini`; [n/a])
 - chor: tokens: ch o r → connectors: r
@@ -220,9 +252,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.9,+P0
 
-EVA: sor shocthey oteody dchol saraiin
+EVA (original line):
+```text
+sor shocthey oteody dchol saraiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - sor: tokens: s o r → connectors: s r
 - shocthey: tokens: sh o cth e → vowel_run: e (level 1; class e)
 - oteody: tokens: o t e o p → vowel_run: e (level 1; class e)
@@ -233,9 +269,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.10,+P0
 
-EVA: sho cthos cheodal ctheody qoty
+EVA (original line):
+```text
+sho cthos cheodal ctheody qoty
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - sho: tokens: sh o
 - cthos: tokens: cth o s → connectors: s
 - cheodal: tokens: ch e o p a l → connectors: l → vowel_run: e (level 1; class e)
@@ -246,9 +286,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.11,+P0
 
-EVA: psheodshy dal shee saldal shol aldy
+EVA (original line):
+```text
+psheodshy dal shee saldal shol aldy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - psheodshy: tokens: p sh e o p sh → vowel_run: e (level 1; class e)
 - dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a)
 - shee: tokens: sh ee → vowel_run: ee (level 2; class e)
@@ -260,9 +304,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.12,+P0
 
-EVA: ysheee[r:s] chetchy teodar otcheol tockhy
+EVA (original line):
+```text
+ysheee[r:s] chetchy teodar otcheol tockhy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ysheee: tokens: sh eee → vowel_run: eee (level 3; class e)
 - r: tokens: r → connectors: r
 - s: tokens: s → connectors: s
@@ -275,9 +323,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.13,+P0
 
-EVA: keor ckheey shody qoeeeety s chody daiin
+EVA (original line):
+```text
+keor ckheey shody qoeeeety s chody daiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - keor: tokens: k e o r → connectors: r → vowel_run: e (level 1; class e)
 - ckheey: tokens: ckh ee → vowel_run: ee (level 2; class e)
 - shody: tokens: sh o p
@@ -290,9 +342,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.14,+P0
 
-EVA: daiin shol cthey okeol cheor okeeo daiim
+EVA (original line):
+```text
+daiin shol cthey okeol cheor okeeo daiim
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - shol: tokens: sh o l → connectors: l
 - cthey: tokens: cth e → vowel_run: e (level 1; class e)
@@ -305,9 +361,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.15,+P0
 
-EVA: shos cheol cheos ckhey saiin q'ockheo ldaiin
+EVA (original line):
+```text
+shos cheol cheos ckhey saiin q'ockheo ldaiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - shos: tokens: sh o s → connectors: s
 - cheol: tokens: ch e o l → connectors: l → vowel_run: e (level 1; class e)
 - cheos: tokens: ch e o s → connectors: s → vowel_run: e (level 1; class e)
@@ -321,9 +381,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f87r.16,+P0
 
-EVA: yteeo[r:s] cheol dcheeol
+EVA (original line):
+```text
+yteeo[r:s] cheol dcheeol
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - yteeo: tokens: t ee o → vowel_run: ee (level 2; class e)
 - r: tokens: r → connectors: r
 - s: tokens: s → connectors: s

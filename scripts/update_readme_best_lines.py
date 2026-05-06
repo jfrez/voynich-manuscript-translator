@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import pathlib
 import re
+import sys
 
 
 DOMAINS = ["herbal", "astronomical", "biological", "cosmological", "text_only", "unknown"]
@@ -135,12 +136,29 @@ def build_block() -> str:
         best = best_line_for_domain(dom, lex, pages_index)
         if not best:
             continue
+        # Load the generated per-line parsing (structural gloss) for this locus
+        english_gloss = None
+        try:
+            rj = json.loads((pathlib.Path("data/recipes") / f"{best['folio']}.recipe.json").read_text(encoding="utf-8"))
+            for lr in rj.get("line_recipes", []):
+                if lr.get("locus") == best["locus"]:
+                    parsing = (lr.get("recipe") or {}).get("parsing", [])
+                    if parsing:
+                        english_gloss = "; ".join(f"{p.get('word')}: {p.get('interpretation')}" for p in parsing[:20])
+                    break
+        except Exception:
+            english_gloss = None
         lines.append(f"### {dom}")
         lines.append(f"- Source: `{best['folio']}` / `{best['locus']}` → `data/recipe_readmes/{dom}/{best['folio']}/README.md`")
         lines.append("- EVA line:")
         lines.append("```text")
         lines.append(best["eva_line"])
         lines.append("```")
+        if english_gloss:
+            lines.append("- English structural gloss (generated):")
+            lines.append("```text")
+            lines.append(english_gloss)
+            lines.append("```")
         lines.append("- Lexicon hits (inherited context):")
         for w, bw, info in best["hits"]:
             lines.append(format_hit(w, bw, info))
@@ -154,10 +172,10 @@ def main() -> int:
     txt = readme.read_text(encoding="utf-8")
     block = build_block()
 
-    # Replace the old block starting at "## Best lexicon-grounded examples" up to "## Top candidate basewords..."
-    m = re.search(r"^## Best lexicon-grounded examples \(by domain\)\s*$", txt, flags=re.M)
+    # Replace the old block starting at "## Best full-line lexicon glosses" up to "## Top candidate basewords..."
+    m = re.search(r"^## Best full-line lexicon glosses \(by domain\)\s*$", txt, flags=re.M)
     if not m:
-        raise SystemExit("Could not find start marker (## Best lexicon-grounded examples ...) in README.md")
+        raise SystemExit("Could not find start marker (## Best full-line lexicon glosses ...) in README.md")
     start_idx = m.start()
     m2 = re.search(r"^## Top candidate basewords by domain \(first 20\)\s*$", txt[m.end() :], flags=re.M)
     if not m2:
@@ -172,4 +190,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

@@ -77,9 +77,13 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 ### f38r.1,@P0
 
-EVA: tolor chockhy oky choiin okshol oly oky
+EVA (original line):
+```text
+tolor chockhy oky choiin okshol oly oky
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - tolor: tokens: t o l o r → connectors: l r
 - chockhy: tokens: ch o ckh
 - oky: tokens: o k
@@ -92,9 +96,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f38r.2,+P0
 
-EVA: okshey chodys ytoiin otaiin otaiin cthar
+EVA (original line):
+```text
+okshey chodys ytoiin otaiin otaiin cthar
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - okshey: tokens: o k sh e → vowel_run: e (level 1; class e)
 - chodys: tokens: ch o p s → connectors: s
 - ytoiin: tokens: t o iin → vowel_run: ii (level 2; class i) → suffix: iin
@@ -106,9 +114,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f38r.3,+P0
 
-EVA: qokor okaiin otaiin qo kchol chokokor
+EVA (original line):
+```text
+qokor okaiin otaiin qo kchol chokokor
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - qokor: tokens: qo k o r → connectors: r
 - okaiin: tokens: o k aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `okaiin` → `coniai`; [n/a])
 - otaiin: tokens: o t aiin → vowel_run: a (level 1; class a) → suffix: aiin
@@ -120,9 +132,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f38r.4,+P0
 
-EVA: ychok chey chckh chy chk[o:y] r odaiin d aiin sy
+EVA (original line):
+```text
+ychok chey chckh chy chk[o:y] r odaiin d aiin sy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ychok: tokens: ch o k
 - chey: tokens: ch e → vowel_run: e (level 1; class e)
 - chckh: tokens: ch ckh
@@ -140,9 +156,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f38r.5,+P0
 
-EVA: o kor chey kain chor ctho dain ckholdy
+EVA (original line):
+```text
+o kor chey kain chor ctho dain ckholdy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - o: tokens: o
 - kor: tokens: k o r → connectors: r
 - chey: tokens: ch e → vowel_run: e (level 1; class e)
@@ -156,9 +176,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f38r.6,+P0
 
-EVA: ysho sho kos daiin okoy chochor daiin
+EVA (original line):
+```text
+ysho sho kos daiin okoy chochor daiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ysho: tokens: sh o
 - sho: tokens: sh o
 - kos: tokens: k o s → connectors: s

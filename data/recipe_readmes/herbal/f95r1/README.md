@@ -87,9 +87,13 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 ### f95r1.1,@P0
 
-EVA: kshdor chepchdy ofaiin ol oldaiin opshol qokaiin oty odain
+EVA (original line):
+```text
+kshdor chepchdy ofaiin ol oldaiin opshol qokaiin oty odain
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - kshdor: tokens: k sh p o r → connectors: r
 - chepchdy: tokens: ch e p ch p → vowel_run: e (level 1; class e)
 - ofaiin: tokens: o f aiin → vowel_run: a (level 1; class a) → suffix: aiin
@@ -104,9 +108,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f95r1.2,+P0
 
-EVA: ol chdy chdy qokaiin shdy qokaiin chdy kol chdy qoty oky dan
+EVA (original line):
+```text
+ol chdy chdy qokaiin shdy qokaiin chdy kol chdy qoty oky dan
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ol: tokens: o l → connectors: l
 - chdy: tokens: ch p
 - chdy: tokens: ch p
@@ -124,9 +132,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f95r1.3,+P0
 
-EVA: teodaiin oekeey qokees ody chekaiin chekaiin chky chaiin
+EVA (original line):
+```text
+teodaiin oekeey qokees ody chekaiin chekaiin chky chaiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - teodaiin: tokens: t e o p aiin → vowel_run: e (level 1; class e) → suffix: aiin (lexicon-context: `opaiin` → `opinai`; [n/a])
 - oekeey: tokens: o e k ee → vowel_run: e (level 1; class e)
 - qokees: tokens: qo k ee s → connectors: s → vowel_run: ee (level 2; class e)
@@ -140,9 +152,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f95r1.4,+P0
 
-EVA: ycheey ky olkain chey kain cholky chedy qokaiin chy kaiin ly
+EVA (original line):
+```text
+ycheey ky olkain chey kain cholky chedy qokaiin chy kaiin ly
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ycheey: tokens: ch ee → vowel_run: ee (level 2; class e)
 - ky: tokens: k
 - olkain: tokens: o l k a i n → connectors: l n → vowel_run: a (level 1; class a)
@@ -159,9 +175,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f95r1.5,+P0
 
-EVA: atar chedy todaiin qoky shdaly
+EVA (original line):
+```text
+atar chedy todaiin qoky shdaly
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - atar: tokens: a t a r → connectors: r → vowel_run: a (level 1; class a)
 - chedy: tokens: ch e p → vowel_run: e (level 1; class e)
 - todaiin: tokens: t o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `opaiin` → `opinai`; [n/a])
@@ -172,9 +192,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f95r1.6,+P0
 
-EVA: tchdor or chekchdy qokar chcthy qotchdy lshedy qoky qofain dy
+EVA (original line):
+```text
+tchdor or chekchdy qokar chcthy qotchdy lshedy qoky qofain dy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - tchdor: tokens: t ch p o r → connectors: r
 - or: tokens: o r → connectors: r
 - chekchdy: tokens: ch e k ch p → vowel_run: e (level 1; class e)
@@ -190,9 +214,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f95r1.7,+P0
 
-EVA: ykchedy sheky chekar chdain chdaiin okar chetchdy chdy chkam
+EVA (original line):
+```text
+ykchedy sheky chekar chdain chdaiin okar chetchdy chdy chkam
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ykchedy: tokens: k ch e p → vowel_run: e (level 1; class e)
 - sheky: tokens: sh e k → vowel_run: e (level 1; class e)
 - chekar: tokens: ch e k a r → connectors: r → vowel_run: e (level 1; class e)
@@ -207,9 +235,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f95r1.8,+P0
 
-EVA: olkor chdaiin cholkaiin qokeedy qoky chey lchedy chedy alod
+EVA (original line):
+```text
+olkor chdaiin cholkaiin qokeedy qoky chey lchedy chedy alod
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - olkor: tokens: o l k o r → connectors: l r
 - chdaiin: tokens: ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - cholkaiin: tokens: ch o l k aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin
@@ -224,9 +256,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f95r1.9,+P0
 
-EVA: tchdy tchor chol tar chdy okol ykoldy olkeedy qotaiin or
+EVA (original line):
+```text
+tchdy tchor chol tar chdy okol ykoldy olkeedy qotaiin or
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - tchdy: tokens: t ch p
 - tchor: tokens: t ch o r → connectors: r
 - chol: tokens: ch o l → connectors: l
@@ -242,9 +278,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f95r1.10,+P0
 
-EVA: daiin chckhy okaiin chckhy daiin ykedy ep[?:a]iin okaraiin ls
+EVA (original line):
+```text
+daiin chckhy okaiin chckhy daiin ykedy ep[?:a]iin okaraiin ls
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - chckhy: tokens: ch ckh
 - okaiin: tokens: o k aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `okaiin` → `coniai`; [n/a])
@@ -261,9 +301,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f95r1.11,+P0
 
-EVA: ykaiin or chdy chekain ol dar ykar olkeey ldar chekal
+EVA (original line):
+```text
+ykaiin or chdy chekain ol dar ykar olkeey ldar chekal
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - ykaiin: tokens: k aiin → vowel_run: a (level 1; class a) → suffix: aiin
 - or: tokens: o r → connectors: r
 - chdy: tokens: ch p

@@ -183,6 +183,10 @@ For each IVTFF domain, this selects one complete manuscript line with the most l
 ```text
 otchol daiin daiin ctho daiin qotaiin otchy d shan
 ```
+- English structural gloss (generated):
+```text
+otchol: tokens: o t ch o l → connectors: l; daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin; daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin; ctho: tokens: cth o; daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin; qotaiin: tokens: qo t aiin → vowel_run: a (level 1; class a) → suffix: aiin; otchy: tokens: o t ch; d: tokens: p; shan: tokens: sh a n → connectors: n → vowel_run: a (level 1; class a)
+```
 - Lexicon hits (inherited context):
 - `otchol` (→ `otchol`): it(mod) `colto` / cultivated; it(med) `colto` / cultivated; la `colot` / [n/a]
 - `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
@@ -196,6 +200,10 @@ otchol daiin daiin ctho daiin qotaiin otchy d shan
 ```text
 dair al cheol dal oekaiin sol daiin eetees saiin ykeos l chy otodaiin chetejy otar dair ar chedar okeedy ot[e:i]odaiin ychsy chekeey ot dol al cheor okeo r oiin cheeky ary okeo keds oshey shchey chol dair dain cho dar aldy
 ```
+- English structural gloss (generated):
+```text
+dair: tokens: p a i r → connectors: r → vowel_run: a (level 1; class a); al: tokens: a l → connectors: l → vowel_run: a (level 1; class a); cheol: tokens: ch e o l → connectors: l → vowel_run: e (level 1; class e); dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a); oekaiin: tokens: o e k aiin → vowel_run: e (level 1; class e) → suffix: aiin; sol: tokens: s o l → connectors: s l; daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin; eetees: tokens: ee t ee s → connectors: s → vowel_run: ee (level 2; class e); saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin; ykeos: tokens: k e o s → connectors: s → vowel_run: e (level 1; class e); l: tokens: l → connectors: l; chy: tokens: ch; otodaiin: tokens: o t o p aiin → vowel_run: a (level 1; class a) → suffix: aiin; chetejy: tokens: ch e t e j → vowel_run: e (level 1; class e); otar: tokens: o t a r → connectors: r → vowel_run: a (level 1; class a); dair: tokens: p a i r → connectors: r → vowel_run: a (level 1; class a); ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a); chedar: tokens: ch e p a r → connectors: r → vowel_run: e (level 1; class e); okeedy: tokens: o k ee p → vowel_run: ee (level 2; class e); ot: tokens: o t
+```
 - Lexicon hits (inherited context):
 - `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
 - `chedar` (→ `chepar`): it(mod) `capre` / [n/a]; it(med) `capre` / [n/a]; la `caper` / goatish/armpit smell
@@ -206,6 +214,10 @@ dair al cheol dal oekaiin sol daiin eetees saiin ykeos l chy otodaiin chetejy ot
 - EVA line:
 ```text
 dcheol shedy qok[ee:a]l qotaiin chtal schcthy qokal chcthy qokain okain oloky
+```
+- English structural gloss (generated):
+```text
+dcheol: tokens: p ch e o l → connectors: l → vowel_run: e (level 1; class e); shedy: tokens: sh e p → vowel_run: e (level 1; class e); qok: tokens: qo k; ee: tokens: ee → vowel_run: ee (level 2; class e); a: tokens: a → vowel_run: a (level 1; class a); l: tokens: l → connectors: l; qotaiin: tokens: qo t aiin → vowel_run: a (level 1; class a) → suffix: aiin; chtal: tokens: ch t a l → connectors: l → vowel_run: a (level 1; class a); schcthy: tokens: s ch cth → connectors: s; qokal: tokens: qo k a l → connectors: l → vowel_run: a (level 1; class a); chcthy: tokens: ch cth; qokain: tokens: qo k a i n → connectors: n → vowel_run: a (level 1; class a); okain: tokens: o k a i n → connectors: n → vowel_run: a (level 1; class a); oloky: tokens: o l o k → connectors: l
 ```
 - Lexicon hits (inherited context):
 - `qotaiin` (→ `qotaiin`): it(mod) `coniati` / [n/a]; it(med) `cationi` / [n/a]; la `aconiti` / without dust (literally)
@@ -218,6 +230,10 @@ dcheol shedy qok[ee:a]l qotaiin chtal schcthy qokal chcthy qokain okain oloky
 - EVA line:
 ```text
 oeeey [o:y] daiin otedaiin otedy oteey chedaiin octhedy chy shedaiin chotaiin oraiin otodeee[?:o] ar yteeody oteedaraiin shedaiin chdar shedy qotedaiin chedy tchdy chetdy chedy qotar chedy chckhy daiin otedy seeedy yteey sam
+```
+- English structural gloss (generated):
+```text
+oeeey: tokens: o eee → vowel_run: eee (level 3; class e); o: tokens: o; y: [unparsed]; daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin; otedaiin: tokens: o t e p aiin → vowel_run: e (level 1; class e) → suffix: aiin; otedy: tokens: o t e p → vowel_run: e (level 1; class e); oteey: tokens: o t ee → vowel_run: ee (level 2; class e); chedaiin: tokens: ch e p aiin → vowel_run: e (level 1; class e) → suffix: aiin; octhedy: tokens: o cth e p → vowel_run: e (level 1; class e); chy: tokens: ch; shedaiin: tokens: sh e p aiin → vowel_run: e (level 1; class e) → suffix: aiin; chotaiin: tokens: ch o t aiin → vowel_run: a (level 1; class a) → suffix: aiin; oraiin: tokens: o r aiin → connectors: r → vowel_run: a (level 1; class a) → suffix: aiin; otodeee: tokens: o t o p eee → vowel_run: eee (level 3; class e); o: tokens: o; ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a); yteeody: tokens: t ee o p → vowel_run: ee (level 2; class e); oteedaraiin: tokens: o t ee p a r aiin → connectors: r → vowel_run: ee (level 2; class e) → suffix: aiin; shedaiin: tokens: sh e p aiin → vowel_run: e (level 1; class e) → suffix: aiin; chdar: tokens: ch p a r → connectors: r → vowel_run: a (level 1; class a)
 ```
 - Lexicon hits (inherited context):
 - `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
@@ -236,6 +252,10 @@ oeeey [o:y] daiin otedaiin otedy oteey chedaiin octhedy chy shedaiin chotaiin or
 ```text
 y aiin dar otol qokain qoky lkor dal oraiin cheoty qotaiin olkam
 ```
+- English structural gloss (generated):
+```text
+y: [unparsed]; aiin: tokens: aiin → vowel_run: a (level 1; class a) → suffix: aiin; dar: tokens: p a r → connectors: r → vowel_run: a (level 1; class a); otol: tokens: o t o l → connectors: l; qokain: tokens: qo k a i n → connectors: n → vowel_run: a (level 1; class a); qoky: tokens: qo k; lkor: tokens: l k o r → connectors: l r; dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a); oraiin: tokens: o r aiin → connectors: r → vowel_run: a (level 1; class a) → suffix: aiin; cheoty: tokens: ch e o t → vowel_run: e (level 1; class e); qotaiin: tokens: qo t aiin → vowel_run: a (level 1; class a) → suffix: aiin; olkam: tokens: o l k a m → connectors: l m → vowel_run: a (level 1; class a)
+```
 - Lexicon hits (inherited context):
 - `qokain` (→ `qokain`): it(mod) `concia` / tanning; it(med) `acconi` / [n/a]; la `cocain` / [n/a]
 - `oraiin` (→ `oraiin`): it(mod) `ironia` / irony; it(med) `aironi` / [n/a]; la [n/a] / [n/a]
@@ -247,6 +267,10 @@ y aiin dar otol qokain qoky lkor dal oraiin cheoty qotaiin olkam
 - EVA line:
 ```text
 olaiin oteol chor oteey chokchey kor daiin shok chol chol qoky daiin ol s al ydar daiin or ory okeey daiin shey daiin okol cheor
+```
+- English structural gloss (generated):
+```text
+olaiin: tokens: o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin; oteol: tokens: o t e o l → connectors: l → vowel_run: e (level 1; class e); chor: tokens: ch o r → connectors: r; oteey: tokens: o t ee → vowel_run: ee (level 2; class e); chokchey: tokens: ch o k ch e → vowel_run: e (level 1; class e); kor: tokens: k o r → connectors: r; daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin; shok: tokens: sh o k; chol: tokens: ch o l → connectors: l; chol: tokens: ch o l → connectors: l; qoky: tokens: qo k; daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin; ol: tokens: o l → connectors: l; s: tokens: s → connectors: s; al: tokens: a l → connectors: l → vowel_run: a (level 1; class a); ydar: tokens: p a r → connectors: r → vowel_run: a (level 1; class a); daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin; or: tokens: o r → connectors: r; ory: tokens: o r → connectors: r; okeey: tokens: o k ee → vowel_run: ee (level 2; class e)
 ```
 - Lexicon hits (inherited context):
 - `olaiin` (→ `olaiin`): it(mod) [n/a] / [n/a]; it(med) `ialino` / hyaline, glassy; la [n/a] / [n/a]

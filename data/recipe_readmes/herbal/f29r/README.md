@@ -83,9 +83,13 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 ### f29r.1,@P0
 
-EVA: posaiin she aiin chep oty chy qotchy qoty cheecthy
+EVA (original line):
+```text
+posaiin she aiin chep oty chy qotchy qoty cheecthy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - posaiin: tokens: p o s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `saiin` → `asini`; [n/a])
 - she: tokens: sh e → vowel_run: e (level 1; class e)
 - aiin: tokens: aiin → vowel_run: a (level 1; class a) → suffix: aiin
@@ -100,9 +104,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f29r.2,+P0
 
-EVA: dshe ykchy choty oky cho l chchoty choky chy ty dy
+EVA (original line):
+```text
+dshe ykchy choty oky cho l chchoty choky chy ty dy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - dshe: tokens: p sh e → vowel_run: e (level 1; class e)
 - ykchy: tokens: k ch
 - choty: tokens: ch o t
@@ -119,9 +127,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f29r.3,+P0
 
-EVA: qokchy qoty kchaiin shear cthor dchor choly
+EVA (original line):
+```text
+qokchy qoty kchaiin shear cthor dchor choly
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - qokchy: tokens: qo k ch
 - qoty: tokens: qo t
 - kchaiin: tokens: k ch aiin → vowel_run: a (level 1; class a) → suffix: aiin
@@ -134,9 +146,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f29r.4,+P0
 
-EVA: chocthy qoos chos
+EVA (original line):
+```text
+chocthy qoos chos
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - chocthy: tokens: ch o cth
 - qoos: tokens: qo o s → connectors: s
 - chos: tokens: ch o s → connectors: s
@@ -145,9 +161,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f29r.5,+P0
 
-EVA: kcheol cheor sheos sheey teey d[a:y] shos octy
+EVA (original line):
+```text
+kcheol cheor sheos sheey teey d[a:y] shos octy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - kcheol: tokens: k ch e o l → connectors: l → vowel_run: e (level 1; class e)
 - cheor: tokens: ch e o r → connectors: r → vowel_run: e (level 1; class e)
 - sheos: tokens: sh e o s → connectors: s → vowel_run: e (level 1; class e)
@@ -163,9 +183,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f29r.6,+P0
 
-EVA: chokshy shocthy shor shor daiin qokaiiin
+EVA (original line):
+```text
+chokshy shocthy shor shor daiin qokaiiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - chokshy: tokens: ch o k sh
 - shocthy: tokens: sh o cth
 - shor: tokens: sh o r → connectors: r
@@ -177,9 +201,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f29r.7,+P0
 
-EVA: qokchy chol shokchy qokaiin choety choty kaiin
+EVA (original line):
+```text
+qokchy chol shokchy qokaiin choety choty kaiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - qokchy: tokens: qo k ch
 - chol: tokens: ch o l → connectors: l
 - shokchy: tokens: sh o k ch
@@ -192,9 +220,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f29r.8,+P0
 
-EVA: shor chor shosheky shy qoty kody daiin cthy
+EVA (original line):
+```text
+shor chor shosheky shy qoty kody daiin cthy
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - shor: tokens: sh o r → connectors: r
 - chor: tokens: ch o r → connectors: r
 - shosheky: tokens: sh o sh e k → vowel_run: e (level 1; class e)
@@ -208,9 +240,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f29r.9,+P0
 
-EVA: qokshe qor chey kor cheod ychom
+EVA (original line):
+```text
+qokshe qor chey kor cheod ychom
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - qokshe: tokens: qo k sh e → vowel_run: e (level 1; class e)
 - qor: tokens: qo r → connectors: r
 - chey: tokens: ch e → vowel_run: e (level 1; class e)

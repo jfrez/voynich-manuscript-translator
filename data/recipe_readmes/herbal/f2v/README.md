@@ -81,9 +81,13 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 ### f2v.1,@P0
 
-EVA: kooiin cheo pchor otaiin odain chor dair shty
+EVA (original line):
+```text
+kooiin cheo pchor otaiin odain chor dair shty
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - kooiin: tokens: k o o iin → vowel_run: ii (level 2; class i) → suffix: iin
 - cheo: tokens: ch e o → vowel_run: e (level 1; class e)
 - pchor: tokens: p ch o r → connectors: r
@@ -97,9 +101,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f2v.2,+P0
 
-EVA: kcho kchy sho shol qotcho loeees qoty chor daiin
+EVA (original line):
+```text
+kcho kchy sho shol qotcho loeees qoty chor daiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - kcho: tokens: k ch o
 - kchy: tokens: k ch
 - sho: tokens: sh o
@@ -114,9 +122,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f2v.3,+P0
 
-EVA: otchy chor lshy chol chody chodain chcthy daiin
+EVA (original line):
+```text
+otchy chor lshy chol chody chodain chcthy daiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - otchy: tokens: o t ch
 - chor: tokens: ch o r → connectors: r
 - lshy: tokens: l sh → connectors: l
@@ -130,9 +142,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f2v.4,+P0
 
-EVA: sho cholo cheor chodaiin
+EVA (original line):
+```text
+sho cholo cheor chodaiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - sho: tokens: sh o
 - cholo: tokens: ch o l o → connectors: l
 - cheor: tokens: ch e o r → connectors: r → vowel_run: e (level 1; class e)
@@ -142,9 +158,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f2v.5,+P0
 
-EVA: kchor shy daiiin chckom s shey dor chol daiin
+EVA (original line):
+```text
+kchor shy daiiin chckom s shey dor chol daiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - kchor: tokens: k ch o r → connectors: r
 - shy: tokens: sh
 - daiiin: tokens: p a iii n → connectors: n → vowel_run: a (level 1; class a) → suffix: iin
@@ -159,9 +179,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f2v.6,+P0
 
-EVA: dor chol chor chol keol chy chty daiin o tchor chan
+EVA (original line):
+```text
+dor chol chor chol keol chy chty daiin o tchor chan
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - dor: tokens: p o r → connectors: r
 - chol: tokens: ch o l → connectors: l
 - chor: tokens: ch o r → connectors: r
@@ -178,9 +202,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f2v.7,+P0
 
-EVA: daiin chotchey qoteeey chokeos chees chr cheaiin
+EVA (original line):
+```text
+daiin chotchey qoteeey chokeos chees chr cheaiin
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - chotchey: tokens: ch o t ch e → vowel_run: e (level 1; class e)
 - qoteeey: tokens: qo t eee → vowel_run: eee (level 3; class e)
@@ -193,9 +221,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 ### f2v.8,+P0
 
-EVA: chokoishe chor cheol chol dolody
+EVA (original line):
+```text
+chokoishe chor cheol chol dolody
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - chokoishe: tokens: ch o k o i sh e → vowel_run: i (level 1; class i)
 - chor: tokens: ch o r → connectors: r
 - cheol: tokens: ch e o l → connectors: l → vowel_run: e (level 1; class e)

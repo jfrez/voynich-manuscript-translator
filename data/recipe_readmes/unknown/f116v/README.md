@@ -65,8 +65,12 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 ### f116v.1,@Lx
 
-EVA: oror sheey
+EVA (original line):
+```text
+oror sheey
+```
 
-Direct Gloss (Procedural, Not a Real Translation):
+English structural gloss (generated):
+
 - oror: tokens: o r o r → connectors: r r
 - sheey: tokens: sh ee → vowel_run: ee (level 2; class e)
