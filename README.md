@@ -22,11 +22,7 @@ EVA (“European Voynich Alphabet”) is a **symbol-to-ASCII transliteration con
 
 ## 2. Proposed Grammar and Corpus Coverage (speculative)
 
-The grammar below is a **user-defined symbolic model** (not Voynich scholarship). It converts EVA words into:
-
-- ingredient/action markers
-- intensity/state markers
-- time/phase suffixes
+The grammar below is a **user-defined symbolic model** (not Voynich scholarship). It converts EVA words into structural markers + state/phase cues.
 
 ### 2.1 CFG (high-level)
 
@@ -61,7 +57,7 @@ T     → dy | iin | aiin | ε
 C     → l | r | n | s | m
 ```
 
-In this formulation, prefixes (`P`) represent recurring base components, `BLOCK` introduces variability via combinations of `UNIT`s, suffixes (`T`) mark phase/closing conditions, and connectors (`C`) allow internal extensions that capture common EVA complexities.
+In this formulation, `P`/`BLOCK`/`T`/`C` capture recurring word-shapes seen in EVA.
 
 ### Normalizations
 
@@ -69,18 +65,10 @@ In this formulation, prefixes (`P`) represent recurring base components, `BLOCK`
 - `y → (removed)`, except when it forms `dy`
 - `ktp → k + t + p` (tokenized as three markers)
 
-### Token markers (non-semantic)
+### Token markers (structural)
 
-To avoid arbitrary meaning assignment, this repo treats recurring EVA fragments as **structural markers only**. They are used to drive a procedural *parse* (a “gloss”), not a validated translation.
-
-Core markers:
-
-- `qo`, `q`, `o`, `k`, `t`, `p`, `ch`, `sh`, `f`
-- `cth`, `ckh`, `cph`, `cfh` (complex multi-letter markers)
-
-Connectors (low semantic weight; treated as transitions):
-
-- `l, r, n, s, m`
+Core markers: `qo q o k t p ch sh f` and `cth ckh cph cfh` (multi-letter markers).  
+Connectors: `l r n s m`.
 
 ### State / time markers (structural)
 
@@ -127,7 +115,7 @@ On **f99r**, using a claimed EVA→AVA-style normalization and checking Italian 
 - **Random mappings baseline:** mean ≈ **10.4%** over 200 permutations
 - **p-value (≥ claimed):** **0.00498**
 
-This does **not** imply a correct decipherment. It only shows that a specific normalization produces more anagram hits than random letter-mappings under this narrow test.
+This does not imply a correct decipherment; it is a narrow string-matching signal only.
 
 Reproduce:
 
@@ -137,10 +125,7 @@ python scripts/evaluate_ava_anagrams.py --folio f99r --basewords data/base_words
 
 ### 2.4 “Medieval Italian” angle (pragmatic proxy)
 
-There is no built-in, authoritative “medieval Italian lexicon API” in this repo. Instead, for a *practical* approximation, we use:
-
-- a **WikWik** Italian wordlist (Wiktionary-derived; large coverage; includes many non-modern forms), treated as “medieval-ish” for breadth
-- a smaller modern Italian wordlist (for comparison / baselines)
+We use WikWik (Wiktionary-derived) as a “medieval-ish” breadth proxy, plus a smaller modern Italian list for comparison.
 
 On the **top-500 basewords** (`data/base_words.txt`), using the WikWik-derived list, the anagram search finds:
 
@@ -156,7 +141,7 @@ python scripts/classify_anagram_candidates.py
 
 ### 2.5 Latin candidates (Whitaker WORDS; heuristic)
 
-This repo can also generate **Latin lemma anagram candidates** using Whitaker’s WORDS `DICTLINE.GEN` (downloaded and lemma-extracted locally). This is used as an additional “classical/medieval Latin” proxy wordlist.
+This repo can also generate Latin lemma anagram candidates using Whitaker’s WORDS `DICTLINE.GEN` (as an additional Latin proxy list).
 
 Reproduce:
 
@@ -167,7 +152,7 @@ python scripts/latinized_anagrams.py
 
 ## Example “translations” by domain (procedural gloss)
 
-The sections below show what this repository means by “process words”: each EVA token is treated as a compact **structured token** (markers + state/intensity + optional suffixes). This is a procedural **gloss** (structure-first), not a validated translation.
+EVA tokens are treated as compact structured units (markers + state/intensity + optional suffixes). This is a procedural gloss (structure-first), not a translation.
 
 ### How a “process word” is built (decomposition)
 
@@ -186,11 +171,7 @@ Concrete example:
 | `qokeedy` | `qokeepy` (from `d→p`, and keeping `dy`) | `qo + k + ee + dy` | marker `qo` + marker `k` + state `ee` + suffix `dy` |
 | `daiin` | `paiin` | `p + aiin` | marker `p` + suffix `aiin` |
 
-If you want the markers to have a **domain-tinted sense**, this repo generates an optional “sense layer” from the domain lexicon tables (WikWik “medieval-ish Italian” proxy + English gloss keywords):
-
-- `data/domain_sense/<domain>.sense.json` (built by `python scripts/assign_domain_sense.py`)
-
-Note on `daiin`: after normalization `d→p`, the EVA form `daiin` is counted as `paiin` and tokenizes as `p + aiin`. In this repo’s time heuristic, `aiin` is a long phase marker (multi-day heuristic like ~7–14 days) even though it does not explicitly contain `dy`.
+Note on `daiin`: after normalization `d→p`, `daiin` is counted as `paiin` and tokenizes as `p + aiin` (long phase marker).
 
 ## Best full-line lexicon glosses (by domain)
 
@@ -454,10 +435,6 @@ Example EVA line:
 
 Structural gloss (no semantic meaning claimed): the line decomposes into marker bundles like `qo+k+ee+dy`, `ch+e+dy`, `p+aiin`, plus a vowel-run class (`e/i/a`) whose length defines a level (1–3) and optional suffixes (`dy/iin/aiin`).
 
-### Optional instantiation (experimental)
-
-The codebase includes generators that can turn a procedural gloss into structured steps and quantities. This is experimental and does not imply validated semantics.
-
 ## 5. Outputs (what’s in the repo)
 
 - Per-folio EVA text: `data/pages/<folio>.eva.txt`
@@ -483,26 +460,14 @@ python scripts/build_pages.py --force-download
 
 ## Output
 
-- `data/pages/index.json`: list of folios + metadata (section, Currier, Plant ID if present).
-- `data/pages/<folio>.eva.txt`: “cleaned” EVA text (space-separated).
-- `data/pages/<folio>.json`: metadata + IVTFF loci + `eva_text`.
-
-## Generated outputs & readmes
-
 After building pages, generate per-line outputs and plain-text READMEs:
 
 ```sh
 python scripts/generate_recipes.py
-python scripts/render_recipes_text.py
+python scripts/render_recipes_text.py --group-by-domain
 ```
 
-- `data/recipes/<folio>.recipe.json`: one folio containing multiple line-level protocol units (JSON).
-- `data/recipe_readmes/<folio>/README.md`: human-readable version with EVA text and a direct procedural gloss.
-
-Quick links:
-
-- `data/recipe_readmes/README.md` (index linking to every folio + every line-recipe)
-- `data/recipes/index.json` (machine-readable index of recipe files)
+Quick links: `data/recipe_readmes/README.md`, `data/recipes/index.json`.
 
 ## Images
 
