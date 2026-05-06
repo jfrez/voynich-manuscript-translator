@@ -25,27 +25,6 @@ def safe_name(s: str) -> str:
     return s or "unknown"
 
 
-MARKER_MEANINGS = {
-    "qo": "liquid base / must / water",
-    "q": "general base marker",
-    "o": "mix / transfer / continuity",
-    "k": "sugars / fermentables",
-    "t": "heat / cooking",
-    "p": "yeast / fermentation start",
-    "ch": "main plant (always substituted with a safe edible plant)",
-    "sh": "secondary herb (safe edible)",
-    "f": "aroma modifier",
-    "cth/ckh/cph/cfh": "complex herbal compound (safe blend)",
-    "l/r/n/s/m": "connectors (low semantic weight transitions)",
-    "e…": "active extraction",
-    "i…": "cooling/rest",
-    "a…": "fermentation start/transition",
-    "level 1": "e / i / a",
-    "level 2": "ee / ii",
-    "level 3": "eee / iii",
-}
-
-
 def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser(description="Create domain (section) subfolders with indexes and per-folio pointers.")
     ap.add_argument("--pages-dir", default="data/pages", help="Input pages dir")
@@ -118,29 +97,6 @@ def main(argv: list[str]) -> int:
         state_counts = domain_state_class[domain]
         level_counts = domain_level[domain]
 
-        def pct(n: int, d: int) -> str:
-            return f"{(n / d * 100):.1f}%" if d else "0.0%"
-
-        comp = domain_compounds[domain]
-        marker_prevalence = {
-            "qo": (comp.get("liquid base", 0), total_words),
-            "q": (comp.get("general base", 0), total_words),
-            "o": (comp.get("mix/transfer", 0), total_words),
-            "k": (comp.get("sugars", 0), total_words),
-            "t": (comp.get("heat", 0), total_words),
-            "p": (comp.get("yeast fermentation", 0), total_words),
-            "ch": (comp.get("main herb", 0), total_words),
-            "sh": (comp.get("secondary herb", 0), total_words),
-            "f": (comp.get("aroma modifier", 0), total_words),
-            "cth/ckh/cph/cfh": (comp.get("complex herbal compound", 0), total_words),
-            "e…": (state_counts.get("e", 0), total_words),
-            "i…": (state_counts.get("i", 0), total_words),
-            "a…": (state_counts.get("a", 0), total_words),
-            "level 1": (level_counts.get("1", 0), total_words),
-            "level 2": (level_counts.get("2", 0), total_words),
-            "level 3": (level_counts.get("3", 0), total_words),
-        }
-
         dom_lines = [
             f"# Domain: {domain}",
             "",
@@ -154,53 +110,23 @@ def main(argv: list[str]) -> int:
             f"- EVA word tokens (approx): {total_words}",
             f"- top procedural compounds: {top_comp}",
             "",
-            "## Domain-specific marker meanings (requested; speculative)",
-            "Below is the requested meaning assignment for token markers, annotated with how often the corresponding marker-class appears in this domain.",
-            "This is **not** a validated translation; it is a procedural interpretation layer.",
-            "",
-            "### Action / ingredient markers",
-            f"- `qo` = {MARKER_MEANINGS['qo']} (prevalence {pct(*marker_prevalence['qo'])})",
-            f"- `q` = {MARKER_MEANINGS['q']} (prevalence {pct(*marker_prevalence['q'])})",
-            f"- `o` = {MARKER_MEANINGS['o']} (prevalence {pct(*marker_prevalence['o'])})",
-            f"- `k` = {MARKER_MEANINGS['k']} (prevalence {pct(*marker_prevalence['k'])})",
-            f"- `t` = {MARKER_MEANINGS['t']} (prevalence {pct(*marker_prevalence['t'])})",
-            f"- `p` = {MARKER_MEANINGS['p']} (prevalence {pct(*marker_prevalence['p'])})",
-            f"- `ch` = {MARKER_MEANINGS['ch']} (prevalence {pct(*marker_prevalence['ch'])})",
-            f"- `sh` = {MARKER_MEANINGS['sh']} (prevalence {pct(*marker_prevalence['sh'])})",
-            f"- `f` = {MARKER_MEANINGS['f']} (prevalence {pct(*marker_prevalence['f'])})",
-            f"- `cth/ckh/cph/cfh` = {MARKER_MEANINGS['cth/ckh/cph/cfh']} (prevalence {pct(*marker_prevalence['cth/ckh/cph/cfh'])})",
-            "",
-            "Connectors (low semantic weight, used as transitions):",
-            f"- `l, r, n, s, m` = {MARKER_MEANINGS['l/r/n/s/m']}",
-            "",
-            "### State / time markers",
-            "We treat the first vowel-run found in a word as an intensity/state cue:",
-            f"- `e…` = {MARKER_MEANINGS['e…']} (prevalence {pct(*marker_prevalence['e…'])})",
-            f"- `i…` = {MARKER_MEANINGS['i…']} (prevalence {pct(*marker_prevalence['i…'])})",
-            f"- `a…` = {MARKER_MEANINGS['a…']} (prevalence {pct(*marker_prevalence['a…'])})",
-            "",
-            "Run length encodes level:",
-            f"- level 1 = {MARKER_MEANINGS['level 1']} (prevalence {pct(*marker_prevalence['level 1'])})",
-            f"- level 2 = {MARKER_MEANINGS['level 2']} (prevalence {pct(*marker_prevalence['level 2'])})",
-            f"- level 3 = {MARKER_MEANINGS['level 3']} (prevalence {pct(*marker_prevalence['level 3'])})",
-            "",
             "## Folios",
         ]
 
         for m in folios:
             folio = m["folio"]
             # Pointers (relative links)
-            readme_path = pathlib.Path(args.readmes_dir) / folio / "README.md"
+            readme_path = pathlib.Path(args.readmes_dir) / dn / folio / "README.md"
             image_note = ""
             if not readme_path.exists():
                 image_note = " (missing README)"
-            dom_lines.append(f"- {folio}: ../../recipe_readmes/{folio}/README.md{image_note}")
+            dom_lines.append(f"- {folio}: ../../recipe_readmes/{dn}/{folio}/README.md{image_note}")
 
             # Write a small pointer file inside the domain folder
             pointer = [
                 f"# {folio} ({domain})",
                 "",
-                f"- Canonical README: `../../recipe_readmes/{folio}/README.md`",
+                f"- Canonical README: `../../recipe_readmes/{dn}/{folio}/README.md`",
                 f"- Page data: `../../pages/{folio}.json`",
                 f"- EVA text: `../../pages/{folio}.eva.txt`",
                 "",

@@ -10,163 +10,38 @@
 - EVA word tokens (approx): 12387
 - top procedural compounds: [('mix/transfer', 6677), ('yeast fermentation', 4183), ('main herb', 4077), ('sugars', 2515), ('heat', 1821), ('secondary herb', 1381), ('liquid base', 1043), ('complex herbal compound', 974)]
 
-## Domain-specific marker meanings (requested; speculative)
-Below is the requested meaning assignment for token markers, annotated with how often the corresponding marker-class appears in this domain.
-This is **not** a validated translation; it is a procedural interpretation layer.
+## Associated words (non-generic; heuristic)
+These are non-generic basewords observed in this domain, with a reduced form and best-effort anagram candidates from a Wiktionary-derived Italian lexicon (WikWik).
+This is not a translation; matches are heuristic and may be coincidental.
+English glosses are best-effort summaries from English Wiktionary extracts and may be missing/wrong.
 
-### Action / ingredient markers
-- `qo` = liquid base / must / water (prevalence 8.4%)
-- `q` = general base marker (prevalence 0.3%)
-- `o` = mix / transfer / continuity (prevalence 53.9%)
-- `k` = sugars / fermentables (prevalence 20.3%)
-- `t` = heat / cooking (prevalence 14.7%)
-- `p` = yeast / fermentation start (prevalence 33.8%)
-- `ch` = main plant (always substituted with a safe edible plant) (prevalence 32.9%)
-- `sh` = secondary herb (safe edible) (prevalence 11.1%)
-- `f` = aroma modifier (prevalence 1.3%)
-- `cth/ckh/cph/cfh` = complex herbal compound (safe blend) (prevalence 7.9%)
-
-Connectors (low semantic weight, used as transitions):
-- `l, r, n, s, m` = connectors (low semantic weight transitions)
-
-### State / time markers
-We treat the first vowel-run found in a word as an intensity/state cue:
-- `e…` = active extraction (prevalence 22.0%)
-- `i…` = cooling/rest (prevalence 1.3%)
-- `a…` = fermentation start/transition (prevalence 26.9%)
-
-Run length encodes level:
-- level 1 = e / i / a (prevalence 43.4%)
-- level 2 = ee / ii (prevalence 6.0%)
-- level 3 = eee / iii (prevalence 0.8%)
-
-## Folios
-- f1v: ../../recipe_readmes/f1v/README.md
-- f2r: ../../recipe_readmes/f2r/README.md
-- f2v: ../../recipe_readmes/f2v/README.md
-- f3r: ../../recipe_readmes/f3r/README.md
-- f3v: ../../recipe_readmes/f3v/README.md
-- f4r: ../../recipe_readmes/f4r/README.md
-- f4v: ../../recipe_readmes/f4v/README.md
-- f5r: ../../recipe_readmes/f5r/README.md
-- f5v: ../../recipe_readmes/f5v/README.md
-- f6r: ../../recipe_readmes/f6r/README.md
-- f6v: ../../recipe_readmes/f6v/README.md
-- f7r: ../../recipe_readmes/f7r/README.md
-- f7v: ../../recipe_readmes/f7v/README.md
-- f8r: ../../recipe_readmes/f8r/README.md
-- f8v: ../../recipe_readmes/f8v/README.md
-- f9r: ../../recipe_readmes/f9r/README.md
-- f9v: ../../recipe_readmes/f9v/README.md
-- f10r: ../../recipe_readmes/f10r/README.md
-- f10v: ../../recipe_readmes/f10v/README.md
-- f11r: ../../recipe_readmes/f11r/README.md
-- f11v: ../../recipe_readmes/f11v/README.md
-- f13r: ../../recipe_readmes/f13r/README.md
-- f13v: ../../recipe_readmes/f13v/README.md
-- f14r: ../../recipe_readmes/f14r/README.md
-- f14v: ../../recipe_readmes/f14v/README.md
-- f15r: ../../recipe_readmes/f15r/README.md
-- f15v: ../../recipe_readmes/f15v/README.md
-- f16r: ../../recipe_readmes/f16r/README.md
-- f16v: ../../recipe_readmes/f16v/README.md
-- f17r: ../../recipe_readmes/f17r/README.md
-- f17v: ../../recipe_readmes/f17v/README.md
-- f18r: ../../recipe_readmes/f18r/README.md
-- f18v: ../../recipe_readmes/f18v/README.md
-- f19r: ../../recipe_readmes/f19r/README.md
-- f19v: ../../recipe_readmes/f19v/README.md
-- f20r: ../../recipe_readmes/f20r/README.md
-- f20v: ../../recipe_readmes/f20v/README.md
-- f21r: ../../recipe_readmes/f21r/README.md
-- f21v: ../../recipe_readmes/f21v/README.md
-- f22r: ../../recipe_readmes/f22r/README.md
-- f22v: ../../recipe_readmes/f22v/README.md
-- f23r: ../../recipe_readmes/f23r/README.md
-- f23v: ../../recipe_readmes/f23v/README.md
-- f24r: ../../recipe_readmes/f24r/README.md
-- f24v: ../../recipe_readmes/f24v/README.md
-- f25r: ../../recipe_readmes/f25r/README.md
-- f25v: ../../recipe_readmes/f25v/README.md
-- f26r: ../../recipe_readmes/f26r/README.md
-- f26v: ../../recipe_readmes/f26v/README.md
-- f27r: ../../recipe_readmes/f27r/README.md
-- f27v: ../../recipe_readmes/f27v/README.md
-- f28r: ../../recipe_readmes/f28r/README.md
-- f28v: ../../recipe_readmes/f28v/README.md
-- f29r: ../../recipe_readmes/f29r/README.md
-- f29v: ../../recipe_readmes/f29v/README.md
-- f30r: ../../recipe_readmes/f30r/README.md
-- f30v: ../../recipe_readmes/f30v/README.md
-- f31r: ../../recipe_readmes/f31r/README.md
-- f31v: ../../recipe_readmes/f31v/README.md
-- f32r: ../../recipe_readmes/f32r/README.md
-- f32v: ../../recipe_readmes/f32v/README.md
-- f33r: ../../recipe_readmes/f33r/README.md
-- f33v: ../../recipe_readmes/f33v/README.md
-- f34r: ../../recipe_readmes/f34r/README.md
-- f34v: ../../recipe_readmes/f34v/README.md
-- f35r: ../../recipe_readmes/f35r/README.md
-- f35v: ../../recipe_readmes/f35v/README.md
-- f36r: ../../recipe_readmes/f36r/README.md
-- f36v: ../../recipe_readmes/f36v/README.md
-- f37r: ../../recipe_readmes/f37r/README.md
-- f37v: ../../recipe_readmes/f37v/README.md
-- f38r: ../../recipe_readmes/f38r/README.md
-- f38v: ../../recipe_readmes/f38v/README.md
-- f39r: ../../recipe_readmes/f39r/README.md
-- f39v: ../../recipe_readmes/f39v/README.md
-- f40r: ../../recipe_readmes/f40r/README.md
-- f40v: ../../recipe_readmes/f40v/README.md
-- f41r: ../../recipe_readmes/f41r/README.md
-- f41v: ../../recipe_readmes/f41v/README.md
-- f42r: ../../recipe_readmes/f42r/README.md
-- f42v: ../../recipe_readmes/f42v/README.md
-- f43r: ../../recipe_readmes/f43r/README.md
-- f43v: ../../recipe_readmes/f43v/README.md
-- f44r: ../../recipe_readmes/f44r/README.md
-- f44v: ../../recipe_readmes/f44v/README.md
-- f45r: ../../recipe_readmes/f45r/README.md
-- f45v: ../../recipe_readmes/f45v/README.md
-- f46r: ../../recipe_readmes/f46r/README.md
-- f46v: ../../recipe_readmes/f46v/README.md
-- f47r: ../../recipe_readmes/f47r/README.md
-- f47v: ../../recipe_readmes/f47v/README.md
-- f48r: ../../recipe_readmes/f48r/README.md
-- f48v: ../../recipe_readmes/f48v/README.md
-- f49r: ../../recipe_readmes/f49r/README.md
-- f49v: ../../recipe_readmes/f49v/README.md
-- f50r: ../../recipe_readmes/f50r/README.md
-- f50v: ../../recipe_readmes/f50v/README.md
-- f51r: ../../recipe_readmes/f51r/README.md
-- f51v: ../../recipe_readmes/f51v/README.md
-- f52r: ../../recipe_readmes/f52r/README.md
-- f52v: ../../recipe_readmes/f52v/README.md
-- f53r: ../../recipe_readmes/f53r/README.md
-- f53v: ../../recipe_readmes/f53v/README.md
-- f54r: ../../recipe_readmes/f54r/README.md
-- f54v: ../../recipe_readmes/f54v/README.md
-- f55r: ../../recipe_readmes/f55r/README.md
-- f55v: ../../recipe_readmes/f55v/README.md
-- f56r: ../../recipe_readmes/f56r/README.md
-- f56v: ../../recipe_readmes/f56v/README.md
-- f57r: ../../recipe_readmes/f57r/README.md
-- f65r: ../../recipe_readmes/f65r/README.md
-- f65v: ../../recipe_readmes/f65v/README.md
-- f66v: ../../recipe_readmes/f66v/README.md
-- f87r: ../../recipe_readmes/f87r/README.md
-- f87v: ../../recipe_readmes/f87v/README.md
-- f90r1: ../../recipe_readmes/f90r1/README.md
-- f90r2: ../../recipe_readmes/f90r2/README.md
-- f90v2: ../../recipe_readmes/f90v2/README.md
-- f90v1: ../../recipe_readmes/f90v1/README.md
-- f93r: ../../recipe_readmes/f93r/README.md
-- f93v: ../../recipe_readmes/f93v/README.md
-- f94r: ../../recipe_readmes/f94r/README.md
-- f94v: ../../recipe_readmes/f94v/README.md
-- f95r1: ../../recipe_readmes/f95r1/README.md
-- f95r2: ../../recipe_readmes/f95r2/README.md
-- f95v2: ../../recipe_readmes/f95v2/README.md
-- f95v1: ../../recipe_readmes/f95v1/README.md
-- f96r: ../../recipe_readmes/f96r/README.md
-- f96v: ../../recipe_readmes/f96v/README.md
+- `daiin` → reduced `paiin` → Italian anagram `piani`; English: plans (arrangements)
+- `okaiin` → reduced `ocaiin` → Italian anagram `coniai`; English: [n/a]
+- `chaiin` → reduced `caiin` → Italian anagram `acini`; English: [n/a]
+- `saiin` → reduced `saiin` → Italian anagram `asini`; English: [n/a]
+- `qokaiin` → reduced `cocaiin` → Italian anagram `ciancio`; English: [n/a]
+- `qokar` → reduced `cocar` → Italian anagram `carco`; English: [n/a]
+- `odaiin` → reduced `opaiin` → Italian anagram `inopia`; English: poverty
+- `otchol` → reduced `otcol` → Italian anagram `colto`; English: cultivated
+- `kaiin` → reduced `caiin` → Italian anagram `acini`; English: [n/a]
+- `chodaiin` → reduced `copaiin` → Italian anagram `apocini`; English: [n/a]
+- `qotol` → reduced `cotol` → Italian anagram `colto`; English: cultivated
+- `okain` → reduced `ocain` → Italian anagram `acino`; English: a berry
+- `qotor` → reduced `cotor` → Italian anagram `corto`; English: short
+- `ykaiin` → reduced `caiin` → Italian anagram `acini`; English: [n/a]
+- `qodaiin` → reduced `copaiin` → Italian anagram `apocini`; English: [n/a]
+- `shodaiin` → reduced `sopaiin` → Italian anagram `sinopia`; English: [n/a]
+- `qotaiin` → reduced `cotaiin` → Italian anagram `cationi`; English: [n/a]
+- `otchor` → reduced `otcor` → Italian anagram `corto`; English: short
+- `shaiin` → reduced `saiin` → Italian anagram `asini`; English: [n/a]
+- `qokal` → reduced `cocal` → Italian anagram `calco`; English: cast (of sculpture)
+- `okchor` → reduced `occor` → Italian anagram `corco`; English: [n/a]
+- `otain` → reduced `otain` → Italian anagram `anito`; English: [n/a]
+- `daiir` → reduced `paiir` → Italian anagram `aprii`; English: [n/a]
+- `cthaiin` → reduced `caiin` → Italian anagram `acini`; English: [n/a]
+- `qokor` → reduced `cocor` → Italian anagram `corco`; English: [n/a]
+- `ydaiin` → reduced `paiin` → Italian anagram `piani`; English: plans (arrangements)
+- `qotar` → reduced `cotar` → Italian anagram `corta`; English: [n/a]
+- `olaiin` → reduced `olaiin` → Italian anagram `ialino`; English: hyaline, glassy
+- `chkaiin` → reduced `ccaiin` → Italian anagram `cianci`; English: [n/a]
+- `qokeol` → reduced `coceol` → Italian anagram `eccolo`; English: [n/a]

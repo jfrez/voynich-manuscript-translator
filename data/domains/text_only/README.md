@@ -10,42 +10,38 @@
 - EVA word tokens (approx): 3240
 - top procedural compounds: [('mix/transfer', 1406), ('yeast fermentation', 1125), ('sugars', 789), ('main herb', 692), ('heat', 487), ('secondary herb', 440), ('liquid base', 426), ('complex herbal compound', 156)]
 
-## Domain-specific marker meanings (requested; speculative)
-Below is the requested meaning assignment for token markers, annotated with how often the corresponding marker-class appears in this domain.
-This is **not** a validated translation; it is a procedural interpretation layer.
+## Associated words (non-generic; heuristic)
+These are non-generic basewords observed in this domain, with a reduced form and best-effort anagram candidates from a Wiktionary-derived Italian lexicon (WikWik).
+This is not a translation; matches are heuristic and may be coincidental.
+English glosses are best-effort summaries from English Wiktionary extracts and may be missing/wrong.
 
-### Action / ingredient markers
-- `qo` = liquid base / must / water (prevalence 13.1%)
-- `q` = general base marker (prevalence 0.3%)
-- `o` = mix / transfer / continuity (prevalence 43.4%)
-- `k` = sugars / fermentables (prevalence 24.4%)
-- `t` = heat / cooking (prevalence 15.0%)
-- `p` = yeast / fermentation start (prevalence 34.7%)
-- `ch` = main plant (always substituted with a safe edible plant) (prevalence 21.4%)
-- `sh` = secondary herb (safe edible) (prevalence 13.6%)
-- `f` = aroma modifier (prevalence 1.5%)
-- `cth/ckh/cph/cfh` = complex herbal compound (safe blend) (prevalence 4.8%)
-
-Connectors (low semantic weight, used as transitions):
-- `l, r, n, s, m` = connectors (low semantic weight transitions)
-
-### State / time markers
-We treat the first vowel-run found in a word as an intensity/state cue:
-- `e…` = active extraction (prevalence 28.5%)
-- `i…` = cooling/rest (prevalence 0.8%)
-- `a…` = fermentation start/transition (prevalence 41.9%)
-
-Run length encodes level:
-- level 1 = e / i / a (prevalence 63.8%)
-- level 2 = ee / ii (prevalence 6.8%)
-- level 3 = eee / iii (prevalence 0.6%)
-
-## Folios
-- f1r: ../../recipe_readmes/f1r/README.md
-- f58r: ../../recipe_readmes/f58r/README.md
-- f58v: ../../recipe_readmes/f58v/README.md
-- f66r: ../../recipe_readmes/f66r/README.md
-- f76r: ../../recipe_readmes/f76r/README.md
-- f85r1: ../../recipe_readmes/f85r1/README.md
-- f86v6: ../../recipe_readmes/f86v6/README.md
-- f86v5: ../../recipe_readmes/f86v5/README.md
+- `daiin` → reduced `paiin` → Italian anagram `piani`; English: plans (arrangements)
+- `qokar` → reduced `cocar` → Italian anagram `carco`; English: [n/a]
+- `qokaiin` → reduced `cocaiin` → Italian anagram `ciancio`; English: [n/a]
+- `qokal` → reduced `cocal` → Italian anagram `calco`; English: cast (of sculpture)
+- `ykaiin` → reduced `caiin` → Italian anagram `acini`; English: [n/a]
+- `okaiin` → reduced `ocaiin` → Italian anagram `coniai`; English: [n/a]
+- `qokain` → reduced `cocain` → Italian anagram `acconi`; English: [n/a]
+- `okain` → reduced `ocain` → Italian anagram `acino`; English: a berry
+- `saiin` → reduced `saiin` → Italian anagram `asini`; English: [n/a]
+- `kaiin` → reduced `caiin` → Italian anagram `acini`; English: [n/a]
+- `odaiin` → reduced `opaiin` → Italian anagram `inopia`; English: poverty
+- `qotaiin` → reduced `cotaiin` → Italian anagram `cationi`; English: [n/a]
+- `qotar` → reduced `cotar` → Italian anagram `corta`; English: [n/a]
+- `qotal` → reduced `cotal` → Italian anagram `colta`; English: [n/a]
+- `otain` → reduced `otain` → Italian anagram `anito`; English: [n/a]
+- `qokaly` → reduced `cocal` → Italian anagram `calco`; English: cast (of sculpture)
+- `qotain` → reduced `cotain` → Italian anagram `antico`; English: ancient
+- `qokair` → reduced `cocair` → Italian anagram `accori`; English: [n/a]
+- `olkar` → reduced `olcar` → Italian anagram `carlo`; English: [n/a]
+- `olaiin` → reduced `olaiin` → Italian anagram `ialino`; English: hyaline, glassy
+- `oraiin` → reduced `oraiin` → Italian anagram `aironi`; English: [n/a]
+- `olain` → reduced `olain` → Italian anagram `alino`; English: [n/a]
+- `lkaiin` → reduced `lcaiin` → Italian anagram `ancili`; English: [n/a]
+- `chodaiin` → reduced `copaiin` → Italian anagram `apocini`; English: [n/a]
+- `qotol` → reduced `cotol` → Italian anagram `colto`; English: cultivated
+- `qokor` → reduced `cocor` → Italian anagram `corco`; English: [n/a]
+- `qodaiin` → reduced `copaiin` → Italian anagram `apocini`; English: [n/a]
+- `olkaiin` → reduced `olcaiin` → Italian anagram `caolini`; English: [n/a]
+- `daiir` → reduced `paiir` → Italian anagram `aprii`; English: [n/a]
+- `qoaiin` → reduced `coaiin` → Italian anagram `coniai`; English: [n/a]

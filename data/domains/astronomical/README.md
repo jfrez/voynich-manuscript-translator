@@ -10,42 +10,22 @@
 - EVA word tokens (approx): 962
 - top procedural compounds: [('mix/transfer', 654), ('yeast fermentation', 338), ('main herb', 289), ('sugars', 242), ('heat', 156), ('secondary herb', 67), ('complex herbal compound', 43), ('liquid base', 34)]
 
-## Domain-specific marker meanings (requested; speculative)
-Below is the requested meaning assignment for token markers, annotated with how often the corresponding marker-class appears in this domain.
-This is **not** a validated translation; it is a procedural interpretation layer.
+## Associated words (non-generic; heuristic)
+These are non-generic basewords observed in this domain, with a reduced form and best-effort anagram candidates from a Wiktionary-derived Italian lexicon (WikWik).
+This is not a translation; matches are heuristic and may be coincidental.
+English glosses are best-effort summaries from English Wiktionary extracts and may be missing/wrong.
 
-### Action / ingredient markers
-- `qo` = liquid base / must / water (prevalence 3.5%)
-- `q` = general base marker (prevalence 0.4%)
-- `o` = mix / transfer / continuity (prevalence 68.0%)
-- `k` = sugars / fermentables (prevalence 25.2%)
-- `t` = heat / cooking (prevalence 16.2%)
-- `p` = yeast / fermentation start (prevalence 35.1%)
-- `ch` = main plant (always substituted with a safe edible plant) (prevalence 30.0%)
-- `sh` = secondary herb (safe edible) (prevalence 7.0%)
-- `f` = aroma modifier (prevalence 0.7%)
-- `cth/ckh/cph/cfh` = complex herbal compound (safe blend) (prevalence 4.5%)
-
-Connectors (low semantic weight, used as transitions):
-- `l, r, n, s, m` = connectors (low semantic weight transitions)
-
-### State / time markers
-We treat the first vowel-run found in a word as an intensity/state cue:
-- `e…` = active extraction (prevalence 41.2%)
-- `i…` = cooling/rest (prevalence 1.5%)
-- `a…` = fermentation start/transition (prevalence 25.9%)
-
-Run length encodes level:
-- level 1 = e / i / a (prevalence 51.7%)
-- level 2 = ee / ii (prevalence 14.7%)
-- level 3 = eee / iii (prevalence 2.2%)
-
-## Folios
-- f67v1: ../../recipe_readmes/f67v1/README.md
-- f68r1: ../../recipe_readmes/f68r1/README.md
-- f68r2: ../../recipe_readmes/f68r2/README.md
-- f68r3: ../../recipe_readmes/f68r3/README.md
-- f68v2: ../../recipe_readmes/f68v2/README.md
-- f68v1: ../../recipe_readmes/f68v1/README.md
-- f67r1: ../../recipe_readmes/f67r1/README.md
-- f67r2: ../../recipe_readmes/f67r2/README.md
+- `daiin` → reduced `paiin` → Italian anagram `piani`; English: plans (arrangements)
+- `daiir` → reduced `paiir` → Italian anagram `aprii`; English: [n/a]
+- `saiin` → reduced `saiin` → Italian anagram `asini`; English: [n/a]
+- `odaiin` → reduced `opaiin` → Italian anagram `inopia`; English: poverty
+- `ydaiin` → reduced `paiin` → Italian anagram `piani`; English: plans (arrangements)
+- `okain` → reduced `ocain` → Italian anagram `acino`; English: a berry
+- `qokeol` → reduced `coceol` → Italian anagram `eccolo`; English: [n/a]
+- `chedar` → reduced `cepar` → Italian anagram `capre`; English: [n/a]
+- `oteos` → reduced `oteos` → Italian anagram `osteo`; English: [n/a]
+- `okees` → reduced `ocees` → Italian anagram `coese`; English: [n/a]
+- `okchor` → reduced `occor` → Italian anagram `corco`; English: [n/a]
+- `odain` → reduced `opain` → Italian anagram `opina`; English: opine
+- `chodar` → reduced `copar` → Italian anagram `capro`; English: male goat
+- `okeos` → reduced `oceos` → Italian anagram `coeso`; English: cohesive

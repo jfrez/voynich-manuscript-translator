@@ -70,22 +70,36 @@ def _safe_anchor_id(s: str) -> str:
     s = re.sub(r"-+", "-", s).strip("-")
     return s or "recipe"
 
+def _safe_domain_name(s: str) -> str:
+    # Keep consistent with scripts/build_domains.py:safe_name
+    s = (s or "unknown").strip().lower()
+    s = re.sub(r"[^a-z0-9]+", "_", s).strip("_")
+    return s or "unknown"
+
 
 def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser(description="Render per-folio recipe JSON into plain-text (Markdown) README files.")
     ap.add_argument("--recipes-dir", default="data/recipes", help="Input directory produced by scripts/generate_recipes.py")
     ap.add_argument("--out-dir", default="data/recipe_readmes", help="Output directory with one README per folio")
     ap.add_argument("--images-dir", default="data/images", help="Directory produced by scripts/download_images.py")
+    ap.add_argument("--pages-dir", default="data/pages", help="Pages dir (for section/domain grouping)")
+    ap.add_argument("--group-by-domain", action="store_true", help="Write READMEs into <out>/<domain>/<folio>/README.md")
     ap.add_argument("--limit", type=int, default=0, help="If set, only render first N (debug).")
     args = ap.parse_args(argv)
 
     recipes_dir = pathlib.Path(args.recipes_dir)
     out_dir = pathlib.Path(args.out_dir)
     images_dir = pathlib.Path(args.images_dir)
+    pages_dir = pathlib.Path(args.pages_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     index = json.loads((recipes_dir / "index.json").read_text(encoding="utf-8"))
     folio_images = build_folio_image_map(images_dir) if images_dir.exists() else {}
+    folio_domain = {}
+    idx_path = pages_dir / "index.json"
+    if args.group_by_domain and idx_path.exists():
+        for m in json.loads(idx_path.read_text(encoding="utf-8")):
+            folio_domain[m["folio"]] = _safe_domain_name(m.get("section") or "unknown")
 
     rendered = 0
     index_entries: list[dict] = []
@@ -115,7 +129,8 @@ def main(argv: list[str]) -> int:
         parts: list[str] = []
         parts.append("\n".join(header))
 
-        folio_dir = out_dir / folio
+        domain = folio_domain.get(folio, "unknown") if args.group_by_domain else None
+        folio_dir = (out_dir / domain / folio) if domain else (out_dir / folio)
         folio_dir.mkdir(parents=True, exist_ok=True)
         img_paths = folio_images.get(folio, [])
         img_paths = [p for p in img_paths if p.exists()]
@@ -150,7 +165,10 @@ def main(argv: list[str]) -> int:
                 locus = lr.get("locus", f"line_{i}")
                 anchor = _safe_anchor_id(f"{folio}-{i}-{locus}")
                 idx_lines.append(f"- [{locus}](#{anchor})")
-                line_links.append({"locus": locus, "path": f"{folio}/README.md#{anchor}"})
+                if domain:
+                    line_links.append({"locus": locus, "path": f"{domain}/{folio}/README.md#{anchor}"})
+                else:
+                    line_links.append({"locus": locus, "path": f"{folio}/README.md#{anchor}"})
             parts.append("\n".join(idx_lines))
 
             blocks = ["## Line Glosses (Procedural Gloss Only; Not a Translation)"]
@@ -180,7 +198,8 @@ def main(argv: list[str]) -> int:
 
         (folio_dir / "README.md").write_text(readme, encoding="utf-8")
 
-        index_entries.append({"folio": folio, "readme": f"{folio}/README.md", "lines": line_links if line_recipes else []})
+        readme_rel = f"{domain}/{folio}/README.md" if domain else f"{folio}/README.md"
+        index_entries.append({"folio": folio, "domain": domain or "ungrouped", "readme": readme_rel, "lines": line_links if line_recipes else []})
 
         rendered += 1
         if args.limit and rendered >= args.limit:
@@ -190,11 +209,11 @@ def main(argv: list[str]) -> int:
     root_index_lines = [
         "# Recipe Readmes (Generated)",
         "",
-        "One folder per folio, containing `README.md` with linkable line-recipes.",
+        "READMEs are grouped by domain (IVTFF section) when generated with `--group-by-domain`.",
         "",
     ]
     for entry in index_entries:
-        root_index_lines.append(f"- {entry['folio']}: {entry['readme']}")
+        root_index_lines.append(f"- {entry['folio']} ({entry['domain']}): {entry['readme']}")
         for lr in entry["lines"]:
             root_index_lines.append(f"  - {lr['locus']}: {lr['path']}")
     (out_dir / "README.md").write_text("\n".join(root_index_lines) + "\n", encoding="utf-8")
