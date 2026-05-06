@@ -165,7 +165,7 @@ def main(argv: list[str]) -> int:
         line_recipes = obj.get("line_recipes", [])
 
         header = [
-            f"# Voynich Speculative Herbal Ferment Recipe — {folio}",
+            f"# Voynich Speculative Procedural Protocol — {folio}",
             "",
             (line_recipes[0].get("recipe", {}).get("disclaimer", "") if line_recipes else "").strip(),
             "",

@@ -8,7 +8,7 @@
 ## Summary stats
 - folios: 10
 - EVA word tokens (approx): 2442
-- top procedural compounds: [('mix/transfer', 1427), ('yeast fermentation', 925), ('main herb', 524), ('sugars', 478), ('heat', 451), ('secondary herb', 177), ('liquid base', 120), ('complex herbal compound', 49)]
+- top procedural compounds: [('mix/transfer', 1427), ('activation/starter', 925), ('main herb', 524), ('sugars', 478), ('heat', 451), ('secondary herb', 177), ('liquid base', 120), ('complex herbal compound', 49)]
 
 ## Associated words (non-generic; heuristic)
 These are non-generic basewords observed in this domain, with a reduced form and best-effort anagram candidates from a Wiktionary-derived Italian lexicon (WikWik).
@@ -45,3 +45,15 @@ English glosses are best-effort summaries from English Wiktionary extracts and m
 - `qokain` → reduced `cocain` → Italian anagram `acconi`; English: [n/a]
 - `okain` → reduced `ocain` → Italian anagram `acino`; English: a berry
 - `saiin` → reduced `saiin` → Italian anagram `asini`; English: [n/a]
+
+## Folios
+- f57v: ../../recipe_readmes/cosmological/f57v/README.md
+- f67v2: ../../recipe_readmes/cosmological/f67v2/README.md
+- f68v3: ../../recipe_readmes/cosmological/f68v3/README.md
+- f69r: ../../recipe_readmes/cosmological/f69r/README.md
+- f69v: ../../recipe_readmes/cosmological/f69v/README.md
+- f70r1: ../../recipe_readmes/cosmological/f70r1/README.md
+- f70r2: ../../recipe_readmes/cosmological/f70r2/README.md
+- f86v4: ../../recipe_readmes/cosmological/f86v4/README.md
+- f85r2: ../../recipe_readmes/cosmological/f85r2/README.md
+- f86v3: ../../recipe_readmes/cosmological/f86v3/README.md

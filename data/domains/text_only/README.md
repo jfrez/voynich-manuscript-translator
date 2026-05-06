@@ -8,7 +8,7 @@
 ## Summary stats
 - folios: 8
 - EVA word tokens (approx): 3240
-- top procedural compounds: [('mix/transfer', 1406), ('yeast fermentation', 1125), ('sugars', 789), ('main herb', 692), ('heat', 487), ('secondary herb', 440), ('liquid base', 426), ('complex herbal compound', 156)]
+- top procedural compounds: [('mix/transfer', 1406), ('activation/starter', 1125), ('sugars', 789), ('main herb', 692), ('heat', 487), ('secondary herb', 440), ('liquid base', 426), ('complex herbal compound', 156)]
 
 ## Associated words (non-generic; heuristic)
 These are non-generic basewords observed in this domain, with a reduced form and best-effort anagram candidates from a Wiktionary-derived Italian lexicon (WikWik).
@@ -45,3 +45,13 @@ English glosses are best-effort summaries from English Wiktionary extracts and m
 - `olkaiin` → reduced `olcaiin` → Italian anagram `caolini`; English: [n/a]
 - `daiir` → reduced `paiir` → Italian anagram `aprii`; English: [n/a]
 - `qoaiin` → reduced `coaiin` → Italian anagram `coniai`; English: [n/a]
+
+## Folios
+- f1r: ../../recipe_readmes/text_only/f1r/README.md
+- f58r: ../../recipe_readmes/text_only/f58r/README.md
+- f58v: ../../recipe_readmes/text_only/f58v/README.md
+- f66r: ../../recipe_readmes/text_only/f66r/README.md
+- f76r: ../../recipe_readmes/text_only/f76r/README.md
+- f85r1: ../../recipe_readmes/text_only/f85r1/README.md
+- f86v6: ../../recipe_readmes/text_only/f86v6/README.md
+- f86v5: ../../recipe_readmes/text_only/f86v5/README.md

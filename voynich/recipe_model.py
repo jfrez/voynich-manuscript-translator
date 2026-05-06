@@ -19,7 +19,7 @@ COMPOUNDS = {
     "o": "mix/transfer",
     "k": "sugars",
     "t": "heat",
-    "p": "yeast fermentation",
+    "p": "activation/starter",
     "ch": "main herb",
     "sh": "secondary herb",
     "f": "aroma modifier",
@@ -39,7 +39,7 @@ FILLER_TOKENS = {"v", "x", "c", "g", "j"}
 STATE_MAP = {
     "e": "active extraction",
     "i": "cooling/rest",
-    "a": "fermentation start",
+    "a": "phase transition/start",
 }
 
 
@@ -70,9 +70,9 @@ def extract_vowel_run(word: str) -> str | None:
 
 def extract_suffix(word: str) -> str | None:
     if "aiin" in word:
-        return "long fermentation (aging)"
+        return "long phase"
     if "iin" in word:
-        return "medium fermentation"
+        return "medium phase"
     if "dy" in word:
         return "days"
     return None
@@ -169,8 +169,8 @@ def interpret_word(word: str) -> WordInterpretation:
         steps.append("add aroma modifier")
     if "mix/transfer" in compounds:
         steps.append("mix / transfer")
-    if "yeast fermentation" in compounds:
-        steps.append("start fermentation (yeast)")
+    if "activation/starter" in compounds:
+        steps.append("add starter / activate")
     if "complex herbal compound" in compounds:
         steps.append("add complex herbal compound (safe blend)")
 
@@ -183,10 +183,10 @@ def interpret_word(word: str) -> WordInterpretation:
             steps.append(f"duration level {duration}")
         steps.append(f"state: {state}")
 
-    if suffix == "long fermentation (aging)":
-        steps.append("long fermentation / aging phase")
-    elif suffix == "medium fermentation":
-        steps.append("medium fermentation phase")
+    if suffix == "long phase":
+        steps.append("long phase")
+    elif suffix == "medium phase":
+        steps.append("medium phase")
 
     # If the word contains unmodeled tokens, surface that fact (without assigning meaning).
     if unknown_tokens:
@@ -259,21 +259,21 @@ def generate_recipe(eva_text: str, plant_category_guess: str = "unknown", batch_
 
     main_dry_g = (20 * level if c.get("main herb", 0) else 10 * level) * scale
     secondary_dry_g = (10 * level if c.get("secondary herb", 0) else 5 * level) * scale
-    yeast_g = {1: 2, 2: 3, 3: 4}[level] if c.get("yeast fermentation", 0) else 2
-    yeast_g = yeast_g * scale
+    starter_g = {1: 2, 2: 3, 3: 4}[level] if c.get("activation/starter", 0) else 0
+    starter_g = starter_g * scale
 
     has_heat = c.get("heat", 0) > 0
     has_aroma = c.get("aroma modifier", 0) > 0
     has_complex = c.get("complex herbal compound", 0) > 0
 
-    # Fermentation time
+    # Phase time (generic)
     norm_all = " ".join(w.normalized for w in interpreted)
     if "aiin" in norm_all:
-        ferment_days = "7–14 days"
+        phase_days = "7–14 days"
     elif "iin" in norm_all:
-        ferment_days = "3–5 days"
+        phase_days = "3–5 days"
     else:
-        ferment_days = "2–4 days"
+        phase_days = "1–3 days"
 
     subs = _substitutes_for_category(plant_category_guess)
 
@@ -284,8 +284,10 @@ def generate_recipe(eva_text: str, plant_category_guess: str = "unknown", batch_
         "main_plant_dry_g": int(main_dry_g),
         "secondary_herb_substitute": subs["secondary"],
         "secondary_herb_dry_g": int(secondary_dry_g),
-        "yeast_g": max(1, int(round(yeast_g))),
     }
+    if starter_g > 0:
+        ingredients["starter_g"] = max(1, int(round(starter_g)))
+        ingredients["starter_note"] = "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
     if has_aroma:
         ingredients["aroma_modifier"] = subs["aroma"]
         ingredients["aroma_modifier_dose"] = "2–5 g (or 1 strip of peel, avoiding the bitter pith)"
@@ -293,22 +295,23 @@ def generate_recipe(eva_text: str, plant_category_guess: str = "unknown", batch_
         ingredients["safe_complex_herbal_blend"] = "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
 
     process: list[str] = []
-    process.append("Sanitize the jar/fermenter and utensils.")
-    process.append(f"Base: combine {water_l} L water with {int(sugar_g)} g sugar or honey.")
+    process.append("Sanitize the vessel and utensils (good practice for any wet process).")
+    process.append(f"Base: combine {water_l} L water with {int(sugar_g)} g sugar or honey (or reduce/omit if you want a non-sweet infusion).")
     if has_heat:
-        process.append("Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.")
+        process.append("Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.")
     else:
-        process.append("Infusion: use hot (not boiling) water, then let it cool before adding yeast.")
+        process.append("Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.")
     process.append(f"Add main plant: {subs['main']} (~{int(main_dry_g)} g dried).")
     process.append(f"Add secondary herb: {subs['secondary']} (~{int(secondary_dry_g)} g dried).")
     if has_aroma:
         process.append("Add aroma modifier (optional) in a low dose.")
     if has_complex:
         process.append("If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.")
-    process.append(f"Pitch yeast: {ingredients['yeast_g']} g (ideally cider/beer yeast).")
-    process.append(f"Ferment with an airlock: {ferment_days} (guided by iin/aiin markers).")
-    process.append("Strain/rack (if very solid-heavy) and cold-crash 24 h.")
-    process.append("Bottle only when activity clearly slows; refrigerate. Avoid overpressure.")
+    if starter_g > 0:
+        process.append(f"Add starter: {ingredients['starter_g']} g (generic activation step; exact culture depends on your chosen domain interpretation).")
+    process.append(f"Hold for the indicated phase: {phase_days} (guided by dy/iin/aiin cues).")
+    process.append("Strain/filter if needed, then rest cold 12–24 h for clarity (optional).")
+    process.append("Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable.")
 
     does_make_sense = "yes"
     if plant_category_guess == "unknown":
@@ -317,15 +320,15 @@ def generate_recipe(eva_text: str, plant_category_guess: str = "unknown", batch_
     risks = [
         "Never use unidentified Voynich plants directly; only use known edible substitutes.",
         "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-        "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+        "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
         "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-        "No medical claims: this is an experimental beverage.",
+        "No medical claims: this is an experimental procedural model.",
     ]
 
     adjustments = [
         "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-        "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-        "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented).",
+        "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+        "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract.",
     ]
 
     return {
@@ -347,11 +350,11 @@ def generate_recipe(eva_text: str, plant_category_guess: str = "unknown", batch_
         "procedural_summary": {
             "compound_counts": dict(Counter(compounds_all)),
             "dose_level": level,
-            "fermentation_estimate": ferment_days,
+            "phase_duration_estimate": phase_days,
         },
         "ingredients": ingredients,
         "process": process,
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": does_make_sense,
         "risks": risks,
         "recommended_adjustments": adjustments,

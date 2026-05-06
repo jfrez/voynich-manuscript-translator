@@ -1,4 +1,4 @@
-# Voynich Speculative Herbal Ferment Recipe — f65r
+# Voynich Speculative Procedural Protocol — f65r
 
 IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.
 
@@ -70,6 +70,6 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: otaim dam alam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- otaim: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
-- dam: start fermentation (yeast) → duration level 1 → state: fermentation start
-- alam: duration level 1 → state: fermentation start
+- otaim: apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start
+- dam: add starter / activate → duration level 1 → state: phase transition/start
+- alam: duration level 1 → state: phase transition/start

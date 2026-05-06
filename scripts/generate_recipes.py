@@ -43,7 +43,7 @@ def _merge_pantry_max(pantry: dict, ingredients: dict) -> dict:
 
 
 def main(argv: list[str]) -> int:
-    ap = argparse.ArgumentParser(description="Generate speculative herbal fermentation 'recipes' per folio from EVA.")
+    ap = argparse.ArgumentParser(description="Generate speculative procedural 'recipes' (generic processes) per folio from EVA.")
     ap.add_argument("--pages-dir", default="data/pages", help="Input directory produced by scripts/build_pages.py")
     ap.add_argument("--out-dir", default="data/recipes", help="Output directory for per-folio recipe JSON")
     ap.add_argument("--limit", type=int, default=0, help="If set, only generate first N folios (debug).")

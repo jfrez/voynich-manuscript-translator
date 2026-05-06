@@ -8,7 +8,7 @@
 ## Summary stats
 - folios: 8
 - EVA word tokens (approx): 962
-- top procedural compounds: [('mix/transfer', 654), ('yeast fermentation', 338), ('main herb', 289), ('sugars', 242), ('heat', 156), ('secondary herb', 67), ('complex herbal compound', 43), ('liquid base', 34)]
+- top procedural compounds: [('mix/transfer', 654), ('activation/starter', 338), ('main herb', 289), ('sugars', 242), ('heat', 156), ('secondary herb', 67), ('complex herbal compound', 43), ('liquid base', 34)]
 
 ## Associated words (non-generic; heuristic)
 These are non-generic basewords observed in this domain, with a reduced form and best-effort anagram candidates from a Wiktionary-derived Italian lexicon (WikWik).
@@ -29,3 +29,13 @@ English glosses are best-effort summaries from English Wiktionary extracts and m
 - `odain` → reduced `opain` → Italian anagram `opina`; English: opine
 - `chodar` → reduced `copar` → Italian anagram `capro`; English: male goat
 - `okeos` → reduced `oceos` → Italian anagram `coeso`; English: cohesive
+
+## Folios
+- f67v1: ../../recipe_readmes/astronomical/f67v1/README.md
+- f68r1: ../../recipe_readmes/astronomical/f68r1/README.md
+- f68r2: ../../recipe_readmes/astronomical/f68r2/README.md
+- f68r3: ../../recipe_readmes/astronomical/f68r3/README.md
+- f68v2: ../../recipe_readmes/astronomical/f68v2/README.md
+- f68v1: ../../recipe_readmes/astronomical/f68v1/README.md
+- f67r1: ../../recipe_readmes/astronomical/f67r1/README.md
+- f67r2: ../../recipe_readmes/astronomical/f67r2/README.md

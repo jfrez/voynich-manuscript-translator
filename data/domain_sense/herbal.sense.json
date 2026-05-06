@@ -1,0 +1,32 @@
+{
+  "domain": "herbal",
+  "source": "data/domains/<domain>/README.md (Associated words English glosses)",
+  "note": "Heuristic 'sense layer' generated from gloss keywords; not a translation or decipherment.",
+  "keyword_scores": {
+    "bath/wash": 0,
+    "heat/boil": 0,
+    "oil/wax": 0,
+    "plant/food": 1,
+    "measure/time": 0,
+    "astral": 0
+  },
+  "marker_sense": {
+    "qo": "base liquid / carrier",
+    "q": "generic base marker",
+    "o": "mix / transfer / continuation",
+    "k": "additives / solutes (often sweeteners)",
+    "t": "apply heat",
+    "p": "activation / starter step (optional)",
+    "ch": "main material (page-centric)",
+    "sh": "secondary material",
+    "f": "aroma modifier",
+    "cth/ckh/cph/cfh": "complex blend / compound step",
+    "e…": "active step (extraction/work)",
+    "i…": "rest/cool step",
+    "a…": "transition/start step",
+    "dy": "explicit days marker",
+    "iin": "medium phase marker",
+    "aiin": "long phase marker",
+    "_top_keyword_labels": "plant/food"
+  }
+}

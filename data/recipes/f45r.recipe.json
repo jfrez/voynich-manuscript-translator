@@ -23,7 +23,10 @@
       "mint"
     ],
     "secondary_herb_dry_g": 2,
-    "yeast_g": 1,
+    "starter_g": 1,
+    "starter_note": [
+      "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
+    ],
     "aroma_modifier": [
       "lemon peel (optional)"
     ],
@@ -39,7 +42,7 @@
     "plant_category_guess": "unknown",
     "procedural_summary": {
       "compound_counts": {
-        "yeast fermentation": 32,
+        "activation/starter": 32,
         "sugars": 24,
         "secondary herb": 6,
         "mix/transfer": 41,
@@ -50,21 +53,21 @@
         "complex herbal compound": 6
       },
       "dose_level": 2,
-      "fermentation_estimate": "7–14 days"
+      "phase_duration_estimate": "7–14 days"
     },
-    "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+    "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
     "does_it_make_sense": "partial",
     "risks": [
       "Never use unidentified Voynich plants directly; only use known edible substitutes.",
       "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-      "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+      "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
       "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-      "No medical claims: this is an experimental beverage."
+      "No medical claims: this is an experimental procedural model."
     ],
     "recommended_adjustments": [
       "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-      "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-      "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+      "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+      "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
     ]
   },
   "line_recipes": [
@@ -86,16 +89,16 @@
               "l"
             ],
             "compounds": [
-              "yeast fermentation",
+              "activation/starter",
               "sugars",
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add fermentable sugars → start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add fermentable sugars → add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "shaikhy",
@@ -114,7 +117,7 @@
             "connectors": [],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add fermentable sugars → add secondary herb (safe substitute) → duration level 1 → state: fermentation start"
+            "interpretation": "add fermentable sugars → add secondary herb (safe substitute) → duration level 1 → state: phase transition/start → unmodeled token(s) present: h"
           },
           {
             "word": "oty",
@@ -156,12 +159,12 @@
             ],
             "compounds": [
               "liquid base",
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "prepare liquid base → start fermentation (yeast)"
+            "interpretation": "prepare liquid base → add starter / activate"
           },
           {
             "word": "char",
@@ -179,7 +182,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → duration level 1 → state: fermentation start"
+            "interpretation": "add main plant (safe substitute) → duration level 1 → state: phase transition/start"
           },
           {
             "word": "opchal",
@@ -193,7 +196,7 @@
             ],
             "compounds": [
               "mix/transfer",
-              "yeast fermentation",
+              "activation/starter",
               "main herb"
             ],
             "connectors": [
@@ -201,7 +204,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "ypchor",
@@ -213,7 +216,7 @@
               "r"
             ],
             "compounds": [
-              "yeast fermentation",
+              "activation/starter",
               "main herb",
               "mix/transfer"
             ],
@@ -222,7 +225,7 @@
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → mix / transfer → start fermentation (yeast)"
+            "interpretation": "add main plant (safe substitute) → mix / transfer → add starter / activate"
           },
           {
             "word": "ofchar",
@@ -244,12 +247,12 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → add aroma modifier → mix / transfer → duration level 1 → state: fermentation start"
+            "interpretation": "add main plant (safe substitute) → add aroma modifier → mix / transfer → duration level 1 → state: phase transition/start"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
-            "yeast fermentation": 5,
+            "activation/starter": 5,
             "sugars": 2,
             "secondary herb": 2,
             "mix/transfer": 4,
@@ -259,7 +262,7 @@
             "aroma modifier": 1
           },
           "dose_level": 1,
-          "fermentation_estimate": "2–4 days"
+          "phase_duration_estimate": "1–3 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -268,35 +271,36 @@
           "main_plant_dry_g": 5,
           "secondary_herb_substitute": "mint",
           "secondary_herb_dry_g": 2,
-          "yeast_g": 1,
+          "starter_g": 1,
+          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present.",
           "aroma_modifier": "lemon peel (optional)",
           "aroma_modifier_dose": "2–5 g (or 1 strip of peel, avoiding the bitter pith)"
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 25 g sugar or honey.",
-          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~5 g dried).",
           "Add secondary herb: mint (~2 g dried).",
           "Add aroma modifier (optional) in a low dose.",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 2–4 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
+          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",
@@ -397,8 +401,8 @@
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "prepare liquid base → add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "prepare liquid base → add fermentable sugars → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "chol",
@@ -450,8 +454,8 @@
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "add fermentable sugars → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "dar",
@@ -462,14 +466,14 @@
               "r"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "r"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "om",
@@ -497,10 +501,10 @@
             "liquid base": 3,
             "sugars": 4,
             "main herb": 2,
-            "yeast fermentation": 1
+            "activation/starter": 1
           },
           "dose_level": 1,
-          "fermentation_estimate": "7–14 days"
+          "phase_duration_estimate": "7–14 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -509,34 +513,35 @@
           "main_plant_dry_g": 5,
           "secondary_herb_substitute": "mint",
           "secondary_herb_dry_g": 2,
-          "yeast_g": 1,
+          "starter_g": 1,
+          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present.",
           "safe_complex_herbal_blend": "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 25 g sugar or honey.",
-          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~5 g dried).",
           "Add secondary herb: mint (~2 g dried).",
           "If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
+          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",
@@ -612,12 +617,12 @@
               "aiin"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "qoaiin",
@@ -631,8 +636,8 @@
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "prepare liquid base → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "prepare liquid base → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "cthy",
@@ -660,8 +665,8 @@
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "add main plant (safe substitute) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "add main plant (safe substitute) → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "ykeey",
@@ -705,10 +710,10 @@
             "complex herbal compound": 3,
             "sugars": 2,
             "mix/transfer": 2,
-            "yeast fermentation": 1
+            "activation/starter": 1
           },
           "dose_level": 2,
-          "fermentation_estimate": "7–14 days"
+          "phase_duration_estimate": "7–14 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -717,34 +722,35 @@
           "main_plant_dry_g": 10,
           "secondary_herb_substitute": "mint",
           "secondary_herb_dry_g": 2,
-          "yeast_g": 1,
+          "starter_g": 1,
+          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present.",
           "safe_complex_herbal_blend": "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 50 g sugar or honey.",
-          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 50 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~10 g dried).",
           "Add secondary herb: mint (~2 g dried).",
           "If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
+          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",
@@ -802,8 +808,8 @@
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "add fermentable sugars → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "ykeol",
@@ -861,7 +867,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → duration level 1 → state: fermentation start"
+            "interpretation": "add main plant (safe substitute) → duration level 1 → state: phase transition/start"
           }
         ],
         "procedural_summary": {
@@ -871,7 +877,7 @@
             "main herb": 1
           },
           "dose_level": 1,
-          "fermentation_estimate": "7–14 days"
+          "phase_duration_estimate": "7–14 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -879,33 +885,31 @@
           "main_plant_substitute": "chamomile (safe default substitute)",
           "main_plant_dry_g": 5,
           "secondary_herb_substitute": "mint",
-          "secondary_herb_dry_g": 1,
-          "yeast_g": 1
+          "secondary_herb_dry_g": 1
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 25 g sugar or honey.",
-          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~5 g dried).",
           "Add secondary herb: mint (~1 g dried).",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",
@@ -967,7 +971,7 @@
               "r"
             ],
             "compounds": [
-              "yeast fermentation",
+              "activation/starter",
               "main herb",
               "mix/transfer"
             ],
@@ -976,7 +980,7 @@
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → mix / transfer → start fermentation (yeast)"
+            "interpretation": "add main plant (safe substitute) → mix / transfer → add starter / activate"
           },
           {
             "word": "kchey",
@@ -1022,16 +1026,16 @@
             ],
             "compounds": [
               "mix/transfer",
-              "yeast fermentation",
+              "activation/starter",
               "main herb",
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "otshy",
@@ -1078,7 +1082,7 @@
               "l"
             ],
             "compounds": [
-              "yeast fermentation",
+              "activation/starter",
               "mix/transfer"
             ],
             "connectors": [
@@ -1086,7 +1090,7 @@
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "mix / transfer → start fermentation (yeast)"
+            "interpretation": "mix / transfer → add starter / activate"
           },
           {
             "word": "daiin",
@@ -1096,12 +1100,12 @@
               "aiin"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start → long phase"
           }
         ],
         "procedural_summary": {
@@ -1109,13 +1113,13 @@
             "sugars": 3,
             "mix/transfer": 6,
             "secondary herb": 2,
-            "yeast fermentation": 5,
+            "activation/starter": 5,
             "main herb": 4,
             "heat": 2,
             "liquid base": 1
           },
           "dose_level": 1,
-          "fermentation_estimate": "7–14 days"
+          "phase_duration_estimate": "7–14 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -1124,32 +1128,33 @@
           "main_plant_dry_g": 5,
           "secondary_herb_substitute": "mint",
           "secondary_herb_dry_g": 2,
-          "yeast_g": 1
+          "starter_g": 1,
+          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 25 g sugar or honey.",
-          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~5 g dried).",
           "Add secondary herb: mint (~2 g dried).",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
+          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",
@@ -1186,7 +1191,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start"
+            "interpretation": "apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start"
           },
           {
             "word": "okchar",
@@ -1208,7 +1213,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start"
+            "interpretation": "add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start"
           },
           {
             "word": "daiin",
@@ -1218,12 +1223,12 @@
               "aiin"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "ytchody",
@@ -1238,12 +1243,12 @@
               "heat",
               "main herb",
               "mix/transfer",
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)"
+            "interpretation": "apply heat/cooking → add main plant (safe substitute) → mix / transfer → add starter / activate"
           },
           {
             "word": "tcholol",
@@ -1288,7 +1293,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start"
+            "interpretation": "apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start"
           },
           {
             "word": "dal",
@@ -1299,14 +1304,14 @@
               "l"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "dary",
@@ -1317,14 +1322,14 @@
               "r"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "r"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
           }
         ],
         "procedural_summary": {
@@ -1333,10 +1338,10 @@
             "heat": 4,
             "main herb": 4,
             "sugars": 1,
-            "yeast fermentation": 4
+            "activation/starter": 4
           },
           "dose_level": 1,
-          "fermentation_estimate": "7–14 days"
+          "phase_duration_estimate": "7–14 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -1345,32 +1350,33 @@
           "main_plant_dry_g": 5,
           "secondary_herb_substitute": "mint",
           "secondary_herb_dry_g": 1,
-          "yeast_g": 1
+          "starter_g": 1,
+          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 25 g sugar or honey.",
-          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~5 g dried).",
           "Add secondary herb: mint (~1 g dried).",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
+          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",
@@ -1405,7 +1411,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → duration level 1 → state: fermentation start"
+            "interpretation": "add main plant (safe substitute) → duration level 1 → state: phase transition/start"
           },
           {
             "word": "qor",
@@ -1450,7 +1456,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add fermentable sugars → duration level 1 → state: fermentation start"
+            "interpretation": "add fermentable sugars → duration level 1 → state: phase transition/start"
           },
           {
             "word": "dar",
@@ -1461,14 +1467,14 @@
               "r"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "r"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
           }
         ],
         "procedural_summary": {
@@ -1476,10 +1482,10 @@
             "main herb": 1,
             "liquid base": 1,
             "sugars": 1,
-            "yeast fermentation": 1
+            "activation/starter": 1
           },
           "dose_level": 1,
-          "fermentation_estimate": "2–4 days"
+          "phase_duration_estimate": "1–3 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -1488,32 +1494,33 @@
           "main_plant_dry_g": 5,
           "secondary_herb_substitute": "mint",
           "secondary_herb_dry_g": 1,
-          "yeast_g": 1
+          "starter_g": 1,
+          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 25 g sugar or honey.",
-          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~5 g dried).",
           "Add secondary herb: mint (~1 g dried).",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 2–4 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
+          "Hold for the indicated phase: 1–3 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",
@@ -1575,12 +1582,12 @@
             ],
             "compounds": [
               "liquid base",
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "prepare liquid base → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "prepare liquid base → add starter / activate → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "cthy",
@@ -1606,14 +1613,14 @@
               "n"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "n"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "thhey",
@@ -1630,7 +1637,7 @@
             "connectors": [],
             "vowel_run": "e",
             "suffix": null,
-            "interpretation": "apply heat/cooking → duration level 1 → state: active extraction"
+            "interpretation": "apply heat/cooking → duration level 1 → state: active extraction → unmodeled token(s) present: h"
           },
           {
             "word": "otydal",
@@ -1645,14 +1652,14 @@
             "compounds": [
               "mix/transfer",
               "heat",
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "daiin",
@@ -1662,12 +1669,12 @@
               "aiin"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "g",
@@ -1688,12 +1695,12 @@
               "p"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "start fermentation (yeast)"
+            "interpretation": "add starter / activate"
           }
         ],
         "procedural_summary": {
@@ -1703,10 +1710,10 @@
             "mix/transfer": 2,
             "complex herbal compound": 2,
             "liquid base": 1,
-            "yeast fermentation": 5
+            "activation/starter": 5
           },
           "dose_level": 1,
-          "fermentation_estimate": "7–14 days"
+          "phase_duration_estimate": "7–14 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -1715,34 +1722,35 @@
           "main_plant_dry_g": 5,
           "secondary_herb_substitute": "mint",
           "secondary_herb_dry_g": 1,
-          "yeast_g": 1,
+          "starter_g": 1,
+          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present.",
           "safe_complex_herbal_blend": "gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend"
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 12 g sugar or honey.",
-          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 12 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~5 g dried).",
           "Add secondary herb: mint (~1 g dried).",
           "If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
+          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",
@@ -1810,7 +1818,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add main plant (safe substitute) → duration level 1 → state: fermentation start"
+            "interpretation": "add main plant (safe substitute) → duration level 1 → state: phase transition/start"
           },
           {
             "word": "dain",
@@ -1822,14 +1830,14 @@
               "n"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "n"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "ykolody",
@@ -1845,14 +1853,14 @@
               "sugars",
               "mix/transfer",
               "mix/transfer",
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "add fermentable sugars → mix / transfer → start fermentation (yeast)"
+            "interpretation": "add fermentable sugars → mix / transfer → add starter / activate"
           },
           {
             "word": "ytaiin",
@@ -1866,8 +1874,8 @@
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "apply heat/cooking → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "qotchol",
@@ -1918,25 +1926,25 @@
               "p"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [],
             "vowel_run": null,
             "suffix": null,
-            "interpretation": "start fermentation (yeast)"
+            "interpretation": "add starter / activate"
           }
         ],
         "procedural_summary": {
           "compound_counts": {
             "mix/transfer": 6,
             "main herb": 2,
-            "yeast fermentation": 3,
+            "activation/starter": 3,
             "sugars": 2,
             "heat": 2,
             "liquid base": 1
           },
           "dose_level": 1,
-          "fermentation_estimate": "7–14 days"
+          "phase_duration_estimate": "7–14 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -1945,32 +1953,33 @@
           "main_plant_dry_g": 5,
           "secondary_herb_substitute": "mint",
           "secondary_herb_dry_g": 1,
-          "yeast_g": 1
+          "starter_g": 1,
+          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 25 g sugar or honey.",
-          "Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Apply gentle heat: simmer 10–15 min (if present in markers), then cool to <30°C before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~5 g dried).",
           "Add secondary herb: mint (~1 g dried).",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
+          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",
@@ -2001,8 +2010,8 @@
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "add fermentable sugars → mix / transfer → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "shar",
@@ -2020,7 +2029,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add secondary herb (safe substitute) → duration level 1 → state: fermentation start"
+            "interpretation": "add secondary herb (safe substitute) → duration level 1 → state: phase transition/start"
           },
           {
             "word": "yky",
@@ -2069,7 +2078,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "add fermentable sugars → duration level 1 → state: fermentation start"
+            "interpretation": "add fermentable sugars → duration level 1 → state: phase transition/start"
           },
           {
             "word": "daldy",
@@ -2081,15 +2090,15 @@
               "p"
             ],
             "compounds": [
-              "yeast fermentation",
-              "yeast fermentation"
+              "activation/starter",
+              "activation/starter"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "dalor",
@@ -2102,7 +2111,7 @@
               "r"
             ],
             "compounds": [
-              "yeast fermentation",
+              "activation/starter",
               "mix/transfer"
             ],
             "connectors": [
@@ -2111,7 +2120,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "mix / transfer → add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "cheol",
@@ -2142,14 +2151,14 @@
               "l"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
           }
         ],
         "procedural_summary": {
@@ -2157,11 +2166,11 @@
             "mix/transfer": 4,
             "sugars": 4,
             "secondary herb": 1,
-            "yeast fermentation": 4,
+            "activation/starter": 4,
             "main herb": 1
           },
           "dose_level": 1,
-          "fermentation_estimate": "7–14 days"
+          "phase_duration_estimate": "7–14 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -2170,32 +2179,33 @@
           "main_plant_dry_g": 5,
           "secondary_herb_substitute": "mint",
           "secondary_herb_dry_g": 2,
-          "yeast_g": 1
+          "starter_g": 1,
+          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 25 g sugar or honey.",
-          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~5 g dried).",
           "Add secondary herb: mint (~2 g dried).",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
+          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",
@@ -2240,8 +2250,8 @@
             ],
             "connectors": [],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "add fermentable sugars → mix / transfer → duration level 1 → state: phase transition/start → long phase"
           },
           {
             "word": "okcho",
@@ -2275,7 +2285,7 @@
               "n"
             ],
             "compounds": [
-              "yeast fermentation"
+              "activation/starter"
             ],
             "connectors": [
               "l",
@@ -2284,7 +2294,7 @@
             ],
             "vowel_run": "a",
             "suffix": null,
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start"
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start"
           },
           {
             "word": "daldaiin",
@@ -2297,15 +2307,15 @@
               "aiin"
             ],
             "compounds": [
-              "yeast fermentation",
-              "yeast fermentation"
+              "activation/starter",
+              "activation/starter"
             ],
             "connectors": [
               "l"
             ],
             "vowel_run": "a",
-            "suffix": "long fermentation (aging)",
-            "interpretation": "start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase"
+            "suffix": "long phase",
+            "interpretation": "add starter / activate → duration level 1 → state: phase transition/start → long phase"
           }
         ],
         "procedural_summary": {
@@ -2313,10 +2323,10 @@
             "mix/transfer": 3,
             "sugars": 2,
             "main herb": 1,
-            "yeast fermentation": 3
+            "activation/starter": 3
           },
           "dose_level": 1,
-          "fermentation_estimate": "7–14 days"
+          "phase_duration_estimate": "7–14 days"
         },
         "ingredients": {
           "water_l": 0.5,
@@ -2325,32 +2335,33 @@
           "main_plant_dry_g": 5,
           "secondary_herb_substitute": "mint",
           "secondary_herb_dry_g": 1,
-          "yeast_g": 1
+          "starter_g": 1,
+          "starter_note": "Optional generic starter/activator (e.g., brewing yeast, sourdough starter liquid, or a safe culture), only if the `p` marker is present."
         },
         "process": [
-          "Sanitize the jar/fermenter and utensils.",
-          "Base: combine 0.5 L water with 25 g sugar or honey.",
-          "Infusion: use hot (not boiling) water, then let it cool before adding yeast.",
+          "Sanitize the vessel and utensils (good practice for any wet process).",
+          "Base: combine 0.5 L water with 25 g sugar or honey (or reduce/omit if you want a non-sweet infusion).",
+          "Infusion/extraction: use hot (not boiling) water, then let it cool before any starter is added.",
           "Add main plant: chamomile (safe default substitute) (~5 g dried).",
           "Add secondary herb: mint (~1 g dried).",
-          "Pitch yeast: 1 g (ideally cider/beer yeast).",
-          "Ferment with an airlock: 7–14 days (guided by iin/aiin markers).",
-          "Strain/rack (if very solid-heavy) and cold-crash 24 h.",
-          "Bottle only when activity clearly slows; refrigerate. Avoid overpressure."
+          "Add starter: 1 g (generic activation step; exact culture depends on your chosen domain interpretation).",
+          "Hold for the indicated phase: 7–14 days (guided by dy/iin/aiin cues).",
+          "Strain/filter if needed, then rest cold 12–24 h for clarity (optional).",
+          "Store refrigerated. If the process becomes carbonated/pressurized, vent carefully and avoid sealed bottling unless you know it is stable."
         ],
-        "expected_result": "A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.",
+        "expected_result": "A mild herbal preparation (infusion/extract) whose intensity depends on the detected level markers; a live-culture step is optional and only suggested when `p` appears.",
         "does_it_make_sense": "partial",
         "risks": [
           "Never use unidentified Voynich plants directly; only use known edible substitutes.",
           "Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.",
-          "Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.",
+          "Overpressure risk: avoid sealed bottling if you used a starter culture or see active gas production.",
           "Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.",
-          "No medical claims: this is an experimental beverage."
+          "No medical claims: this is an experimental procedural model."
         ],
         "recommended_adjustments": [
           "If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.",
-          "If too sweet, extend fermentation or reduce sugar by 25–50%.",
-          "For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented)."
+          "If too sweet, reduce sugar by 25–50% or omit it entirely (many processes may be non-fermentative).",
+          "If you did not intend any live-culture step, do not add a starter even if `p` appears; keep the result refrigerated as an infusion/extract."
         ],
         "plant_interpretation": {
           "category": "unknown",

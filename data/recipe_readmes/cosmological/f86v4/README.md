@@ -1,4 +1,4 @@
-# Voynich Speculative Herbal Ferment Recipe — f86v4
+# Voynich Speculative Procedural Protocol — f86v4
 
 IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.
 
@@ -86,46 +86,46 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: opos os sheody pch???ar odsheo qody cheepchdy lpchedy olkar shdar dchdor qopcher ches os eeedar odaiin pcheodar chdair orarorchy shar opchsey otedy chcphhy chedy sarshed odar sheey scheor al cheefar shetchy qoteol otor shar qoteshy do??? ofor arar dl
 
 Direct Gloss (Procedural, Not a Real Translation):
-- opos: mix / transfer → start fermentation (yeast)
+- opos: mix / transfer → add starter / activate
 - os: mix / transfer
-- sheody: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- pch: add main plant (safe substitute) → start fermentation (yeast)
-- ar: duration level 1 → state: fermentation start
-- odsheo: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- qody: prepare liquid base → start fermentation (yeast)
-- cheepchdy: add main plant (safe substitute) → start fermentation (yeast) → duration level 2 → state: active extraction
-- lpchedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-- olkar: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
-- shdar: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
-- dchdor: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
-- qopcher: prepare liquid base → add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- sheody: add secondary herb (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- pch: add main plant (safe substitute) → add starter / activate
+- ar: duration level 1 → state: phase transition/start
+- odsheo: add secondary herb (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- qody: prepare liquid base → add starter / activate
+- cheepchdy: add main plant (safe substitute) → add starter / activate → duration level 2 → state: active extraction
+- lpchedy: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- olkar: add fermentable sugars → mix / transfer → duration level 1 → state: phase transition/start
+- shdar: add secondary herb (safe substitute) → add starter / activate → duration level 1 → state: phase transition/start
+- dchdor: add main plant (safe substitute) → mix / transfer → add starter / activate
+- qopcher: prepare liquid base → add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
 - ches: add main plant (safe substitute) → duration level 1 → state: active extraction
 - os: mix / transfer
-- eeedar: start fermentation (yeast) → duration level 3 → state: active extraction
-- odaiin: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
-- pcheodar: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- chdair: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
-- orarorchy: add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start
-- shar: add secondary herb (safe substitute) → duration level 1 → state: fermentation start
-- opchsey: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- otedy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- chcphhy: add main plant (safe substitute) → add complex herbal compound (safe blend)
-- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-- sarshed: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
-- odar: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+- eeedar: add starter / activate → duration level 3 → state: active extraction
+- odaiin: mix / transfer → add starter / activate → duration level 1 → state: phase transition/start → long phase
+- pcheodar: add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- chdair: add main plant (safe substitute) → add starter / activate → duration level 1 → state: phase transition/start
+- orarorchy: add main plant (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start
+- shar: add secondary herb (safe substitute) → duration level 1 → state: phase transition/start
+- opchsey: add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- otedy: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- chcphhy: add main plant (safe substitute) → add complex herbal compound (safe blend) → unmodeled token(s) present: h
+- chedy: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- sarshed: add secondary herb (safe substitute) → add starter / activate → duration level 1 → state: phase transition/start
+- odar: mix / transfer → add starter / activate → duration level 1 → state: phase transition/start
 - sheey: add secondary herb (safe substitute) → duration level 2 → state: active extraction
 - scheor: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- al: duration level 1 → state: fermentation start
+- al: duration level 1 → state: phase transition/start
 - cheefar: add main plant (safe substitute) → add aroma modifier → duration level 2 → state: active extraction
 - shetchy: apply heat/cooking → add main plant (safe substitute) → add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - qoteol: prepare liquid base → apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
 - otor: apply heat/cooking → mix / transfer
-- shar: add secondary herb (safe substitute) → duration level 1 → state: fermentation start
+- shar: add secondary herb (safe substitute) → duration level 1 → state: phase transition/start
 - qoteshy: prepare liquid base → apply heat/cooking → add secondary herb (safe substitute) → duration level 1 → state: active extraction
-- do: mix / transfer → start fermentation (yeast)
+- do: mix / transfer → add starter / activate
 - ofor: add aroma modifier → mix / transfer
-- arar: duration level 1 → state: fermentation start
-- dl: start fermentation (yeast)
+- arar: duration level 1 → state: phase transition/start
+- dl: add starter / activate
 
 <a id="f86v4-2-f86v4-2-cc"></a>
 
@@ -137,37 +137,37 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oeeey: mix / transfer → duration level 3 → state: active extraction
 - o: mix / transfer
 - y: [unparsed]
-- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
-- otedaiin: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction → long fermentation / aging phase
-- otedy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
+- otedaiin: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction → long phase
+- otedy: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
 - oteey: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
-- chedaiin: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction → long fermentation / aging phase
-- octhedy: mix / transfer → start fermentation (yeast) → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
+- chedaiin: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction → long phase
+- octhedy: mix / transfer → add starter / activate → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
 - chy: add main plant (safe substitute)
-- shedaiin: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction → long fermentation / aging phase
-- chotaiin: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
-- oraiin: mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
-- otodeee: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 3 → state: active extraction
+- shedaiin: add secondary herb (safe substitute) → add starter / activate → duration level 1 → state: active extraction → long phase
+- chotaiin: apply heat/cooking → add main plant (safe substitute) → mix / transfer → duration level 1 → state: phase transition/start → long phase
+- oraiin: mix / transfer → duration level 1 → state: phase transition/start → long phase
+- otodeee: apply heat/cooking → mix / transfer → add starter / activate → duration level 3 → state: active extraction
 - o: mix / transfer
-- ar: duration level 1 → state: fermentation start
-- yteeody: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
-- oteedaraiin: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction → long fermentation / aging phase
-- shedaiin: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction → long fermentation / aging phase
-- chdar: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
-- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-- qotedaiin: prepare liquid base → apply heat/cooking → start fermentation (yeast) → duration level 1 → state: active extraction → long fermentation / aging phase
-- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-- tchdy: apply heat/cooking → add main plant (safe substitute) → start fermentation (yeast)
-- chetdy: apply heat/cooking → add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-- qotar: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start
-- chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
+- ar: duration level 1 → state: phase transition/start
+- yteeody: apply heat/cooking → mix / transfer → add starter / activate → duration level 2 → state: active extraction
+- oteedaraiin: apply heat/cooking → mix / transfer → add starter / activate → duration level 2 → state: active extraction → long phase
+- shedaiin: add secondary herb (safe substitute) → add starter / activate → duration level 1 → state: active extraction → long phase
+- chdar: add main plant (safe substitute) → add starter / activate → duration level 1 → state: phase transition/start
+- shedy: add secondary herb (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- qotedaiin: prepare liquid base → apply heat/cooking → add starter / activate → duration level 1 → state: active extraction → long phase
+- chedy: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- tchdy: apply heat/cooking → add main plant (safe substitute) → add starter / activate
+- chetdy: apply heat/cooking → add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- chedy: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- qotar: prepare liquid base → apply heat/cooking → duration level 1 → state: phase transition/start
+- chedy: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
 - chckhy: add main plant (safe substitute) → add complex herbal compound (safe blend)
-- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
-- otedy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- seeedy: start fermentation (yeast) → duration level 3 → state: active extraction
+- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
+- otedy: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- seeedy: add starter / activate → duration level 3 → state: active extraction
 - yteey: apply heat/cooking → duration level 2 → state: active extraction
-- sam: duration level 1 → state: fermentation start
+- sam: duration level 1 → state: phase transition/start
 
 <a id="f86v4-3-f86v4-3-cc"></a>
 
@@ -177,44 +177,44 @@ EVA: tchey dair alody shes qeeor or odarchdy chdy orcheos o[s:r] ain or otee[d:?
 
 Direct Gloss (Procedural, Not a Real Translation):
 - tchey: apply heat/cooking → add main plant (safe substitute) → duration level 1 → state: active extraction
-- dair: start fermentation (yeast) → duration level 1 → state: fermentation start
-- alody: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+- dair: add starter / activate → duration level 1 → state: phase transition/start
+- alody: mix / transfer → add starter / activate → duration level 1 → state: phase transition/start
 - shes: add secondary herb (safe substitute) → duration level 1 → state: active extraction
 - qeeor: prepare base (generic) → mix / transfer → duration level 2 → state: active extraction
 - or: mix / transfer
-- odarchdy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
-- chdy: add main plant (safe substitute) → start fermentation (yeast)
+- odarchdy: add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: phase transition/start
+- chdy: add main plant (safe substitute) → add starter / activate
 - orcheos: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
 - o: mix / transfer
 - s: [unparsed]
 - r: [unparsed]
-- ain: duration level 1 → state: fermentation start
+- ain: duration level 1 → state: phase transition/start
 - or: mix / transfer
 - otee: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
-- d: start fermentation (yeast)
-- chedees: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-- oteedy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
+- d: add starter / activate
+- chedees: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- oteedy: apply heat/cooking → mix / transfer → add starter / activate → duration level 2 → state: active extraction
 - qoty: prepare liquid base → apply heat/cooking
-- otedy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-- otedy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- dar: start fermentation (yeast) → duration level 1 → state: fermentation start
-- shd: add secondary herb (safe substitute) → start fermentation (yeast)
+- otedy: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- shedy: add secondary herb (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- otedy: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- dar: add starter / activate → duration level 1 → state: phase transition/start
+- shd: add secondary herb (safe substitute) → add starter / activate
 - shy: add secondary herb (safe substitute)
 - y: [unparsed]
-- schdy: add main plant (safe substitute) → start fermentation (yeast)
-- chdeedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 2 → state: active extraction
-- dodar: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
-- oiin: mix / transfer → duration level 2 → state: cooling/rest → medium fermentation phase
+- schdy: add main plant (safe substitute) → add starter / activate
+- chdeedy: add main plant (safe substitute) → add starter / activate → duration level 2 → state: active extraction
+- dodar: mix / transfer → add starter / activate → duration level 1 → state: phase transition/start
+- oiin: mix / transfer → duration level 2 → state: cooling/rest → medium phase
 - or: mix / transfer
-- oiin: mix / transfer → duration level 2 → state: cooling/rest → medium fermentation phase
-- sar: duration level 1 → state: fermentation start
-- orchedy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- qotchdy: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → start fermentation (yeast)
-- dchdes: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-- ar: duration level 1 → state: fermentation start
-- sheody: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- opcho: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+- oiin: mix / transfer → duration level 2 → state: cooling/rest → medium phase
+- sar: duration level 1 → state: phase transition/start
+- orchedy: add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- qotchdy: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → add starter / activate
+- dchdes: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- ar: duration level 1 → state: phase transition/start
+- sheody: add secondary herb (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- opcho: add main plant (safe substitute) → mix / transfer → add starter / activate
 - fcheom: add main plant (safe substitute) → add aroma modifier → mix / transfer → duration level 1 → state: active extraction
 
 <a id="f86v4-4-f86v4-4-cc"></a>
@@ -224,42 +224,42 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: pchedar ar ocpor otees oes a[iir:iin] olkeor dar ain desy doeedey opchedy shedaiin dar otedy dain otey dam otedy daiin chocthy dtedair chody sheos otedos qokechy pchdeedy dan ol dol oty sho pol otoldyl
 
 Direct Gloss (Procedural, Not a Real Translation):
-- pchedar: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-- ar: duration level 1 → state: fermentation start
-- ocpor: mix / transfer → start fermentation (yeast)
+- pchedar: add main plant (safe substitute) → add starter / activate → duration level 1 → state: active extraction
+- ar: duration level 1 → state: phase transition/start
+- ocpor: mix / transfer → add starter / activate
 - otees: apply heat/cooking → mix / transfer → duration level 2 → state: active extraction
 - oes: mix / transfer → duration level 1 → state: active extraction
-- a: duration level 1 → state: fermentation start
+- a: duration level 1 → state: phase transition/start
 - iir: duration level 2 → state: cooling/rest
-- iin: duration level 2 → state: cooling/rest → medium fermentation phase
+- iin: duration level 2 → state: cooling/rest → medium phase
 - olkeor: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
-- dar: start fermentation (yeast) → duration level 1 → state: fermentation start
-- ain: duration level 1 → state: fermentation start
-- desy: start fermentation (yeast) → duration level 1 → state: active extraction
-- doeedey: mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
-- opchedy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- shedaiin: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction → long fermentation / aging phase
-- dar: start fermentation (yeast) → duration level 1 → state: fermentation start
-- otedy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- dain: start fermentation (yeast) → duration level 1 → state: fermentation start
+- dar: add starter / activate → duration level 1 → state: phase transition/start
+- ain: duration level 1 → state: phase transition/start
+- desy: add starter / activate → duration level 1 → state: active extraction
+- doeedey: mix / transfer → add starter / activate → duration level 2 → state: active extraction
+- opchedy: add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- shedaiin: add secondary herb (safe substitute) → add starter / activate → duration level 1 → state: active extraction → long phase
+- dar: add starter / activate → duration level 1 → state: phase transition/start
+- otedy: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- dain: add starter / activate → duration level 1 → state: phase transition/start
 - otey: apply heat/cooking → mix / transfer → duration level 1 → state: active extraction
-- dam: start fermentation (yeast) → duration level 1 → state: fermentation start
-- otedy: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+- dam: add starter / activate → duration level 1 → state: phase transition/start
+- otedy: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
 - chocthy: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
-- dtedair: apply heat/cooking → start fermentation (yeast) → duration level 1 → state: active extraction
-- chody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+- dtedair: apply heat/cooking → add starter / activate → duration level 1 → state: active extraction
+- chody: add main plant (safe substitute) → mix / transfer → add starter / activate
 - sheos: add secondary herb (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- otedos: apply heat/cooking → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- otedos: apply heat/cooking → mix / transfer → add starter / activate → duration level 1 → state: active extraction
 - qokechy: prepare liquid base → add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: active extraction
-- pchdeedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 2 → state: active extraction
-- dan: start fermentation (yeast) → duration level 1 → state: fermentation start
+- pchdeedy: add main plant (safe substitute) → add starter / activate → duration level 2 → state: active extraction
+- dan: add starter / activate → duration level 1 → state: phase transition/start
 - ol: mix / transfer
-- dol: mix / transfer → start fermentation (yeast)
+- dol: mix / transfer → add starter / activate
 - oty: apply heat/cooking → mix / transfer
 - sho: add secondary herb (safe substitute) → mix / transfer
-- pol: mix / transfer → start fermentation (yeast)
-- otoldyl: apply heat/cooking → mix / transfer → start fermentation (yeast)
+- pol: mix / transfer → add starter / activate
+- otoldyl: apply heat/cooking → mix / transfer → add starter / activate
 
 <a id="f86v4-5-f86v4-5-p0"></a>
 
@@ -268,15 +268,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: pcheodar oedy qokeol qoeol oqokeol dar ol olair am
 
 Direct Gloss (Procedural, Not a Real Translation):
-- pcheodar: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- oedy: mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- pcheodar: add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- oedy: mix / transfer → add starter / activate → duration level 1 → state: active extraction
 - qokeol: prepare liquid base → add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 - qoeol: prepare liquid base → mix / transfer → duration level 1 → state: active extraction
 - oqokeol: prepare liquid base → add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
-- dar: start fermentation (yeast) → duration level 1 → state: fermentation start
+- dar: add starter / activate → duration level 1 → state: phase transition/start
 - ol: mix / transfer
-- olair: mix / transfer → duration level 1 → state: fermentation start
-- am: duration level 1 → state: fermentation start
+- olair: mix / transfer → duration level 1 → state: phase transition/start
+- am: duration level 1 → state: phase transition/start
 
 <a id="f86v4-6-f86v4-6-p0"></a>
 
@@ -291,10 +291,10 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheey: add secondary herb (safe substitute) → duration level 2 → state: active extraction
 - qokey: prepare liquid base → add fermentable sugars → duration level 1 → state: active extraction
 - or: mix / transfer
-- aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
+- aiin: duration level 1 → state: phase transition/start → long phase
 - sheeor: add secondary herb (safe substitute) → mix / transfer → duration level 2 → state: active extraction
-- sar: duration level 1 → state: fermentation start
-- al: duration level 1 → state: fermentation start
+- sar: duration level 1 → state: phase transition/start
+- al: duration level 1 → state: phase transition/start
 - ol: mix / transfer
 - sheey: add secondary herb (safe substitute) → duration level 2 → state: active extraction
 - qockheey: prepare liquid base → add complex herbal compound (safe blend) → duration level 2 → state: active extraction
@@ -310,14 +310,14 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sh: add secondary herb (safe substitute)
 - s: [unparsed]
 - or: mix / transfer
-- aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
+- aiin: duration level 1 → state: phase transition/start → long phase
 - ol: mix / transfer
-- keeod: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 2 → state: active extraction
-- lcheody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- okedy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- qokeody: prepare liquid base → add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
-- qoain: prepare liquid base → duration level 1 → state: fermentation start
-- a: duration level 1 → state: fermentation start
+- keeod: add fermentable sugars → mix / transfer → add starter / activate → duration level 2 → state: active extraction
+- lcheody: add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- okedy: add fermentable sugars → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- qokeody: prepare liquid base → add fermentable sugars → mix / transfer → add starter / activate → duration level 1 → state: active extraction
+- qoain: prepare liquid base → duration level 1 → state: phase transition/start
+- a: duration level 1 → state: phase transition/start
 
 <a id="f86v4-8-f86v4-8-p0"></a>
 
@@ -326,17 +326,17 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin ol keedy otar olshedy okol aiin okal cheockhy shocthhy daiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
 - ol: mix / transfer
-- keedy: add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
-- otar: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
-- olshedy: add secondary herb (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- keedy: add fermentable sugars → add starter / activate → duration level 2 → state: active extraction
+- otar: apply heat/cooking → mix / transfer → duration level 1 → state: phase transition/start
+- olshedy: add secondary herb (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: active extraction
 - okol: add fermentable sugars → mix / transfer
-- aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
-- okal: add fermentable sugars → mix / transfer → duration level 1 → state: fermentation start
+- aiin: duration level 1 → state: phase transition/start → long phase
+- okal: add fermentable sugars → mix / transfer → duration level 1 → state: phase transition/start
 - cheockhy: add main plant (safe substitute) → mix / transfer → add complex herbal compound (safe blend) → duration level 1 → state: active extraction
-- shocthhy: add secondary herb (safe substitute) → mix / transfer → add complex herbal compound (safe blend)
-- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+- shocthhy: add secondary herb (safe substitute) → mix / transfer → add complex herbal compound (safe blend) → unmodeled token(s) present: h
+- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
 
 <a id="f86v4-9-f86v4-9-pc"></a>
 
@@ -345,7 +345,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: dar oleey ol yy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- dar: start fermentation (yeast) → duration level 1 → state: fermentation start
+- dar: add starter / activate → duration level 1 → state: phase transition/start
 - oleey: mix / transfer → duration level 2 → state: active extraction
 - ol: mix / transfer
 - yy: [unparsed]

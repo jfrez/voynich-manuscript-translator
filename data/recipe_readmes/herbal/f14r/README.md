@@ -1,4 +1,4 @@
-# Voynich Speculative Herbal Ferment Recipe — f14r
+# Voynich Speculative Procedural Protocol — f14r
 
 IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.
 
@@ -95,12 +95,12 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: pcho daiin chopol shoiin daiin dain
 
 Direct Gloss (Procedural, Not a Real Translation):
-- pcho: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
-- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
-- chopol: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
-- shoiin: add secondary herb (safe substitute) → mix / transfer → duration level 2 → state: cooling/rest → medium fermentation phase
-- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
-- dain: start fermentation (yeast) → duration level 1 → state: fermentation start
+- pcho: add main plant (safe substitute) → mix / transfer → add starter / activate
+- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
+- chopol: add main plant (safe substitute) → mix / transfer → add starter / activate
+- shoiin: add secondary herb (safe substitute) → mix / transfer → duration level 2 → state: cooling/rest → medium phase
+- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
+- dain: add starter / activate → duration level 1 → state: phase transition/start
 
 <a id="f14r-2-f14r-2-p0"></a>
 
@@ -111,10 +111,10 @@ EVA: o ykeey soiiin chok qokchy da okol
 Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - ykeey: add fermentable sugars → duration level 2 → state: active extraction
-- soiiin: mix / transfer → duration level 3 → state: cooling/rest → medium fermentation phase
+- soiiin: mix / transfer → duration level 3 → state: cooling/rest → medium phase
 - chok: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - qokchy: prepare liquid base → add fermentable sugars → add main plant (safe substitute)
-- da: start fermentation (yeast) → duration level 1 → state: fermentation start
+- da: add starter / activate → duration level 1 → state: phase transition/start
 - okol: add fermentable sugars → mix / transfer
 
 <a id="f14r-3-f14r-3-p0"></a>
@@ -124,10 +124,10 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: ydaiin olchy kchor daiin olol
 
 Direct Gloss (Procedural, Not a Real Translation):
-- ydaiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+- ydaiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
 - olchy: add main plant (safe substitute) → mix / transfer
 - kchor: add fermentable sugars → add main plant (safe substitute) → mix / transfer
-- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
 - olol: mix / transfer
 
 <a id="f14r-4-f14r-4-p0"></a>
@@ -139,12 +139,12 @@ EVA: ochkch[o:a]r kol shy daiin dorody
 Direct Gloss (Procedural, Not a Real Translation):
 - ochkch: add fermentable sugars → add main plant (safe substitute) → mix / transfer
 - o: mix / transfer
-- a: duration level 1 → state: fermentation start
+- a: duration level 1 → state: phase transition/start
 - r: [unparsed]
 - kol: add fermentable sugars → mix / transfer
 - shy: add secondary herb (safe substitute)
-- daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
-- dorody: mix / transfer → start fermentation (yeast)
+- daiin: add starter / activate → duration level 1 → state: phase transition/start → long phase
+- dorody: mix / transfer → add starter / activate
 
 <a id="f14r-5-f14r-5-p0"></a>
 
@@ -154,8 +154,8 @@ EVA: qokchol dar dalo qotolo
 
 Direct Gloss (Procedural, Not a Real Translation):
 - qokchol: prepare liquid base → add fermentable sugars → add main plant (safe substitute) → mix / transfer
-- dar: start fermentation (yeast) → duration level 1 → state: fermentation start
-- dalo: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+- dar: add starter / activate → duration level 1 → state: phase transition/start
+- dalo: mix / transfer → add starter / activate → duration level 1 → state: phase transition/start
 - qotolo: prepare liquid base → apply heat/cooking → mix / transfer
 
 <a id="f14r-6-f14r-6-p0"></a>
@@ -179,7 +179,7 @@ EVA: otcho dain chckhy
 
 Direct Gloss (Procedural, Not a Real Translation):
 - otcho: apply heat/cooking → add main plant (safe substitute) → mix / transfer
-- dain: start fermentation (yeast) → duration level 1 → state: fermentation start
+- dain: add starter / activate → duration level 1 → state: phase transition/start
 - chckhy: add main plant (safe substitute) → add complex herbal compound (safe blend)
 
 <a id="f14r-8-f14r-8-p0"></a>
@@ -193,7 +193,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: add main plant (safe substitute) → mix / transfer
 - shor: add secondary herb (safe substitute) → mix / transfer
 - cheos: add main plant (safe substitute) → mix / transfer → duration level 1 → state: active extraction
-- ykaiin: add fermentable sugars → duration level 1 → state: fermentation start → long fermentation / aging phase
+- ykaiin: add fermentable sugars → duration level 1 → state: phase transition/start → long phase
 - s: [unparsed]
 
 <a id="f14r-9-f14r-9-p0"></a>
@@ -203,15 +203,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: sody chody otchody qotchy koiin sy sho ty dy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- sody: mix / transfer → start fermentation (yeast)
-- chody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
-- otchody: apply heat/cooking → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+- sody: mix / transfer → add starter / activate
+- chody: add main plant (safe substitute) → mix / transfer → add starter / activate
+- otchody: apply heat/cooking → add main plant (safe substitute) → mix / transfer → add starter / activate
 - qotchy: prepare liquid base → apply heat/cooking → add main plant (safe substitute)
-- koiin: add fermentable sugars → mix / transfer → duration level 2 → state: cooling/rest → medium fermentation phase
+- koiin: add fermentable sugars → mix / transfer → duration level 2 → state: cooling/rest → medium phase
 - sy: [unparsed]
 - sho: add secondary herb (safe substitute) → mix / transfer
 - ty: apply heat/cooking
-- dy: start fermentation (yeast)
+- dy: add starter / activate
 
 <a id="f14r-10-f14r-10-p0"></a>
 
@@ -221,13 +221,13 @@ EVA: qotchor chod shoty chody dol dy dy okchydy
 
 Direct Gloss (Procedural, Not a Real Translation):
 - qotchor: prepare liquid base → apply heat/cooking → add main plant (safe substitute) → mix / transfer
-- chod: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+- chod: add main plant (safe substitute) → mix / transfer → add starter / activate
 - shoty: apply heat/cooking → add secondary herb (safe substitute) → mix / transfer
-- chody: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
-- dol: mix / transfer → start fermentation (yeast)
-- dy: start fermentation (yeast)
-- dy: start fermentation (yeast)
-- okchydy: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+- chody: add main plant (safe substitute) → mix / transfer → add starter / activate
+- dol: mix / transfer → add starter / activate
+- dy: add starter / activate
+- dy: add starter / activate
+- okchydy: add fermentable sugars → add main plant (safe substitute) → mix / transfer → add starter / activate
 
 <a id="f14r-11-f14r-11-p0"></a>
 
@@ -236,11 +236,11 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: dchokchy schol dy shey dar qoty ykeeyky
 
 Direct Gloss (Procedural, Not a Real Translation):
-- dchokchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
+- dchokchy: add fermentable sugars → add main plant (safe substitute) → mix / transfer → add starter / activate
 - schol: add main plant (safe substitute) → mix / transfer
-- dy: start fermentation (yeast)
+- dy: add starter / activate
 - shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
-- dar: start fermentation (yeast) → duration level 1 → state: fermentation start
+- dar: add starter / activate → duration level 1 → state: phase transition/start
 - qoty: prepare liquid base → apply heat/cooking
 - ykeeyky: add fermentable sugars → duration level 2 → state: active extraction
 
@@ -251,12 +251,12 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: oeeeb chey keor chey tchyky chodalg
 
 Direct Gloss (Procedural, Not a Real Translation):
-- oeeeb: mix / transfer → duration level 3 → state: active extraction
+- oeeeb: mix / transfer → duration level 3 → state: active extraction → unmodeled token(s) present: b
 - chey: add main plant (safe substitute) → duration level 1 → state: active extraction
 - keor: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
 - chey: add main plant (safe substitute) → duration level 1 → state: active extraction
 - tchyky: add fermentable sugars → apply heat/cooking → add main plant (safe substitute)
-- chodalg: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start
+- chodalg: add main plant (safe substitute) → mix / transfer → add starter / activate → duration level 1 → state: phase transition/start
 
 <a id="f14r-13-f14r-13-p0"></a>
 
@@ -265,8 +265,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: sodaiin chy kchy kchy ykeody
 
 Direct Gloss (Procedural, Not a Real Translation):
-- sodaiin: mix / transfer → start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
+- sodaiin: mix / transfer → add starter / activate → duration level 1 → state: phase transition/start → long phase
 - chy: add main plant (safe substitute)
 - kchy: add fermentable sugars → add main plant (safe substitute)
 - kchy: add fermentable sugars → add main plant (safe substitute)
-- ykeody: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
+- ykeody: add fermentable sugars → mix / transfer → add starter / activate → duration level 1 → state: active extraction

@@ -1,0 +1,26 @@
+[
+  {
+    "domain": "astronomical",
+    "sense_file": "astronomical.sense.json"
+  },
+  {
+    "domain": "biological",
+    "sense_file": "biological.sense.json"
+  },
+  {
+    "domain": "cosmological",
+    "sense_file": "cosmological.sense.json"
+  },
+  {
+    "domain": "herbal",
+    "sense_file": "herbal.sense.json"
+  },
+  {
+    "domain": "text_only",
+    "sense_file": "text_only.sense.json"
+  },
+  {
+    "domain": "unknown",
+    "sense_file": "unknown.sense.json"
+  }
+]

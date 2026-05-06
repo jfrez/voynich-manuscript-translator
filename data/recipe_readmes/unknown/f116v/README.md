@@ -1,4 +1,4 @@
-# Voynich Speculative Herbal Ferment Recipe — f116v
+# Voynich Speculative Procedural Protocol — f116v
 
 IMPORTANT: this is NOT a real or validated translation of the Voynich Manuscript. It is a speculative/procedural model that interprets EVA using a user-defined grammar to generate experimental recipes using safe, known edible substitutes.
 
