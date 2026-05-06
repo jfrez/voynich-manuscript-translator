@@ -158,6 +158,23 @@ python scripts/classify_anagram_candidates.py
 
 The tables below show what this repository means by “process words”: each EVA token is treated as a compact instruction-like unit (markers + phase/state + optional day/phase suffixes). This is a **procedural gloss**, not a validated translation.
 
+### How a “process word” is built (decomposition)
+
+One EVA word is treated as a **bundle of markers**:
+
+- **compounds**: recurring chunks like `qo`, `k`, `t`, `p`, `ch`, `sh`, `cth`…
+- **connectors**: low-weight joiners `l/r/n/s/m`
+- **state/intensity**: the first vowel-run `e…` / `i…` / `a…` (length = level 1–3)
+- **suffixes**: `dy` (days), `iin` (medium phase), `aiin` (long phase)
+- **normalization**: `d→p`, `y` removed except in `dy`, `ktp` split into `k+t+p`
+
+Concrete example:
+
+| EVA word | Normalized | Segmentation | Procedural gloss (structural) |
+|---|---|---|---|
+| `qokeedy` | `qokeepy` (from `d→p`, and keeping `dy`) | `qo + k + ee + dy` | base liquid + solutes + level-2 active step + 2 days |
+| `daiin` | `paiin` | `p + aiin` | activation/starter marker + long phase |
+
 ### Herbal (botanical)
 
 | Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
