@@ -135,6 +135,25 @@ Reproduce:
 python scripts/evaluate_ava_anagrams.py --folio f99r --basewords data/base_words.txt
 ```
 
+### 2.4 “Medieval Italian” angle (pragmatic proxy)
+
+There is no built-in, authoritative “medieval Italian lexicon API” in this repo. Instead, for a *practical* approximation, we use:
+
+- a **WikWik** Italian wordlist (Wiktionary-derived; large coverage; includes many non-modern forms), treated as “medieval-ish” for breadth
+- a smaller modern Italian wordlist (for comparison / baselines)
+
+On the **top-500 basewords** (`data/base_words.txt`), using the WikWik-derived list, the anagram search finds:
+
+- **201 / 500** basewords with ≥1 Italian anagram candidate (40.2%)
+- of those, a heuristic split labels **66** as “non-generic” and **135** as “generic” (where “generic” means too many candidates / low specificity)
+
+Reproduce:
+
+```sh
+python scripts/italianized_anagrams.py
+python scripts/classify_anagram_candidates.py
+```
+
 ## 3. Model Assumptions (procedural interpretation)
 
 Given the structural grammar above, we make additional interpretive assumptions to convert EVA sequences into procedural instructions:
