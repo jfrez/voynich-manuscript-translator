@@ -2,14 +2,7 @@
   "domain": "text_only",
   "source": "data/domains/<domain>/README.md (Associated words English glosses)",
   "note": "Heuristic 'sense layer' generated from gloss keywords; not a translation or decipherment.",
-  "keyword_scores": {
-    "bath/wash": 0,
-    "heat/boil": 0,
-    "oil/wax": 0,
-    "plant/food": 1,
-    "measure/time": 0,
-    "astral": 0
-  },
+  "keyword_scores": {},
   "marker_sense": {
     "qo": "base liquid / carrier",
     "q": "generic base marker",
@@ -27,6 +20,6 @@
     "dy": "explicit days marker",
     "iin": "medium phase marker",
     "aiin": "long phase marker",
-    "_top_keyword_labels": "plant/food"
+    "_top_keyword_labels": "none"
   }
 }

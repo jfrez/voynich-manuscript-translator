@@ -10,25 +10,27 @@
 - EVA word tokens (approx): 962
 - top procedural compounds: [('mix/transfer', 654), ('activation/starter', 338), ('main herb', 289), ('sugars', 242), ('heat', 156), ('secondary herb', 67), ('complex herbal compound', 43), ('liquid base', 34)]
 
-## Associated words (non-generic; heuristic)
-These are non-generic basewords observed in this domain, with a reduced form and best-effort anagram candidates from a Wiktionary-derived Italian lexicon (WikWik).
+## Domain Lexicon (Medieval-ish Italian proxy; heuristic)
+This section defines **domain-associated basewords** using a pragmatic proxy: anagram candidates from a large Wiktionary-derived Italian wordlist (WikWik).
 This is not a translation; matches are heuristic and may be coincidental.
-English glosses are best-effort summaries from English Wiktionary extracts and may be missing/wrong.
+English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.
 
-- `daiin` → reduced `paiin` → Italian anagram `piani`; English: plans (arrangements)
-- `daiir` → reduced `paiir` → Italian anagram `aprii`; English: [n/a]
-- `saiin` → reduced `saiin` → Italian anagram `asini`; English: [n/a]
-- `odaiin` → reduced `opaiin` → Italian anagram `inopia`; English: poverty
-- `ydaiin` → reduced `paiin` → Italian anagram `piani`; English: plans (arrangements)
-- `okain` → reduced `ocain` → Italian anagram `acino`; English: a berry
-- `qokeol` → reduced `coceol` → Italian anagram `eccolo`; English: [n/a]
-- `chedar` → reduced `cepar` → Italian anagram `capre`; English: [n/a]
-- `oteos` → reduced `oteos` → Italian anagram `osteo`; English: [n/a]
-- `okees` → reduced `ocees` → Italian anagram `coese`; English: [n/a]
-- `okchor` → reduced `occor` → Italian anagram `corco`; English: [n/a]
-- `odain` → reduced `opain` → Italian anagram `opina`; English: opine
-- `chodar` → reduced `copar` → Italian anagram `capro`; English: male goat
-- `okeos` → reduced `oceos` → Italian anagram `coeso`; English: cohesive
+| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss |
+|---|---:|---|---|---|
+| `daiin` | 11 | `paiin` | `piani` | plans (arrangements) |
+| `daiir` | 4 | `paiir` | `aprii` | [n/a] |
+| `saiin` | 2 | `saiin` | `asini` | [n/a] |
+| `odaiin` | 2 | `opaiin` | `inopia` | poverty |
+| `ydaiin` | 2 | `paiin` | `piani` | plans (arrangements) |
+| `okain` | 1 | `ocain` | `acino` | a berry |
+| `qokeol` | 1 | `coceol` | `eccolo` | [n/a] |
+| `chedar` | 1 | `cepar` | `capre` | [n/a] |
+| `oteos` | 1 | `oteos` | `osteo` | [n/a] |
+| `okees` | 1 | `ocees` | `coese` | [n/a] |
+| `okchor` | 1 | `occor` | `corco` | [n/a] |
+| `odain` | 1 | `opain` | `opina` | opine |
+| `chodar` | 1 | `copar` | `capro` | male goat |
+| `okeos` | 1 | `oceos` | `coeso` | cohesive |
 
 ## Folios
 - f67v1: ../../recipe_readmes/astronomical/f67v1/README.md

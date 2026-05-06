@@ -10,41 +10,43 @@
 - EVA word tokens (approx): 2442
 - top procedural compounds: [('mix/transfer', 1427), ('activation/starter', 925), ('main herb', 524), ('sugars', 478), ('heat', 451), ('secondary herb', 177), ('liquid base', 120), ('complex herbal compound', 49)]
 
-## Associated words (non-generic; heuristic)
-These are non-generic basewords observed in this domain, with a reduced form and best-effort anagram candidates from a Wiktionary-derived Italian lexicon (WikWik).
+## Domain Lexicon (Medieval-ish Italian proxy; heuristic)
+This section defines **domain-associated basewords** using a pragmatic proxy: anagram candidates from a large Wiktionary-derived Italian wordlist (WikWik).
 This is not a translation; matches are heuristic and may be coincidental.
-English glosses are best-effort summaries from English Wiktionary extracts and may be missing/wrong.
+English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.
 
-- `daiin` → reduced `paiin` → Italian anagram `piani`; English: plans (arrangements)
-- `qokal` → reduced `cocal` → Italian anagram `calco`; English: cast (of sculpture)
-- `odaiin` → reduced `opaiin` → Italian anagram `inopia`; English: poverty
-- `okees` → reduced `ocees` → Italian anagram `coese`; English: [n/a]
-- `opaiin` → reduced `opaiin` → Italian anagram `inopia`; English: poverty
-- `ykaiin` → reduced `caiin` → Italian anagram `acini`; English: [n/a]
-- `qodaiin` → reduced `copaiin` → Italian anagram `apocini`; English: [n/a]
-- `oteos` → reduced `oteos` → Italian anagram `osteo`; English: [n/a]
-- `olkar` → reduced `olcar` → Italian anagram `carlo`; English: [n/a]
-- `okaiin` → reduced `ocaiin` → Italian anagram `coniai`; English: [n/a]
-- `qotaiin` → reduced `cotaiin` → Italian anagram `cationi`; English: [n/a]
-- `qokaiin` → reduced `cocaiin` → Italian anagram `ciancio`; English: [n/a]
-- `qokar` → reduced `cocar` → Italian anagram `carco`; English: [n/a]
-- `olaiin` → reduced `olaiin` → Italian anagram `ialino`; English: hyaline, glassy
-- `oraiin` → reduced `oraiin` → Italian anagram `aironi`; English: [n/a]
-- `olkaiin` → reduced `olcaiin` → Italian anagram `caolini`; English: [n/a]
-- `otair` → reduced `otair` → Italian anagram `atrio`; English: entrance hall, lobby (of a hotel etc.)
-- `shodaiin` → reduced `sopaiin` → Italian anagram `sinopia`; English: [n/a]
-- `otain` → reduced `otain` → Italian anagram `anito`; English: [n/a]
-- `kaiin` → reduced `caiin` → Italian anagram `acini`; English: [n/a]
-- `qotar` → reduced `cotar` → Italian anagram `corta`; English: [n/a]
-- `qotal` → reduced `cotal` → Italian anagram `colta`; English: [n/a]
-- `daiir` → reduced `paiir` → Italian anagram `aprii`; English: [n/a]
-- `okair` → reduced `ocair` → Italian anagram `cario`; English: [n/a]
-- `okchor` → reduced `occor` → Italian anagram `corco`; English: [n/a]
-- `otedar` → reduced `otepar` → Italian anagram `aperto`; English: open
-- `okeos` → reduced `oceos` → Italian anagram `coeso`; English: cohesive
-- `qokain` → reduced `cocain` → Italian anagram `acconi`; English: [n/a]
-- `okain` → reduced `ocain` → Italian anagram `acino`; English: a berry
-- `saiin` → reduced `saiin` → Italian anagram `asini`; English: [n/a]
+| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss |
+|---|---:|---|---|---|
+| `daiin` | 28 | `paiin` | `piani` | plans (arrangements) |
+| `qokal` | 13 | `cocal` | `calco` | cast (of sculpture) |
+| `odaiin` | 8 | `opaiin` | `inopia` | poverty |
+| `okees` | 7 | `ocees` | `coese` | [n/a] |
+| `opaiin` | 6 | `opaiin` | `inopia` | poverty |
+| `ykaiin` | 5 | `caiin` | `acini` | [n/a] |
+| `qodaiin` | 5 | `copaiin` | `apocini` | [n/a] |
+| `oteos` | 5 | `oteos` | `osteo` | [n/a] |
+| `olkar` | 5 | `olcar` | `carlo` | [n/a] |
+| `okaiin` | 4 | `ocaiin` | `coniai` | [n/a] |
+| `qotaiin` | 4 | `cotaiin` | `cationi` | [n/a] |
+| `qokaiin` | 3 | `cocaiin` | `ciancio` | [n/a] |
+| `qokar` | 3 | `cocar` | `carco` | [n/a] |
+| `olaiin` | 3 | `olaiin` | `ialino` | hyaline, glassy |
+| `oraiin` | 3 | `oraiin` | `aironi` | [n/a] |
+| `olkaiin` | 3 | `olcaiin` | `caolini` | [n/a] |
+| `otair` | 3 | `otair` | `atrio` | entrance hall, lobby (of a hotel etc.) |
+| `shodaiin` | 3 | `sopaiin` | `sinopia` | [n/a] |
+| `otain` | 2 | `otain` | `anito` | [n/a] |
+| `kaiin` | 2 | `caiin` | `acini` | [n/a] |
+| `qotar` | 2 | `cotar` | `corta` | [n/a] |
+| `qotal` | 2 | `cotal` | `colta` | [n/a] |
+| `daiir` | 2 | `paiir` | `aprii` | [n/a] |
+| `okair` | 2 | `ocair` | `cario` | [n/a] |
+| `okchor` | 2 | `occor` | `corco` | [n/a] |
+| `otedar` | 2 | `otepar` | `aperto` | open |
+| `okeos` | 2 | `oceos` | `coeso` | cohesive |
+| `qokain` | 1 | `cocain` | `acconi` | [n/a] |
+| `okain` | 1 | `ocain` | `acino` | a berry |
+| `saiin` | 1 | `saiin` | `asini` | [n/a] |
 
 ## Folios
 - f57v: ../../recipe_readmes/cosmological/f57v/README.md

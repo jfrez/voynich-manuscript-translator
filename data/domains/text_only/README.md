@@ -10,41 +10,43 @@
 - EVA word tokens (approx): 3240
 - top procedural compounds: [('mix/transfer', 1406), ('activation/starter', 1125), ('sugars', 789), ('main herb', 692), ('heat', 487), ('secondary herb', 440), ('liquid base', 426), ('complex herbal compound', 156)]
 
-## Associated words (non-generic; heuristic)
-These are non-generic basewords observed in this domain, with a reduced form and best-effort anagram candidates from a Wiktionary-derived Italian lexicon (WikWik).
+## Domain Lexicon (Medieval-ish Italian proxy; heuristic)
+This section defines **domain-associated basewords** using a pragmatic proxy: anagram candidates from a large Wiktionary-derived Italian wordlist (WikWik).
 This is not a translation; matches are heuristic and may be coincidental.
-English glosses are best-effort summaries from English Wiktionary extracts and may be missing/wrong.
+English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.
 
-- `daiin` → reduced `paiin` → Italian anagram `piani`; English: plans (arrangements)
-- `qokar` → reduced `cocar` → Italian anagram `carco`; English: [n/a]
-- `qokaiin` → reduced `cocaiin` → Italian anagram `ciancio`; English: [n/a]
-- `qokal` → reduced `cocal` → Italian anagram `calco`; English: cast (of sculpture)
-- `ykaiin` → reduced `caiin` → Italian anagram `acini`; English: [n/a]
-- `okaiin` → reduced `ocaiin` → Italian anagram `coniai`; English: [n/a]
-- `qokain` → reduced `cocain` → Italian anagram `acconi`; English: [n/a]
-- `okain` → reduced `ocain` → Italian anagram `acino`; English: a berry
-- `saiin` → reduced `saiin` → Italian anagram `asini`; English: [n/a]
-- `kaiin` → reduced `caiin` → Italian anagram `acini`; English: [n/a]
-- `odaiin` → reduced `opaiin` → Italian anagram `inopia`; English: poverty
-- `qotaiin` → reduced `cotaiin` → Italian anagram `cationi`; English: [n/a]
-- `qotar` → reduced `cotar` → Italian anagram `corta`; English: [n/a]
-- `qotal` → reduced `cotal` → Italian anagram `colta`; English: [n/a]
-- `otain` → reduced `otain` → Italian anagram `anito`; English: [n/a]
-- `qokaly` → reduced `cocal` → Italian anagram `calco`; English: cast (of sculpture)
-- `qotain` → reduced `cotain` → Italian anagram `antico`; English: ancient
-- `qokair` → reduced `cocair` → Italian anagram `accori`; English: [n/a]
-- `olkar` → reduced `olcar` → Italian anagram `carlo`; English: [n/a]
-- `olaiin` → reduced `olaiin` → Italian anagram `ialino`; English: hyaline, glassy
-- `oraiin` → reduced `oraiin` → Italian anagram `aironi`; English: [n/a]
-- `olain` → reduced `olain` → Italian anagram `alino`; English: [n/a]
-- `lkaiin` → reduced `lcaiin` → Italian anagram `ancili`; English: [n/a]
-- `chodaiin` → reduced `copaiin` → Italian anagram `apocini`; English: [n/a]
-- `qotol` → reduced `cotol` → Italian anagram `colto`; English: cultivated
-- `qokor` → reduced `cocor` → Italian anagram `corco`; English: [n/a]
-- `qodaiin` → reduced `copaiin` → Italian anagram `apocini`; English: [n/a]
-- `olkaiin` → reduced `olcaiin` → Italian anagram `caolini`; English: [n/a]
-- `daiir` → reduced `paiir` → Italian anagram `aprii`; English: [n/a]
-- `qoaiin` → reduced `coaiin` → Italian anagram `coniai`; English: [n/a]
+| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss |
+|---|---:|---|---|---|
+| `daiin` | 40 | `paiin` | `piani` | plans (arrangements) |
+| `qokar` | 31 | `cocar` | `carco` | [n/a] |
+| `qokaiin` | 25 | `cocaiin` | `ciancio` | [n/a] |
+| `qokal` | 23 | `cocal` | `calco` | cast (of sculpture) |
+| `ykaiin` | 15 | `caiin` | `acini` | [n/a] |
+| `okaiin` | 12 | `ocaiin` | `coniai` | [n/a] |
+| `qokain` | 10 | `cocain` | `acconi` | [n/a] |
+| `okain` | 10 | `ocain` | `acino` | a berry |
+| `saiin` | 10 | `saiin` | `asini` | [n/a] |
+| `kaiin` | 9 | `caiin` | `acini` | [n/a] |
+| `odaiin` | 9 | `opaiin` | `inopia` | poverty |
+| `qotaiin` | 8 | `cotaiin` | `cationi` | [n/a] |
+| `qotar` | 8 | `cotar` | `corta` | [n/a] |
+| `qotal` | 8 | `cotal` | `colta` | [n/a] |
+| `otain` | 7 | `otain` | `anito` | [n/a] |
+| `qokaly` | 7 | `cocal` | `calco` | cast (of sculpture) |
+| `qotain` | 6 | `cotain` | `antico` | ancient |
+| `qokair` | 6 | `cocair` | `accori` | [n/a] |
+| `olkar` | 6 | `olcar` | `carlo` | [n/a] |
+| `olaiin` | 5 | `olaiin` | `ialino` | hyaline, glassy |
+| `oraiin` | 5 | `oraiin` | `aironi` | [n/a] |
+| `olain` | 5 | `olain` | `alino` | [n/a] |
+| `lkaiin` | 4 | `lcaiin` | `ancili` | [n/a] |
+| `chodaiin` | 4 | `copaiin` | `apocini` | [n/a] |
+| `qotol` | 4 | `cotol` | `colto` | cultivated |
+| `qokor` | 4 | `cocor` | `corco` | [n/a] |
+| `qodaiin` | 3 | `copaiin` | `apocini` | [n/a] |
+| `olkaiin` | 3 | `olcaiin` | `caolini` | [n/a] |
+| `daiir` | 3 | `paiir` | `aprii` | [n/a] |
+| `qoaiin` | 3 | `coaiin` | `coniai` | [n/a] |
 
 ## Folios
 - f1r: ../../recipe_readmes/text_only/f1r/README.md

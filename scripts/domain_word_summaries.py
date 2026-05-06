@@ -128,16 +128,18 @@ def main(argv: list[str]) -> int:
         selected = [w for _sec_count, _total, w in scored[: args.top]]
 
         lines = []
-        lines.append("## Associated words (non-generic; heuristic)")
+        lines.append("## Domain Lexicon (Medieval-ish Italian proxy; heuristic)")
         lines.append(
-            "These are non-generic basewords observed in this domain, with a reduced form and best-effort anagram candidates from a Wiktionary-derived Italian lexicon (WikWik)."
+            "This section defines **domain-associated basewords** using a pragmatic proxy: anagram candidates from a large Wiktionary-derived Italian wordlist (WikWik)."
         )
         lines.append("This is not a translation; matches are heuristic and may be coincidental.")
-        lines.append("English glosses are best-effort summaries from English Wiktionary extracts and may be missing/wrong.")
+        lines.append("English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.")
         lines.append("")
+        lines.append("| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss |")
+        lines.append("|---|---:|---|---|---|")
         for w in selected:
             reduced = italianize_eva(w)
-            cand = ana_map.get(w, {}).get("anagram_candidates", [])[:5]
+            cand = (ana_map.get(w, {}).get("anagram_candidates", []) or [])[:5]
             it = cand[0] if cand else None
             en = None
             if not args.no_wiktionary and it:
@@ -147,7 +149,13 @@ def main(argv: list[str]) -> int:
                 else:
                     en = wiktionary_english_gloss(it)
                     gloss_cache[it] = en
-            lines.append(f"- `{w}` → reduced `{reduced}` → Italian anagram `{it}`; English: {en or '[n/a]'}")
+            cnt = 0
+            row = count_map.get(w)
+            if row:
+                cnt = int(row.get(raw_section, 0) or 0)
+            it_cell = f"`{it}`" if it else "[n/a]"
+            en_cell = (en or "[n/a]").replace("\n", " ").replace("|", "\\|")
+            lines.append(f"| `{w}` | {cnt} | `{reduced}` | {it_cell} | {en_cell} |")
         lines.append("")
 
         readme = domains_dir / domain / "README.md"
@@ -155,7 +163,7 @@ def main(argv: list[str]) -> int:
             continue
         base = readme.read_text(encoding="utf-8")
         # Replace existing block if present
-        marker = "## Associated words (non-generic; heuristic)"
+        marker = "## Domain Lexicon (Medieval-ish Italian proxy; heuristic)"
         if marker in base:
             base = base.split(marker, 1)[0].rstrip() + "\n"
         insert_marker = "## Folios"
