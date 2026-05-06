@@ -15,38 +15,38 @@ This section defines **domain-associated basewords** using a pragmatic proxy: an
 This is not a translation; matches are heuristic and may be coincidental.
 English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.
 
-| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss |
-|---|---:|---|---|---|
-| `daiin` | 40 | `paiin` | `piani` | plans (arrangements) |
-| `qokar` | 31 | `cocar` | `carco` | [n/a] |
-| `qokaiin` | 25 | `cocaiin` | `ciancio` | [n/a] |
-| `qokal` | 23 | `cocal` | `calco` | cast (of sculpture) |
-| `ykaiin` | 15 | `caiin` | `acini` | [n/a] |
-| `okaiin` | 12 | `ocaiin` | `coniai` | [n/a] |
-| `qokain` | 10 | `cocain` | `acconi` | [n/a] |
-| `okain` | 10 | `ocain` | `acino` | a berry |
-| `saiin` | 10 | `saiin` | `asini` | [n/a] |
-| `kaiin` | 9 | `caiin` | `acini` | [n/a] |
-| `odaiin` | 9 | `opaiin` | `inopia` | poverty |
-| `qotaiin` | 8 | `cotaiin` | `cationi` | [n/a] |
-| `qotar` | 8 | `cotar` | `corta` | [n/a] |
-| `qotal` | 8 | `cotal` | `colta` | [n/a] |
-| `otain` | 7 | `otain` | `anito` | [n/a] |
-| `qokaly` | 7 | `cocal` | `calco` | cast (of sculpture) |
-| `qotain` | 6 | `cotain` | `antico` | ancient |
-| `qokair` | 6 | `cocair` | `accori` | [n/a] |
-| `olkar` | 6 | `olcar` | `carlo` | [n/a] |
-| `olaiin` | 5 | `olaiin` | `ialino` | hyaline, glassy |
-| `oraiin` | 5 | `oraiin` | `aironi` | [n/a] |
-| `olain` | 5 | `olain` | `alino` | [n/a] |
-| `lkaiin` | 4 | `lcaiin` | `ancili` | [n/a] |
-| `chodaiin` | 4 | `copaiin` | `apocini` | [n/a] |
-| `qotol` | 4 | `cotol` | `colto` | cultivated |
-| `qokor` | 4 | `cocor` | `corco` | [n/a] |
-| `qodaiin` | 3 | `copaiin` | `apocini` | [n/a] |
-| `olkaiin` | 3 | `olcaiin` | `caolini` | [n/a] |
-| `daiir` | 3 | `paiir` | `aprii` | [n/a] |
-| `qoaiin` | 3 | `coaiin` | `coniai` | [n/a] |
+| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss | Latin candidate (Whitaker) |
+|---|---:|---|---|---|---|
+| `daiin` | 40 | `paiin` | `piani` | plans (arrangements) | [n/a] |
+| `qokar` | 31 | `cocar` | `carco` | [n/a] | [n/a] |
+| `qokaiin` | 25 | `cocaiin` | `ciancio` | [n/a] | [n/a] |
+| `qokal` | 23 | `cocal` | `calco` | cast (of sculpture) | `accol` |
+| `ykaiin` | 15 | `caiin` | `acini` | [n/a] | [n/a] |
+| `okaiin` | 12 | `ocaiin` | `coniai` | [n/a] | [n/a] |
+| `qokain` | 10 | `cocain` | `acconi` | [n/a] | `cocain` |
+| `okain` | 10 | `ocain` | `acino` | a berry | [n/a] |
+| `saiin` | 10 | `saiin` | `asini` | [n/a] | [n/a] |
+| `kaiin` | 9 | `caiin` | `acini` | [n/a] | [n/a] |
+| `odaiin` | 9 | `opaiin` | `inopia` | poverty | [n/a] |
+| `qotaiin` | 8 | `cotaiin` | `cationi` | [n/a] | `aconiti` |
+| `qotar` | 8 | `cotar` | `corta` | [n/a] | `actor` |
+| `qotal` | 8 | `cotal` | `colta` | [n/a] | `calot` |
+| `otain` | 7 | `otain` | `anito` | [n/a] | `natio` |
+| `qokaly` | 7 | `cocal` | `calco` | cast (of sculpture) | `accol` |
+| `qotain` | 6 | `cotain` | `antico` | ancient | `aconit` |
+| `qokair` | 6 | `cocair` | `accori` | [n/a] | `cicaro` |
+| `olkar` | 6 | `olcar` | `carlo` | [n/a] | `calor` |
+| `olaiin` | 5 | `olaiin` | `ialino` | hyaline, glassy | [n/a] |
+| `oraiin` | 5 | `oraiin` | `aironi` | [n/a] | [n/a] |
+| `olain` | 5 | `olain` | `alino` | [n/a] | [n/a] |
+| `lkaiin` | 4 | `lcaiin` | `ancili` | [n/a] | `lacini` |
+| `chodaiin` | 4 | `copaiin` | `apocini` | [n/a] | [n/a] |
+| `qotol` | 4 | `cotol` | `colto` | cultivated | `colot` |
+| `qokor` | 4 | `cocor` | `corco` | [n/a] | [n/a] |
+| `qodaiin` | 3 | `copaiin` | `apocini` | [n/a] | [n/a] |
+| `olkaiin` | 3 | `olcaiin` | `caolini` | [n/a] | [n/a] |
+| `daiir` | 3 | `paiir` | `aprii` | [n/a] | [n/a] |
+| `qoaiin` | 3 | `coaiin` | `coniai` | [n/a] | [n/a] |
 
 ## Folios
 - f1r: ../../recipe_readmes/text_only/f1r/README.md

@@ -15,38 +15,38 @@ This section defines **domain-associated basewords** using a pragmatic proxy: an
 This is not a translation; matches are heuristic and may be coincidental.
 English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.
 
-| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss |
-|---|---:|---|---|---|
-| `daiin` | 461 | `paiin` | `piani` | plans (arrangements) |
-| `okaiin` | 59 | `ocaiin` | `coniai` | [n/a] |
-| `chaiin` | 39 | `caiin` | `acini` | [n/a] |
-| `saiin` | 37 | `saiin` | `asini` | [n/a] |
-| `qokaiin` | 34 | `cocaiin` | `ciancio` | [n/a] |
-| `qokar` | 29 | `cocar` | `carco` | [n/a] |
-| `odaiin` | 27 | `opaiin` | `inopia` | poverty |
-| `otchol` | 25 | `otcol` | `colto` | cultivated |
-| `kaiin` | 24 | `caiin` | `acini` | [n/a] |
-| `chodaiin` | 24 | `copaiin` | `apocini` | [n/a] |
-| `qotol` | 20 | `cotol` | `colto` | cultivated |
-| `okain` | 19 | `ocain` | `acino` | a berry |
-| `qotor` | 18 | `cotor` | `corto` | short |
-| `ykaiin` | 16 | `caiin` | `acini` | [n/a] |
-| `qodaiin` | 15 | `copaiin` | `apocini` | [n/a] |
-| `shodaiin` | 15 | `sopaiin` | `sinopia` | [n/a] |
-| `qotaiin` | 14 | `cotaiin` | `cationi` | [n/a] |
-| `otchor` | 14 | `otcor` | `corto` | short |
-| `shaiin` | 13 | `saiin` | `asini` | [n/a] |
-| `qokal` | 12 | `cocal` | `calco` | cast (of sculpture) |
-| `okchor` | 12 | `occor` | `corco` | [n/a] |
-| `otain` | 11 | `otain` | `anito` | [n/a] |
-| `daiir` | 11 | `paiir` | `aprii` | [n/a] |
-| `cthaiin` | 11 | `caiin` | `acini` | [n/a] |
-| `qokor` | 10 | `cocor` | `corco` | [n/a] |
-| `ydaiin` | 10 | `paiin` | `piani` | plans (arrangements) |
-| `qotar` | 9 | `cotar` | `corta` | [n/a] |
-| `olaiin` | 9 | `olaiin` | `ialino` | hyaline, glassy |
-| `chkaiin` | 9 | `ccaiin` | `cianci` | [n/a] |
-| `qokeol` | 8 | `coceol` | `eccolo` | [n/a] |
+| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss | Latin candidate (Whitaker) |
+|---|---:|---|---|---|---|
+| `daiin` | 461 | `paiin` | `piani` | plans (arrangements) | [n/a] |
+| `okaiin` | 59 | `ocaiin` | `coniai` | [n/a] | [n/a] |
+| `chaiin` | 39 | `caiin` | `acini` | [n/a] | [n/a] |
+| `saiin` | 37 | `saiin` | `asini` | [n/a] | [n/a] |
+| `qokaiin` | 34 | `cocaiin` | `ciancio` | [n/a] | [n/a] |
+| `qokar` | 29 | `cocar` | `carco` | [n/a] | [n/a] |
+| `odaiin` | 27 | `opaiin` | `inopia` | poverty | [n/a] |
+| `otchol` | 25 | `otcol` | `colto` | cultivated | `colot` |
+| `kaiin` | 24 | `caiin` | `acini` | [n/a] | [n/a] |
+| `chodaiin` | 24 | `copaiin` | `apocini` | [n/a] | [n/a] |
+| `qotol` | 20 | `cotol` | `colto` | cultivated | `colot` |
+| `okain` | 19 | `ocain` | `acino` | a berry | [n/a] |
+| `qotor` | 18 | `cotor` | `corto` | short | `coort` |
+| `ykaiin` | 16 | `caiin` | `acini` | [n/a] | [n/a] |
+| `qodaiin` | 15 | `copaiin` | `apocini` | [n/a] | [n/a] |
+| `shodaiin` | 15 | `sopaiin` | `sinopia` | [n/a] | [n/a] |
+| `qotaiin` | 14 | `cotaiin` | `cationi` | [n/a] | `aconiti` |
+| `otchor` | 14 | `otcor` | `corto` | short | `coort` |
+| `shaiin` | 13 | `saiin` | `asini` | [n/a] | [n/a] |
+| `qokal` | 12 | `cocal` | `calco` | cast (of sculpture) | `accol` |
+| `okchor` | 12 | `occor` | `corco` | [n/a] | [n/a] |
+| `otain` | 11 | `otain` | `anito` | [n/a] | `natio` |
+| `daiir` | 11 | `paiir` | `aprii` | [n/a] | [n/a] |
+| `cthaiin` | 11 | `caiin` | `acini` | [n/a] | [n/a] |
+| `qokor` | 10 | `cocor` | `corco` | [n/a] | [n/a] |
+| `ydaiin` | 10 | `paiin` | `piani` | plans (arrangements) | [n/a] |
+| `qotar` | 9 | `cotar` | `corta` | [n/a] | `actor` |
+| `olaiin` | 9 | `olaiin` | `ialino` | hyaline, glassy | [n/a] |
+| `chkaiin` | 9 | `ccaiin` | `cianci` | [n/a] | [n/a] |
+| `qokeol` | 8 | `coceol` | `eccolo` | [n/a] | [n/a] |
 
 ## Folios
 - f1v: ../../recipe_readmes/herbal/f1v/README.md

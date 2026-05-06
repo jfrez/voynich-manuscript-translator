@@ -82,6 +82,7 @@ def main(argv: list[str]) -> int:
     ap.add_argument("--domains-dir", default="data/domains", help="Domains directory created by scripts/build_domains.py")
     ap.add_argument("--section-vocab", default="data/section_anagram_vocab.json", help="Per-section vocab sets")
     ap.add_argument("--anagrams", default="data/base_words_wikwik_anagrams_unrestricted.json", help="Anagram candidates (WikWik-based)")
+    ap.add_argument("--latin-anagrams", default="data/base_words_latin_anagrams_whitaker.json", help="Latin anagram candidates (Whitaker WORDS-based)")
     ap.add_argument("--baseword-counts", default="data/base_words_by_section.json", help="Counts by section")
     ap.add_argument("--top", type=int, default=30, help="How many non-generic words per domain to include")
     ap.add_argument("--no-wiktionary", action="store_true", help="Skip English gloss lookups (offline mode)")
@@ -91,6 +92,7 @@ def main(argv: list[str]) -> int:
     domains_dir = pathlib.Path(args.domains_dir)
     section_vocab = json.loads(pathlib.Path(args.section_vocab).read_text(encoding="utf-8"))
     anagrams = json.loads(pathlib.Path(args.anagrams).read_text(encoding="utf-8"))
+    latin_anagrams = json.loads(pathlib.Path(args.latin_anagrams).read_text(encoding="utf-8")) if pathlib.Path(args.latin_anagrams).exists() else {}
     base_counts = json.loads(pathlib.Path(args.baseword_counts).read_text(encoding="utf-8"))
     cache_path = pathlib.Path(args.wiktionary_cache)
     cache_path.parent.mkdir(parents=True, exist_ok=True)
@@ -101,6 +103,7 @@ def main(argv: list[str]) -> int:
 
     # baseword -> candidates
     ana_map = {r["baseword"]: r for r in anagrams.get("rows", [])}
+    lat_map = {r.get("baseword"): r for r in (latin_anagrams.get("rows", []) or []) if isinstance(r, dict)}
     # baseword -> per-section counts
     count_map = {r["word"]: r for r in base_counts.get("rows", [])}
     sections = base_counts.get("sections", [])
@@ -135,12 +138,14 @@ def main(argv: list[str]) -> int:
         lines.append("This is not a translation; matches are heuristic and may be coincidental.")
         lines.append("English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.")
         lines.append("")
-        lines.append("| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss |")
-        lines.append("|---|---:|---|---|---|")
+        lines.append("| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss | Latin candidate (Whitaker) |")
+        lines.append("|---|---:|---|---|---|---|")
         for w in selected:
             reduced = italianize_eva(w)
             cand = (ana_map.get(w, {}).get("anagram_candidates", []) or [])[:5]
             it = cand[0] if cand else None
+            lat_cands = (lat_map.get(w, {}).get("latin_candidates") or [])[:3]
+            lat = lat_cands[0] if lat_cands else None
             en = None
             if not args.no_wiktionary and it:
                 cached = gloss_cache.get(it) if it in gloss_cache else None
@@ -155,7 +160,8 @@ def main(argv: list[str]) -> int:
                 cnt = int(row.get(raw_section, 0) or 0)
             it_cell = f"`{it}`" if it else "[n/a]"
             en_cell = (en or "[n/a]").replace("\n", " ").replace("|", "\\|")
-            lines.append(f"| `{w}` | {cnt} | `{reduced}` | {it_cell} | {en_cell} |")
+            lat_cell = f"`{lat}`" if lat else "[n/a]"
+            lines.append(f"| `{w}` | {cnt} | `{reduced}` | {it_cell} | {en_cell} | {lat_cell} |")
         lines.append("")
 
         readme = domains_dir / domain / "README.md"

@@ -15,22 +15,22 @@ This section defines **domain-associated basewords** using a pragmatic proxy: an
 This is not a translation; matches are heuristic and may be coincidental.
 English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.
 
-| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss |
-|---|---:|---|---|---|
-| `daiin` | 11 | `paiin` | `piani` | plans (arrangements) |
-| `daiir` | 4 | `paiir` | `aprii` | [n/a] |
-| `saiin` | 2 | `saiin` | `asini` | [n/a] |
-| `odaiin` | 2 | `opaiin` | `inopia` | poverty |
-| `ydaiin` | 2 | `paiin` | `piani` | plans (arrangements) |
-| `okain` | 1 | `ocain` | `acino` | a berry |
-| `qokeol` | 1 | `coceol` | `eccolo` | [n/a] |
-| `chedar` | 1 | `cepar` | `capre` | [n/a] |
-| `oteos` | 1 | `oteos` | `osteo` | [n/a] |
-| `okees` | 1 | `ocees` | `coese` | [n/a] |
-| `okchor` | 1 | `occor` | `corco` | [n/a] |
-| `odain` | 1 | `opain` | `opina` | opine |
-| `chodar` | 1 | `copar` | `capro` | male goat |
-| `okeos` | 1 | `oceos` | `coeso` | cohesive |
+| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss | Latin candidate (Whitaker) |
+|---|---:|---|---|---|---|
+| `daiin` | 11 | `paiin` | `piani` | plans (arrangements) | [n/a] |
+| `daiir` | 4 | `paiir` | `aprii` | [n/a] | [n/a] |
+| `saiin` | 2 | `saiin` | `asini` | [n/a] | [n/a] |
+| `odaiin` | 2 | `opaiin` | `inopia` | poverty | [n/a] |
+| `ydaiin` | 2 | `paiin` | `piani` | plans (arrangements) | [n/a] |
+| `okain` | 1 | `ocain` | `acino` | a berry | [n/a] |
+| `qokeol` | 1 | `coceol` | `eccolo` | [n/a] | [n/a] |
+| `chedar` | 1 | `cepar` | `capre` | [n/a] | `caper` |
+| `oteos` | 1 | `oteos` | `osteo` | [n/a] | [n/a] |
+| `okees` | 1 | `ocees` | `coese` | [n/a] | [n/a] |
+| `okchor` | 1 | `occor` | `corco` | [n/a] | [n/a] |
+| `odain` | 1 | `opain` | `opina` | opine | [n/a] |
+| `chodar` | 1 | `copar` | `capro` | male goat | [n/a] |
+| `okeos` | 1 | `oceos` | `coeso` | cohesive | [n/a] |
 
 ## Folios
 - f67v1: ../../recipe_readmes/astronomical/f67v1/README.md

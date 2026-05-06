@@ -15,38 +15,38 @@ This section defines **domain-associated basewords** using a pragmatic proxy: an
 This is not a translation; matches are heuristic and may be coincidental.
 English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.
 
-| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss |
-|---|---:|---|---|---|
-| `daiin` | 28 | `paiin` | `piani` | plans (arrangements) |
-| `qokal` | 13 | `cocal` | `calco` | cast (of sculpture) |
-| `odaiin` | 8 | `opaiin` | `inopia` | poverty |
-| `okees` | 7 | `ocees` | `coese` | [n/a] |
-| `opaiin` | 6 | `opaiin` | `inopia` | poverty |
-| `ykaiin` | 5 | `caiin` | `acini` | [n/a] |
-| `qodaiin` | 5 | `copaiin` | `apocini` | [n/a] |
-| `oteos` | 5 | `oteos` | `osteo` | [n/a] |
-| `olkar` | 5 | `olcar` | `carlo` | [n/a] |
-| `okaiin` | 4 | `ocaiin` | `coniai` | [n/a] |
-| `qotaiin` | 4 | `cotaiin` | `cationi` | [n/a] |
-| `qokaiin` | 3 | `cocaiin` | `ciancio` | [n/a] |
-| `qokar` | 3 | `cocar` | `carco` | [n/a] |
-| `olaiin` | 3 | `olaiin` | `ialino` | hyaline, glassy |
-| `oraiin` | 3 | `oraiin` | `aironi` | [n/a] |
-| `olkaiin` | 3 | `olcaiin` | `caolini` | [n/a] |
-| `otair` | 3 | `otair` | `atrio` | entrance hall, lobby (of a hotel etc.) |
-| `shodaiin` | 3 | `sopaiin` | `sinopia` | [n/a] |
-| `otain` | 2 | `otain` | `anito` | [n/a] |
-| `kaiin` | 2 | `caiin` | `acini` | [n/a] |
-| `qotar` | 2 | `cotar` | `corta` | [n/a] |
-| `qotal` | 2 | `cotal` | `colta` | [n/a] |
-| `daiir` | 2 | `paiir` | `aprii` | [n/a] |
-| `okair` | 2 | `ocair` | `cario` | [n/a] |
-| `okchor` | 2 | `occor` | `corco` | [n/a] |
-| `otedar` | 2 | `otepar` | `aperto` | open |
-| `okeos` | 2 | `oceos` | `coeso` | cohesive |
-| `qokain` | 1 | `cocain` | `acconi` | [n/a] |
-| `okain` | 1 | `ocain` | `acino` | a berry |
-| `saiin` | 1 | `saiin` | `asini` | [n/a] |
+| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss | Latin candidate (Whitaker) |
+|---|---:|---|---|---|---|
+| `daiin` | 28 | `paiin` | `piani` | plans (arrangements) | [n/a] |
+| `qokal` | 13 | `cocal` | `calco` | cast (of sculpture) | `accol` |
+| `odaiin` | 8 | `opaiin` | `inopia` | poverty | [n/a] |
+| `okees` | 7 | `ocees` | `coese` | [n/a] | [n/a] |
+| `opaiin` | 6 | `opaiin` | `inopia` | poverty | [n/a] |
+| `ykaiin` | 5 | `caiin` | `acini` | [n/a] | [n/a] |
+| `qodaiin` | 5 | `copaiin` | `apocini` | [n/a] | [n/a] |
+| `oteos` | 5 | `oteos` | `osteo` | [n/a] | [n/a] |
+| `olkar` | 5 | `olcar` | `carlo` | [n/a] | `calor` |
+| `okaiin` | 4 | `ocaiin` | `coniai` | [n/a] | [n/a] |
+| `qotaiin` | 4 | `cotaiin` | `cationi` | [n/a] | `aconiti` |
+| `qokaiin` | 3 | `cocaiin` | `ciancio` | [n/a] | [n/a] |
+| `qokar` | 3 | `cocar` | `carco` | [n/a] | [n/a] |
+| `olaiin` | 3 | `olaiin` | `ialino` | hyaline, glassy | [n/a] |
+| `oraiin` | 3 | `oraiin` | `aironi` | [n/a] | [n/a] |
+| `olkaiin` | 3 | `olcaiin` | `caolini` | [n/a] | [n/a] |
+| `otair` | 3 | `otair` | `atrio` | entrance hall, lobby (of a hotel etc.) | `ratio` |
+| `shodaiin` | 3 | `sopaiin` | `sinopia` | [n/a] | [n/a] |
+| `otain` | 2 | `otain` | `anito` | [n/a] | `natio` |
+| `kaiin` | 2 | `caiin` | `acini` | [n/a] | [n/a] |
+| `qotar` | 2 | `cotar` | `corta` | [n/a] | `actor` |
+| `qotal` | 2 | `cotal` | `colta` | [n/a] | `calot` |
+| `daiir` | 2 | `paiir` | `aprii` | [n/a] | [n/a] |
+| `okair` | 2 | `ocair` | `cario` | [n/a] | `acori` |
+| `okchor` | 2 | `occor` | `corco` | [n/a] | [n/a] |
+| `otedar` | 2 | `otepar` | `aperto` | open | `tropae` |
+| `okeos` | 2 | `oceos` | `coeso` | cohesive | [n/a] |
+| `qokain` | 1 | `cocain` | `acconi` | [n/a] | `cocain` |
+| `okain` | 1 | `ocain` | `acino` | a berry | [n/a] |
+| `saiin` | 1 | `saiin` | `asini` | [n/a] | [n/a] |
 
 ## Folios
 - f57v: ../../recipe_readmes/cosmological/f57v/README.md

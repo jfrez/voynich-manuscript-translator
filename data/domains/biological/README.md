@@ -15,38 +15,38 @@ This section defines **domain-associated basewords** using a pragmatic proxy: an
 This is not a translation; matches are heuristic and may be coincidental.
 English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.
 
-| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss |
-|---|---:|---|---|---|
-| `qokain` | 158 | `cocain` | `acconi` | [n/a] |
-| `qokal` | 102 | `cocal` | `calco` | cast (of sculpture) |
-| `daiin` | 81 | `paiin` | `piani` | plans (arrangements) |
-| `qokaiin` | 81 | `cocaiin` | `ciancio` | [n/a] |
-| `qokar` | 45 | `cocar` | `carco` | [n/a] |
-| `okain` | 40 | `ocain` | `acino` | a berry |
-| `okaiin` | 31 | `ocaiin` | `coniai` | [n/a] |
-| `saiin` | 30 | `saiin` | `asini` | [n/a] |
-| `olkain` | 26 | `olcain` | `alcino` | smart, clever, intelligent, bright |
-| `qotal` | 25 | `cotal` | `colta` | [n/a] |
-| `otain` | 23 | `otain` | `anito` | [n/a] |
-| `qotain` | 20 | `cotain` | `antico` | ancient |
-| `qotar` | 16 | `cotar` | `corta` | [n/a] |
-| `qotaiin` | 13 | `cotaiin` | `cationi` | [n/a] |
-| `kaiin` | 7 | `caiin` | `acini` | [n/a] |
-| `qotol` | 7 | `cotol` | `colto` | cultivated |
-| `olkaiin` | 7 | `olcaiin` | `caolini` | [n/a] |
-| `olaiin` | 6 | `olaiin` | `ialino` | hyaline, glassy |
-| `olkar` | 6 | `olcar` | `carlo` | [n/a] |
-| `qokaly` | 6 | `cocal` | `calco` | cast (of sculpture) |
-| `olkal` | 6 | `olcal` | `alcol` | alcohol (general use) |
-| `lkaiin` | 5 | `lcaiin` | `ancili` | [n/a] |
-| `chedar` | 5 | `cepar` | `capre` | [n/a] |
-| `lkain` | 4 | `lcain` | `lanci` | [n/a] |
-| `qokor` | 4 | `cocor` | `corco` | [n/a] |
-| `qokchey` | 4 | `cocce` | `cecco` | [n/a] |
-| `orain` | 4 | `orain` | `arino` | [n/a] |
-| `qokeor` | 3 | `coceor` | `croceo` | saffron-coloured/colored |
-| `olain` | 3 | `olain` | `alino` | [n/a] |
-| `ykaiin` | 2 | `caiin` | `acini` | [n/a] |
+| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss | Latin candidate (Whitaker) |
+|---|---:|---|---|---|---|
+| `qokain` | 158 | `cocain` | `acconi` | [n/a] | `cocain` |
+| `qokal` | 102 | `cocal` | `calco` | cast (of sculpture) | `accol` |
+| `daiin` | 81 | `paiin` | `piani` | plans (arrangements) | [n/a] |
+| `qokaiin` | 81 | `cocaiin` | `ciancio` | [n/a] | [n/a] |
+| `qokar` | 45 | `cocar` | `carco` | [n/a] | [n/a] |
+| `okain` | 40 | `ocain` | `acino` | a berry | [n/a] |
+| `okaiin` | 31 | `ocaiin` | `coniai` | [n/a] | [n/a] |
+| `saiin` | 30 | `saiin` | `asini` | [n/a] | [n/a] |
+| `olkain` | 26 | `olcain` | `alcino` | smart, clever, intelligent, bright | [n/a] |
+| `qotal` | 25 | `cotal` | `colta` | [n/a] | `calot` |
+| `otain` | 23 | `otain` | `anito` | [n/a] | `natio` |
+| `qotain` | 20 | `cotain` | `antico` | ancient | `aconit` |
+| `qotar` | 16 | `cotar` | `corta` | [n/a] | `actor` |
+| `qotaiin` | 13 | `cotaiin` | `cationi` | [n/a] | `aconiti` |
+| `kaiin` | 7 | `caiin` | `acini` | [n/a] | [n/a] |
+| `qotol` | 7 | `cotol` | `colto` | cultivated | `colot` |
+| `olkaiin` | 7 | `olcaiin` | `caolini` | [n/a] | [n/a] |
+| `olaiin` | 6 | `olaiin` | `ialino` | hyaline, glassy | [n/a] |
+| `olkar` | 6 | `olcar` | `carlo` | [n/a] | `calor` |
+| `qokaly` | 6 | `cocal` | `calco` | cast (of sculpture) | `accol` |
+| `olkal` | 6 | `olcal` | `alcol` | alcohol (general use) | `alloc` |
+| `lkaiin` | 5 | `lcaiin` | `ancili` | [n/a] | `lacini` |
+| `chedar` | 5 | `cepar` | `capre` | [n/a] | `caper` |
+| `lkain` | 4 | `lcain` | `lanci` | [n/a] | `alcin` |
+| `qokor` | 4 | `cocor` | `corco` | [n/a] | [n/a] |
+| `qokchey` | 4 | `cocce` | `cecco` | [n/a] | [n/a] |
+| `orain` | 4 | `orain` | `arino` | [n/a] | [n/a] |
+| `qokeor` | 3 | `coceor` | `croceo` | saffron-coloured/colored | [n/a] |
+| `olain` | 3 | `olain` | `alino` | [n/a] | [n/a] |
+| `ykaiin` | 2 | `caiin` | `acini` | [n/a] | [n/a] |
 
 ## Folios
 - f75r: ../../recipe_readmes/biological/f75r/README.md
