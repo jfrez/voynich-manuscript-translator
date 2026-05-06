@@ -7,6 +7,7 @@ import pathlib
 import os
 import re
 import sys
+from collections import defaultdict
 
 
 def format_kv_block(title: str, mapping: dict) -> str:
@@ -76,6 +77,14 @@ def _safe_domain_name(s: str) -> str:
     s = re.sub(r"[^a-z0-9]+", "_", s).strip("_")
     return s or "unknown"
 
+def _load_json_if_exists(path: pathlib.Path):
+    try:
+        if path.exists():
+            return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    return None
+
 
 def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser(description="Render per-folio recipe JSON into plain-text (Markdown) README files.")
@@ -96,10 +105,54 @@ def main(argv: list[str]) -> int:
     index = json.loads((recipes_dir / "index.json").read_text(encoding="utf-8"))
     folio_images = build_folio_image_map(images_dir) if images_dir.exists() else {}
     folio_domain = {}
+    folio_section_raw: dict[str, str] = {}
     idx_path = pages_dir / "index.json"
     if args.group_by_domain and idx_path.exists():
         for m in json.loads(idx_path.read_text(encoding="utf-8")):
             folio_domain[m["folio"]] = _safe_domain_name(m.get("section") or "unknown")
+            folio_section_raw[m["folio"]] = (m.get("section") or "unknown")
+
+    # Optional domain word resources (heuristic; not translation)
+    base_words_by_section = _load_json_if_exists(pathlib.Path("data/base_words_by_section.json")) or {}
+    section_vocab = _load_json_if_exists(pathlib.Path("data/section_anagram_vocab.json")) or {}
+    anagrams = _load_json_if_exists(pathlib.Path("data/base_words_wikwik_anagrams_unrestricted.json")) or {}
+    wiktionary_cache = _load_json_if_exists(pathlib.Path("data/lexicon/wiktionary_en_cache.json")) or {}
+    ana_map = {r.get("baseword"): r for r in anagrams.get("rows", []) if isinstance(r, dict)}
+    count_map = {r.get("word"): r for r in base_words_by_section.get("rows", []) if isinstance(r, dict)}
+
+    def _top_non_generic_words(raw_section: str, top_n: int = 15) -> list[dict]:
+        # section vocab keys are raw labels (e.g., "text only")
+        vocab_entry = section_vocab.get(raw_section) or {}
+        non_generic = vocab_entry.get("non_generic") or []
+        scored = []
+        for w in non_generic:
+            row = count_map.get(w)
+            if not row:
+                continue
+            scored.append((int(row.get(raw_section, 0)), int(row.get("total", 0)), w))
+        scored.sort(reverse=True)
+        out = []
+        for sec_count, total, w in scored[:top_n]:
+            cand = (ana_map.get(w, {}).get("anagram_candidates") or [])[:3]
+            it = cand[0] if cand else None
+            en = wiktionary_cache.get(it) if it else None
+            out.append({"word": w, "count_in_section": sec_count, "total": total, "it": it, "en": en})
+        return out
+
+    def _marker_examples(raw_section: str, marker: str, max_examples: int = 6) -> dict:
+        hits = []
+        for w, row in count_map.items():
+            if not w or not row:
+                continue
+            if marker not in w:
+                continue
+            sec_count = int(row.get(raw_section, 0) or 0)
+            if sec_count <= 0:
+                continue
+            hits.append((sec_count, int(row.get("total", 0) or 0), w))
+        hits.sort(reverse=True)
+        examples = [w for _c, _t, w in hits[:max_examples]]
+        return {"marker": marker, "count_words": len(hits), "examples": examples}
 
     rendered = 0
     index_entries: list[dict] = []
@@ -130,6 +183,7 @@ def main(argv: list[str]) -> int:
         parts.append("\n".join(header))
 
         domain = folio_domain.get(folio, "unknown") if args.group_by_domain else None
+        raw_section = folio_section_raw.get(folio) or (obj.get("section") or "unknown")
         folio_dir = (out_dir / domain / folio) if domain else (out_dir / folio)
         folio_dir.mkdir(parents=True, exist_ok=True)
         img_paths = folio_images.get(folio, [])
@@ -156,6 +210,32 @@ def main(argv: list[str]) -> int:
             eva_block = page_payload["eva_text"].rstrip("\n")
             parts.append("## EVA Text (Transliteration)\n```text\n" + eva_block + "\n```")
         # Intentionally omit any speculative aggregation (summary/pantry/plant heuristics) from READMEs.
+
+        # Domain context: show how the grammar tokens are grounded in recurring basewords for this IVTFF section.
+        if args.group_by_domain and raw_section in (base_words_by_section.get("sections") or []) and raw_section in section_vocab:
+            assoc = _top_non_generic_words(raw_section, top_n=15)
+            markers = ["qo", "q", "o", "k", "t", "p", "ch", "sh", "f", "cth", "ckh", "cph", "cfh", "dy", "iin", "aiin"]
+            parts.append("## Domain Context (Heuristic; Not a Translation)")
+            parts.append(
+                "This section summarizes recurring **basewords** in this IVTFF domain and shows simple substring evidence that the token markers used by the procedural grammar occur inside frequent words."
+            )
+            parts.append("Any Italian anagram / English gloss is a best-effort lexicon match, not a decipherment.")
+            parts.append("")
+            if assoc:
+                lines = ["### Associated basewords (non-generic; top by frequency in this domain)"]
+                for a in assoc:
+                    it = a.get("it") or "[n/a]"
+                    en = a.get("en") or "[n/a]"
+                    lines.append(f"- `{a['word']}` (count={a['count_in_section']}) → Italian anagram `{it}`; English: {en}")
+                parts.append("\n".join(lines))
+            ev = ["### Marker evidence (substring in frequent basewords)"]
+            for mk in markers:
+                info = _marker_examples(raw_section, mk, max_examples=6)
+                if info["count_words"] <= 0:
+                    continue
+                ex = ", ".join(f"`{w}`" for w in info["examples"])
+                ev.append(f"- `{mk}`: {info['count_words']} basewords; examples: {ex}")
+            parts.append("\n".join(ev))
 
         # Render each line as its own recipe
         if line_recipes:

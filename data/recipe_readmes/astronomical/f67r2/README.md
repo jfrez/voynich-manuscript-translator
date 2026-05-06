@@ -88,6 +88,46 @@ sshey sy shees qeykeey ykchey ykchey qokeochy oaiin okol ar olar
 yshey qokeeody cheos oeeos qockhy chos aiin okeeody qokoaiin odain ar air ay
 ```
 
+## Domain Context (Heuristic; Not a Translation)
+
+This section summarizes recurring **basewords** in this IVTFF domain and shows simple substring evidence that the token markers used by the procedural grammar occur inside frequent words.
+
+Any Italian anagram / English gloss is a best-effort lexicon match, not a decipherment.
+
+
+
+### Associated basewords (non-generic; top by frequency in this domain)
+- `daiin` (count=11) → Italian anagram `piani`; English: plans (arrangements)
+- `daiir` (count=4) → Italian anagram `aprii`; English: [n/a]
+- `saiin` (count=2) → Italian anagram `asini`; English: [n/a]
+- `odaiin` (count=2) → Italian anagram `inopia`; English: poverty
+- `ydaiin` (count=2) → Italian anagram `piani`; English: plans (arrangements)
+- `okain` (count=1) → Italian anagram `acino`; English: a berry
+- `qokeol` (count=1) → Italian anagram `eccolo`; English: [n/a]
+- `chedar` (count=1) → Italian anagram `capre`; English: [n/a]
+- `oteos` (count=1) → Italian anagram `osteo`; English: [n/a]
+- `okees` (count=1) → Italian anagram `coese`; English: [n/a]
+- `okchor` (count=1) → Italian anagram `corco`; English: [n/a]
+- `odain` (count=1) → Italian anagram `opina`; English: opine
+- `chodar` (count=1) → Italian anagram `capro`; English: male goat
+- `okeos` (count=1) → Italian anagram `coeso`; English: cohesive
+
+### Marker evidence (substring in frequent basewords)
+- `qo`: 10 basewords; examples: `qokeey`, `qokchdy`, `qokey`, `qokol`, `qokchy`, `qokeol`
+- `q`: 11 basewords; examples: `qokeey`, `qokchdy`, `qokey`, `qokol`, `qokchy`, `qokeol`
+- `o`: 105 basewords; examples: `o`, `oteey`, `chol`, `or`, `okol`, `okey`
+- `k`: 50 basewords; examples: `okol`, `okey`, `okeey`, `okeo`, `qokeey`, `keey`
+- `t`: 30 basewords; examples: `oteey`, `otol`, `otor`, `ot`, `oteo`, `yteody`
+- `p`: 4 basewords; examples: `opchey`, `qopchy`, `cphy`, `cphol`
+- `ch`: 51 basewords; examples: `chol`, `chy`, `ch`, `cheor`, `cho`, `cheo`
+- `sh`: 14 basewords; examples: `shey`, `shes`, `shdy`, `sheey`, `sho`, `sheol`
+- `cth`: 4 basewords; examples: `cthy`, `cthey`, `cthody`, `shocthy`
+- `ckh`: 3 basewords; examples: `chockhy`, `ockhy`, `qockhy`
+- `cph`: 2 basewords; examples: `cphy`, `cphol`
+- `dy`: 26 basewords; examples: `dy`, `cheody`, `okeody`, `ykeody`, `okeeody`, `aldy`
+- `iin`: 11 basewords; examples: `aiin`, `daiin`, `saiin`, `odaiin`, `oiin`, `ydaiin`
+- `aiin`: 8 basewords; examples: `aiin`, `daiin`, `saiin`, `odaiin`, `ydaiin`, `chedaiin`
+
 ## Recipes Index (This Page)
 - [f67r2.1,@L0](#f67r2-1-f67r2-1-l0)
 - [f67r2.2,&L0](#f67r2-2-f67r2-2-l0)

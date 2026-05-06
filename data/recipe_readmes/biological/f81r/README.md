@@ -47,6 +47,47 @@ l shedy qokedy sor olkar ol kaiin olkshdy
 sol shedy ol lchedy shedy shy olkedy ches ar or oraiiin
 ```
 
+## Domain Context (Heuristic; Not a Translation)
+
+This section summarizes recurring **basewords** in this IVTFF domain and shows simple substring evidence that the token markers used by the procedural grammar occur inside frequent words.
+
+Any Italian anagram / English gloss is a best-effort lexicon match, not a decipherment.
+
+
+
+### Associated basewords (non-generic; top by frequency in this domain)
+- `qokain` (count=158) → Italian anagram `acconi`; English: [n/a]
+- `qokal` (count=102) → Italian anagram `calco`; English: cast (of sculpture)
+- `daiin` (count=81) → Italian anagram `piani`; English: plans (arrangements)
+- `qokaiin` (count=81) → Italian anagram `ciancio`; English: [n/a]
+- `qokar` (count=45) → Italian anagram `carco`; English: [n/a]
+- `okain` (count=40) → Italian anagram `acino`; English: a berry
+- `okaiin` (count=31) → Italian anagram `coniai`; English: [n/a]
+- `saiin` (count=30) → Italian anagram `asini`; English: [n/a]
+- `olkain` (count=26) → Italian anagram `alcino`; English: smart, clever, intelligent, bright
+- `qotal` (count=25) → Italian anagram `colta`; English: [n/a]
+- `otain` (count=23) → Italian anagram `anito`; English: [n/a]
+- `qotain` (count=20) → Italian anagram `antico`; English: ancient
+- `qotar` (count=16) → Italian anagram `corta`; English: [n/a]
+- `qotaiin` (count=13) → Italian anagram `cationi`; English: [n/a]
+- `kaiin` (count=7) → Italian anagram `acini`; English: [n/a]
+
+### Marker evidence (substring in frequent basewords)
+- `qo`: 49 basewords; examples: `qokain`, `qokedy`, `qokeedy`, `qol`, `qokal`, `qokaiin`
+- `q`: 50 basewords; examples: `qokain`, `qokedy`, `qokeedy`, `qol`, `qokal`, `qokaiin`
+- `o`: 173 basewords; examples: `ol`, `qokain`, `qokedy`, `qokeedy`, `qol`, `qokal`
+- `k`: 114 basewords; examples: `qokain`, `qokedy`, `qokeedy`, `qokal`, `qokaiin`, `qokeey`
+- `t`: 77 basewords; examples: `otedy`, `qotedy`, `qoteedy`, `qoty`, `qotal`, `otain`
+- `p`: 11 basewords; examples: `pchedy`, `opchedy`, `pol`, `qopchedy`, `pchedar`, `opchey`
+- `ch`: 93 basewords; examples: `chedy`, `chey`, `lchedy`, `cheey`, `chckhy`, `cheol`
+- `sh`: 41 basewords; examples: `shedy`, `shey`, `sheedy`, `sheey`, `sheol`, `shckhy`
+- `cth`: 9 basewords; examples: `chcthy`, `checthy`, `shcthy`, `shecthy`, `cthedy`, `cthey`
+- `ckh`: 12 basewords; examples: `chckhy`, `shckhy`, `checkhy`, `sheckhy`, `chckhey`, `chckhdy`
+- `cph`: 1 basewords; examples: `cphol`
+- `dy`: 63 basewords; examples: `shedy`, `chedy`, `qokedy`, `qokeedy`, `dy`, `lchedy`
+- `iin`: 27 basewords; examples: `daiin`, `qokaiin`, `aiin`, `okaiin`, `saiin`, `qotaiin`
+- `aiin`: 21 basewords; examples: `daiin`, `qokaiin`, `aiin`, `okaiin`, `saiin`, `qotaiin`
+
 ## Recipes Index (This Page)
 - [f81r.1,@P0](#f81r-1-f81r-1-p0)
 - [f81r.2,+P0](#f81r-2-f81r-2-p0)
