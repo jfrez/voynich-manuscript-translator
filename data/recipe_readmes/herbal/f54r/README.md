@@ -93,7 +93,7 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: podaiin shodal qopchol cfhe[o:a]dy opcheol chocphy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- podaiin: tokens: p o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- podaiin: tokens: p o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
 - shodal: tokens: sh o p a l → connectors: l → vowel_run: a (level 1; class a)
 - qopchol: tokens: qo p ch o l → connectors: l
 - cfhe: tokens: cfh e → vowel_run: e (level 1; class e)
@@ -110,7 +110,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: ytodaiin otchey otchey qockhodal sockhody sar
 
 Direct Gloss (Procedural, Not a Real Translation):
-- ytodaiin: tokens: t o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- ytodaiin: tokens: t o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
 - otchey: tokens: o t ch e → vowel_run: e (level 1; class e)
 - otchey: tokens: o t ch e → vowel_run: e (level 1; class e)
 - qockhodal: tokens: qo ckh o p a l → connectors: l → vowel_run: a (level 1; class a)
@@ -124,7 +124,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiir cthody ot[a:o]l [e:o]kchody ol s or y ytchey dam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a)
+- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `daiir` → `aprii`; [n/a])
 - cthody: tokens: cth o p
 - ot: tokens: o t
 - a: tokens: a → vowel_run: a (level 1; class a)
@@ -243,14 +243,14 @@ Direct Gloss (Procedural, Not a Real Translation):
 - or: tokens: o r → connectors: r
 - ol: tokens: o l → connectors: l
 - sal: tokens: s a l → connectors: s l → vowel_run: a (level 1; class a)
-- qokor: tokens: qo k o r → connectors: r
+- qokor: tokens: qo k o r → connectors: r (lexicon-context: `qokor` → `corco`; [n/a])
 - chor: tokens: ch o r → connectors: r
 - ckhol: tokens: ckh o l → connectors: l
 - s: tokens: s → connectors: s
 - s: tokens: s → connectors: s
 - sho: tokens: sh o
 - chol: tokens: ch o l → connectors: l
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f54r-10-f54r-10-p0"></a>
 
@@ -279,7 +279,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin okor or ol ckhol chor cho@165; dam or sho chol dom
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - okor: tokens: o k o r → connectors: r
 - or: tokens: o r → connectors: r
 - ol: tokens: o l → connectors: l

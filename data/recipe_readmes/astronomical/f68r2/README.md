@@ -184,7 +184,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - d: tokens: p
 - qoeeckhy: tokens: qo ee ckh → vowel_run: ee (level 2; class e)
 - qockheol: tokens: qo ckh e o l → connectors: l → vowel_run: e (level 1; class e)
-- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e)
+- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e) (lexicon-context: `qokeol` → `eccolo`; [n/a])
 - cheoal: tokens: ch e o a l → connectors: l → vowel_run: e (level 1; class e)
 - dcholal: tokens: p ch o l a l → connectors: l l → vowel_run: a (level 1; class a)
 
@@ -248,7 +248,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: odaiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- odaiin: tokens: o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- odaiin: tokens: o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
 
 <a id="f68r2-10-f68r2-10-ls"></a>
 
@@ -302,7 +302,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: okchor
 
 Direct Gloss (Procedural, Not a Real Translation):
-- okchor: tokens: o k ch o r → connectors: r
+- okchor: tokens: o k ch o r → connectors: r (lexicon-context: `okchor` → `corco`; [n/a])
 
 <a id="f68r2-16-f68r2-16-ls"></a>
 
@@ -420,7 +420,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: chodar
 
 Direct Gloss (Procedural, Not a Real Translation):
-- chodar: tokens: ch o p a r → connectors: r → vowel_run: a (level 1; class a)
+- chodar: tokens: ch o p a r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `chodar` → `capro`; male goat)
 
 <a id="f68r2-29-f68r2-29-ls"></a>
 

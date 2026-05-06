@@ -462,7 +462,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: osdaiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- osdaiin: tokens: o s p aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin
+- osdaiin: tokens: o s p aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f68r1-35-f68r1-35-ls"></a>
 

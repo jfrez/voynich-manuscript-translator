@@ -116,7 +116,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - opchar: tokens: o p ch a r → connectors: r → vowel_run: a (level 1; class a)
 - she: tokens: sh e → vowel_run: e (level 1; class e)
 - cheol: tokens: ch e o l → connectors: l → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - or: tokens: o r → connectors: r
 
 <a id="f24r-2-f24r-2-p0"></a>
@@ -126,9 +126,9 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qotaiin char odaiin okaiikhal oky
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qotaiin: tokens: qo t aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- qotaiin: tokens: qo t aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `qotaiin` → `cationi`; [n/a])
 - char: tokens: ch a r → connectors: r → vowel_run: a (level 1; class a)
-- odaiin: tokens: o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- odaiin: tokens: o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
 - okaiikhal: tokens: o k a ii k h a l → connectors: l → vowel_run: a (level 1; class a) → unmodeled_tokens: h
 - oky: tokens: o k
 
@@ -142,7 +142,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ycthar: tokens: cth a r → connectors: r → vowel_run: a (level 1; class a)
 - cthal: tokens: cth a l → connectors: l → vowel_run: a (level 1; class a)
 - okol: tokens: o k o l → connectors: l
-- qotar: tokens: qo t a r → connectors: r → vowel_run: a (level 1; class a)
+- qotar: tokens: qo t a r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `qotar` → `corta`; [n/a])
 - ckhy: tokens: ckh
 
 <a id="f24r-4-f24r-4-p0"></a>
@@ -213,8 +213,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: tokens: s → connectors: s
 - om: tokens: o m → connectors: m
 - qoear: tokens: qo e a r → connectors: r → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
-- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e)
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e) (lexicon-context: `qokeol` → `eccolo`; [n/a])
 
 <a id="f24r-9-f24r-9-p0"></a>
 
@@ -223,7 +223,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: odaiin ckham qodaiikhy dol dal
 
 Direct Gloss (Procedural, Not a Real Translation):
-- odaiin: tokens: o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- odaiin: tokens: o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
 - ckham: tokens: ckh a m → connectors: m → vowel_run: a (level 1; class a)
 - qodaiikhy: tokens: qo p a ii k h → vowel_run: a (level 1; class a) → unmodeled_tokens: h
 - dol: tokens: p o l → connectors: l
@@ -257,7 +257,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheoiees: tokens: ch e o i ee s → connectors: s → vowel_run: e (level 1; class e)
 - okeem: tokens: o k ee m → connectors: m → vowel_run: ee (level 2; class e)
 - cheor: tokens: ch e o r → connectors: r → vowel_run: e (level 1; class e)
-- qokain: tokens: qo k a i n → connectors: n → vowel_run: a (level 1; class a)
+- qokain: tokens: qo k a i n → connectors: n → vowel_run: a (level 1; class a) (lexicon-context: `okain` → `acino`; a berry)
 
 <a id="f24r-12-f24r-12-p0"></a>
 
@@ -348,7 +348,7 @@ EVA: ycheol chol daiin chol s
 Direct Gloss (Procedural, Not a Real Translation):
 - ycheol: tokens: ch e o l → connectors: l → vowel_run: e (level 1; class e)
 - chol: tokens: ch o l → connectors: l
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - chol: tokens: ch o l → connectors: l
 - s: tokens: s → connectors: s
 

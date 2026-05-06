@@ -118,7 +118,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otar: tokens: o t a r → connectors: r → vowel_run: a (level 1; class a)
 - yotedy: tokens: o t e p → vowel_run: e (level 1; class e)
 - cthdy: tokens: cth p
-- okain: tokens: o k a i n → connectors: n → vowel_run: a (level 1; class a)
+- okain: tokens: o k a i n → connectors: n → vowel_run: a (level 1; class a) (lexicon-context: `okain` → `acino`; a berry)
 - chety: tokens: ch e t → vowel_run: e (level 1; class e)
 - choolkeey: tokens: ch o o l k ee → connectors: l → vowel_run: ee (level 2; class e)
 
@@ -174,7 +174,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qocthedy: tokens: qo cth e p → vowel_run: e (level 1; class e)
 - taiin: tokens: t aiin → vowel_run: a (level 1; class a) → suffix: aiin
 - shed: tokens: sh e p → vowel_run: e (level 1; class e)
-- qokar: tokens: qo k a r → connectors: r → vowel_run: a (level 1; class a)
+- qokar: tokens: qo k a r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `qokar` → `carco`; [n/a])
 - otedy: tokens: o t e p → vowel_run: e (level 1; class e)
 - dy: tokens: p
 - dain: tokens: p a i n → connectors: n → vowel_run: a (level 1; class a)
@@ -189,7 +189,7 @@ EVA: shdy qokain okar otar or otees ol or ain otal ok y tar chedy am
 
 Direct Gloss (Procedural, Not a Real Translation):
 - shdy: tokens: sh p
-- qokain: tokens: qo k a i n → connectors: n → vowel_run: a (level 1; class a)
+- qokain: tokens: qo k a i n → connectors: n → vowel_run: a (level 1; class a) (lexicon-context: `okain` → `acino`; a berry)
 - okar: tokens: o k a r → connectors: r → vowel_run: a (level 1; class a)
 - otar: tokens: o t a r → connectors: r → vowel_run: a (level 1; class a)
 - or: tokens: o r → connectors: r

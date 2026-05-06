@@ -201,7 +201,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oty: tokens: o t
 - yteedy: tokens: t ee p → vowel_run: ee (level 2; class e)
 - choldy: tokens: ch o l p → connectors: l
-- qokalaiin: tokens: qo k a l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin
+- qokalaiin: tokens: qo k a l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `qokal` → `calco`; cast (of sculpture))
 - ykaipy: tokens: k a i p → vowel_run: a (level 1; class a)
 - orary: tokens: o r a r → connectors: r r → vowel_run: a (level 1; class a)
 
@@ -315,7 +315,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: oraiiny
 
 Direct Gloss (Procedural, Not a Real Translation):
-- oraiiny: tokens: o r aiin → connectors: r → vowel_run: a (level 1; class a) → suffix: aiin
+- oraiiny: tokens: o r aiin → connectors: r → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `oraiin` → `aironi`; [n/a])
 
 <a id="f73v-18-f73v-18-lz"></a>
 
@@ -351,7 +351,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qokeoly
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qokeoly: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e)
+- qokeoly: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e) (lexicon-context: `qokeol` → `eccolo`; [n/a])
 
 <a id="f73v-22-f73v-22-cc"></a>
 
@@ -381,7 +381,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dy: tokens: p
 - okecholy: tokens: o k e ch o l → connectors: l → vowel_run: e (level 1; class e)
 - otey: tokens: o t e → vowel_run: e (level 1; class e)
-- chodaiin: tokens: ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chodaiin: tokens: ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `chodaiin` → `apocini`; [n/a])
 - chey: tokens: ch e → vowel_run: e (level 1; class e)
 - okeedy: tokens: o k ee p → vowel_run: ee (level 2; class e)
 - saly: tokens: s a l → connectors: s l → vowel_run: a (level 1; class a)

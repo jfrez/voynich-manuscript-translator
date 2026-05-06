@@ -86,6 +86,40 @@ def _load_json_if_exists(path: pathlib.Path):
     return None
 
 
+def _parse_domain_lexicon_table(domain_readme_text: str) -> dict[str, dict]:
+    """
+    Parse the Domain Lexicon markdown table in data/domains/<domain>/README.md.
+    Returns eva_baseword -> {count, it, gloss}
+    """
+    rows: dict[str, dict] = {}
+    in_table = False
+    for line in domain_readme_text.splitlines():
+        if line.strip().startswith("| EVA baseword |"):
+            in_table = True
+            continue
+        if in_table and line.strip().startswith("|---"):
+            continue
+        if in_table:
+            if not line.strip().startswith("|"):
+                break
+            parts = [p.strip() for p in line.strip().strip("|").split("|")]
+            if len(parts) < 5:
+                continue
+            eva = parts[0].strip("`")
+            try:
+                cnt = int(parts[1])
+            except Exception:
+                cnt = 0
+            it_cell = parts[3].strip()
+            it = it_cell.strip("`") if it_cell.startswith("`") else None
+            gloss = parts[4].strip()
+            if gloss == "[n/a]":
+                gloss = None
+            if eva:
+                rows[eva.lower()] = {"count": cnt, "it": it, "gloss": gloss}
+    return rows
+
+
 def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser(description="Render per-folio recipe JSON into plain-text (Markdown) README files.")
     ap.add_argument("--recipes-dir", default="data/recipes", help="Input directory produced by scripts/generate_recipes.py")
@@ -119,6 +153,39 @@ def main(argv: list[str]) -> int:
     wiktionary_cache = _load_json_if_exists(pathlib.Path("data/lexicon/wiktionary_en_cache.json")) or {}
     ana_map = {r.get("baseword"): r for r in anagrams.get("rows", []) if isinstance(r, dict)}
     count_map = {r.get("word"): r for r in base_words_by_section.get("rows", []) if isinstance(r, dict)}
+
+    # Domain lexicon (EVA baseword -> Italian candidate + gloss), parsed from generated domain READMEs
+    domain_lexicon: dict[str, dict[str, dict]] = {}
+    domains_dir = pathlib.Path("data/domains")
+    if domains_dir.exists():
+        for p in domains_dir.iterdir():
+            if not p.is_dir():
+                continue
+            readme = p / "README.md"
+            if not readme.exists():
+                continue
+            domain_lexicon[p.name] = _parse_domain_lexicon_table(readme.read_text(encoding="utf-8", errors="replace"))
+
+    def _lexicon_match(domain_slug: str, word: str) -> tuple[str, dict] | None:
+        """
+        If a word is an exact baseword or contains one as a substring,
+        attach the baseword's lexicon context (Italian proxy + gloss).
+        """
+        lex = domain_lexicon.get(domain_slug or "", {})
+        if not lex:
+            return None
+        w = (word or "").lower()
+        if w in lex:
+            return (w, lex[w])
+        # longest-substring match (avoid very short matches)
+        best = None
+        for bw in lex.keys():
+            if len(bw) < 4:
+                continue
+            if bw in w:
+                if best is None or len(bw) > len(best[0]):
+                    best = (bw, lex[bw])
+        return best
 
     def _top_non_generic_words(raw_section: str, top_n: int = 15) -> list[dict]:
         # section vocab keys are raw labels (e.g., "text only")
@@ -263,10 +330,22 @@ def main(argv: list[str]) -> int:
                     blocks.append(f"EVA: {eva_line}")
                 parsing = recipe.get("parsing", [])
                 if parsing:
-                    blocks.append(
-                        "Direct Gloss (Procedural, Not a Real Translation):\n"
-                        + "\n".join(f"- {p.get('word')}: {p.get('interpretation')}" for p in parsing)
-                    )
+                    gloss_lines = []
+                    for p in parsing:
+                        w = p.get("word")
+                        interp = p.get("interpretation")
+                        extra = ""
+                        if domain:
+                            m = _lexicon_match(domain, w or "")
+                            if m:
+                                bw, info = m
+                                # Only show when we have a gloss or Italian candidate; this is "context inheritance".
+                                it = info.get("it")
+                                gl = info.get("gloss")
+                                if it or gl:
+                                    extra = f" (lexicon-context: `{bw}` → `{it}`; {gl or '[n/a]'})"
+                        gloss_lines.append(f"- {w}: {interp}{extra}")
+                    blocks.append("Direct Gloss (Procedural, Not a Real Translation):\n" + "\n".join(gloss_lines))
                 else:
                     blocks.append("Direct Gloss (Procedural, Not a Real Translation):\n- [no parsed tokens]")
             parts.append("\n\n".join(blocks))

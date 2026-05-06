@@ -103,7 +103,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dy: tokens: p
 - chckhy: tokens: ch ckh
 - shcthy: tokens: sh cth
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - dam: tokens: p a m → connectors: m → vowel_run: a (level 1; class a)
 - ykchy: tokens: k ch
 - dain: tokens: p a i n → connectors: n → vowel_run: a (level 1; class a)
@@ -116,7 +116,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: otchor dy kchy tchy [@152;:d]ar qokchd oky choldy dy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- otchor: tokens: o t ch o r → connectors: r
+- otchor: tokens: o t ch o r → connectors: r (lexicon-context: `otchor` → `corto`; short)
 - dy: tokens: p
 - kchy: tokens: k ch
 - tchy: tokens: t ch
@@ -134,7 +134,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qokchor chololcr chyky dchy qoky ctho tchey tu
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qokchor: tokens: qo k ch o r → connectors: r
+- qokchor: tokens: qo k ch o r → connectors: r (lexicon-context: `okchor` → `corco`; [n/a])
 - chololcr: tokens: ch o l o l c r → connectors: l l r
 - chyky: tokens: ch k
 - dchy: tokens: p ch

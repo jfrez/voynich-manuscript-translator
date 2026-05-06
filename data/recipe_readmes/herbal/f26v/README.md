@@ -160,7 +160,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cheos: tokens: ch e o s → connectors: s → vowel_run: e (level 1; class e)
 - oraiin: tokens: o r aiin → connectors: r → vowel_run: a (level 1; class a) → suffix: aiin
 - okeo: tokens: o k e o → vowel_run: e (level 1; class e)
-- chekaiin: tokens: ch e k aiin → vowel_run: e (level 1; class e) → suffix: aiin
+- chekaiin: tokens: ch e k aiin → vowel_run: e (level 1; class e) → suffix: aiin (lexicon-context: `kaiin` → `acini`; [n/a])
 
 <a id="f26v-5-f26v-5-p0"></a>
 
@@ -228,7 +228,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tchedy: tokens: t ch e p → vowel_run: e (level 1; class e)
 - okeeos: tokens: o k ee o s → connectors: s → vowel_run: ee (level 2; class e)
 - cheeos: tokens: ch ee o s → connectors: s → vowel_run: ee (level 2; class e)
-- ysaiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin
+- ysaiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `saiin` → `asini`; [n/a])
 - okcheey: tokens: o k ch ee → vowel_run: ee (level 2; class e)
 - keody: tokens: k e o p → vowel_run: e (level 1; class e)
 - s: tokens: s → connectors: s

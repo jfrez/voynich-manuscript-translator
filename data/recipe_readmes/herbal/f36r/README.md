@@ -93,7 +93,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chcfhal: tokens: ch cfh a l → connectors: l → vowel_run: a (level 1; class a)
 - soiin: tokens: s o iin → connectors: s → vowel_run: ii (level 2; class i) → suffix: iin
 - cphor: tokens: cph o r → connectors: r
-- shaiin: tokens: sh aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- shaiin: tokens: sh aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `shaiin` → `asini`; [n/a])
 - cthy: tokens: cth
 - dair: tokens: p a i r → connectors: r → vowel_run: a (level 1; class a)
 
@@ -107,7 +107,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oral: tokens: o r a l → connectors: r l → vowel_run: a (level 1; class a)
 - shor: tokens: sh o r → connectors: r
 - ytaiin: tokens: t aiin → vowel_run: a (level 1; class a) → suffix: aiin
-- qotaiin: tokens: qo t aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- qotaiin: tokens: qo t aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `qotaiin` → `cationi`; [n/a])
 - qooldy: tokens: qo o l p → connectors: l
 - chty: tokens: ch t
 - chol: tokens: ch o l → connectors: l
@@ -123,7 +123,7 @@ EVA: qotchy tchy daiin @152;aiin dolsain
 Direct Gloss (Procedural, Not a Real Translation):
 - qotchy: tokens: qo t ch
 - tchy: tokens: t ch
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - aiin: tokens: aiin → vowel_run: a (level 1; class a) → suffix: aiin
 - dolsain: tokens: p o l s a i n → connectors: l s n → vowel_run: a (level 1; class a)
 
@@ -134,7 +134,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: podaiir cphy qoypchol som c'y chy dchy fchom dar
 
 Direct Gloss (Procedural, Not a Real Translation):
-- podaiir: tokens: p o p a ii r → connectors: r → vowel_run: a (level 1; class a)
+- podaiir: tokens: p o p a ii r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `daiir` → `aprii`; [n/a])
 - cphy: tokens: cph
 - qoypchol: tokens: qo p ch o l → connectors: l
 - som: tokens: s o m → connectors: s m
@@ -152,7 +152,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin qor chol ctholy s o r chy sy chytaroiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - qor: tokens: qo r → connectors: r
 - chol: tokens: ch o l → connectors: l
 - ctholy: tokens: cth o l → connectors: l
@@ -170,7 +170,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: okaiin cthor y kaiiin s dain an dan
 
 Direct Gloss (Procedural, Not a Real Translation):
-- okaiin: tokens: o k aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- okaiin: tokens: o k aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `okaiin` → `coniai`; [n/a])
 - cthor: tokens: cth o r → connectors: r
 - y: [unparsed]
 - kaiiin: tokens: k a iii n → connectors: n → vowel_run: a (level 1; class a) → suffix: iin
@@ -186,7 +186,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qotol cthol okol dy okchy ytorory sold
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qotol: tokens: qo t o l → connectors: l
+- qotol: tokens: qo t o l → connectors: l (lexicon-context: `qotol` → `colto`; cultivated)
 - cthol: tokens: cth o l → connectors: l
 - okol: tokens: o k o l → connectors: l
 - dy: tokens: p
@@ -203,7 +203,7 @@ EVA: ytchor cthol chaiin yd
 Direct Gloss (Procedural, Not a Real Translation):
 - ytchor: tokens: t ch o r → connectors: r
 - cthol: tokens: cth o l → connectors: l
-- chaiin: tokens: ch aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chaiin: tokens: ch aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `chaiin` → `acini`; [n/a])
 - yd: tokens: p
 
 <a id="f36r-9-f36r-9-p0"></a>
@@ -214,5 +214,5 @@ EVA: ytodaly daiin otaro
 
 Direct Gloss (Procedural, Not a Real Translation):
 - ytodaly: tokens: t o p a l → connectors: l → vowel_run: a (level 1; class a)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - otaro: tokens: o t a r o → connectors: r → vowel_run: a (level 1; class a)

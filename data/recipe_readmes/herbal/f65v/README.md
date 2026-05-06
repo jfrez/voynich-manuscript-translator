@@ -96,7 +96,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin sheek l ody yteo qop[s:r] air cheot[ee:ch]y dal[o:a]m
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - sheek: tokens: sh ee k → vowel_run: ee (level 2; class e)
 - l: tokens: l → connectors: l
 - ody: tokens: o p

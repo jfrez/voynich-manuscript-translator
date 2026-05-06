@@ -128,7 +128,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dan: tokens: p a n → connectors: n → vowel_run: a (level 1; class a)
 - dain: tokens: p a i n → connectors: n → vowel_run: a (level 1; class a)
 - otol: tokens: o t o l → connectors: l
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f42v-3-f42v-3-p0"></a>
 
@@ -190,7 +190,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okeokear: tokens: o k e o k e a r → connectors: r → vowel_run: e (level 1; class e)
 - cheotchar: tokens: ch e o t ch a r → connectors: r → vowel_run: e (level 1; class e)
 - sy: tokens: s → connectors: s
-- saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin
+- saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `saiin` → `asini`; [n/a])
 - cthar: tokens: cth a r → connectors: r → vowel_run: a (level 1; class a)
 - d: tokens: p
 - am: tokens: a m → connectors: m → vowel_run: a (level 1; class a)
@@ -216,7 +216,7 @@ EVA: sodal saiin
 
 Direct Gloss (Procedural, Not a Real Translation):
 - sodal: tokens: s o p a l → connectors: s l → vowel_run: a (level 1; class a)
-- saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin
+- saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `saiin` → `asini`; [n/a])
 
 <a id="f42v-9-f42v-9-p0"></a>
 
@@ -283,7 +283,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - tcheey: tokens: t ch ee → vowel_run: ee (level 2; class e)
 - chol: tokens: ch o l → connectors: l
 - ol: tokens: o l → connectors: l
-- chaiin: tokens: ch aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chaiin: tokens: ch aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `chaiin` → `acini`; [n/a])
 - oteeaiin: tokens: o t ee aiin → vowel_run: ee (level 2; class e) → suffix: aiin
 - chkchy: tokens: ch k ch
 - taiin: tokens: t aiin → vowel_run: a (level 1; class a) → suffix: aiin
@@ -301,9 +301,9 @@ Direct Gloss (Procedural, Not a Real Translation):
 - teor: tokens: t e o r → connectors: r → vowel_run: e (level 1; class e)
 - shey: tokens: sh e → vowel_run: e (level 1; class e)
 - checthhy: tokens: ch e cth h → vowel_run: e (level 1; class e) → unmodeled_tokens: h
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - chokeey: tokens: ch o k ee → vowel_run: ee (level 2; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f42v-14-f42v-14-p0"></a>
 

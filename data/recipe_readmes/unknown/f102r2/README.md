@@ -138,10 +138,10 @@ EVA: ycheor olaiin olsho qokol olaiin oldam
 
 Direct Gloss (Procedural, Not a Real Translation):
 - ycheor: tokens: ch e o r → connectors: r → vowel_run: e (level 1; class e)
-- olaiin: tokens: o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin
+- olaiin: tokens: o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `olaiin` → `ialino`; hyaline, glassy)
 - olsho: tokens: o l sh o → connectors: l
 - qokol: tokens: qo k o l → connectors: l
-- olaiin: tokens: o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin
+- olaiin: tokens: o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `olaiin` → `ialino`; hyaline, glassy)
 - oldam: tokens: o l p a m → connectors: l m → vowel_run: a (level 1; class a)
 
 <a id="f102r2-4-f102r2-4-p0"></a>
@@ -151,7 +151,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin ckheeol oldor okol cheodor sor airam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - ckheeol: tokens: ckh ee o l → connectors: l → vowel_run: ee (level 2; class e)
 - oldor: tokens: o l p o r → connectors: l r
 - okol: tokens: o k o l → connectors: l
@@ -182,7 +182,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin okody qokeody okeol dor chckhy oteod s orsy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - okody: tokens: o k o p
 - qokeody: tokens: qo k e o p → vowel_run: e (level 1; class e)
 - okeol: tokens: o k e o l → connectors: l → vowel_run: e (level 1; class e)
@@ -211,7 +211,7 @@ EVA: kolor olaiin opor shey opolkod odain sheo qoeol shey
 
 Direct Gloss (Procedural, Not a Real Translation):
 - kolor: tokens: k o l o r → connectors: l r
-- olaiin: tokens: o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin
+- olaiin: tokens: o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `olaiin` → `ialino`; hyaline, glassy)
 - opor: tokens: o p o r → connectors: r
 - shey: tokens: sh e → vowel_run: e (level 1; class e)
 - opolkod: tokens: o p o l k o p → connectors: l
@@ -230,7 +230,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dor: tokens: p o r → connectors: r
 - oiin: tokens: o iin → vowel_run: ii (level 2; class i) → suffix: iin
 - okeody: tokens: o k e o p → vowel_run: e (level 1; class e)
-- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e)
+- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e) (lexicon-context: `qokeol` → `eccolo`; [n/a])
 - sheoy: tokens: sh e o → vowel_run: e (level 1; class e)
 - qo: tokens: qo
 - o: tokens: o
@@ -290,7 +290,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ockhy: tokens: o ckh
 - okeey: tokens: o k ee → vowel_run: ee (level 2; class e)
 - cheody: tokens: ch e o p → vowel_run: e (level 1; class e)
-- saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin
+- saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `saiin` → `asini`; [n/a])
 - dol: tokens: p o l → connectors: l
 - ockhy: tokens: o ckh
 - okeady: tokens: o k e a p → vowel_run: e (level 1; class e)
@@ -375,7 +375,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dol: tokens: p o l → connectors: l
 - sheey: tokens: sh ee → vowel_run: ee (level 2; class e)
 - qokol: tokens: qo k o l → connectors: l
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - oky: tokens: o k
 - oky: tokens: o k
 

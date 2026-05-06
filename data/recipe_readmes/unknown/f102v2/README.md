@@ -379,7 +379,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okear: tokens: o k e a r → connectors: r → vowel_run: e (level 1; class e)
 - chey: tokens: ch e → vowel_run: e (level 1; class e)
 - keey: tokens: k ee → vowel_run: ee (level 2; class e)
-- saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin
+- saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `saiin` → `asini`; [n/a])
 - oteo: tokens: o t e o → vowel_run: e (level 1; class e)
 
 <a id="f102v2-22-f102v2-22-p0"></a>
@@ -454,7 +454,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: okeeoraiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- okeeoraiin: tokens: o k ee o r aiin → connectors: r → vowel_run: ee (level 2; class e) → suffix: aiin
+- okeeoraiin: tokens: o k ee o r aiin → connectors: r → vowel_run: ee (level 2; class e) → suffix: aiin (lexicon-context: `oraiin` → `aironi`; [n/a])
 
 <a id="f102v2-28-f102v2-28-lf"></a>
 
@@ -530,7 +530,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oky: tokens: o k
 - cheeor: tokens: ch ee o r → connectors: r → vowel_run: ee (level 2; class e)
 - ol: tokens: o l → connectors: l
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - sy: tokens: s → connectors: s
 
 <a id="f102v2-33-f102v2-33-p0"></a>
@@ -584,8 +584,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoky: tokens: qo k
 - cheo: tokens: ch e o → vowel_run: e (level 1; class e)
 - teody: tokens: t e o p → vowel_run: e (level 1; class e)
-- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e) (lexicon-context: `qokeol` → `eccolo`; [n/a])
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f102v2-36-f102v2-36-p0"></a>
 

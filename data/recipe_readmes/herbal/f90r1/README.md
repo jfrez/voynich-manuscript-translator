@@ -88,7 +88,7 @@ EVA: poleeol qokeol qokchod choly ctho[g:m]
 
 Direct Gloss (Procedural, Not a Real Translation):
 - poleeol: tokens: p o l ee o l → connectors: l l → vowel_run: ee (level 2; class e)
-- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e)
+- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e) (lexicon-context: `qokeol` → `eccolo`; [n/a])
 - qokchod: tokens: qo k ch o p
 - choly: tokens: ch o l → connectors: l
 - ctho: tokens: cth o
@@ -105,7 +105,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - yshol: tokens: sh o l → connectors: l
 - tor: tokens: t o r → connectors: r
 - sheor: tokens: sh e o r → connectors: r → vowel_run: e (level 1; class e)
-- qotchor: tokens: qo t ch o r → connectors: r
+- qotchor: tokens: qo t ch o r → connectors: r (lexicon-context: `otchor` → `corto`; short)
 - qoky: tokens: qo k
 - darala: tokens: p a r a l a → connectors: r l → vowel_run: a (level 1; class a)
 
@@ -132,9 +132,9 @@ EVA: talchor chodaiin chocfhor qokchor chockhy okchod qofchol
 
 Direct Gloss (Procedural, Not a Real Translation):
 - talchor: tokens: t a l ch o r → connectors: l r → vowel_run: a (level 1; class a)
-- chodaiin: tokens: ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chodaiin: tokens: ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `chodaiin` → `apocini`; [n/a])
 - chocfhor: tokens: ch o cfh o r → connectors: r
-- qokchor: tokens: qo k ch o r → connectors: r
+- qokchor: tokens: qo k ch o r → connectors: r (lexicon-context: `okchor` → `corco`; [n/a])
 - chockhy: tokens: ch o ckh
 - okchod: tokens: o k ch o p
 - qofchol: tokens: qo f ch o l → connectors: l
@@ -167,7 +167,7 @@ EVA: tol otchol shorydar qokeos okeoschso chol ytod qokeos dolshy
 
 Direct Gloss (Procedural, Not a Real Translation):
 - tol: tokens: t o l → connectors: l
-- otchol: tokens: o t ch o l → connectors: l
+- otchol: tokens: o t ch o l → connectors: l (lexicon-context: `otchol` → `colto`; cultivated)
 - shorydar: tokens: sh o r p a r → connectors: r r → vowel_run: a (level 1; class a)
 - qokeos: tokens: qo k e o s → connectors: s → vowel_run: e (level 1; class e)
 - okeoschso: tokens: o k e o s ch s o → connectors: s s → vowel_run: e (level 1; class e)

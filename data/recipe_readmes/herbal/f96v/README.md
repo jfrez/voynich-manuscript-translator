@@ -132,7 +132,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chcthory: tokens: ch cth o r → connectors: r
 - cth: tokens: cth
 - ytchey: tokens: t ch e → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f96v-4-f96v-4-p0"></a>
 
@@ -190,7 +190,7 @@ EVA: ycheey ckheal daiins
 Direct Gloss (Procedural, Not a Real Translation):
 - ycheey: tokens: ch ee → vowel_run: ee (level 2; class e)
 - ckheal: tokens: ckh e a l → connectors: l → vowel_run: e (level 1; class e)
-- daiins: tokens: p aiin s → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin
+- daiins: tokens: p aiin s → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f96v-9-f96v-9-p0"></a>
 

@@ -145,10 +145,10 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin [t:k]aedaiin ar okor
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - t: tokens: t
 - k: tokens: k
-- aedaiin: tokens: a e p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- aedaiin: tokens: a e p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
 - okor: tokens: o k o r → connectors: r
 

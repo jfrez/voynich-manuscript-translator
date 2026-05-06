@@ -107,7 +107,7 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: fchaiin shykeody daiiody dain sho tchy oty qopy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- fchaiin: tokens: f ch aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- fchaiin: tokens: f ch aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `chaiin` → `acini`; [n/a])
 - shykeody: tokens: sh k e o p → vowel_run: e (level 1; class e)
 - daiiody: tokens: p a ii o p → vowel_run: a (level 1; class a)
 - dain: tokens: p a i n → connectors: n → vowel_run: a (level 1; class a)
@@ -124,12 +124,12 @@ EVA: okor okchor sheor ckhy dal dshodar qotchol
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okor: tokens: o k o r → connectors: r
-- okchor: tokens: o k ch o r → connectors: r
+- okchor: tokens: o k ch o r → connectors: r (lexicon-context: `okchor` → `corco`; [n/a])
 - sheor: tokens: sh e o r → connectors: r → vowel_run: e (level 1; class e)
 - ckhy: tokens: ckh
 - dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a)
 - dshodar: tokens: p sh o p a r → connectors: r → vowel_run: a (level 1; class a)
-- qotchol: tokens: qo t ch o l → connectors: l
+- qotchol: tokens: qo t ch o l → connectors: l (lexicon-context: `otchol` → `colto`; cultivated)
 
 <a id="f32r-3-f32r-3-p0"></a>
 
@@ -138,13 +138,13 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qokchor chor cthol chol dol dcheodain daiin
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qokchor: tokens: qo k ch o r → connectors: r
+- qokchor: tokens: qo k ch o r → connectors: r (lexicon-context: `okchor` → `corco`; [n/a])
 - chor: tokens: ch o r → connectors: r
 - cthol: tokens: cth o l → connectors: l
 - chol: tokens: ch o l → connectors: l
 - dol: tokens: p o l → connectors: l
 - dcheodain: tokens: p ch e o p a i n → connectors: n → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f32r-4-f32r-4-p0"></a>
 
@@ -160,7 +160,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - r: tokens: r → connectors: r
 - ytsho: tokens: t sh o
 - dain: tokens: p a i n → connectors: n → vowel_run: a (level 1; class a)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - choddal: tokens: ch o p p a l → connectors: l → vowel_run: a (level 1; class a)
 
 <a id="f32r-5-f32r-5-p0"></a>
@@ -172,7 +172,7 @@ EVA: qotchy qokchy daiin
 Direct Gloss (Procedural, Not a Real Translation):
 - qotchy: tokens: qo t ch
 - qokchy: tokens: qo k ch
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f32r-6-f32r-6-p0"></a>
 
@@ -205,7 +205,7 @@ EVA: qo ar daiin dam
 Direct Gloss (Procedural, Not a Real Translation):
 - qo: tokens: qo
 - ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - dam: tokens: p a m → connectors: m → vowel_run: a (level 1; class a)
 
 <a id="f32r-9-f32r-9-p0"></a>
@@ -227,7 +227,7 @@ EVA: dchor ctho daiin
 Direct Gloss (Procedural, Not a Real Translation):
 - dchor: tokens: p ch o r → connectors: r
 - ctho: tokens: cth o
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f32r-11-f32r-11-p0"></a>
 
@@ -247,7 +247,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: shodaiin @150;tol
 
 Direct Gloss (Procedural, Not a Real Translation):
-- shodaiin: tokens: sh o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- shodaiin: tokens: sh o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `shodaiin` → `sinopia`; [n/a])
 - tol: tokens: t o l → connectors: l
 
 <a id="f32r-13-f32r-13-p0"></a>
@@ -260,7 +260,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otcho: tokens: o t ch o
 - rol: tokens: r o l → connectors: r l
 - dain: tokens: p a i n → connectors: n → vowel_run: a (level 1; class a)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - cthy: tokens: cth
 
 <a id="f32r-14-f32r-14-p0"></a>
@@ -273,7 +273,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - schey: tokens: s ch e → connectors: s → vowel_run: e (level 1; class e)
 - qot: tokens: qo t
 - shey: tokens: sh e → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - cths: tokens: cth s → connectors: s
 
 <a id="f32r-15-f32r-15-p0"></a>
@@ -284,7 +284,7 @@ EVA: qokchy qotol doiir ol
 
 Direct Gloss (Procedural, Not a Real Translation):
 - qokchy: tokens: qo k ch
-- qotol: tokens: qo t o l → connectors: l
+- qotol: tokens: qo t o l → connectors: l (lexicon-context: `qotol` → `colto`; cultivated)
 - doiir: tokens: p o ii r → connectors: r → vowel_run: ii (level 2; class i)
 - ol: tokens: o l → connectors: l
 
@@ -295,7 +295,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: otchol chey soty
 
 Direct Gloss (Procedural, Not a Real Translation):
-- otchol: tokens: o t ch o l → connectors: l
+- otchol: tokens: o t ch o l → connectors: l (lexicon-context: `otchol` → `colto`; cultivated)
 - chey: tokens: ch e → vowel_run: e (level 1; class e)
 - soty: tokens: s o t → connectors: s
 

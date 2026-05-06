@@ -101,7 +101,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shor: tokens: sh o r → connectors: r
 - ykchy: tokens: k ch
 - dod: tokens: p o p
-- opchaiin: tokens: o p ch aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- opchaiin: tokens: o p ch aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `chaiin` → `acini`; [n/a])
 - olald: tokens: o l a l p → connectors: l l → vowel_run: a (level 1; class a)
 
 <a id="f45v-2-f45v-2-p0"></a>
@@ -113,7 +113,7 @@ EVA: okol chor daiin cthy okchol chom okolo[r:n] dy okchol s
 Direct Gloss (Procedural, Not a Real Translation):
 - okol: tokens: o k o l → connectors: l
 - chor: tokens: ch o r → connectors: r
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - cthy: tokens: cth
 - okchol: tokens: o k ch o l → connectors: l
 - chom: tokens: ch o m → connectors: m
@@ -139,7 +139,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: tokens: o
 - a: tokens: a → vowel_run: a (level 1; class a)
 - l: tokens: l → connectors: l
-- qotol: tokens: qo t o l → connectors: l
+- qotol: tokens: qo t o l → connectors: l (lexicon-context: `qotol` → `colto`; cultivated)
 - chy: tokens: ch
 - ky: tokens: k
 - cthod: tokens: cth o p
@@ -167,7 +167,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qotol choiin okchar dar oty shoto dol py otytam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qotol: tokens: qo t o l → connectors: l
+- qotol: tokens: qo t o l → connectors: l (lexicon-context: `qotol` → `colto`; cultivated)
 - choiin: tokens: ch o iin → vowel_run: ii (level 2; class i) → suffix: iin
 - okchar: tokens: o k ch a r → connectors: r → vowel_run: a (level 1; class a)
 - dar: tokens: p a r → connectors: r → vowel_run: a (level 1; class a)

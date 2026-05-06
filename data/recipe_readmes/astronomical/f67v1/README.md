@@ -217,7 +217,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: ochodare
 
 Direct Gloss (Procedural, Not a Real Translation):
-- ochodare: tokens: o ch o p a r e → connectors: r → vowel_run: a (level 1; class a)
+- ochodare: tokens: o ch o p a r e → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `chodar` → `capro`; male goat)
 
 <a id="f67v1-12-f67v1-12-l0"></a>
 
@@ -301,7 +301,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: pchodaiin otch oekeey dy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- pchodaiin: tokens: p ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- pchodaiin: tokens: p ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
 - otch: tokens: o t ch
 - oekeey: tokens: o e k ee → vowel_run: e (level 1; class e)
 - dy: tokens: p
@@ -327,7 +327,7 @@ EVA: ykeeo cheo daiin ypcheg oty
 Direct Gloss (Procedural, Not a Real Translation):
 - ykeeo: tokens: k ee o → vowel_run: ee (level 2; class e)
 - cheo: tokens: ch e o → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - ypcheg: tokens: p ch e g → vowel_run: e (level 1; class e)
 - oty: tokens: o t
 
@@ -403,7 +403,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: okeeodaiin saii dairal
 
 Direct Gloss (Procedural, Not a Real Translation):
-- okeeodaiin: tokens: o k ee o p aiin → vowel_run: ee (level 2; class e) → suffix: aiin
+- okeeodaiin: tokens: o k ee o p aiin → vowel_run: ee (level 2; class e) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
 - saii: tokens: s a ii → connectors: s → vowel_run: a (level 1; class a)
 - dairal: tokens: p a i r a l → connectors: r l → vowel_run: a (level 1; class a)
 

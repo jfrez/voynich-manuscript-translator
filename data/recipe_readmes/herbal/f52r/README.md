@@ -90,9 +90,9 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ytair: tokens: t a i r → connectors: r → vowel_run: a (level 1; class a)
 - shar: tokens: sh a r → connectors: r → vowel_run: a (level 1; class a)
 - qofy: tokens: qo f
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - ypchy: tokens: p ch
-- otchol: tokens: o t ch o l → connectors: l
+- otchol: tokens: o t ch o l → connectors: l (lexicon-context: `otchol` → `colto`; cultivated)
 - dar: tokens: p a r → connectors: r → vowel_run: a (level 1; class a)
 - yty: tokens: t
 
@@ -168,14 +168,14 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin shedaiin qodal dy [ch:ee]okam otchordy okchol do
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
-- shedaiin: tokens: sh e p aiin → vowel_run: e (level 1; class e) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- shedaiin: tokens: sh e p aiin → vowel_run: e (level 1; class e) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - qodal: tokens: qo p a l → connectors: l → vowel_run: a (level 1; class a)
 - dy: tokens: p
 - ch: tokens: ch
 - ee: tokens: ee → vowel_run: ee (level 2; class e)
 - okam: tokens: o k a m → connectors: m → vowel_run: a (level 1; class a)
-- otchordy: tokens: o t ch o r p → connectors: r
+- otchordy: tokens: o t ch o r p → connectors: r (lexicon-context: `otchor` → `corto`; short)
 - okchol: tokens: o k ch o l → connectors: l
 - do: tokens: p o
 
@@ -221,4 +221,4 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: tokens: o
 - a: tokens: a → vowel_run: a (level 1; class a)
 - m: tokens: m → connectors: m
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))

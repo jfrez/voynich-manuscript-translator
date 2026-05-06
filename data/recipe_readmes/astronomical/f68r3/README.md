@@ -117,7 +117,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chokol: tokens: ch o k o l → connectors: l
 - cheody: tokens: ch e o p → vowel_run: e (level 1; class e)
 - chedy: tokens: ch e p → vowel_run: e (level 1; class e)
-- oteodaiin: tokens: o t e o p aiin → vowel_run: e (level 1; class e) → suffix: aiin
+- oteodaiin: tokens: o t e o p aiin → vowel_run: e (level 1; class e) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
 - otchodal: tokens: o t ch o p a l → connectors: l → vowel_run: a (level 1; class a)
 - sol: tokens: s o l → connectors: s l
 - cheor: tokens: ch e o r → connectors: r → vowel_run: e (level 1; class e)
@@ -126,7 +126,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oeteody: tokens: o e t e o p → vowel_run: e (level 1; class e)
 - opcheody: tokens: o p ch e o p → vowel_run: e (level 1; class e)
 - dchedy: tokens: p ch e p → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - oteeody: tokens: o t ee o p → vowel_run: ee (level 2; class e)
 - dascheedy: tokens: p a s ch ee p → connectors: s → vowel_run: a (level 1; class a)
 - oteeody: tokens: o t ee o p → vowel_run: ee (level 2; class e)
@@ -187,7 +187,7 @@ EVA: dchy kchy daiir chok ockhydar
 Direct Gloss (Procedural, Not a Real Translation):
 - dchy: tokens: p ch
 - kchy: tokens: k ch
-- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a)
+- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `daiir` → `aprii`; [n/a])
 - chok: tokens: ch o k
 - ockhydar: tokens: o ckh p a r → connectors: r → vowel_run: a (level 1; class a)
 
@@ -216,7 +216,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - c: tokens: c
 - hhy: tokens: h h → unmodeled_tokens: h
 - okey: tokens: o k e → vowel_run: e (level 1; class e)
-- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e)
+- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e) (lexicon-context: `oteos` → `osteo`; [n/a])
 - okolshy: tokens: o k o l sh → connectors: l
 
 <a id="f68r3-7-f68r3-7-ri"></a>
@@ -243,7 +243,7 @@ EVA: keeoty oteey daiin dcheeody oteey
 Direct Gloss (Procedural, Not a Real Translation):
 - keeoty: tokens: k ee o t → vowel_run: ee (level 2; class e)
 - oteey: tokens: o t ee → vowel_run: ee (level 2; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - dcheeody: tokens: p ch ee o p → vowel_run: ee (level 2; class e)
 - oteey: tokens: o t ee → vowel_run: ee (level 2; class e)
 
@@ -257,7 +257,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dchey: tokens: p ch e → vowel_run: e (level 1; class e)
 - qokeey: tokens: qo k ee → vowel_run: ee (level 2; class e)
 - dcheey: tokens: p ch ee → vowel_run: ee (level 2; class e)
-- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a)
+- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `daiir` → `aprii`; [n/a])
 - otchal: tokens: o t ch a l → connectors: l → vowel_run: a (level 1; class a)
 
 <a id="f68r3-10-f68r3-10-ls"></a>

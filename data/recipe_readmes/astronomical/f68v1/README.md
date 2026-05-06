@@ -129,7 +129,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chotedy: tokens: ch o t e p → vowel_run: e (level 1; class e)
 - chey: tokens: ch e → vowel_run: e (level 1; class e)
 - dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - dokeey: tokens: p o k ee → vowel_run: ee (level 2; class e)
 
 <a id="f68v1-2-f68v1-2-cc"></a>
@@ -164,7 +164,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - sheo: tokens: sh e o → vowel_run: e (level 1; class e)
 - s: tokens: s → connectors: s
 - cheoekeey: tokens: ch e o e k ee → vowel_run: e (level 1; class e)
-- cheodaiir: tokens: ch e o p a ii r → connectors: r → vowel_run: e (level 1; class e)
+- cheodaiir: tokens: ch e o p a ii r → connectors: r → vowel_run: e (level 1; class e) (lexicon-context: `daiir` → `aprii`; [n/a])
 - cheekchey: tokens: ch ee k ch e → vowel_run: ee (level 2; class e)
 - chkeody: tokens: ch k e o p → vowel_run: e (level 1; class e)
 - okchy: tokens: o k ch
@@ -268,5 +268,5 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: oteodain sam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- oteodain: tokens: o t e o p a i n → connectors: n → vowel_run: e (level 1; class e)
+- oteodain: tokens: o t e o p a i n → connectors: n → vowel_run: e (level 1; class e) (lexicon-context: `odain` → `opina`; opine)
 - sam: tokens: s a m → connectors: s m → vowel_run: a (level 1; class a)

@@ -89,7 +89,7 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: fchodaiin shopchey qko shey qoos sheey charochy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- fchodaiin: tokens: f ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- fchodaiin: tokens: f ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `chodaiin` → `apocini`; [n/a])
 - shopchey: tokens: sh o p ch e → vowel_run: e (level 1; class e)
 - qko: tokens: q k o
 - shey: tokens: sh e → vowel_run: e (level 1; class e)
@@ -122,7 +122,7 @@ EVA: oeeees cheodaiin sheey ytcheey qotchy chald
 
 Direct Gloss (Procedural, Not a Real Translation):
 - oeeees: tokens: o eee e s → connectors: s → vowel_run: eeee (level 4; class e)
-- cheodaiin: tokens: ch e o p aiin → vowel_run: e (level 1; class e) → suffix: aiin
+- cheodaiin: tokens: ch e o p aiin → vowel_run: e (level 1; class e) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
 - sheey: tokens: sh ee → vowel_run: ee (level 2; class e)
 - ytcheey: tokens: t ch ee → vowel_run: ee (level 2; class e)
 - qotchy: tokens: qo t ch
@@ -138,10 +138,10 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokcho: tokens: qo k ch o
 - cho: tokens: ch o
 - lochey: tokens: l o ch e → connectors: l → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - ychey: tokens: ch e → vowel_run: e (level 1; class e)
 - kchos: tokens: k ch o s → connectors: s
-- odaiin: tokens: o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- odaiin: tokens: o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
 
 <a id="f7r-5-f7r-5-p0"></a>
 
@@ -164,7 +164,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chey: tokens: ch e → vowel_run: e (level 1; class e)
 - qotoees: tokens: qo t o ee s → connectors: s → vowel_run: ee (level 2; class e)
 - chkoldy: tokens: ch k o l p → connectors: l
-- otchor: tokens: o t ch o r → connectors: r
+- otchor: tokens: o t ch o r → connectors: r (lexicon-context: `otchor` → `corto`; short)
 - choaiin: tokens: ch o aiin → vowel_run: a (level 1; class a) → suffix: aiin
 
 <a id="f7r-7-f7r-7-p0"></a>
@@ -177,7 +177,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dshoy: tokens: p sh o
 - cthol: tokens: cth o l → connectors: l
 - chol: tokens: ch o l → connectors: l
-- otchol: tokens: o t ch o l → connectors: l
+- otchol: tokens: o t ch o l → connectors: l (lexicon-context: `otchol` → `colto`; cultivated)
 - dain: tokens: p a i n → connectors: n → vowel_run: a (level 1; class a)
 - shody: tokens: sh o p
 - shol: tokens: sh o l → connectors: l
@@ -225,5 +225,5 @@ Direct Gloss (Procedural, Not a Real Translation):
 - s: tokens: s → connectors: s
 - chain: tokens: ch a i n → connectors: n → vowel_run: a (level 1; class a)
 - chor: tokens: ch o r → connectors: r
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - chckhy: tokens: ch ckh

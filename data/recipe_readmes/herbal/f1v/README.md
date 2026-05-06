@@ -90,7 +90,7 @@ EVA: kchsy chydaiin ol o l tchey char cfhar am
 
 Direct Gloss (Procedural, Not a Real Translation):
 - kchsy: tokens: k ch s → connectors: s
-- chydaiin: tokens: ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chydaiin: tokens: ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `ydaiin` → `piani`; plans (arrangements))
 - ol: tokens: o l → connectors: l
 - o: tokens: o
 - l: tokens: l → connectors: l
@@ -217,7 +217,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - cthol: tokens: cth o l → connectors: l
 - chody: tokens: ch o p
 - chol: tokens: ch o l → connectors: l
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f1v-9-f1v-9-p0"></a>
 

@@ -133,7 +133,7 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 EVA: oteos alar otar air chpaly oteody okchesal otear alshey oleealy sh?tey oteos alal dals alchol ytolaiin ydaiin chotar y tal oto shoty otey okchedaly chdar y s ar otedy otorar shedy opsheytey opairaly choshydy otar cheedy otaraiin cheeky okolar ychey otechety
 
 Direct Gloss (Procedural, Not a Real Translation):
-- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e)
+- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e) (lexicon-context: `oteos` → `osteo`; [n/a])
 - alar: tokens: a l a r → connectors: l r → vowel_run: a (level 1; class a)
 - otar: tokens: o t a r → connectors: r → vowel_run: a (level 1; class a)
 - air: tokens: a i r → connectors: r → vowel_run: a (level 1; class a)
@@ -145,12 +145,12 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oleealy: tokens: o l ee a l → connectors: l l → vowel_run: ee (level 2; class e)
 - sh: tokens: sh
 - tey: tokens: t e → vowel_run: e (level 1; class e)
-- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e)
+- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e) (lexicon-context: `oteos` → `osteo`; [n/a])
 - alal: tokens: a l a l → connectors: l l → vowel_run: a (level 1; class a)
 - dals: tokens: p a l s → connectors: l s → vowel_run: a (level 1; class a)
 - alchol: tokens: a l ch o l → connectors: l l → vowel_run: a (level 1; class a)
-- ytolaiin: tokens: t o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin
-- ydaiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- ytolaiin: tokens: t o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `olaiin` → `ialino`; hyaline, glassy)
+- ydaiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - chotar: tokens: ch o t a r → connectors: r → vowel_run: a (level 1; class a)
 - y: [unparsed]
 - tal: tokens: t a l → connectors: l → vowel_run: a (level 1; class a)
@@ -372,7 +372,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
 - otol: tokens: o t o l → connectors: l
 - topar: tokens: t o p a r → connectors: r → vowel_run: a (level 1; class a)
-- oteolaiin: tokens: o t e o l aiin → connectors: l → vowel_run: e (level 1; class e) → suffix: aiin
+- oteolaiin: tokens: o t e o l aiin → connectors: l → vowel_run: e (level 1; class e) → suffix: aiin (lexicon-context: `olaiin` → `ialino`; hyaline, glassy)
 - ofa: tokens: o f a → vowel_run: a (level 1; class a)
 - r: tokens: r → connectors: r
 - s: tokens: s → connectors: s
@@ -501,6 +501,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 - aiin: tokens: aiin → vowel_run: a (level 1; class a) → suffix: aiin
 - yotoam: tokens: o t o a m → connectors: m → vowel_run: a (level 1; class a)
 - oteey: tokens: o t ee → vowel_run: ee (level 2; class e)
-- saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin
+- saiin: tokens: s aiin → connectors: s → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `saiin` → `asini`; [n/a])
 - oteeos: tokens: o t ee o s → connectors: s → vowel_run: ee (level 2; class e)
 - am: tokens: a m → connectors: m → vowel_run: a (level 1; class a)

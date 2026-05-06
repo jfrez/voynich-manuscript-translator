@@ -237,7 +237,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chy: tokens: ch
 - qoteor: tokens: qo t e o r → connectors: r → vowel_run: e (level 1; class e)
 - cho: tokens: ch o
-- qotair: tokens: qo t a i r → connectors: r → vowel_run: a (level 1; class a)
+- qotair: tokens: qo t a i r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `otair` → `atrio`; entrance hall, lobby (of a hotel etc.))
 - chda: tokens: ch p a → vowel_run: a (level 1; class a)
 - oteeal: tokens: o t ee a l → connectors: l → vowel_run: ee (level 2; class e)
 - cheor: tokens: ch e o r → connectors: r → vowel_run: e (level 1; class e)

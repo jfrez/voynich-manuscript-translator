@@ -127,7 +127,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - o: tokens: o
 - rsheod: tokens: r sh e o p → connectors: r → vowel_run: e (level 1; class e)
 - okchody: tokens: o k ch o p
-- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e)
+- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e) (lexicon-context: `oteos` → `osteo`; [n/a])
 - okes: tokens: o k e s → connectors: s → vowel_run: e (level 1; class e)
 - okeys: tokens: o k e s → connectors: s → vowel_run: e (level 1; class e)
 - e: tokens: e → vowel_run: e (level 1; class e)
@@ -151,7 +151,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
 - ykeody: tokens: k e o p → vowel_run: e (level 1; class e)
 - oteey: tokens: o t ee → vowel_run: ee (level 2; class e)
-- chedaiin: tokens: ch e p aiin → vowel_run: e (level 1; class e) → suffix: aiin
+- chedaiin: tokens: ch e p aiin → vowel_run: e (level 1; class e) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - chotar: tokens: ch o t a r → connectors: r → vowel_run: a (level 1; class a)
 - soly: tokens: s o l → connectors: s l
 
@@ -176,9 +176,9 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okchedy: tokens: o k ch e p → vowel_run: e (level 1; class e)
 - chkal: tokens: ch k a l → connectors: l → vowel_run: a (level 1; class a)
 - ofchon: tokens: o f ch o n → connectors: n
-- qokal: tokens: qo k a l → connectors: l → vowel_run: a (level 1; class a)
-- opolaiin: tokens: o p o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin
-- okeos: tokens: o k e o s → connectors: s → vowel_run: e (level 1; class e)
+- qokal: tokens: qo k a l → connectors: l → vowel_run: a (level 1; class a) (lexicon-context: `qokal` → `calco`; cast (of sculpture))
+- opolaiin: tokens: o p o l aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `olaiin` → `ialino`; hyaline, glassy)
+- okeos: tokens: o k e o s → connectors: s → vowel_run: e (level 1; class e) (lexicon-context: `okeos` → `coeso`; cohesive)
 - oty: tokens: o t
 - dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a)
 - cheokeey: tokens: ch e o k ee → vowel_run: e (level 1; class e)
@@ -191,7 +191,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - okal: tokens: o k a l → connectors: l → vowel_run: a (level 1; class a)
 - chear: tokens: ch e a r → connectors: r → vowel_run: e (level 1; class e)
 - aly: tokens: a l → connectors: l → vowel_run: a (level 1; class a)
-- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e)
+- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e) (lexicon-context: `oteos` → `osteo`; [n/a])
 - ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
 - os: tokens: o s → connectors: s
 - al: tokens: a l → connectors: l → vowel_run: a (level 1; class a)
@@ -256,7 +256,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: otair oroldy
 
 Direct Gloss (Procedural, Not a Real Translation):
-- otair: tokens: o t a i r → connectors: r → vowel_run: a (level 1; class a)
+- otair: tokens: o t a i r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `otair` → `atrio`; entrance hall, lobby (of a hotel etc.))
 - oroldy: tokens: o r o l p → connectors: r l
 
 <a id="f70r1-10-f70r1-10-ri"></a>
@@ -301,7 +301,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oteey: tokens: o t ee → vowel_run: ee (level 2; class e)
 - ched: tokens: ch e p → vowel_run: e (level 1; class e)
 - ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
-- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e)
+- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e) (lexicon-context: `oteos` → `osteo`; [n/a])
 - cheor: tokens: ch e o r → connectors: r → vowel_run: e (level 1; class e)
 - alal: tokens: a l a l → connectors: l l → vowel_run: a (level 1; class a)
 - otar: tokens: o t a r → connectors: r → vowel_run: a (level 1; class a)
@@ -309,7 +309,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - y: [unparsed]
 - oteodchey: tokens: o t e o p ch e → vowel_run: e (level 1; class e)
 - keody: tokens: k e o p → vowel_run: e (level 1; class e)
-- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e)
+- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e) (lexicon-context: `oteos` → `osteo`; [n/a])
 - al: tokens: a l → connectors: l → vowel_run: a (level 1; class a)
 - oteeed: tokens: o t eee p → vowel_run: eee (level 3; class e)
 

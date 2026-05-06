@@ -117,7 +117,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dychedy: tokens: p ch e p → vowel_run: e (level 1; class e)
 - okchy: tokens: o k ch
 - chckhdy: tokens: ch ckh p
-- chdaiin: tokens: ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chdaiin: tokens: ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - ckhy: tokens: ckh
 - loees: tokens: l o ee s → connectors: l s → vowel_run: ee (level 2; class e)
 - ykar: tokens: k a r → connectors: r → vowel_run: a (level 1; class a)
@@ -151,15 +151,15 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: tchdaiin chekal shedy qokedar chdaiin oldar qoldar chedy daiin otam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- tchdaiin: tokens: t ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- tchdaiin: tokens: t ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - chekal: tokens: ch e k a l → connectors: l → vowel_run: e (level 1; class e)
 - shedy: tokens: sh e p → vowel_run: e (level 1; class e)
 - qokedar: tokens: qo k e p a r → connectors: r → vowel_run: e (level 1; class e)
-- chdaiin: tokens: ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- chdaiin: tokens: ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - oldar: tokens: o l p a r → connectors: l r → vowel_run: a (level 1; class a)
 - qoldar: tokens: qo l p a r → connectors: l r → vowel_run: a (level 1; class a)
 - chedy: tokens: ch e p → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - otam: tokens: o t a m → connectors: m → vowel_run: a (level 1; class a)
 
 <a id="f34v-5-f34v-5-p0"></a>
@@ -177,7 +177,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dykey: tokens: p k e → vowel_run: e (level 1; class e)
 - kair: tokens: k a i r → connectors: r → vowel_run: a (level 1; class a)
 - chedy: tokens: ch e p → vowel_run: e (level 1; class e)
-- qokar: tokens: qo k a r → connectors: r → vowel_run: a (level 1; class a)
+- qokar: tokens: qo k a r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `qokar` → `carco`; [n/a])
 - chekaly: tokens: ch e k a l → connectors: l → vowel_run: e (level 1; class e)
 - ch: tokens: ch
 - a: tokens: a → vowel_run: a (level 1; class a)
@@ -196,7 +196,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qokchdy: tokens: qo k ch p
 - qokees: tokens: qo k ee s → connectors: s → vowel_run: ee (level 2; class e)
 - cheol: tokens: ch e o l → connectors: l → vowel_run: e (level 1; class e)
-- ypchdaiin: tokens: p ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- ypchdaiin: tokens: p ch p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - chedy: tokens: ch e p → vowel_run: e (level 1; class e)
 - lr: tokens: l r → connectors: l r
 - ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
@@ -209,7 +209,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: olchdaiin chedy chey keedy chy kedy dy qokedy okey s a[ir:is] chkain otain
 
 Direct Gloss (Procedural, Not a Real Translation):
-- olchdaiin: tokens: o l ch p aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin
+- olchdaiin: tokens: o l ch p aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - chedy: tokens: ch e p → vowel_run: e (level 1; class e)
 - chey: tokens: ch e → vowel_run: e (level 1; class e)
 - keedy: tokens: k ee p → vowel_run: ee (level 2; class e)
@@ -223,7 +223,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ir: tokens: i r → connectors: r → vowel_run: i (level 1; class i)
 - is: tokens: i s → connectors: s → vowel_run: i (level 1; class i)
 - chkain: tokens: ch k a i n → connectors: n → vowel_run: a (level 1; class a)
-- otain: tokens: o t a i n → connectors: n → vowel_run: a (level 1; class a)
+- otain: tokens: o t a i n → connectors: n → vowel_run: a (level 1; class a) (lexicon-context: `otain` → `anito`; [n/a])
 
 <a id="f34v-8-f34v-8-p0"></a>
 
@@ -237,7 +237,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
 - choraiin: tokens: ch o r aiin → connectors: r → vowel_run: a (level 1; class a) → suffix: aiin
 - cheky: tokens: ch e k → vowel_run: e (level 1; class e)
-- olchdaiin: tokens: o l ch p aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin
+- olchdaiin: tokens: o l ch p aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - or: tokens: o r → connectors: r
 - oldar: tokens: o l p a r → connectors: l r → vowel_run: a (level 1; class a)
 - chdar: tokens: ch p a r → connectors: r → vowel_run: a (level 1; class a)
@@ -262,7 +262,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chdy: tokens: ch p
 - kal: tokens: k a l → connectors: l → vowel_run: a (level 1; class a)
 - shs: tokens: sh s → connectors: s
-- oldaiin: tokens: o l p aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin
+- oldaiin: tokens: o l p aiin → connectors: l → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 
 <a id="f34v-10-f34v-10-p0"></a>
 
@@ -271,7 +271,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin chdy tedy kchdy okeedy checkhy chdy kain chear or okedy okam
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
 - chdy: tokens: ch p
 - tedy: tokens: t e p → vowel_run: e (level 1; class e)
 - kchdy: tokens: k ch p

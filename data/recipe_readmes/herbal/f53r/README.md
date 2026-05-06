@@ -130,7 +130,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: ytchodaiin yky otchey otod
 
 Direct Gloss (Procedural, Not a Real Translation):
-- ytchodaiin: tokens: t ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin
+- ytchodaiin: tokens: t ch o p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `chodaiin` → `apocini`; [n/a])
 - yky: tokens: k
 - otchey: tokens: o t ch e → vowel_run: e (level 1; class e)
 - otod: tokens: o t o p
@@ -197,7 +197,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: qotchol dar qoty chtor oltsho cto ykeeod o y toyd
 
 Direct Gloss (Procedural, Not a Real Translation):
-- qotchol: tokens: qo t ch o l → connectors: l
+- qotchol: tokens: qo t ch o l → connectors: l (lexicon-context: `otchol` → `colto`; cultivated)
 - dar: tokens: p a r → connectors: r → vowel_run: a (level 1; class a)
 - qoty: tokens: qo t
 - chtor: tokens: ch t o r → connectors: r
