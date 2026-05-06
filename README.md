@@ -192,51 +192,88 @@ If you want the markers to have a **domain-tinted sense**, this repo generates a
 
 Note on `daiin`: after normalization `d→p`, the EVA form `daiin` is counted as `paiin` and tokenizes as `p + aiin`. In this repo’s time heuristic, `aiin` is a long phase marker (multi-day heuristic like ~7–14 days) even though it does not explicitly contain `dy`.
 
-## Best lexicon-grounded examples (by domain)
+## Best full-line lexicon glosses (by domain)
 
-Selected because they have a non-empty English gloss in the domain lexicon table (modern Italian list + WikWik “medieval-ish” proxy + Whitaker Latin). Still not a translation.
+For each IVTFF domain, this selects one complete manuscript line with the most lexicon hits (modern Italian list + WikWik “medieval-ish” proxy + Whitaker Latin). Still not a translation.
 
 ### herbal
-| EVA baseword | Count | Italian (modern) | English | Italian (medieval-ish) | English | Latin | English | Example |
-|---|---:|---|---|---|---|---|---|---|
-| `paiin` | 477 | `piani` | plans (arrangements) | `piani` | plans (arrangements) | [n/a] | [n/a] | `data/recipe_readmes/herbal/f10r/README.md` |
-| `opaiin` | 29 | `opinai` | [n/a] | `inopia` | poverty | [n/a] | [n/a] | `data/recipe_readmes/herbal/f10r/README.md` |
-| `otchol` | 25 | `colto` | cultivated | `colto` | cultivated | `colot` | [n/a] | `data/recipe_readmes/herbal/f10r/README.md` |
+- Source: `f32v` / `f32v.8,+P0` → `data/recipe_readmes/herbal/f32v/README.md`
+- EVA line:
+```text
+otchol daiin daiin ctho daiin qotaiin otchy d shan
+```
+- Lexicon hits (inherited context):
+- `otchol` (→ `otchol`): it(mod) `colto` / cultivated; it(med) `colto` / cultivated; la `colot` / [n/a]
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `qotaiin` (→ `qotaiin`): it(mod) `coniati` / [n/a]; it(med) `cationi` / [n/a]; la `aconiti` / without dust (literally)
 
 ### astronomical
-| EVA baseword | Count | Italian (modern) | English | Italian (medieval-ish) | English | Latin | English | Example |
-|---|---:|---|---|---|---|---|---|---|
-| `paiin` | 13 | `piani` | plans (arrangements) | `piani` | plans (arrangements) | [n/a] | [n/a] | `data/recipe_readmes/astronomical/f67r1/README.md` |
-| `opaiin` | 2 | `opinai` | [n/a] | `inopia` | poverty | [n/a] | [n/a] | `data/recipe_readmes/astronomical/f67r1/README.md` |
-| `opain` | 2 | `opina` | opine | `opina` | opine | [n/a] | [n/a] | `data/recipe_readmes/astronomical/f67r1/README.md` |
+- Source: `f67r1` / `f67r1.6,+Cc` → `data/recipe_readmes/astronomical/f67r1/README.md`
+- EVA line:
+```text
+dair al cheol dal oekaiin sol daiin eetees saiin ykeos l chy otodaiin chetejy otar dair ar chedar okeedy ot[e:i]odaiin ychsy chekeey ot dol al cheor okeo r oiin cheeky ary okeo keds oshey shchey chol dair dain cho dar aldy
+```
+- Lexicon hits (inherited context):
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `chedar` (→ `chepar`): it(mod) `capre` / [n/a]; it(med) `capre` / [n/a]; la `caper` / goatish/armpit smell
+- `odaiin` (→ `opaiin`): it(mod) `opinai` / [n/a]; it(med) `inopia` / poverty; la [n/a] / [n/a]
 
 ### biological
-| EVA baseword | Count | Italian (modern) | English | Italian (medieval-ish) | English | Latin | English | Example |
-|---|---:|---|---|---|---|---|---|---|
-| `qokain` | 159 | `concia` | tanning | `acconi` | [n/a] | `cocain` | [n/a] | `data/recipe_readmes/biological/f75r/README.md` |
-| `qokal` | 108 | `calco` | cast (of sculpture) | `calco` | cast (of sculpture) | `accol` | one who lives nearby/beside | `data/recipe_readmes/biological/f75r/README.md` |
-| `paiin` | 82 | `piani` | plans (arrangements) | `piani` | plans (arrangements) | [n/a] | [n/a] | `data/recipe_readmes/biological/f75r/README.md` |
+- Source: `f80r` / `f80r.19,+P0` → `data/recipe_readmes/biological/f80r/README.md`
+- EVA line:
+```text
+dcheol shedy qok[ee:a]l qotaiin chtal schcthy qokal chcthy qokain okain oloky
+```
+- Lexicon hits (inherited context):
+- `qotaiin` (→ `qotaiin`): it(mod) `coniati` / [n/a]; it(med) `cationi` / [n/a]; la `aconiti` / without dust (literally)
+- `qokal` (→ `qokal`): it(mod) `calco` / cast (of sculpture); it(med) `calco` / cast (of sculpture); la `accol` / one who lives nearby/beside
+- `qokain` (→ `qokain`): it(mod) `concia` / tanning; it(med) `acconi` / [n/a]; la `cocain` / [n/a]
+- `okain` (→ `okain`): it(mod) `conia` / [n/a]; it(med) `acino` / a berry; la [n/a] / [n/a]
 
 ### cosmological
-| EVA baseword | Count | Italian (modern) | English | Italian (medieval-ish) | English | Latin | English | Example |
-|---|---:|---|---|---|---|---|---|---|
-| `paiin` | 29 | `piani` | plans (arrangements) | `piani` | plans (arrangements) | [n/a] | [n/a] | `data/recipe_readmes/cosmological/f57v/README.md` |
-| `opaiin` | 14 | `opinai` | [n/a] | `inopia` | poverty | [n/a] | [n/a] | `data/recipe_readmes/cosmological/f57v/README.md` |
-| `qokal` | 13 | `calco` | cast (of sculpture) | `calco` | cast (of sculpture) | `accol` | one who lives nearby/beside | `data/recipe_readmes/cosmological/f57v/README.md` |
+- Source: `f86v4` / `f86v4.2,@Cc` → `data/recipe_readmes/cosmological/f86v4/README.md`
+- EVA line:
+```text
+oeeey [o:y] daiin otedaiin otedy oteey chedaiin octhedy chy shedaiin chotaiin oraiin otodeee[?:o] ar yteeody oteedaraiin shedaiin chdar shedy qotedaiin chedy tchdy chetdy chedy qotar chedy chckhy daiin otedy seeedy yteey sam
+```
+- Lexicon hits (inherited context):
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `otedaiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `chedaiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `shedaiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `oraiin` (→ `oraiin`): it(mod) `ironia` / irony; it(med) `aironi` / [n/a]; la [n/a] / [n/a]
+- `shedaiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `qotedaiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `qotar` (→ `qotar`): it(mod) `corta` / [n/a]; it(med) `corta` / [n/a]; la `actor` / advocate
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
 
 ### text_only
-| EVA baseword | Count | Italian (modern) | English | Italian (medieval-ish) | English | Latin | English | Example |
-|---|---:|---|---|---|---|---|---|---|
-| `paiin` | 42 | `piani` | plans (arrangements) | `piani` | plans (arrangements) | [n/a] | [n/a] | `data/recipe_readmes/text_only/f1r/README.md` |
-| `qokal` | 31 | `calco` | cast (of sculpture) | `calco` | cast (of sculpture) | `accol` | one who lives nearby/beside | `data/recipe_readmes/text_only/f1r/README.md` |
-| `opaiin` | 11 | `opinai` | [n/a] | `inopia` | poverty | [n/a] | [n/a] | `data/recipe_readmes/text_only/f1r/README.md` |
+- Source: `f86v6` / `f86v6.39,+P0` → `data/recipe_readmes/text_only/f86v6/README.md`
+- EVA line:
+```text
+y aiin dar otol qokain qoky lkor dal oraiin cheoty qotaiin olkam
+```
+- Lexicon hits (inherited context):
+- `qokain` (→ `qokain`): it(mod) `concia` / tanning; it(med) `acconi` / [n/a]; la `cocain` / [n/a]
+- `oraiin` (→ `oraiin`): it(mod) `ironia` / irony; it(med) `aironi` / [n/a]; la [n/a] / [n/a]
+- `qotaiin` (→ `qotaiin`): it(mod) `coniati` / [n/a]; it(med) `cationi` / [n/a]; la `aconiti` / without dust (literally)
+- `olkam` (→ `olkam`): it(mod) `calmo` / calm, peaceful, quiet, still; it(med) `calmo` / calm, peaceful, quiet, still; la [n/a] / [n/a]
 
 ### unknown
-| EVA baseword | Count | Italian (modern) | English | Italian (medieval-ish) | English | Latin | English | Example |
-|---|---:|---|---|---|---|---|---|---|
-| `paiin` | 241 | `piani` | plans (arrangements) | `piani` | plans (arrangements) | [n/a] | [n/a] | `data/recipe_readmes/unknown/f100r/README.md` |
-| `qokain` | 101 | `concia` | tanning | `acconi` | [n/a] | `cocain` | [n/a] | `data/recipe_readmes/unknown/f100r/README.md` |
-| `okain` | 69 | `conia` | [n/a] | `acino` | a berry | [n/a] | [n/a] | `data/recipe_readmes/unknown/f100r/README.md` |
+- Source: `f101r` / `f101r.8,+P0` → `data/recipe_readmes/unknown/f101r/README.md`
+- EVA line:
+```text
+olaiin oteol chor oteey chokchey kor daiin shok chol chol qoky daiin ol s al ydar daiin or ory okeey daiin shey daiin okol cheor
+```
+- Lexicon hits (inherited context):
+- `olaiin` (→ `olaiin`): it(mod) [n/a] / [n/a]; it(med) `ialino` / hyaline, glassy; la [n/a] / [n/a]
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
+- `daiin` (→ `paiin`): it(mod) `piani` / plans (arrangements); it(med) `piani` / plans (arrangements); la [n/a] / [n/a]
 
 ## Top candidate basewords by domain (first 20)
 
