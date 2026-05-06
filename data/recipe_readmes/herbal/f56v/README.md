@@ -41,38 +41,37 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 
 ### Associated basewords (non-generic; top by frequency in this domain)
-- `daiin` (count=461) → Italian anagram `piani`; English: plans (arrangements)
+- `paiin` (count=477) → Italian anagram `piani`; English: plans (arrangements)
 - `okaiin` (count=59) → Italian anagram `coniai`; English: [n/a]
+- `qokep` (count=41) → Italian anagram `pecco`; English: [n/a]
+- `saiin` (count=40) → Italian anagram `asini`; English: [n/a]
+- `kaiin` (count=40) → Italian anagram `acini`; English: [n/a]
 - `chaiin` (count=39) → Italian anagram `acini`; English: [n/a]
-- `saiin` (count=37) → Italian anagram `asini`; English: [n/a]
 - `qokaiin` (count=34) → Italian anagram `ciancio`; English: [n/a]
 - `qokar` (count=29) → Italian anagram `carco`; English: [n/a]
-- `odaiin` (count=27) → Italian anagram `inopia`; English: poverty
+- `opaiin` (count=29) → Italian anagram `inopia`; English: poverty
 - `otchol` (count=25) → Italian anagram `colto`; English: cultivated
-- `kaiin` (count=24) → Italian anagram `acini`; English: [n/a]
-- `chodaiin` (count=24) → Italian anagram `apocini`; English: [n/a]
+- `chopaiin` (count=24) → Italian anagram `apocini`; English: [n/a]
 - `qotol` (count=20) → Italian anagram `colto`; English: cultivated
 - `okain` (count=19) → Italian anagram `acino`; English: a berry
 - `qotor` (count=18) → Italian anagram `corto`; English: short
-- `ykaiin` (count=16) → Italian anagram `acini`; English: [n/a]
-- `qodaiin` (count=15) → Italian anagram `apocini`; English: [n/a]
+- `qopaiin` (count=15) → Italian anagram `apocini`; English: [n/a]
 
 ### Marker evidence (substring in frequent basewords)
-- `qo`: 57 basewords; examples: `qotchy`, `qokchy`, `qokedy`, `qokaiin`, `qoky`, `qokol`
-- `q`: 58 basewords; examples: `qotchy`, `qokchy`, `qokedy`, `qokaiin`, `qoky`, `qokol`
-- `o`: 252 basewords; examples: `chol`, `o`, `chor`, `or`, `shol`, `ol`
-- `k`: 142 basewords; examples: `okaiin`, `oky`, `chckhy`, `qokchy`, `qokedy`, `okal`
-- `t`: 102 basewords; examples: `cthy`, `oty`, `qotchy`, `cthol`, `cthor`, `otaiin`
-- `p`: 15 basewords; examples: `cphy`, `ypchedy`, `opchy`, `opchey`, `pchor`, `qopchy`
-- `ch`: 138 basewords; examples: `chol`, `chor`, `chy`, `chey`, `chedy`, `chdy`
-- `sh`: 46 basewords; examples: `shol`, `sho`, `shy`, `shor`, `shey`, `shedy`
-- `f`: 1 basewords; examples: `f`
-- `cth`: 17 basewords; examples: `cthy`, `cthol`, `cthor`, `cthey`, `chcthy`, `ctho`
-- `ckh`: 15 basewords; examples: `chckhy`, `ckhy`, `ckhol`, `ckhey`, `checkhy`, `shckhy`
-- `cph`: 2 basewords; examples: `cphy`, `cphol`
-- `dy`: 78 basewords; examples: `dy`, `chedy`, `chdy`, `chody`, `qokedy`, `shedy`
-- `iin`: 39 basewords; examples: `daiin`, `aiin`, `okaiin`, `chaiin`, `saiin`, `qokaiin`
-- `aiin`: 32 basewords; examples: `daiin`, `aiin`, `okaiin`, `chaiin`, `saiin`, `qokaiin`
+- `qo`: 58 basewords; examples: `qotch`, `qok`, `qot`, `qokch`, `qokep`, `qokaiin`
+- `q`: 59 basewords; examples: `qotch`, `qok`, `qot`, `qokch`, `qokep`, `qokaiin`
+- `o`: 274 basewords; examples: `chol`, `o`, `chor`, `or`, `shol`, `ol`
+- `k`: 146 basewords; examples: `ok`, `k`, `okaiin`, `kch`, `chckh`, `qok`
+- `t`: 101 basewords; examples: `cth`, `ot`, `t`, `qotch`, `cthol`, `qot`
+- `p`: 152 basewords; examples: `paiin`, `p`, `par`, `pain`, `pal`, `chep`
+- `ch`: 145 basewords; examples: `chol`, `chor`, `ch`, `che`, `chep`, `cho`
+- `sh`: 51 basewords; examples: `shol`, `sh`, `sho`, `shor`, `she`, `shep`
+- `f`: 2 basewords; examples: `fchep`, `f`
+- `cth`: 18 basewords; examples: `cth`, `cthol`, `cthor`, `cthe`, `chcth`, `ctho`
+- `ckh`: 18 basewords; examples: `chckh`, `ckh`, `ckhe`, `ckhol`, `shckh`, `checkh`
+- `cph`: 3 basewords; examples: `cph`, `cphol`, `cphe`
+- `iin`: 39 basewords; examples: `paiin`, `aiin`, `okaiin`, `saiin`, `kaiin`, `chaiin`
+- `aiin`: 31 basewords; examples: `paiin`, `aiin`, `okaiin`, `saiin`, `kaiin`, `chaiin`
 
 ## Recipes Index (This Page)
 - [f56v.1,@P0](#f56v-1-f56v-1-p0)
@@ -125,7 +124,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ech: tokens: e ch → vowel_run: e (level 1; class e)
 - y: [unparsed]
 - qoteey: tokens: qo t ee → vowel_run: ee (level 2; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - qoteey: tokens: qo t ee → vowel_run: ee (level 2; class e)
 - cthar: tokens: cth a r → connectors: r → vowel_run: a (level 1; class a)
 
@@ -140,7 +139,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chol: tokens: ch o l → connectors: l
 - chol: tokens: ch o l → connectors: l
 - qotchey: tokens: qo t ch e → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - choteeey: tokens: ch o t eee → vowel_run: eee (level 3; class e)
 - dal: tokens: p a l → connectors: l → vowel_run: a (level 1; class a)
 
@@ -154,7 +153,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - schy: tokens: s ch → connectors: s
 - t: tokens: t
 - chey: tokens: ch e → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - d: tokens: p
 - eey: tokens: ee → vowel_run: ee (level 2; class e)
 - tad: tokens: t a p → vowel_run: a (level 1; class a)
@@ -220,7 +219,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - shotchot: tokens: sh o t ch o t
 - chokcho: tokens: ch o k ch o
 - kcho: tokens: k ch o
-- kaiin: tokens: k aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `kaiin` → `acini`; [n/a])
+- kaiin: tokens: k aiin → vowel_run: a (level 1; class a) → suffix: aiin
 - oky: tokens: o k
 
 <a id="f56v-10-f56v-10-p0"></a>
@@ -276,7 +275,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chorol: tokens: ch o r o l → connectors: r l
 - sho: tokens: sh o
 - shol: tokens: sh o l → connectors: l
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 
 <a id="f56v-14-f56v-14-p0"></a>
 
@@ -302,7 +301,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - otchol: tokens: o t ch o l → connectors: l (lexicon-context: `otchol` → `colto`; cultivated)
 - chol: tokens: ch o l → connectors: l
 - chol: tokens: ch o l → connectors: l
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - chotaiin: tokens: ch o t aiin → vowel_run: a (level 1; class a) → suffix: aiin
 
 <a id="f56v-16-f56v-16-p0"></a>
@@ -317,4 +316,4 @@ Direct Gloss (Procedural, Not a Real Translation):
 - kchol: tokens: k ch o l → connectors: l
 - chol: tokens: ch o l → connectors: l
 - chol: tokens: ch o l → connectors: l
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))

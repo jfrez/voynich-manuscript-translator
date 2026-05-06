@@ -8,6 +8,11 @@ import re
 import sys
 from collections import defaultdict
 
+REPO_ROOT = pathlib.Path(__file__).resolve().parents[1]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from voynich.recipe_model import normalize_word  # noqa: E402
 
 def load_baseword_classification(path: pathlib.Path) -> dict[str, bool]:
     """
@@ -29,7 +34,7 @@ def iter_page_words(page_obj: dict) -> list[str]:
         eva = (loc.get("eva") or "").strip()
         if not eva:
             continue
-        words.extend(w.lower() for w in re.findall(r"[A-Za-z]+", eva))
+        words.extend(normalize_word(w) for w in re.findall(r"[A-Za-z]+", eva))
     return words
 
 
@@ -115,4 +120,3 @@ def main(argv: list[str]) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main(sys.argv[1:]))
-

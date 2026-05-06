@@ -15,38 +15,38 @@ This section defines **domain-associated basewords** using a pragmatic proxy: an
 This is not a translation; matches are heuristic and may be coincidental.
 English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.
 
-| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss | Latin candidate (Whitaker) |
-|---|---:|---|---|---|---|
-| `daiin` | 28 | `paiin` | `piani` | plans (arrangements) | [n/a] |
-| `qokal` | 13 | `cocal` | `calco` | cast (of sculpture) | `accol` |
-| `odaiin` | 8 | `opaiin` | `inopia` | poverty | [n/a] |
-| `okees` | 7 | `ocees` | `coese` | [n/a] | [n/a] |
-| `opaiin` | 6 | `opaiin` | `inopia` | poverty | [n/a] |
-| `ykaiin` | 5 | `caiin` | `acini` | [n/a] | [n/a] |
-| `qodaiin` | 5 | `copaiin` | `apocini` | [n/a] | [n/a] |
-| `oteos` | 5 | `oteos` | `osteo` | [n/a] | [n/a] |
-| `olkar` | 5 | `olcar` | `carlo` | [n/a] | `calor` |
-| `okaiin` | 4 | `ocaiin` | `coniai` | [n/a] | [n/a] |
-| `qotaiin` | 4 | `cotaiin` | `cationi` | [n/a] | `aconiti` |
-| `qokaiin` | 3 | `cocaiin` | `ciancio` | [n/a] | [n/a] |
-| `qokar` | 3 | `cocar` | `carco` | [n/a] | [n/a] |
-| `olaiin` | 3 | `olaiin` | `ialino` | hyaline, glassy | [n/a] |
-| `oraiin` | 3 | `oraiin` | `aironi` | [n/a] | [n/a] |
-| `olkaiin` | 3 | `olcaiin` | `caolini` | [n/a] | [n/a] |
-| `otair` | 3 | `otair` | `atrio` | entrance hall, lobby (of a hotel etc.) | `ratio` |
-| `shodaiin` | 3 | `sopaiin` | `sinopia` | [n/a] | [n/a] |
-| `otain` | 2 | `otain` | `anito` | [n/a] | `natio` |
-| `kaiin` | 2 | `caiin` | `acini` | [n/a] | [n/a] |
-| `qotar` | 2 | `cotar` | `corta` | [n/a] | `actor` |
-| `qotal` | 2 | `cotal` | `colta` | [n/a] | `calot` |
-| `daiir` | 2 | `paiir` | `aprii` | [n/a] | [n/a] |
-| `okair` | 2 | `ocair` | `cario` | [n/a] | `acori` |
-| `okchor` | 2 | `occor` | `corco` | [n/a] | [n/a] |
-| `otedar` | 2 | `otepar` | `aperto` | open | `tropae` |
-| `okeos` | 2 | `oceos` | `coeso` | cohesive | [n/a] |
-| `qokain` | 1 | `cocain` | `acconi` | [n/a] | `cocain` |
-| `okain` | 1 | `ocain` | `acino` | a berry | [n/a] |
-| `saiin` | 1 | `saiin` | `asini` | [n/a] | [n/a] |
+| EVA baseword | Count (domain) | Reduced form | Italian (modern list) | English (it) | Italian (WikWik/medieval-ish) | English (it) | Latin (Whitaker) | English (la) |
+|---|---:|---|---|---|---|---|---|---|
+| `paiin` | 29 | `paiin` | `piani` | plans (arrangements) | `piani` | plans (arrangements) | [n/a] | [n/a] |
+| `opaiin` | 14 | `opaiin` | `opinai` | [n/a] | `inopia` | poverty | [n/a] | [n/a] |
+| `qokal` | 13 | `cocal` | `calco` | cast (of sculpture) | `calco` | cast (of sculpture) | `accol` | one who lives nearby/beside |
+| `kaiin` | 7 | `caiin` | [n/a] | [n/a] | `acini` | [n/a] | [n/a] | [n/a] |
+| `okees` | 7 | `ocees` | [n/a] | [n/a] | `coese` | [n/a] | [n/a] | [n/a] |
+| `oteop` | 6 | `oteop` | [n/a] | [n/a] | `poeto` | [n/a] | [n/a] | [n/a] |
+| `qopaiin` | 5 | `copaiin` | [n/a] | [n/a] | `apocini` | [n/a] | [n/a] | [n/a] |
+| `oteos` | 5 | `oteos` | [n/a] | [n/a] | `osteo` | [n/a] | [n/a] | [n/a] |
+| `olkar` | 5 | `olcar` | [n/a] | [n/a] | `carlo` | [n/a] | `calor` | warmth, glow |
+| `qokep` | 4 | `cocep` | `pecco` | [n/a] | `pecco` | [n/a] | [n/a] | [n/a] |
+| `okaiin` | 4 | `ocaiin` | `coniai` | [n/a] | `coniai` | [n/a] | [n/a] | [n/a] |
+| `qotaiin` | 4 | `cotaiin` | `coniati` | [n/a] | `cationi` | [n/a] | `aconiti` | without dust (literally) |
+| `qokaiin` | 3 | `cocaiin` | `conciai` | [n/a] | `ciancio` | [n/a] | [n/a] | [n/a] |
+| `qokar` | 3 | `cocar` | [n/a] | [n/a] | `carco` | [n/a] | [n/a] | [n/a] |
+| `olaiin` | 3 | `olaiin` | [n/a] | [n/a] | `ialino` | hyaline, glassy | [n/a] | [n/a] |
+| `olchep` | 3 | `olcep` | `colpe` | [n/a] | `colpe` | [n/a] | [n/a] | [n/a] |
+| `qokeop` | 3 | `coceop` | [n/a] | [n/a] | `copeco` | kopek | [n/a] | [n/a] |
+| `oraiin` | 3 | `oraiin` | `ironia` | irony | `aironi` | [n/a] | [n/a] | [n/a] |
+| `olkaiin` | 3 | `olcaiin` | [n/a] | [n/a] | `caolini` | [n/a] | [n/a] | [n/a] |
+| `otair` | 3 | `otair` | `atrio` | entrance hall, lobby (of a hotel etc.) | `atrio` | entrance hall, lobby (of a hotel etc.) | `ratio` | plan |
+| `shopaiin` | 3 | `sopaiin` | [n/a] | [n/a] | `sinopia` | [n/a] | [n/a] | [n/a] |
+| `okchep` | 3 | `occep` | `pecco` | [n/a] | `pecco` | [n/a] | [n/a] | [n/a] |
+| `otain` | 2 | `otain` | `notai` | [n/a] | `anito` | [n/a] | `natio` | birth |
+| `qotar` | 2 | `cotar` | `corta` | [n/a] | `corta` | [n/a] | `actor` | advocate |
+| `qotal` | 2 | `cotal` | `colta` | [n/a] | `colta` | [n/a] | `calot` | [n/a] |
+| `opchep` | 2 | `opcep` | [n/a] | [n/a] | `ceppo` | stump (of a tree) | [n/a] | [n/a] |
+| `paiir` | 2 | `paiir` | `aprii` | [n/a] | `aprii` | [n/a] | [n/a] | [n/a] |
+| `okair` | 2 | `ocair` | [n/a] | [n/a] | `cario` | [n/a] | `acori` | butchers's broom/reed/rush or its root |
+| `opain` | 2 | `opain` | `opina` | opine | `opina` | opine | [n/a] | [n/a] |
+| `okchor` | 2 | `occor` | [n/a] | [n/a] | `corco` | [n/a] | [n/a] | [n/a] |
 
 ## Folios
 - f57v: ../../recipe_readmes/cosmological/f57v/README.md

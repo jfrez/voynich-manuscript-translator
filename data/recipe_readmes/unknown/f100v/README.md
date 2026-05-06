@@ -46,38 +46,37 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 
 ### Associated basewords (non-generic; top by frequency in this domain)
-- `daiin` (count=231) → Italian anagram `piani`; English: plans (arrangements)
+- `paiin` (count=241) → Italian anagram `piani`; English: plans (arrangements)
 - `qokaiin` (count=122) → Italian anagram `ciancio`; English: [n/a]
 - `okaiin` (count=109) → Italian anagram `coniai`; English: [n/a]
 - `qokain` (count=101) → Italian anagram `acconi`; English: [n/a]
 - `okain` (count=69) → Italian anagram `acino`; English: a berry
-- `otain` (count=53) → Italian anagram `anito`; English: [n/a]
+- `qokep` (count=65) → Italian anagram `pecco`; English: [n/a]
+- `otain` (count=54) → Italian anagram `anito`; English: [n/a]
 - `qokar` (count=48) → Italian anagram `carco`; English: [n/a]
-- `saiin` (count=46) → Italian anagram `asini`; English: [n/a]
-- `qokal` (count=43) → Italian anagram `calco`; English: cast (of sculpture)
+- `saiin` (count=48) → Italian anagram `asini`; English: [n/a]
+- `qokal` (count=46) → Italian anagram `calco`; English: cast (of sculpture)
+- `kaiin` (count=45) → Italian anagram `acini`; English: [n/a]
 - `qotaiin` (count=40) → Italian anagram `cationi`; English: [n/a]
-- `lkaiin` (count=39) → Italian anagram `ancili`; English: [n/a]
-- `kaiin` (count=37) → Italian anagram `acini`; English: [n/a]
-- `qokeol` (count=37) → Italian anagram `eccolo`; English: [n/a]
+- `lkaiin` (count=40) → Italian anagram `ancili`; English: [n/a]
+- `qokeol` (count=38) → Italian anagram `eccolo`; English: [n/a]
 - `qotain` (count=34) → Italian anagram `antico`; English: ancient
-- `qotar` (count=29) → Italian anagram `corta`; English: [n/a]
 
 ### Marker evidence (substring in frequent basewords)
-- `qo`: 60 basewords; examples: `qokeey`, `qokeedy`, `qokaiin`, `qokain`, `qokedy`, `qokey`
-- `q`: 61 basewords; examples: `qokeey`, `qokeedy`, `qokaiin`, `qokain`, `qokedy`, `qokey`
-- `o`: 262 basewords; examples: `qokeey`, `ol`, `o`, `qokeedy`, `okeey`, `qokaiin`
-- `k`: 147 basewords; examples: `qokeey`, `qokeedy`, `okeey`, `qokaiin`, `okaiin`, `qokain`
-- `t`: 102 basewords; examples: `otaiin`, `oteey`, `otar`, `otedy`, `otal`, `oteedy`
-- `p`: 17 basewords; examples: `opchedy`, `qopchedy`, `opchey`, `pchedy`, `qopchdy`, `opchdy`
-- `ch`: 137 basewords; examples: `chedy`, `chey`, `chol`, `cheey`, `cheol`, `cheody`
-- `sh`: 50 basewords; examples: `shedy`, `shey`, `sheey`, `sheol`, `shol`, `sheedy`
-- `f`: 1 basewords; examples: `f`
-- `cth`: 16 basewords; examples: `chcthy`, `cthey`, `shcthy`, `checthy`, `cthol`, `ctheey`
-- `ckh`: 15 basewords; examples: `chckhy`, `shckhy`, `checkhy`, `chckhey`, `chockhy`, `sheckhy`
-- `cph`: 2 basewords; examples: `cphol`, `cphy`
-- `dy`: 84 basewords; examples: `chedy`, `qokeedy`, `shedy`, `otedy`, `oteedy`, `qokedy`
-- `iin`: 39 basewords; examples: `aiin`, `daiin`, `qokaiin`, `okaiin`, `otaiin`, `saiin`
-- `aiin`: 33 basewords; examples: `aiin`, `daiin`, `qokaiin`, `okaiin`, `otaiin`, `saiin`
+- `qo`: 63 basewords; examples: `qokee`, `qokeep`, `qokaiin`, `qokain`, `qokep`, `qoke`
+- `q`: 64 basewords; examples: `qokee`, `qokeep`, `qokaiin`, `qokain`, `qokep`, `qoke`
+- `o`: 281 basewords; examples: `qokee`, `ol`, `o`, `qokeep`, `okee`, `qokaiin`
+- `k`: 150 basewords; examples: `qokee`, `qokeep`, `okee`, `qokaiin`, `okaiin`, `qokain`
+- `t`: 100 basewords; examples: `otaiin`, `otee`, `otal`, `otar`, `oteep`, `otep`
+- `p`: 154 basewords; examples: `paiin`, `chep`, `qokeep`, `shep`, `par`, `oteep`
+- `ch`: 144 basewords; examples: `chep`, `che`, `chol`, `chee`, `cheol`, `cheo`
+- `sh`: 52 basewords; examples: `shep`, `she`, `shee`, `sheol`, `sheep`, `shol`
+- `f`: 2 basewords; examples: `fchep`, `f`
+- `cth`: 17 basewords; examples: `chcth`, `cthe`, `shcth`, `checth`, `cthol`, `cthee`
+- `ckh`: 18 basewords; examples: `chckh`, `shckh`, `checkh`, `chckhe`, `chockh`, `sheckh`
+- `cph`: 3 basewords; examples: `cphol`, `cph`, `cphe`
+- `iin`: 38 basewords; examples: `aiin`, `paiin`, `qokaiin`, `okaiin`, `otaiin`, `saiin`
+- `aiin`: 31 basewords; examples: `aiin`, `paiin`, `qokaiin`, `okaiin`, `otaiin`, `saiin`
 
 ## Recipes Index (This Page)
 - [f100v.1,@Lf](#f100v-1-f100v-1-lf)
@@ -239,7 +238,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
 - chor: tokens: ch o r → connectors: r
 - oteey: tokens: o t ee → vowel_run: ee (level 2; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - qokomo: tokens: qo k o m o → connectors: m
 
 <a id="f100v-15-f100v-15-p0"></a>
@@ -257,7 +256,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - qoolkeey: tokens: qo o l k ee → connectors: l → vowel_run: ee (level 2; class e)
 - chol: tokens: ch o l → connectors: l
 - cheey: tokens: ch ee → vowel_run: ee (level 2; class e)
-- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e) (lexicon-context: `qokeol` → `eccolo`; [n/a])
+- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e)
 - chotol: tokens: ch o t o l → connectors: l
 - s: tokens: s → connectors: s
 
@@ -289,7 +288,7 @@ EVA: chockhey sholkcheol qokeol okol chol chotor chso solcthy
 Direct Gloss (Procedural, Not a Real Translation):
 - chockhey: tokens: ch o ckh e → vowel_run: e (level 1; class e)
 - sholkcheol: tokens: sh o l k ch e o l → connectors: l l → vowel_run: e (level 1; class e)
-- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e) (lexicon-context: `qokeol` → `eccolo`; [n/a])
+- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e)
 - okol: tokens: o k o l → connectors: l
 - chol: tokens: ch o l → connectors: l
 - chotor: tokens: ch o t o r → connectors: r
@@ -312,7 +311,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - ckhod: tokens: ckh o p
 - sh: tokens: sh
 - chod: tokens: ch o p
-- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e) (lexicon-context: `qokeol` → `eccolo`; [n/a])
+- qokeol: tokens: qo k e o l → connectors: l → vowel_run: e (level 1; class e)
 - sal: tokens: s a l → connectors: s l → vowel_run: a (level 1; class a)
 
 <a id="f100v-19-f100v-19-p0"></a>
@@ -372,6 +371,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin cheky chory
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - cheky: tokens: ch e k → vowel_run: e (level 1; class e)
 - chory: tokens: ch o r → connectors: r

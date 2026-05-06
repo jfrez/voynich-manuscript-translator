@@ -9,6 +9,11 @@ import re
 import sys
 from collections import Counter, defaultdict
 
+REPO_ROOT = pathlib.Path(__file__).resolve().parents[1]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from voynich.recipe_model import normalize_word  # noqa: E402
 
 def load_basewords(path: pathlib.Path, top: int = 0) -> list[str]:
     words = [ln.strip() for ln in path.read_text(encoding="utf-8", errors="replace").splitlines() if ln.strip()]
@@ -56,7 +61,7 @@ def main(argv: list[str]) -> int:
         text = eva_path.read_text(encoding="utf-8", errors="replace")
         words = re.findall(r"[A-Za-z]+", text)
         for w in words:
-            wl = w.lower()
+            wl = normalize_word(w)
             if wl in base_set:
                 counts[wl][section] += 1
                 totals[wl] += 1
@@ -86,4 +91,3 @@ def main(argv: list[str]) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main(sys.argv[1:]))
-

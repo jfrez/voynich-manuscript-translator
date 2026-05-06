@@ -9,214 +9,234 @@
   ],
   "rows": [
     {
-      "word": "daiin",
-      "total": 852,
-      "astronomical": 11,
-      "biological": 81,
-      "cosmological": 28,
-      "herbal": 461,
-      "text only": 40,
-      "unknown": 231
+      "word": "paiin",
+      "total": 884,
+      "astronomical": 13,
+      "biological": 82,
+      "cosmological": 29,
+      "herbal": 477,
+      "text only": 42,
+      "unknown": 241
     },
     {
       "word": "ol",
-      "total": 566,
-      "astronomical": 3,
-      "biological": 224,
-      "cosmological": 40,
-      "herbal": 97,
-      "text only": 47,
-      "unknown": 155
+      "total": 629,
+      "astronomical": 5,
+      "biological": 251,
+      "cosmological": 44,
+      "herbal": 110,
+      "text only": 55,
+      "unknown": 164
     },
     {
-      "word": "aiin",
-      "total": 524,
-      "astronomical": 13,
-      "biological": 36,
-      "cosmological": 33,
-      "herbal": 115,
-      "text only": 51,
-      "unknown": 276
-    },
-    {
-      "word": "chedy",
-      "total": 505,
+      "word": "chep",
+      "total": 553,
       "astronomical": 1,
-      "biological": 185,
-      "cosmological": 12,
-      "herbal": 63,
-      "text only": 41,
-      "unknown": 203
-    },
-    {
-      "word": "y",
-      "total": 502,
-      "astronomical": 15,
-      "biological": 58,
-      "cosmological": 51,
-      "herbal": 186,
-      "text only": 42,
-      "unknown": 150
+      "biological": 195,
+      "cosmological": 15,
+      "herbal": 71,
+      "text only": 49,
+      "unknown": 222
     },
     {
       "word": "s",
-      "total": 500,
-      "astronomical": 18,
-      "biological": 40,
+      "total": 539,
+      "astronomical": 19,
+      "biological": 45,
+      "cosmological": 35,
+      "herbal": 268,
+      "text only": 38,
+      "unknown": 134
+    },
+    {
+      "word": "aiin",
+      "total": 532,
+      "astronomical": 14,
+      "biological": 36,
       "cosmological": 33,
-      "herbal": 245,
-      "text only": 37,
-      "unknown": 127
+      "herbal": 116,
+      "text only": 52,
+      "unknown": 281
     },
     {
       "word": "o",
-      "total": 495,
+      "total": 505,
       "astronomical": 15,
-      "biological": 47,
+      "biological": 48,
       "cosmological": 57,
-      "herbal": 197,
+      "herbal": 200,
       "text only": 33,
-      "unknown": 146
+      "unknown": 152
     },
     {
-      "word": "shedy",
-      "total": 434,
+      "word": "p",
+      "total": 477,
+      "astronomical": 15,
+      "biological": 71,
+      "cosmological": 50,
+      "herbal": 246,
+      "text only": 31,
+      "unknown": 64
+    },
+    {
+      "word": "shep",
+      "total": 464,
       "astronomical": 0,
-      "biological": 219,
-      "cosmological": 11,
-      "herbal": 37,
-      "text only": 44,
-      "unknown": 123
+      "biological": 227,
+      "cosmological": 14,
+      "herbal": 42,
+      "text only": 47,
+      "unknown": 134
     },
     {
       "word": "ar",
-      "total": 420,
-      "astronomical": 13,
-      "biological": 18,
-      "cosmological": 55,
-      "herbal": 86,
-      "text only": 64,
-      "unknown": 184
+      "total": 450,
+      "astronomical": 16,
+      "biological": 23,
+      "cosmological": 60,
+      "herbal": 91,
+      "text only": 65,
+      "unknown": 195
     },
     {
       "word": "chol",
-      "total": 397,
+      "total": 424,
       "astronomical": 6,
       "biological": 10,
-      "cosmological": 13,
-      "herbal": 228,
-      "text only": 28,
-      "unknown": 112
-    },
-    {
-      "word": "or",
-      "total": 396,
-      "astronomical": 6,
-      "biological": 65,
-      "cosmological": 34,
-      "herbal": 132,
-      "text only": 50,
-      "unknown": 109
-    },
-    {
-      "word": "r",
-      "total": 361,
-      "astronomical": 10,
-      "biological": 48,
-      "cosmological": 41,
-      "herbal": 116,
-      "text only": 27,
+      "cosmological": 15,
+      "herbal": 244,
+      "text only": 30,
       "unknown": 119
     },
     {
-      "word": "chey",
-      "total": 352,
-      "astronomical": 2,
-      "biological": 75,
-      "cosmological": 12,
-      "herbal": 79,
-      "text only": 29,
-      "unknown": 155
+      "word": "or",
+      "total": 415,
+      "astronomical": 6,
+      "biological": 73,
+      "cosmological": 34,
+      "herbal": 136,
+      "text only": 51,
+      "unknown": 115
     },
     {
-      "word": "dar",
-      "total": 328,
+      "word": "che",
+      "total": 395,
+      "astronomical": 4,
+      "biological": 79,
+      "cosmological": 18,
+      "herbal": 93,
+      "text only": 33,
+      "unknown": 168
+    },
+    {
+      "word": "r",
+      "total": 374,
       "astronomical": 10,
-      "biological": 58,
-      "cosmological": 28,
-      "herbal": 118,
-      "text only": 37,
-      "unknown": 77
+      "biological": 53,
+      "cosmological": 41,
+      "herbal": 120,
+      "text only": 27,
+      "unknown": 123
     },
     {
-      "word": "dy",
-      "total": 312,
-      "astronomical": 10,
-      "biological": 55,
-      "cosmological": 25,
-      "herbal": 163,
-      "text only": 17,
-      "unknown": 42
+      "word": "par",
+      "total": 367,
+      "astronomical": 13,
+      "biological": 63,
+      "cosmological": 29,
+      "herbal": 130,
+      "text only": 43,
+      "unknown": 89
     },
     {
-      "word": "qokeey",
-      "total": 307,
+      "word": "she",
+      "total": 325,
+      "astronomical": 8,
+      "biological": 90,
+      "cosmological": 5,
+      "herbal": 66,
+      "text only": 31,
+      "unknown": 125
+    },
+    {
+      "word": "qokeep",
+      "total": 323,
+      "astronomical": 0,
+      "biological": 154,
+      "cosmological": 1,
+      "herbal": 13,
+      "text only": 11,
+      "unknown": 144
+    },
+    {
+      "word": "qokee",
+      "total": 310,
       "astronomical": 4,
       "biological": 78,
       "cosmological": 2,
-      "herbal": 22,
+      "herbal": 24,
       "text only": 20,
-      "unknown": 181
+      "unknown": 182
     },
     {
-      "word": "qokeedy",
-      "total": 306,
+      "word": "al",
+      "total": 298,
+      "astronomical": 4,
+      "biological": 23,
+      "cosmological": 25,
+      "herbal": 29,
+      "text only": 29,
+      "unknown": 188
+    },
+    {
+      "word": "ch",
+      "total": 285,
+      "astronomical": 9,
+      "biological": 24,
+      "cosmological": 21,
+      "herbal": 160,
+      "text only": 11,
+      "unknown": 60
+    },
+    {
+      "word": "pal",
+      "total": 284,
+      "astronomical": 6,
+      "biological": 69,
+      "cosmological": 26,
+      "herbal": 78,
+      "text only": 40,
+      "unknown": 65
+    },
+    {
+      "word": "qokep",
+      "total": 283,
       "astronomical": 0,
-      "biological": 147,
-      "cosmological": 1,
-      "herbal": 12,
-      "text only": 10,
-      "unknown": 136
+      "biological": 160,
+      "cosmological": 4,
+      "herbal": 41,
+      "text only": 13,
+      "unknown": 65
+    },
+    {
+      "word": "l",
+      "total": 282,
+      "astronomical": 2,
+      "biological": 43,
+      "cosmological": 23,
+      "herbal": 56,
+      "text only": 14,
+      "unknown": 144
     },
     {
       "word": "qokain",
-      "total": 277,
+      "total": 278,
       "astronomical": 0,
-      "biological": 158,
+      "biological": 159,
       "cosmological": 1,
       "herbal": 7,
       "text only": 10,
       "unknown": 101
-    },
-    {
-      "word": "shey",
-      "total": 276,
-      "astronomical": 6,
-      "biological": 87,
-      "cosmological": 4,
-      "herbal": 44,
-      "text only": 27,
-      "unknown": 108
-    },
-    {
-      "word": "qokedy",
-      "total": 275,
-      "astronomical": 0,
-      "biological": 158,
-      "cosmological": 4,
-      "herbal": 40,
-      "text only": 11,
-      "unknown": 62
-    },
-    {
-      "word": "al",
-      "total": 270,
-      "astronomical": 3,
-      "biological": 17,
-      "cosmological": 23,
-      "herbal": 26,
-      "text only": 25,
-      "unknown": 176
     },
     {
       "word": "qokaiin",
@@ -230,33 +250,33 @@
     },
     {
       "word": "a",
-      "total": 261,
-      "astronomical": 8,
+      "total": 264,
+      "astronomical": 9,
       "biological": 28,
-      "cosmological": 30,
+      "cosmological": 31,
       "herbal": 106,
       "text only": 18,
-      "unknown": 71
+      "unknown": 72
     },
     {
-      "word": "l",
-      "total": 260,
+      "word": "chor",
+      "total": 238,
       "astronomical": 2,
-      "biological": 35,
-      "cosmological": 22,
-      "herbal": 50,
-      "text only": 14,
-      "unknown": 137
+      "biological": 0,
+      "cosmological": 3,
+      "herbal": 176,
+      "text only": 11,
+      "unknown": 46
     },
     {
-      "word": "dal",
-      "total": 246,
-      "astronomical": 6,
-      "biological": 63,
-      "cosmological": 21,
-      "herbal": 69,
-      "text only": 31,
-      "unknown": 56
+      "word": "pain",
+      "total": 218,
+      "astronomical": 3,
+      "biological": 42,
+      "cosmological": 1,
+      "herbal": 94,
+      "text only": 18,
+      "unknown": 60
     },
     {
       "word": "okaiin",
@@ -269,94 +289,114 @@
       "unknown": 109
     },
     {
-      "word": "dain",
-      "total": 212,
-      "astronomical": 3,
-      "biological": 40,
-      "cosmological": 1,
-      "herbal": 91,
-      "text only": 17,
-      "unknown": 60
-    },
-    {
-      "word": "chor",
-      "total": 212,
-      "astronomical": 2,
-      "biological": 0,
-      "cosmological": 3,
-      "herbal": 156,
-      "text only": 10,
-      "unknown": 41
-    },
-    {
       "word": "qokal",
-      "total": 193,
+      "total": 211,
       "astronomical": 0,
-      "biological": 102,
+      "biological": 108,
       "cosmological": 13,
-      "herbal": 12,
-      "text only": 23,
-      "unknown": 43
+      "herbal": 13,
+      "text only": 31,
+      "unknown": 46
+    },
+    {
+      "word": "chee",
+      "total": 204,
+      "astronomical": 3,
+      "biological": 43,
+      "cosmological": 5,
+      "herbal": 32,
+      "text only": 7,
+      "unknown": 114
     },
     {
       "word": "shol",
-      "total": 184,
+      "total": 189,
       "astronomical": 0,
       "biological": 13,
       "cosmological": 8,
-      "herbal": 115,
-      "text only": 14,
+      "herbal": 118,
+      "text only": 16,
       "unknown": 34
     },
     {
-      "word": "cheey",
-      "total": 182,
-      "astronomical": 3,
-      "biological": 41,
-      "cosmological": 5,
-      "herbal": 25,
-      "text only": 6,
-      "unknown": 102
-    },
-    {
-      "word": "okeey",
-      "total": 180,
+      "word": "okee",
+      "total": 186,
       "astronomical": 5,
       "biological": 16,
       "cosmological": 12,
-      "herbal": 15,
+      "herbal": 18,
       "text only": 5,
-      "unknown": 127
+      "unknown": 130
     },
     {
       "word": "cheol",
-      "total": 170,
+      "total": 185,
+      "astronomical": 2,
+      "biological": 30,
+      "cosmological": 1,
+      "herbal": 37,
+      "text only": 9,
+      "unknown": 106
+    },
+    {
+      "word": "qok",
+      "total": 179,
+      "astronomical": 0,
+      "biological": 67,
+      "cosmological": 1,
+      "herbal": 47,
+      "text only": 16,
+      "unknown": 48
+    },
+    {
+      "word": "okal",
+      "total": 178,
       "astronomical": 2,
       "biological": 28,
-      "cosmological": 1,
-      "herbal": 34,
-      "text only": 8,
-      "unknown": 97
+      "cosmological": 14,
+      "herbal": 43,
+      "text only": 26,
+      "unknown": 65
     },
     {
-      "word": "chy",
-      "total": 166,
-      "astronomical": 5,
-      "biological": 10,
-      "cosmological": 8,
-      "herbal": 111,
-      "text only": 8,
-      "unknown": 24
+      "word": "shee",
+      "total": 174,
+      "astronomical": 1,
+      "biological": 32,
+      "cosmological": 12,
+      "herbal": 37,
+      "text only": 16,
+      "unknown": 76
     },
     {
-      "word": "otedy",
-      "total": 162,
-      "astronomical": 0,
-      "biological": 48,
-      "cosmological": 17,
-      "herbal": 23,
+      "word": "otep",
+      "total": 167,
+      "astronomical": 1,
+      "biological": 49,
+      "cosmological": 19,
+      "herbal": 24,
       "text only": 10,
       "unknown": 64
+    },
+    {
+      "word": "chp",
+      "total": 160,
+      "astronomical": 0,
+      "biological": 18,
+      "cosmological": 12,
+      "herbal": 65,
+      "text only": 17,
+      "unknown": 48
+    },
+    {
+      "word": "otal",
+      "total": 157,
+      "astronomical": 1,
+      "biological": 26,
+      "cosmological": 4,
+      "herbal": 25,
+      "text only": 25,
+      "unknown": 76
     },
     {
       "word": "qokar",
@@ -369,359 +409,419 @@
       "unknown": 48
     },
     {
-      "word": "okal",
+      "word": "otar",
+      "total": 156,
+      "astronomical": 3,
+      "biological": 21,
+      "cosmological": 11,
+      "herbal": 26,
+      "text only": 19,
+      "unknown": 76
+    },
+    {
+      "word": "sh",
       "total": 155,
       "astronomical": 2,
-      "biological": 24,
-      "cosmological": 14,
-      "herbal": 39,
-      "text only": 21,
-      "unknown": 55
+      "biological": 13,
+      "cosmological": 7,
+      "herbal": 99,
+      "text only": 8,
+      "unknown": 26
     },
     {
       "word": "otaiin",
-      "total": 154,
+      "total": 155,
       "astronomical": 0,
       "biological": 12,
       "cosmological": 5,
       "herbal": 33,
       "text only": 11,
-      "unknown": 93
-    },
-    {
-      "word": "otar",
-      "total": 150,
-      "astronomical": 2,
-      "biological": 20,
-      "cosmological": 11,
-      "herbal": 25,
-      "text only": 18,
-      "unknown": 74
-    },
-    {
-      "word": "sheey",
-      "total": 148,
-      "astronomical": 1,
-      "biological": 28,
-      "cosmological": 10,
-      "herbal": 26,
-      "text only": 15,
-      "unknown": 68
-    },
-    {
-      "word": "chdy",
-      "total": 147,
-      "astronomical": 0,
-      "biological": 18,
-      "cosmological": 11,
-      "herbal": 59,
-      "text only": 17,
-      "unknown": 42
-    },
-    {
-      "word": "qoky",
-      "total": 144,
-      "astronomical": 0,
-      "biological": 60,
-      "cosmological": 1,
-      "herbal": 34,
-      "text only": 14,
-      "unknown": 35
+      "unknown": 94
     },
     {
       "word": "qol",
-      "total": 143,
+      "total": 150,
       "astronomical": 0,
-      "biological": 104,
+      "biological": 111,
       "cosmological": 0,
       "herbal": 3,
       "text only": 5,
       "unknown": 31
     },
     {
-      "word": "oteey",
-      "total": 141,
-      "astronomical": 7,
-      "biological": 17,
-      "cosmological": 15,
-      "herbal": 11,
-      "text only": 4,
-      "unknown": 87
+      "word": "okar",
+      "total": 149,
+      "astronomical": 3,
+      "biological": 19,
+      "cosmological": 12,
+      "herbal": 41,
+      "text only": 22,
+      "unknown": 52
     },
     {
-      "word": "chckhy",
-      "total": 140,
+      "word": "ot",
+      "total": 148,
+      "astronomical": 4,
+      "biological": 18,
+      "cosmological": 15,
+      "herbal": 58,
+      "text only": 9,
+      "unknown": 44
+    },
+    {
+      "word": "otee",
+      "total": 145,
+      "astronomical": 8,
+      "biological": 17,
+      "cosmological": 16,
+      "herbal": 12,
+      "text only": 4,
+      "unknown": 88
+    },
+    {
+      "word": "chckh",
+      "total": 144,
       "astronomical": 0,
-      "biological": 34,
+      "biological": 35,
       "cosmological": 5,
-      "herbal": 49,
-      "text only": 10,
+      "herbal": 51,
+      "text only": 11,
       "unknown": 42
     },
     {
       "word": "okain",
-      "total": 140,
+      "total": 141,
       "astronomical": 1,
-      "biological": 40,
+      "biological": 41,
       "cosmological": 1,
       "herbal": 19,
       "text only": 10,
       "unknown": 69
     },
     {
-      "word": "d",
-      "total": 139,
-      "astronomical": 5,
-      "biological": 13,
-      "cosmological": 21,
-      "herbal": 71,
-      "text only": 11,
-      "unknown": 18
-    },
-    {
-      "word": "okar",
-      "total": 138,
-      "astronomical": 3,
-      "biological": 18,
-      "cosmological": 11,
-      "herbal": 38,
-      "text only": 21,
-      "unknown": 47
-    },
-    {
-      "word": "otal",
+      "word": "pol",
       "total": 136,
-      "astronomical": 0,
-      "biological": 22,
+      "astronomical": 3,
+      "biological": 37,
       "cosmological": 4,
-      "herbal": 24,
-      "text only": 22,
-      "unknown": 64
+      "herbal": 50,
+      "text only": 6,
+      "unknown": 36
+    },
+    {
+      "word": "ok",
+      "total": 135,
+      "astronomical": 5,
+      "biological": 17,
+      "cosmological": 6,
+      "herbal": 63,
+      "text only": 12,
+      "unknown": 32
     },
     {
       "word": "sho",
-      "total": 128,
+      "total": 134,
       "astronomical": 1,
       "biological": 1,
       "cosmological": 5,
-      "herbal": 93,
-      "text only": 6,
-      "unknown": 22
+      "herbal": 96,
+      "text only": 7,
+      "unknown": 24
+    },
+    {
+      "word": "k",
+      "total": 132,
+      "astronomical": 3,
+      "biological": 8,
+      "cosmological": 20,
+      "herbal": 60,
+      "text only": 7,
+      "unknown": 34
     },
     {
       "word": "saiin",
-      "total": 126,
+      "total": 131,
       "astronomical": 2,
       "biological": 30,
       "cosmological": 1,
-      "herbal": 37,
+      "herbal": 40,
       "text only": 10,
-      "unknown": 46
+      "unknown": 48
+    },
+    {
+      "word": "kaiin",
+      "total": 125,
+      "astronomical": 0,
+      "biological": 9,
+      "cosmological": 7,
+      "herbal": 40,
+      "text only": 24,
+      "unknown": 45
+    },
+    {
+      "word": "okep",
+      "total": 123,
+      "astronomical": 1,
+      "biological": 41,
+      "cosmological": 8,
+      "herbal": 27,
+      "text only": 11,
+      "unknown": 35
+    },
+    {
+      "word": "pair",
+      "total": 121,
+      "astronomical": 10,
+      "biological": 3,
+      "cosmological": 12,
+      "herbal": 38,
+      "text only": 10,
+      "unknown": 48
+    },
+    {
+      "word": "lchep",
+      "total": 121,
+      "astronomical": 0,
+      "biological": 54,
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 10,
+      "unknown": 54
     },
     {
       "word": "ain",
-      "total": 119,
+      "total": 120,
       "astronomical": 3,
       "biological": 17,
       "cosmological": 6,
-      "herbal": 16,
+      "herbal": 17,
       "text only": 11,
       "unknown": 66
     },
     {
-      "word": "okedy",
+      "word": "cth",
       "total": 119,
-      "astronomical": 1,
-      "biological": 41,
-      "cosmological": 7,
-      "herbal": 25,
-      "text only": 11,
-      "unknown": 34
-    },
-    {
-      "word": "oty",
-      "total": 118,
-      "astronomical": 1,
-      "biological": 17,
-      "cosmological": 9,
-      "herbal": 51,
-      "text only": 8,
-      "unknown": 32
-    },
-    {
-      "word": "lchedy",
-      "total": 115,
-      "astronomical": 0,
-      "biological": 51,
-      "cosmological": 0,
-      "herbal": 3,
-      "text only": 10,
-      "unknown": 51
-    },
-    {
-      "word": "ch",
-      "total": 113,
-      "astronomical": 4,
-      "biological": 14,
-      "cosmological": 11,
-      "herbal": 45,
-      "text only": 3,
-      "unknown": 36
-    },
-    {
-      "word": "dol",
-      "total": 109,
-      "astronomical": 2,
-      "biological": 28,
-      "cosmological": 2,
-      "herbal": 48,
-      "text only": 4,
-      "unknown": 25
-    },
-    {
-      "word": "dair",
-      "total": 109,
-      "astronomical": 9,
-      "biological": 3,
-      "cosmological": 12,
-      "herbal": 35,
-      "text only": 9,
-      "unknown": 41
-    },
-    {
-      "word": "okeedy",
-      "total": 109,
-      "astronomical": 1,
-      "biological": 36,
-      "cosmological": 1,
-      "herbal": 16,
-      "text only": 4,
-      "unknown": 51
-    },
-    {
-      "word": "qokey",
-      "total": 108,
-      "astronomical": 1,
-      "biological": 35,
-      "cosmological": 1,
-      "herbal": 8,
-      "text only": 12,
-      "unknown": 51
-    },
-    {
-      "word": "sheol",
-      "total": 108,
-      "astronomical": 1,
-      "biological": 25,
-      "cosmological": 1,
-      "herbal": 21,
-      "text only": 12,
-      "unknown": 48
-    },
-    {
-      "word": "oteedy",
-      "total": 106,
-      "astronomical": 1,
-      "biological": 22,
-      "cosmological": 11,
-      "herbal": 5,
-      "text only": 4,
-      "unknown": 63
-    },
-    {
-      "word": "cthy",
-      "total": 102,
       "astronomical": 1,
       "biological": 1,
       "cosmological": 2,
-      "herbal": 91,
-      "text only": 4,
-      "unknown": 3
+      "herbal": 104,
+      "text only": 5,
+      "unknown": 6
     },
     {
-      "word": "oky",
-      "total": 101,
-      "astronomical": 2,
-      "biological": 12,
+      "word": "kee",
+      "total": 116,
+      "astronomical": 5,
+      "biological": 11,
+      "cosmological": 4,
+      "herbal": 33,
+      "text only": 7,
+      "unknown": 56
+    },
+    {
+      "word": "oteep",
+      "total": 115,
+      "astronomical": 1,
+      "biological": 22,
+      "cosmological": 12,
+      "herbal": 6,
+      "text only": 4,
+      "unknown": 70
+    },
+    {
+      "word": "okeep",
+      "total": 114,
+      "astronomical": 1,
+      "biological": 37,
+      "cosmological": 1,
+      "herbal": 18,
+      "text only": 5,
+      "unknown": 52
+    },
+    {
+      "word": "qoke",
+      "total": 112,
+      "astronomical": 1,
+      "biological": 36,
+      "cosmological": 1,
+      "herbal": 10,
+      "text only": 12,
+      "unknown": 52
+    },
+    {
+      "word": "sheol",
+      "total": 111,
+      "astronomical": 1,
+      "biological": 25,
+      "cosmological": 2,
+      "herbal": 22,
+      "text only": 12,
+      "unknown": 49
+    },
+    {
+      "word": "qot",
+      "total": 109,
+      "astronomical": 0,
+      "biological": 28,
       "cosmological": 3,
-      "herbal": 51,
-      "text only": 10,
+      "herbal": 47,
+      "text only": 8,
       "unknown": 23
     },
     {
-      "word": "shy",
-      "total": 100,
+      "word": "chop",
+      "total": 108,
+      "astronomical": 2,
+      "biological": 0,
+      "cosmological": 5,
+      "herbal": 56,
+      "text only": 8,
+      "unknown": 37
+    },
+    {
+      "word": "cho",
+      "total": 105,
+      "astronomical": 4,
+      "biological": 0,
+      "cosmological": 2,
+      "herbal": 69,
+      "text only": 3,
+      "unknown": 27
+    },
+    {
+      "word": "cheop",
+      "total": 105,
+      "astronomical": 5,
+      "biological": 0,
+      "cosmological": 5,
+      "herbal": 26,
+      "text only": 6,
+      "unknown": 63
+    },
+    {
+      "word": "cheor",
+      "total": 104,
+      "astronomical": 4,
+      "biological": 11,
+      "cosmological": 2,
+      "herbal": 39,
+      "text only": 6,
+      "unknown": 42
+    },
+    {
+      "word": "kar",
+      "total": 104,
       "astronomical": 1,
-      "biological": 9,
+      "biological": 8,
+      "cosmological": 6,
+      "herbal": 40,
+      "text only": 20,
+      "unknown": 29
+    },
+    {
+      "word": "shor",
+      "total": 102,
+      "astronomical": 0,
+      "biological": 3,
       "cosmological": 3,
-      "herbal": 70,
-      "text only": 4,
-      "unknown": 13
+      "herbal": 71,
+      "text only": 9,
+      "unknown": 16
+    },
+    {
+      "word": "keep",
+      "total": 99,
+      "astronomical": 0,
+      "biological": 30,
+      "cosmological": 3,
+      "herbal": 17,
+      "text only": 3,
+      "unknown": 46
     },
     {
       "word": "qokol",
-      "total": 97,
+      "total": 98,
       "astronomical": 1,
       "biological": 21,
       "cosmological": 2,
       "herbal": 33,
       "text only": 5,
-      "unknown": 35
+      "unknown": 36
     },
     {
       "word": "otain",
-      "total": 96,
+      "total": 97,
       "astronomical": 0,
       "biological": 23,
       "cosmological": 2,
       "herbal": 11,
       "text only": 7,
-      "unknown": 53
+      "unknown": 54
     },
     {
-      "word": "shor",
+      "word": "sheep",
+      "total": 95,
+      "astronomical": 0,
+      "biological": 41,
+      "cosmological": 2,
+      "herbal": 9,
+      "text only": 7,
+      "unknown": 36
+    },
+    {
+      "word": "pam",
+      "total": 94,
+      "astronomical": 3,
+      "biological": 7,
+      "cosmological": 6,
+      "herbal": 47,
+      "text only": 8,
+      "unknown": 23
+    },
+    {
+      "word": "t",
       "total": 94,
       "astronomical": 0,
-      "biological": 3,
-      "cosmological": 3,
-      "herbal": 67,
-      "text only": 8,
-      "unknown": 13
-    },
-    {
-      "word": "chody",
-      "total": 92,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 5,
-      "herbal": 46,
-      "text only": 6,
-      "unknown": 34
-    },
-    {
-      "word": "cheor",
-      "total": 92,
-      "astronomical": 4,
       "biological": 10,
-      "cosmological": 2,
-      "herbal": 32,
-      "text only": 5,
-      "unknown": 39
+      "cosmological": 13,
+      "herbal": 52,
+      "text only": 4,
+      "unknown": 15
     },
     {
-      "word": "cho",
-      "total": 91,
-      "astronomical": 4,
+      "word": "qotep",
+      "total": 94,
+      "astronomical": 0,
+      "biological": 47,
+      "cosmological": 1,
+      "herbal": 12,
+      "text only": 5,
+      "unknown": 29
+    },
+    {
+      "word": "cheo",
+      "total": 93,
+      "astronomical": 5,
       "biological": 0,
-      "cosmological": 2,
-      "herbal": 58,
-      "text only": 2,
-      "unknown": 25
+      "cosmological": 3,
+      "herbal": 19,
+      "text only": 1,
+      "unknown": 65
+    },
+    {
+      "word": "char",
+      "total": 91,
+      "astronomical": 0,
+      "biological": 6,
+      "cosmological": 3,
+      "herbal": 38,
+      "text only": 6,
+      "unknown": 38
     },
     {
       "word": "am",
-      "total": 90,
-      "astronomical": 3,
+      "total": 91,
+      "astronomical": 4,
       "biological": 4,
       "cosmological": 12,
       "herbal": 21,
@@ -729,114 +829,84 @@
       "unknown": 42
     },
     {
-      "word": "cheody",
-      "total": 90,
-      "astronomical": 3,
-      "biological": 0,
-      "cosmological": 5,
-      "herbal": 22,
-      "text only": 5,
-      "unknown": 55
-    },
-    {
-      "word": "dam",
+      "word": "opaiin",
       "total": 89,
       "astronomical": 2,
-      "biological": 7,
-      "cosmological": 6,
-      "herbal": 45,
-      "text only": 8,
-      "unknown": 21
-    },
-    {
-      "word": "qotedy",
-      "total": 89,
-      "astronomical": 0,
-      "biological": 46,
-      "cosmological": 1,
-      "herbal": 12,
-      "text only": 5,
-      "unknown": 25
-    },
-    {
-      "word": "qoty",
-      "total": 88,
-      "astronomical": 0,
-      "biological": 27,
-      "cosmological": 3,
-      "herbal": 31,
-      "text only": 7,
-      "unknown": 20
-    },
-    {
-      "word": "char",
-      "total": 85,
-      "astronomical": 0,
-      "biological": 5,
-      "cosmological": 3,
-      "herbal": 35,
-      "text only": 5,
-      "unknown": 37
-    },
-    {
-      "word": "air",
-      "total": 84,
-      "astronomical": 4,
-      "biological": 3,
-      "cosmological": 9,
-      "herbal": 14,
-      "text only": 8,
-      "unknown": 46
-    },
-    {
-      "word": "sheedy",
-      "total": 83,
-      "astronomical": 0,
-      "biological": 40,
-      "cosmological": 2,
-      "herbal": 8,
-      "text only": 5,
-      "unknown": 28
+      "biological": 1,
+      "cosmological": 14,
+      "herbal": 29,
+      "text only": 11,
+      "unknown": 32
     },
     {
       "word": "otol",
-      "total": 82,
+      "total": 89,
       "astronomical": 3,
-      "biological": 12,
-      "cosmological": 7,
-      "herbal": 31,
+      "biological": 14,
+      "cosmological": 9,
+      "herbal": 33,
       "text only": 7,
-      "unknown": 22
+      "unknown": 23
     },
     {
-      "word": "chcthy",
-      "total": 81,
+      "word": "sar",
+      "total": 89,
+      "astronomical": 6,
+      "biological": 20,
+      "cosmological": 13,
+      "herbal": 17,
+      "text only": 4,
+      "unknown": 29
+    },
+    {
+      "word": "air",
+      "total": 88,
+      "astronomical": 4,
+      "biological": 3,
+      "cosmological": 9,
+      "herbal": 15,
+      "text only": 8,
+      "unknown": 49
+    },
+    {
+      "word": "taiin",
+      "total": 86,
+      "astronomical": 0,
+      "biological": 5,
+      "cosmological": 6,
+      "herbal": 31,
+      "text only": 17,
+      "unknown": 27
+    },
+    {
+      "word": "chcth",
+      "total": 83,
       "astronomical": 0,
       "biological": 23,
       "cosmological": 3,
-      "herbal": 25,
+      "herbal": 27,
       "text only": 5,
       "unknown": 25
     },
     {
-      "word": "cheo",
-      "total": 80,
-      "astronomical": 4,
-      "biological": 0,
-      "cosmological": 3,
-      "herbal": 17,
-      "text only": 1,
-      "unknown": 55
+      "word": "okol",
+      "total": 82,
+      "astronomical": 6,
+      "biological": 7,
+      "cosmological": 7,
+      "herbal": 26,
+      "text only": 2,
+      "unknown": 34
     },
     {
-      "word": "kaiin",
-      "total": 79,
+      "word": "op",
+      "total": 80,
       "astronomical": 0,
-      "biological": 7,
-      "cosmological": 2,
-      "herbal": 24,
+      "biological": 6,
+      "cosmological": 10,
+      "herbal": 36,
       "text only": 9,
-      "unknown": 37
+      "unknown": 19
     },
     {
       "word": "qotaiin",
@@ -849,114 +919,214 @@
       "unknown": 40
     },
     {
-      "word": "sar",
+      "word": "qoteep",
       "total": 79,
-      "astronomical": 4,
-      "biological": 20,
-      "cosmological": 11,
-      "herbal": 12,
-      "text only": 4,
-      "unknown": 28
-    },
-    {
-      "word": "okol",
-      "total": 78,
-      "astronomical": 6,
-      "biological": 7,
-      "cosmological": 7,
-      "herbal": 25,
-      "text only": 2,
-      "unknown": 31
-    },
-    {
-      "word": "qoteedy",
-      "total": 76,
       "astronomical": 0,
-      "biological": 40,
+      "biological": 42,
       "cosmological": 0,
       "herbal": 2,
       "text only": 2,
-      "unknown": 32
+      "unknown": 33
     },
     {
-      "word": "odaiin",
-      "total": 71,
-      "astronomical": 2,
-      "biological": 1,
-      "cosmological": 8,
-      "herbal": 27,
-      "text only": 9,
-      "unknown": 24
-    },
-    {
-      "word": "sol",
-      "total": 67,
-      "astronomical": 2,
-      "biological": 37,
-      "cosmological": 1,
-      "herbal": 14,
-      "text only": 1,
-      "unknown": 12
-    },
-    {
-      "word": "qokchy",
-      "total": 66,
+      "word": "por",
+      "total": 78,
       "astronomical": 1,
-      "biological": 5,
-      "cosmological": 0,
-      "herbal": 43,
-      "text only": 2,
-      "unknown": 15
-    },
-    {
-      "word": "cheky",
-      "total": 66,
-      "astronomical": 2,
       "biological": 10,
-      "cosmological": 4,
-      "herbal": 28,
-      "text only": 6,
-      "unknown": 16
+      "cosmological": 1,
+      "herbal": 43,
+      "text only": 5,
+      "unknown": 18
     },
     {
-      "word": "dor",
-      "total": 64,
+      "word": "pchep",
+      "total": 78,
       "astronomical": 1,
-      "biological": 7,
+      "biological": 25,
       "cosmological": 1,
-      "herbal": 39,
+      "herbal": 17,
+      "text only": 5,
+      "unknown": 29
+    },
+    {
+      "word": "chek",
+      "total": 75,
+      "astronomical": 3,
+      "biological": 11,
+      "cosmological": 6,
+      "herbal": 30,
+      "text only": 6,
+      "unknown": 19
+    },
+    {
+      "word": "kep",
+      "total": 75,
+      "astronomical": 0,
+      "biological": 26,
+      "cosmological": 3,
+      "herbal": 24,
       "text only": 4,
-      "unknown": 12
+      "unknown": 18
     },
     {
       "word": "okeol",
-      "total": 64,
+      "total": 70,
       "astronomical": 2,
       "biological": 3,
       "cosmological": 2,
       "herbal": 10,
-      "text only": 0,
-      "unknown": 47
+      "text only": 1,
+      "unknown": 52
     },
     {
-      "word": "okey",
-      "total": 64,
+      "word": "sol",
+      "total": 70,
+      "astronomical": 2,
+      "biological": 38,
+      "cosmological": 2,
+      "herbal": 15,
+      "text only": 1,
+      "unknown": 12
+    },
+    {
+      "word": "cheep",
+      "total": 69,
+      "astronomical": 0,
+      "biological": 26,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 4,
+      "unknown": 37
+    },
+    {
+      "word": "kch",
+      "total": 68,
+      "astronomical": 3,
+      "biological": 0,
+      "cosmological": 2,
+      "herbal": 59,
+      "text only": 2,
+      "unknown": 2
+    },
+    {
+      "word": "qo",
+      "total": 68,
+      "astronomical": 0,
+      "biological": 10,
+      "cosmological": 0,
+      "herbal": 27,
+      "text only": 9,
+      "unknown": 22
+    },
+    {
+      "word": "oke",
+      "total": 68,
       "astronomical": 6,
       "biological": 11,
-      "cosmological": 2,
+      "cosmological": 3,
       "herbal": 11,
-      "text only": 4,
-      "unknown": 30
+      "text only": 5,
+      "unknown": 32
+    },
+    {
+      "word": "qokch",
+      "total": 67,
+      "astronomical": 1,
+      "biological": 5,
+      "cosmological": 0,
+      "herbal": 43,
+      "text only": 3,
+      "unknown": 15
+    },
+    {
+      "word": "tep",
+      "total": 67,
+      "astronomical": 0,
+      "biological": 29,
+      "cosmological": 2,
+      "herbal": 23,
+      "text only": 3,
+      "unknown": 10
+    },
+    {
+      "word": "ee",
+      "total": 66,
+      "astronomical": 4,
+      "biological": 8,
+      "cosmological": 6,
+      "herbal": 20,
+      "text only": 1,
+      "unknown": 27
+    },
+    {
+      "word": "tar",
+      "total": 65,
+      "astronomical": 0,
+      "biological": 7,
+      "cosmological": 3,
+      "herbal": 17,
+      "text only": 16,
+      "unknown": 22
     },
     {
       "word": "qotar",
-      "total": 64,
+      "total": 65,
       "astronomical": 0,
-      "biological": 16,
+      "biological": 17,
       "cosmological": 2,
       "herbal": 9,
       "text only": 8,
       "unknown": 29
+    },
+    {
+      "word": "shop",
+      "total": 64,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 34,
+      "text only": 10,
+      "unknown": 19
+    },
+    {
+      "word": "qotal",
+      "total": 64,
+      "astronomical": 0,
+      "biological": 25,
+      "cosmological": 2,
+      "herbal": 7,
+      "text only": 9,
+      "unknown": 21
+    },
+    {
+      "word": "tol",
+      "total": 63,
+      "astronomical": 1,
+      "biological": 9,
+      "cosmological": 7,
+      "herbal": 29,
+      "text only": 5,
+      "unknown": 12
+    },
+    {
+      "word": "e",
+      "total": 63,
+      "astronomical": 6,
+      "biological": 3,
+      "cosmological": 6,
+      "herbal": 26,
+      "text only": 3,
+      "unknown": 19
+    },
+    {
+      "word": "sheop",
+      "total": 63,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 5,
+      "herbal": 19,
+      "text only": 6,
+      "unknown": 32
     },
     {
       "word": "sain",
@@ -969,6 +1139,26 @@
       "unknown": 26
     },
     {
+      "word": "ote",
+      "total": 63,
+      "astronomical": 3,
+      "biological": 14,
+      "cosmological": 5,
+      "herbal": 6,
+      "text only": 7,
+      "unknown": 28
+    },
+    {
+      "word": "qotch",
+      "total": 62,
+      "astronomical": 0,
+      "biological": 4,
+      "cosmological": 0,
+      "herbal": 50,
+      "text only": 0,
+      "unknown": 8
+    },
+    {
       "word": "raiin",
       "total": 62,
       "astronomical": 0,
@@ -979,74 +1169,24 @@
       "unknown": 42
     },
     {
-      "word": "keedy",
-      "total": 62,
-      "astronomical": 0,
-      "biological": 17,
-      "cosmological": 1,
-      "herbal": 8,
-      "text only": 1,
-      "unknown": 35
-    },
-    {
-      "word": "oly",
-      "total": 61,
-      "astronomical": 2,
-      "biological": 27,
-      "cosmological": 3,
-      "herbal": 12,
-      "text only": 8,
-      "unknown": 9
-    },
-    {
-      "word": "kar",
+      "word": "cthol",
       "total": 61,
       "astronomical": 0,
-      "biological": 6,
+      "biological": 1,
       "cosmological": 1,
-      "herbal": 22,
-      "text only": 10,
-      "unknown": 22
+      "herbal": 50,
+      "text only": 2,
+      "unknown": 7
     },
     {
-      "word": "k",
-      "total": 60,
-      "astronomical": 1,
-      "biological": 5,
-      "cosmological": 14,
-      "herbal": 20,
-      "text only": 5,
-      "unknown": 15
-    },
-    {
-      "word": "qo",
-      "total": 60,
-      "astronomical": 0,
-      "biological": 10,
-      "cosmological": 0,
-      "herbal": 22,
-      "text only": 9,
-      "unknown": 19
-    },
-    {
-      "word": "shckhy",
-      "total": 60,
+      "word": "shckh",
+      "total": 61,
       "astronomical": 0,
       "biological": 22,
       "cosmological": 0,
-      "herbal": 7,
+      "herbal": 8,
       "text only": 9,
       "unknown": 22
-    },
-    {
-      "word": "otey",
-      "total": 60,
-      "astronomical": 2,
-      "biological": 14,
-      "cosmological": 4,
-      "herbal": 6,
-      "text only": 6,
-      "unknown": 28
     },
     {
       "word": "qotain",
@@ -1059,64 +1199,34 @@
       "unknown": 34
     },
     {
-      "word": "qotchy",
+      "word": "qokchp",
       "total": 59,
-      "astronomical": 0,
-      "biological": 4,
-      "cosmological": 0,
-      "herbal": 47,
-      "text only": 0,
-      "unknown": 8
-    },
-    {
-      "word": "cheedy",
-      "total": 59,
-      "astronomical": 0,
-      "biological": 24,
-      "cosmological": 0,
-      "herbal": 2,
-      "text only": 4,
-      "unknown": 29
-    },
-    {
-      "word": "qotal",
-      "total": 59,
-      "astronomical": 0,
-      "biological": 25,
-      "cosmological": 2,
-      "herbal": 6,
-      "text only": 8,
-      "unknown": 18
-    },
-    {
-      "word": "keey",
-      "total": 58,
-      "astronomical": 4,
-      "biological": 3,
+      "astronomical": 2,
+      "biological": 11,
       "cosmological": 1,
-      "herbal": 14,
-      "text only": 4,
-      "unknown": 32
+      "herbal": 17,
+      "text only": 9,
+      "unknown": 19
     },
     {
-      "word": "ykeey",
-      "total": 57,
+      "word": "chear",
+      "total": 56,
       "astronomical": 1,
-      "biological": 8,
-      "cosmological": 3,
-      "herbal": 18,
-      "text only": 3,
+      "biological": 4,
+      "cosmological": 4,
+      "herbal": 17,
+      "text only": 6,
       "unknown": 24
     },
     {
-      "word": "cthol",
+      "word": "kol",
       "total": 56,
       "astronomical": 0,
-      "biological": 1,
-      "cosmological": 1,
-      "herbal": 46,
-      "text only": 1,
-      "unknown": 7
+      "biological": 5,
+      "cosmological": 0,
+      "herbal": 38,
+      "text only": 3,
+      "unknown": 10
     },
     {
       "word": "m",
@@ -1129,34 +1239,54 @@
       "unknown": 12
     },
     {
-      "word": "sh",
+      "word": "sheo",
       "total": 55,
-      "astronomical": 1,
-      "biological": 4,
-      "cosmological": 4,
-      "herbal": 29,
-      "text only": 4,
-      "unknown": 13
+      "astronomical": 2,
+      "biological": 0,
+      "cosmological": 2,
+      "herbal": 18,
+      "text only": 3,
+      "unknown": 30
     },
     {
-      "word": "ody",
+      "word": "shp",
       "total": 55,
-      "astronomical": 0,
-      "biological": 4,
+      "astronomical": 2,
+      "biological": 3,
       "cosmological": 5,
-      "herbal": 28,
-      "text only": 5,
+      "herbal": 23,
+      "text only": 9,
       "unknown": 13
     },
     {
-      "word": "shody",
-      "total": 53,
+      "word": "c",
+      "total": 54,
+      "astronomical": 2,
+      "biological": 2,
+      "cosmological": 7,
+      "herbal": 31,
+      "text only": 3,
+      "unknown": 9
+    },
+    {
+      "word": "chal",
+      "total": 54,
       "astronomical": 0,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 30,
-      "text only": 8,
-      "unknown": 14
+      "biological": 6,
+      "cosmological": 2,
+      "herbal": 7,
+      "text only": 15,
+      "unknown": 24
+    },
+    {
+      "word": "sal",
+      "total": 53,
+      "astronomical": 3,
+      "biological": 16,
+      "cosmological": 3,
+      "herbal": 10,
+      "text only": 5,
+      "unknown": 16
     },
     {
       "word": "g",
@@ -1169,97 +1299,117 @@
       "unknown": 8
     },
     {
-      "word": "c",
-      "total": 52,
-      "astronomical": 2,
-      "biological": 1,
-      "cosmological": 7,
-      "herbal": 30,
-      "text only": 3,
-      "unknown": 9
-    },
-    {
       "word": "olaiin",
-      "total": 52,
+      "total": 53,
       "astronomical": 0,
-      "biological": 6,
+      "biological": 7,
       "cosmological": 3,
       "herbal": 9,
       "text only": 5,
       "unknown": 29
     },
     {
-      "word": "cthey",
-      "total": 51,
-      "astronomical": 1,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 31,
-      "text only": 1,
-      "unknown": 16
-    },
-    {
-      "word": "e",
-      "total": 51,
-      "astronomical": 5,
-      "biological": 1,
-      "cosmological": 5,
-      "herbal": 23,
-      "text only": 3,
-      "unknown": 14
-    },
-    {
-      "word": "qokchdy",
-      "total": 51,
-      "astronomical": 2,
-      "biological": 10,
-      "cosmological": 1,
-      "herbal": 15,
-      "text only": 8,
-      "unknown": 15
-    },
-    {
-      "word": "kedy",
-      "total": 51,
+      "word": "kain",
+      "total": 53,
       "astronomical": 0,
-      "biological": 19,
+      "biological": 17,
       "cosmological": 0,
-      "herbal": 14,
-      "text only": 3,
-      "unknown": 15
-    },
-    {
-      "word": "chear",
-      "total": 50,
-      "astronomical": 1,
-      "biological": 4,
-      "cosmological": 4,
-      "herbal": 15,
+      "herbal": 9,
       "text only": 6,
-      "unknown": 20
+      "unknown": 21
     },
     {
-      "word": "sheo",
-      "total": 50,
-      "astronomical": 1,
-      "biological": 0,
+      "word": "opchep",
+      "total": 53,
+      "astronomical": 0,
+      "biological": 14,
       "cosmological": 2,
-      "herbal": 17,
-      "text only": 3,
-      "unknown": 27
+      "herbal": 4,
+      "text only": 4,
+      "unknown": 29
     },
     {
       "word": "sor",
-      "total": 50,
+      "total": 52,
       "astronomical": 2,
       "biological": 15,
       "cosmological": 2,
       "herbal": 18,
-      "text only": 2,
-      "unknown": 11
+      "text only": 3,
+      "unknown": 12
     },
     {
-      "word": "lchey",
+      "word": "cthe",
+      "total": 52,
+      "astronomical": 1,
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 32,
+      "text only": 1,
+      "unknown": 16
+    },
+    {
+      "word": "pch",
+      "total": 52,
+      "astronomical": 3,
+      "biological": 5,
+      "cosmological": 3,
+      "herbal": 37,
+      "text only": 1,
+      "unknown": 3
+    },
+    {
+      "word": "tee",
+      "total": 52,
+      "astronomical": 1,
+      "biological": 8,
+      "cosmological": 8,
+      "herbal": 13,
+      "text only": 2,
+      "unknown": 20
+    },
+    {
+      "word": "qokeol",
+      "total": 52,
+      "astronomical": 1,
+      "biological": 2,
+      "cosmological": 1,
+      "herbal": 8,
+      "text only": 2,
+      "unknown": 38
+    },
+    {
+      "word": "qopaiin",
+      "total": 50,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 5,
+      "herbal": 15,
+      "text only": 5,
+      "unknown": 25
+    },
+    {
+      "word": "sheor",
+      "total": 50,
+      "astronomical": 0,
+      "biological": 12,
+      "cosmological": 1,
+      "herbal": 13,
+      "text only": 2,
+      "unknown": 22
+    },
+    {
+      "word": "tch",
+      "total": 50,
+      "astronomical": 1,
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 40,
+      "text only": 3,
+      "unknown": 4
+    },
+    {
+      "word": "lche",
       "total": 50,
       "astronomical": 0,
       "biological": 21,
@@ -1269,64 +1419,34 @@
       "unknown": 19
     },
     {
-      "word": "qokeol",
-      "total": 50,
+      "word": "otch",
+      "total": 49,
       "astronomical": 1,
-      "biological": 1,
-      "cosmological": 1,
+      "biological": 3,
+      "cosmological": 2,
+      "herbal": 33,
+      "text only": 4,
+      "unknown": 6
+    },
+    {
+      "word": "tal",
+      "total": 49,
+      "astronomical": 0,
+      "biological": 12,
+      "cosmological": 4,
       "herbal": 8,
-      "text only": 2,
-      "unknown": 37
+      "text only": 18,
+      "unknown": 7
     },
     {
-      "word": "ee",
-      "total": 50,
-      "astronomical": 3,
+      "word": "lkaiin",
+      "total": 49,
+      "astronomical": 0,
       "biological": 5,
-      "cosmological": 3,
-      "herbal": 18,
-      "text only": 0,
-      "unknown": 21
-    },
-    {
-      "word": "sal",
-      "total": 49,
-      "astronomical": 3,
-      "biological": 15,
-      "cosmological": 3,
-      "herbal": 10,
+      "cosmological": 0,
+      "herbal": 0,
       "text only": 4,
-      "unknown": 14
-    },
-    {
-      "word": "sheody",
-      "total": 49,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 5,
-      "herbal": 15,
-      "text only": 5,
-      "unknown": 23
-    },
-    {
-      "word": "opchedy",
-      "total": 49,
-      "astronomical": 0,
-      "biological": 13,
-      "cosmological": 2,
-      "herbal": 4,
-      "text only": 4,
-      "unknown": 26
-    },
-    {
-      "word": "chal",
-      "total": 48,
-      "astronomical": 0,
-      "biological": 6,
-      "cosmological": 2,
-      "herbal": 7,
-      "text only": 10,
-      "unknown": 23
+      "unknown": 40
     },
     {
       "word": "chaiin",
@@ -1339,7 +1459,7 @@
       "unknown": 7
     },
     {
-      "word": "checkhy",
+      "word": "checkh",
       "total": 48,
       "astronomical": 0,
       "biological": 21,
@@ -1349,34 +1469,24 @@
       "unknown": 17
     },
     {
-      "word": "lkaiin",
-      "total": 48,
-      "astronomical": 0,
-      "biological": 5,
-      "cosmological": 0,
-      "herbal": 0,
-      "text only": 4,
-      "unknown": 39
-    },
-    {
-      "word": "tol",
+      "word": "kal",
       "total": 47,
       "astronomical": 1,
-      "biological": 9,
-      "cosmological": 7,
-      "herbal": 17,
-      "text only": 4,
-      "unknown": 9
+      "biological": 4,
+      "cosmological": 2,
+      "herbal": 13,
+      "text only": 15,
+      "unknown": 12
     },
     {
-      "word": "taiin",
+      "word": "shek",
       "total": 47,
       "astronomical": 0,
-      "biological": 3,
-      "cosmological": 1,
-      "herbal": 17,
-      "text only": 7,
-      "unknown": 19
+      "biological": 20,
+      "cosmological": 2,
+      "herbal": 10,
+      "text only": 3,
+      "unknown": 12
     },
     {
       "word": "otam",
@@ -1399,17 +1509,7 @@
       "unknown": 22
     },
     {
-      "word": "ykaiin",
-      "total": 46,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 5,
-      "herbal": 16,
-      "text only": 15,
-      "unknown": 8
-    },
-    {
-      "word": "chodaiin",
+      "word": "chopaiin",
       "total": 46,
       "astronomical": 0,
       "biological": 0,
@@ -1419,47 +1519,127 @@
       "unknown": 18
     },
     {
-      "word": "sheor",
+      "word": "chok",
+      "total": 46,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 4,
+      "herbal": 27,
+      "text only": 5,
+      "unknown": 9
+    },
+    {
+      "word": "chot",
       "total": 46,
       "astronomical": 0,
-      "biological": 11,
-      "cosmological": 1,
-      "herbal": 12,
-      "text only": 2,
+      "biological": 1,
+      "cosmological": 2,
+      "herbal": 24,
+      "text only": 5,
+      "unknown": 14
+    },
+    {
+      "word": "ches",
+      "total": 46,
+      "astronomical": 4,
+      "biological": 9,
+      "cosmological": 3,
+      "herbal": 7,
+      "text only": 3,
       "unknown": 20
     },
     {
-      "word": "otchy",
+      "word": "tchep",
+      "total": 46,
+      "astronomical": 0,
+      "biological": 11,
+      "cosmological": 6,
+      "herbal": 10,
+      "text only": 2,
+      "unknown": 17
+    },
+    {
+      "word": "ckh",
       "total": 45,
       "astronomical": 0,
       "biological": 2,
-      "cosmological": 2,
-      "herbal": 32,
-      "text only": 4,
-      "unknown": 5
+      "cosmological": 0,
+      "herbal": 34,
+      "text only": 2,
+      "unknown": 7
     },
     {
-      "word": "t",
+      "word": "lol",
       "total": 45,
       "astronomical": 0,
-      "biological": 6,
-      "cosmological": 9,
-      "herbal": 16,
+      "biological": 28,
+      "cosmological": 0,
+      "herbal": 2,
       "text only": 3,
-      "unknown": 11
-    },
-    {
-      "word": "shdy",
-      "total": 45,
-      "astronomical": 2,
-      "biological": 2,
-      "cosmological": 3,
-      "herbal": 17,
-      "text only": 9,
       "unknown": 12
     },
     {
-      "word": "olkeedy",
+      "word": "otor",
+      "total": 45,
+      "astronomical": 3,
+      "biological": 5,
+      "cosmological": 2,
+      "herbal": 18,
+      "text only": 2,
+      "unknown": 15
+    },
+    {
+      "word": "teep",
+      "total": 45,
+      "astronomical": 0,
+      "biological": 6,
+      "cosmological": 2,
+      "herbal": 12,
+      "text only": 2,
+      "unknown": 23
+    },
+    {
+      "word": "oteop",
+      "total": 45,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 6,
+      "herbal": 5,
+      "text only": 3,
+      "unknown": 31
+    },
+    {
+      "word": "cthor",
+      "total": 44,
+      "astronomical": 0,
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 41,
+      "text only": 0,
+      "unknown": 1
+    },
+    {
+      "word": "okeop",
+      "total": 44,
+      "astronomical": 3,
+      "biological": 0,
+      "cosmological": 8,
+      "herbal": 9,
+      "text only": 4,
+      "unknown": 20
+    },
+    {
+      "word": "qotol",
+      "total": 44,
+      "astronomical": 0,
+      "biological": 7,
+      "cosmological": 0,
+      "herbal": 20,
+      "text only": 5,
+      "unknown": 12
+    },
+    {
+      "word": "olkeep",
       "total": 44,
       "astronomical": 0,
       "biological": 17,
@@ -1469,227 +1649,167 @@
       "unknown": 18
     },
     {
-      "word": "qodaiin",
+      "word": "chos",
       "total": 43,
-      "astronomical": 0,
+      "astronomical": 3,
       "biological": 0,
-      "cosmological": 5,
-      "herbal": 15,
-      "text only": 3,
+      "cosmological": 0,
+      "herbal": 18,
+      "text only": 2,
       "unknown": 20
     },
     {
-      "word": "qotol",
+      "word": "qotee",
       "total": 43,
-      "astronomical": 0,
-      "biological": 7,
-      "cosmological": 0,
-      "herbal": 20,
-      "text only": 4,
-      "unknown": 12
-    },
-    {
-      "word": "cthor",
-      "total": 42,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 39,
-      "text only": 0,
-      "unknown": 1
-    },
-    {
-      "word": "qoteey",
-      "total": 42,
       "astronomical": 1,
       "biological": 7,
-      "cosmological": 2,
+      "cosmological": 3,
       "herbal": 8,
       "text only": 1,
       "unknown": 23
     },
     {
-      "word": "tar",
-      "total": 42,
+      "word": "olchep",
+      "total": 43,
       "astronomical": 0,
-      "biological": 6,
-      "cosmological": 1,
-      "herbal": 13,
-      "text only": 7,
-      "unknown": 15
-    },
-    {
-      "word": "tedy",
-      "total": 42,
-      "astronomical": 0,
-      "biological": 21,
-      "cosmological": 2,
-      "herbal": 10,
-      "text only": 1,
-      "unknown": 8
-    },
-    {
-      "word": "kain",
-      "total": 42,
-      "astronomical": 0,
-      "biological": 14,
-      "cosmological": 0,
-      "herbal": 5,
-      "text only": 4,
-      "unknown": 19
-    },
-    {
-      "word": "otor",
-      "total": 41,
-      "astronomical": 3,
-      "biological": 4,
-      "cosmological": 2,
-      "herbal": 17,
-      "text only": 2,
-      "unknown": 13
-    },
-    {
-      "word": "oteody",
-      "total": 41,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 6,
-      "herbal": 4,
-      "text only": 3,
-      "unknown": 28
-    },
-    {
-      "word": "choky",
-      "total": 40,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 4,
-      "herbal": 23,
-      "text only": 4,
-      "unknown": 9
-    },
-    {
-      "word": "lor",
-      "total": 40,
-      "astronomical": 0,
-      "biological": 9,
-      "cosmological": 1,
-      "herbal": 6,
-      "text only": 3,
-      "unknown": 21
-    },
-    {
-      "word": "ches",
-      "total": 40,
-      "astronomical": 3,
-      "biological": 8,
-      "cosmological": 3,
-      "herbal": 5,
-      "text only": 3,
-      "unknown": 18
-    },
-    {
-      "word": "olchedy",
-      "total": 40,
-      "astronomical": 0,
-      "biological": 23,
+      "biological": 24,
       "cosmological": 3,
       "herbal": 1,
       "text only": 4,
-      "unknown": 9
+      "unknown": 11
     },
     {
-      "word": "lshedy",
-      "total": 40,
+      "word": "lshep",
+      "total": 43,
       "astronomical": 0,
-      "biological": 21,
+      "biological": 22,
       "cosmological": 0,
-      "herbal": 2,
-      "text only": 3,
+      "herbal": 3,
+      "text only": 4,
       "unknown": 14
     },
     {
-      "word": "qokchedy",
-      "total": 40,
-      "astronomical": 0,
+      "word": "oiin",
+      "total": 42,
+      "astronomical": 2,
       "biological": 6,
+      "cosmological": 4,
+      "herbal": 7,
+      "text only": 3,
+      "unknown": 20
+    },
+    {
+      "word": "pchor",
+      "total": 42,
+      "astronomical": 1,
+      "biological": 3,
+      "cosmological": 2,
+      "herbal": 30,
+      "text only": 2,
+      "unknown": 4
+    },
+    {
+      "word": "lor",
+      "total": 42,
+      "astronomical": 0,
+      "biological": 10,
+      "cosmological": 1,
+      "herbal": 6,
+      "text only": 3,
+      "unknown": 22
+    },
+    {
+      "word": "chepaiin",
+      "total": 42,
+      "astronomical": 1,
+      "biological": 6,
+      "cosmological": 6,
+      "herbal": 4,
+      "text only": 0,
+      "unknown": 25
+    },
+    {
+      "word": "chees",
+      "total": 41,
+      "astronomical": 0,
+      "biological": 7,
+      "cosmological": 1,
+      "herbal": 11,
+      "text only": 3,
+      "unknown": 19
+    },
+    {
+      "word": "qokchep",
+      "total": 41,
+      "astronomical": 0,
+      "biological": 7,
       "cosmological": 1,
       "herbal": 2,
       "text only": 2,
       "unknown": 29
     },
     {
-      "word": "oiin",
-      "total": 39,
-      "astronomical": 2,
-      "biological": 6,
+      "word": "opar",
+      "total": 40,
+      "astronomical": 0,
+      "biological": 2,
+      "cosmological": 9,
+      "herbal": 9,
+      "text only": 4,
+      "unknown": 16
+    },
+    {
+      "word": "oteol",
+      "total": 40,
+      "astronomical": 1,
+      "biological": 3,
       "cosmological": 4,
-      "herbal": 7,
-      "text only": 2,
+      "herbal": 13,
+      "text only": 1,
       "unknown": 18
     },
     {
-      "word": "choty",
-      "total": 39,
+      "word": "qokeop",
+      "total": 40,
       "astronomical": 0,
-      "biological": 1,
-      "cosmological": 1,
-      "herbal": 21,
-      "text only": 5,
-      "unknown": 11
+      "biological": 0,
+      "cosmological": 3,
+      "herbal": 7,
+      "text only": 4,
+      "unknown": 26
     },
     {
-      "word": "lol",
-      "total": 39,
+      "word": "lkeep",
+      "total": 40,
       "astronomical": 0,
-      "biological": 22,
+      "biological": 3,
       "cosmological": 0,
       "herbal": 2,
       "text only": 3,
-      "unknown": 12
+      "unknown": 32
     },
     {
-      "word": "ky",
+      "word": "keop",
       "total": 39,
-      "astronomical": 1,
-      "biological": 3,
-      "cosmological": 1,
-      "herbal": 20,
-      "text only": 2,
-      "unknown": 12
-    },
-    {
-      "word": "ytaiin",
-      "total": 39,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 5,
-      "herbal": 14,
-      "text only": 10,
-      "unknown": 8
-    },
-    {
-      "word": "chos",
-      "total": 39,
-      "astronomical": 3,
+      "astronomical": 4,
       "biological": 0,
-      "cosmological": 0,
+      "cosmological": 4,
       "herbal": 14,
-      "text only": 2,
-      "unknown": 20
+      "text only": 4,
+      "unknown": 13
     },
     {
-      "word": "chedaiin",
+      "word": "chepar",
       "total": 39,
       "astronomical": 1,
-      "biological": 6,
-      "cosmological": 5,
-      "herbal": 4,
-      "text only": 0,
-      "unknown": 23
+      "biological": 5,
+      "cosmological": 1,
+      "herbal": 3,
+      "text only": 1,
+      "unknown": 28
     },
     {
-      "word": "lkeey",
+      "word": "lkee",
       "total": 39,
       "astronomical": 0,
       "biological": 3,
@@ -1699,157 +1819,107 @@
       "unknown": 34
     },
     {
-      "word": "kol",
-      "total": 38,
+      "word": "olkee",
+      "total": 39,
       "astronomical": 0,
-      "biological": 4,
-      "cosmological": 0,
-      "herbal": 26,
-      "text only": 2,
-      "unknown": 6
-    },
-    {
-      "word": "kchy",
-      "total": 38,
-      "astronomical": 2,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 34,
-      "text only": 1,
-      "unknown": 1
-    },
-    {
-      "word": "olkeey",
-      "total": 38,
-      "astronomical": 0,
-      "biological": 17,
+      "biological": 18,
       "cosmological": 0,
       "herbal": 1,
       "text only": 6,
       "unknown": 14
     },
     {
-      "word": "sy",
-      "total": 37,
-      "astronomical": 1,
-      "biological": 5,
-      "cosmological": 2,
-      "herbal": 22,
-      "text only": 1,
-      "unknown": 6
-    },
-    {
-      "word": "oteol",
-      "total": 37,
-      "astronomical": 1,
+      "word": "pchol",
+      "total": 38,
+      "astronomical": 2,
       "biological": 3,
-      "cosmological": 3,
-      "herbal": 12,
-      "text only": 1,
-      "unknown": 17
+      "cosmological": 1,
+      "herbal": 20,
+      "text only": 3,
+      "unknown": 9
     },
     {
-      "word": "chees",
-      "total": 37,
-      "astronomical": 0,
-      "biological": 6,
-      "cosmological": 1,
-      "herbal": 11,
-      "text only": 3,
+      "word": "keol",
+      "total": 38,
+      "astronomical": 2,
+      "biological": 2,
+      "cosmological": 2,
+      "herbal": 14,
+      "text only": 2,
       "unknown": 16
     },
     {
-      "word": "okeody",
-      "total": 37,
-      "astronomical": 3,
-      "biological": 0,
-      "cosmological": 4,
-      "herbal": 9,
-      "text only": 4,
-      "unknown": 17
-    },
-    {
-      "word": "lkeedy",
-      "total": 37,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 2,
-      "text only": 3,
-      "unknown": 30
-    },
-    {
-      "word": "she",
-      "total": 36,
-      "astronomical": 1,
-      "biological": 1,
-      "cosmological": 1,
-      "herbal": 22,
-      "text only": 1,
-      "unknown": 10
-    },
-    {
-      "word": "ckhy",
-      "total": 36,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 29,
-      "text only": 1,
-      "unknown": 4
-    },
-    {
-      "word": "ykar",
-      "total": 36,
-      "astronomical": 1,
-      "biological": 1,
-      "cosmological": 3,
-      "herbal": 16,
-      "text only": 10,
-      "unknown": 5
-    },
-    {
-      "word": "os",
-      "total": 35,
-      "astronomical": 3,
-      "biological": 0,
-      "cosmological": 6,
-      "herbal": 12,
-      "text only": 3,
-      "unknown": 11
-    },
-    {
       "word": "okor",
-      "total": 35,
+      "total": 38,
       "astronomical": 0,
       "biological": 4,
-      "cosmological": 4,
-      "herbal": 13,
+      "cosmological": 5,
+      "herbal": 14,
       "text only": 2,
-      "unknown": 12
-    },
-    {
-      "word": "cheos",
-      "total": 35,
-      "astronomical": 2,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 13,
-      "text only": 1,
-      "unknown": 18
-    },
-    {
-      "word": "pchedy",
-      "total": 35,
-      "astronomical": 0,
-      "biological": 15,
-      "cosmological": 0,
-      "herbal": 3,
-      "text only": 4,
       "unknown": 13
     },
     {
-      "word": "otchedy",
+      "word": "tor",
+      "total": 38,
+      "astronomical": 1,
+      "biological": 4,
+      "cosmological": 2,
+      "herbal": 22,
+      "text only": 5,
+      "unknown": 4
+    },
+    {
+      "word": "pshep",
+      "total": 38,
+      "astronomical": 0,
+      "biological": 18,
+      "cosmological": 3,
+      "herbal": 7,
+      "text only": 4,
+      "unknown": 6
+    },
+    {
+      "word": "os",
+      "total": 37,
+      "astronomical": 3,
+      "biological": 0,
+      "cosmological": 7,
+      "herbal": 12,
+      "text only": 3,
+      "unknown": 12
+    },
+    {
+      "word": "qop",
+      "total": 37,
+      "astronomical": 0,
+      "biological": 5,
+      "cosmological": 1,
+      "herbal": 19,
+      "text only": 2,
+      "unknown": 10
+    },
+    {
+      "word": "cheos",
+      "total": 37,
+      "astronomical": 2,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 14,
+      "text only": 1,
+      "unknown": 19
+    },
+    {
+      "word": "otchp",
+      "total": 35,
+      "astronomical": 3,
+      "biological": 4,
+      "cosmological": 5,
+      "herbal": 9,
+      "text only": 4,
+      "unknown": 10
+    },
+    {
+      "word": "otchep",
       "total": 35,
       "astronomical": 0,
       "biological": 6,
@@ -1859,44 +1929,74 @@
       "unknown": 17
     },
     {
-      "word": "sheky",
+      "word": "kor",
       "total": 34,
-      "astronomical": 0,
-      "biological": 14,
-      "cosmological": 2,
-      "herbal": 7,
+      "astronomical": 2,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 20,
       "text only": 3,
       "unknown": 8
     },
     {
-      "word": "qok",
+      "word": "tche",
       "total": 34,
       "astronomical": 0,
-      "biological": 6,
-      "cosmological": 0,
-      "herbal": 13,
-      "text only": 2,
-      "unknown": 13
+      "biological": 2,
+      "cosmological": 5,
+      "herbal": 17,
+      "text only": 3,
+      "unknown": 7
     },
     {
-      "word": "chedar",
+      "word": "q",
       "total": 34,
       "astronomical": 1,
-      "biological": 5,
-      "cosmological": 0,
-      "herbal": 2,
-      "text only": 1,
-      "unknown": 25
+      "biological": 3,
+      "cosmological": 3,
+      "herbal": 15,
+      "text only": 3,
+      "unknown": 9
     },
     {
-      "word": "dshedy",
+      "word": "okch",
+      "total": 34,
+      "astronomical": 3,
+      "biological": 1,
+      "cosmological": 5,
+      "herbal": 17,
+      "text only": 3,
+      "unknown": 5
+    },
+    {
+      "word": "oraiin",
       "total": 34,
       "astronomical": 0,
-      "biological": 18,
-      "cosmological": 2,
-      "herbal": 7,
-      "text only": 3,
-      "unknown": 4
+      "biological": 1,
+      "cosmological": 3,
+      "herbal": 8,
+      "text only": 5,
+      "unknown": 17
+    },
+    {
+      "word": "okchp",
+      "total": 34,
+      "astronomical": 2,
+      "biological": 7,
+      "cosmological": 8,
+      "herbal": 8,
+      "text only": 2,
+      "unknown": 7
+    },
+    {
+      "word": "otche",
+      "total": 34,
+      "astronomical": 1,
+      "biological": 4,
+      "cosmological": 3,
+      "herbal": 10,
+      "text only": 1,
+      "unknown": 15
     },
     {
       "word": "olkain",
@@ -1919,44 +2019,34 @@
       "unknown": 28
     },
     {
-      "word": "ok",
+      "word": "ckhe",
       "total": 33,
-      "astronomical": 3,
-      "biological": 4,
-      "cosmological": 3,
-      "herbal": 12,
-      "text only": 2,
-      "unknown": 9
-    },
-    {
-      "word": "q",
-      "total": 33,
-      "astronomical": 1,
+      "astronomical": 0,
       "biological": 2,
-      "cosmological": 3,
-      "herbal": 15,
+      "cosmological": 0,
+      "herbal": 17,
       "text only": 3,
-      "unknown": 9
+      "unknown": 11
     },
     {
-      "word": "oraiin",
+      "word": "tchor",
       "total": 33,
       "astronomical": 0,
       "biological": 1,
-      "cosmological": 3,
-      "herbal": 8,
-      "text only": 5,
-      "unknown": 16
+      "cosmological": 1,
+      "herbal": 28,
+      "text only": 0,
+      "unknown": 3
     },
     {
-      "word": "otchey",
+      "word": "kchol",
       "total": 33,
-      "astronomical": 1,
-      "biological": 4,
-      "cosmological": 3,
-      "herbal": 10,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 28,
       "text only": 1,
-      "unknown": 14
+      "unknown": 3
     },
     {
       "word": "okam",
@@ -1969,17 +2059,7 @@
       "unknown": 13
     },
     {
-      "word": "tchedy",
-      "total": 33,
-      "astronomical": 0,
-      "biological": 11,
-      "cosmological": 4,
-      "herbal": 6,
-      "text only": 2,
-      "unknown": 10
-    },
-    {
-      "word": "sheckhy",
+      "word": "sheckh",
       "total": 33,
       "astronomical": 0,
       "biological": 20,
@@ -1999,7 +2079,77 @@
       "unknown": 12
     },
     {
-      "word": "shcthy",
+      "word": "sair",
+      "total": 32,
+      "astronomical": 1,
+      "biological": 3,
+      "cosmological": 3,
+      "herbal": 4,
+      "text only": 6,
+      "unknown": 15
+    },
+    {
+      "word": "okche",
+      "total": 32,
+      "astronomical": 0,
+      "biological": 4,
+      "cosmological": 3,
+      "herbal": 14,
+      "text only": 1,
+      "unknown": 10
+    },
+    {
+      "word": "pa",
+      "total": 32,
+      "astronomical": 3,
+      "biological": 4,
+      "cosmological": 1,
+      "herbal": 14,
+      "text only": 3,
+      "unknown": 7
+    },
+    {
+      "word": "opal",
+      "total": 32,
+      "astronomical": 1,
+      "biological": 3,
+      "cosmological": 6,
+      "herbal": 9,
+      "text only": 1,
+      "unknown": 12
+    },
+    {
+      "word": "pche",
+      "total": 32,
+      "astronomical": 1,
+      "biological": 7,
+      "cosmological": 3,
+      "herbal": 14,
+      "text only": 1,
+      "unknown": 6
+    },
+    {
+      "word": "chl",
+      "total": 32,
+      "astronomical": 0,
+      "biological": 7,
+      "cosmological": 1,
+      "herbal": 7,
+      "text only": 0,
+      "unknown": 17
+    },
+    {
+      "word": "cheal",
+      "total": 32,
+      "astronomical": 0,
+      "biological": 6,
+      "cosmological": 2,
+      "herbal": 2,
+      "text only": 4,
+      "unknown": 18
+    },
+    {
+      "word": "shcth",
       "total": 32,
       "astronomical": 0,
       "biological": 11,
@@ -2009,94 +2159,64 @@
       "unknown": 9
     },
     {
-      "word": "otchdy",
+      "word": "olp",
       "total": 32,
-      "astronomical": 2,
-      "biological": 4,
-      "cosmological": 5,
-      "herbal": 8,
-      "text only": 4,
+      "astronomical": 1,
+      "biological": 12,
+      "cosmological": 0,
+      "herbal": 9,
+      "text only": 1,
       "unknown": 9
     },
     {
-      "word": "qokeody",
+      "word": "lp",
       "total": 32,
       "astronomical": 0,
-      "biological": 0,
-      "cosmological": 3,
-      "herbal": 4,
+      "biological": 11,
+      "cosmological": 2,
+      "herbal": 8,
+      "text only": 3,
+      "unknown": 8
+    },
+    {
+      "word": "qopchep",
+      "total": 32,
+      "astronomical": 0,
+      "biological": 7,
+      "cosmological": 0,
+      "herbal": 0,
       "text only": 4,
       "unknown": 21
     },
     {
-      "word": "okchey",
-      "total": 31,
-      "astronomical": 0,
-      "biological": 4,
-      "cosmological": 3,
-      "herbal": 13,
-      "text only": 1,
-      "unknown": 10
-    },
-    {
-      "word": "dchy",
-      "total": 31,
-      "astronomical": 2,
-      "biological": 2,
-      "cosmological": 1,
-      "herbal": 24,
-      "text only": 1,
-      "unknown": 1
-    },
-    {
-      "word": "yteey",
+      "word": "opche",
       "total": 31,
       "astronomical": 1,
-      "biological": 3,
-      "cosmological": 8,
-      "herbal": 9,
-      "text only": 2,
-      "unknown": 8
-    },
-    {
-      "word": "da",
-      "total": 31,
-      "astronomical": 2,
       "biological": 4,
-      "cosmological": 1,
-      "herbal": 14,
-      "text only": 3,
-      "unknown": 7
-    },
-    {
-      "word": "chl",
-      "total": 31,
-      "astronomical": 0,
-      "biological": 7,
       "cosmological": 0,
-      "herbal": 7,
-      "text only": 0,
-      "unknown": 17
+      "herbal": 6,
+      "text only": 5,
+      "unknown": 15
     },
     {
-      "word": "okchy",
+      "word": "chepal",
       "total": 31,
-      "astronomical": 3,
-      "biological": 1,
-      "cosmological": 5,
-      "herbal": 16,
-      "text only": 3,
-      "unknown": 3
+      "astronomical": 1,
+      "biological": 2,
+      "cosmological": 3,
+      "herbal": 2,
+      "text only": 1,
+      "unknown": 22
     },
     {
-      "word": "ykeedy",
+      "word": "kchep",
       "total": 31,
       "astronomical": 0,
-      "biological": 10,
-      "cosmological": 2,
-      "herbal": 8,
-      "text only": 2,
-      "unknown": 9
+      "biological": 3,
+      "cosmological": 1,
+      "herbal": 7,
+      "text only": 4,
+      "unknown": 16
     },
     {
       "word": "olkaiin",
@@ -2119,16 +2239,6 @@
       "unknown": 22
     },
     {
-      "word": "qopchedy",
-      "total": 31,
-      "astronomical": 0,
-      "biological": 6,
-      "cosmological": 0,
-      "herbal": 0,
-      "text only": 4,
-      "unknown": 21
-    },
-    {
       "word": "otchol",
       "total": 30,
       "astronomical": 0,
@@ -2137,6 +2247,26 @@
       "herbal": 25,
       "text only": 2,
       "unknown": 2
+    },
+    {
+      "word": "aiir",
+      "total": 30,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 8,
+      "herbal": 5,
+      "text only": 1,
+      "unknown": 15
+    },
+    {
+      "word": "kche",
+      "total": 30,
+      "astronomical": 3,
+      "biological": 3,
+      "cosmological": 0,
+      "herbal": 16,
+      "text only": 0,
+      "unknown": 8
     },
     {
       "word": "qokor",
@@ -2149,27 +2279,7 @@
       "unknown": 12
     },
     {
-      "word": "daly",
-      "total": 30,
-      "astronomical": 0,
-      "biological": 6,
-      "cosmological": 4,
-      "herbal": 7,
-      "text only": 8,
-      "unknown": 5
-    },
-    {
-      "word": "oldy",
-      "total": 30,
-      "astronomical": 1,
-      "biological": 12,
-      "cosmological": 0,
-      "herbal": 7,
-      "text only": 1,
-      "unknown": 9
-    },
-    {
-      "word": "chckhey",
+      "word": "chckhe",
       "total": 30,
       "astronomical": 0,
       "biological": 7,
@@ -2179,17 +2289,7 @@
       "unknown": 14
     },
     {
-      "word": "opchey",
-      "total": 30,
-      "astronomical": 1,
-      "biological": 3,
-      "cosmological": 0,
-      "herbal": 6,
-      "text only": 5,
-      "unknown": 15
-    },
-    {
-      "word": "checthy",
+      "word": "checth",
       "total": 30,
       "astronomical": 0,
       "biological": 17,
@@ -2199,44 +2299,64 @@
       "unknown": 8
     },
     {
-      "word": "cheal",
+      "word": "keeop",
+      "total": 30,
+      "astronomical": 3,
+      "biological": 0,
+      "cosmological": 4,
+      "herbal": 8,
+      "text only": 5,
+      "unknown": 10
+    },
+    {
+      "word": "cheeo",
+      "total": 30,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 2,
+      "text only": 1,
+      "unknown": 26
+    },
+    {
+      "word": "qotchep",
+      "total": 30,
+      "astronomical": 0,
+      "biological": 4,
+      "cosmological": 1,
+      "herbal": 1,
+      "text only": 2,
+      "unknown": 22
+    },
+    {
+      "word": "qokeee",
       "total": 29,
       "astronomical": 0,
       "biological": 4,
-      "cosmological": 2,
-      "herbal": 2,
-      "text only": 4,
-      "unknown": 17
+      "cosmological": 0,
+      "herbal": 4,
+      "text only": 2,
+      "unknown": 19
     },
     {
-      "word": "ot",
+      "word": "kchp",
       "total": 29,
-      "astronomical": 3,
-      "biological": 1,
-      "cosmological": 6,
-      "herbal": 6,
-      "text only": 1,
-      "unknown": 12
-    },
-    {
-      "word": "yteedy",
-      "total": 29,
-      "astronomical": 0,
+      "astronomical": 1,
       "biological": 3,
       "cosmological": 1,
-      "herbal": 9,
+      "herbal": 18,
       "text only": 2,
-      "unknown": 14
+      "unknown": 4
     },
     {
-      "word": "ary",
+      "word": "te",
       "total": 29,
-      "astronomical": 3,
-      "biological": 4,
-      "cosmological": 5,
-      "herbal": 5,
-      "text only": 1,
-      "unknown": 11
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 4,
+      "herbal": 12,
+      "text only": 3,
+      "unknown": 9
     },
     {
       "word": "olor",
@@ -2249,59 +2369,19 @@
       "unknown": 5
     },
     {
-      "word": "sair",
-      "total": 28,
-      "astronomical": 1,
-      "biological": 3,
-      "cosmological": 3,
-      "herbal": 4,
-      "text only": 6,
-      "unknown": 11
-    },
-    {
-      "word": "ckhey",
+      "word": "pchp",
       "total": 28,
       "astronomical": 0,
-      "biological": 1,
+      "biological": 6,
       "cosmological": 0,
       "herbal": 13,
       "text only": 3,
-      "unknown": 11
+      "unknown": 6
     },
     {
-      "word": "aiir",
+      "word": "qokche",
       "total": 28,
       "astronomical": 1,
-      "biological": 0,
-      "cosmological": 8,
-      "herbal": 4,
-      "text only": 1,
-      "unknown": 14
-    },
-    {
-      "word": "tchy",
-      "total": 27,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 23,
-      "text only": 1,
-      "unknown": 2
-    },
-    {
-      "word": "kal",
-      "total": 27,
-      "astronomical": 0,
-      "biological": 3,
-      "cosmological": 0,
-      "herbal": 7,
-      "text only": 5,
-      "unknown": 12
-    },
-    {
-      "word": "qokchey",
-      "total": 27,
-      "astronomical": 0,
       "biological": 4,
       "cosmological": 1,
       "herbal": 5,
@@ -2309,84 +2389,114 @@
       "unknown": 16
     },
     {
-      "word": "ldy",
-      "total": 27,
-      "astronomical": 0,
-      "biological": 10,
-      "cosmological": 2,
-      "herbal": 7,
-      "text only": 1,
-      "unknown": 7
-    },
-    {
-      "word": "lkedy",
-      "total": 27,
+      "word": "lkep",
+      "total": 28,
       "astronomical": 0,
       "biological": 5,
       "cosmological": 0,
       "herbal": 3,
       "text only": 2,
-      "unknown": 17
+      "unknown": 18
     },
     {
-      "word": "okeeey",
-      "total": 27,
+      "word": "okeee",
+      "total": 28,
       "astronomical": 0,
       "biological": 1,
       "cosmological": 2,
-      "herbal": 3,
+      "herbal": 4,
       "text only": 1,
       "unknown": 20
     },
     {
-      "word": "aly",
+      "word": "h",
+      "total": 27,
+      "astronomical": 2,
+      "biological": 1,
+      "cosmological": 1,
+      "herbal": 13,
+      "text only": 5,
+      "unknown": 5
+    },
+    {
+      "word": "chk",
+      "total": 27,
+      "astronomical": 2,
+      "biological": 1,
+      "cosmological": 1,
+      "herbal": 19,
+      "text only": 1,
+      "unknown": 3
+    },
+    {
+      "word": "ke",
       "total": 27,
       "astronomical": 1,
-      "biological": 6,
+      "biological": 2,
+      "cosmological": 4,
+      "herbal": 11,
+      "text only": 2,
+      "unknown": 7
+    },
+    {
+      "word": "paiir",
+      "total": 27,
+      "astronomical": 4,
+      "biological": 0,
+      "cosmological": 2,
+      "herbal": 11,
+      "text only": 3,
+      "unknown": 7
+    },
+    {
+      "word": "otop",
+      "total": 27,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 11,
+      "herbal": 8,
+      "text only": 0,
+      "unknown": 7
+    },
+    {
+      "word": "olkep",
+      "total": 27,
+      "astronomical": 0,
+      "biological": 20,
+      "cosmological": 0,
+      "herbal": 1,
+      "text only": 2,
+      "unknown": 4
+    },
+    {
+      "word": "qotchp",
+      "total": 27,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 4,
+      "herbal": 6,
+      "text only": 3,
+      "unknown": 13
+    },
+    {
+      "word": "teop",
+      "total": 26,
+      "astronomical": 4,
+      "biological": 0,
       "cosmological": 2,
       "herbal": 3,
-      "text only": 4,
+      "text only": 6,
       "unknown": 11
     },
     {
-      "word": "dchedy",
-      "total": 27,
-      "astronomical": 1,
-      "biological": 9,
-      "cosmological": 1,
-      "herbal": 5,
-      "text only": 1,
-      "unknown": 10
-    },
-    {
-      "word": "qokeeey",
-      "total": 27,
+      "word": "qote",
+      "total": 26,
       "astronomical": 0,
-      "biological": 4,
+      "biological": 6,
       "cosmological": 0,
       "herbal": 2,
-      "text only": 2,
-      "unknown": 19
-    },
-    {
-      "word": "kor",
-      "total": 26,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 16,
-      "text only": 3,
-      "unknown": 6
-    },
-    {
-      "word": "dchor",
-      "total": 26,
-      "astronomical": 1,
-      "biological": 1,
-      "cosmological": 2,
-      "herbal": 22,
-      "text only": 0,
-      "unknown": 0
+      "text only": 4,
+      "unknown": 14
     },
     {
       "word": "qotor",
@@ -2399,54 +2509,64 @@
       "unknown": 6
     },
     {
-      "word": "tal",
+      "word": "qokam",
       "total": 26,
       "astronomical": 0,
-      "biological": 10,
-      "cosmological": 3,
-      "herbal": 1,
-      "text only": 9,
-      "unknown": 3
-    },
-    {
-      "word": "che",
-      "total": 26,
-      "astronomical": 2,
-      "biological": 2,
-      "cosmological": 3,
+      "biological": 5,
+      "cosmological": 1,
       "herbal": 8,
-      "text only": 3,
-      "unknown": 8
+      "text only": 0,
+      "unknown": 12
     },
     {
-      "word": "okchdy",
+      "word": "oteos",
       "total": 26,
       "astronomical": 2,
-      "biological": 6,
-      "cosmological": 7,
-      "herbal": 5,
-      "text only": 2,
-      "unknown": 4
+      "biological": 0,
+      "cosmological": 5,
+      "herbal": 3,
+      "text only": 0,
+      "unknown": 16
     },
     {
-      "word": "chedal",
+      "word": "keeol",
       "total": 26,
       "astronomical": 0,
+      "biological": 1,
+      "cosmological": 1,
+      "herbal": 6,
+      "text only": 0,
+      "unknown": 18
+    },
+    {
+      "word": "olk",
+      "total": 26,
+      "astronomical": 0,
+      "biological": 14,
+      "cosmological": 1,
+      "herbal": 6,
+      "text only": 3,
+      "unknown": 2
+    },
+    {
+      "word": "chpar",
+      "total": 26,
+      "astronomical": 2,
       "biological": 2,
-      "cosmological": 2,
+      "cosmological": 5,
       "herbal": 2,
       "text only": 1,
-      "unknown": 19
+      "unknown": 14
     },
     {
-      "word": "olkedy",
+      "word": "olche",
       "total": 26,
       "astronomical": 0,
-      "biological": 19,
-      "cosmological": 0,
-      "herbal": 1,
-      "text only": 2,
-      "unknown": 4
+      "biological": 14,
+      "cosmological": 2,
+      "herbal": 3,
+      "text only": 1,
+      "unknown": 6
     },
     {
       "word": "otair",
@@ -2469,64 +2589,54 @@
       "unknown": 6
     },
     {
-      "word": "qokam",
+      "word": "kchor",
       "total": 25,
       "astronomical": 0,
-      "biological": 5,
-      "cosmological": 1,
-      "herbal": 7,
-      "text only": 0,
-      "unknown": 12
-    },
-    {
-      "word": "daiir",
-      "total": 25,
-      "astronomical": 4,
       "biological": 0,
-      "cosmological": 2,
-      "herbal": 11,
-      "text only": 3,
-      "unknown": 5
-    },
-    {
-      "word": "kchol",
-      "total": 25,
-      "astronomical": 0,
-      "biological": 1,
       "cosmological": 0,
-      "herbal": 21,
-      "text only": 1,
+      "herbal": 23,
+      "text only": 0,
       "unknown": 2
     },
     {
-      "word": "oteos",
+      "word": "chockh",
+      "total": 25,
+      "astronomical": 3,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 8,
+      "text only": 1,
+      "unknown": 13
+    },
+    {
+      "word": "pl",
       "total": 25,
       "astronomical": 1,
-      "biological": 0,
-      "cosmological": 5,
-      "herbal": 3,
-      "text only": 0,
-      "unknown": 16
-    },
-    {
-      "word": "olchey",
-      "total": 25,
-      "astronomical": 0,
-      "biological": 14,
-      "cosmological": 1,
-      "herbal": 3,
-      "text only": 1,
-      "unknown": 6
-    },
-    {
-      "word": "qotchedy",
-      "total": 25,
-      "astronomical": 0,
-      "biological": 4,
-      "cosmological": 1,
-      "herbal": 1,
+      "biological": 6,
+      "cosmological": 4,
+      "herbal": 7,
       "text only": 2,
-      "unknown": 17
+      "unknown": 5
+    },
+    {
+      "word": "om",
+      "total": 25,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 3,
+      "herbal": 7,
+      "text only": 2,
+      "unknown": 13
+    },
+    {
+      "word": "chpal",
+      "total": 25,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 1,
+      "herbal": 8,
+      "text only": 4,
+      "unknown": 11
     },
     {
       "word": "in",
@@ -2539,7 +2649,17 @@
       "unknown": 8
     },
     {
-      "word": "shodaiin",
+      "word": "shear",
+      "total": 24,
+      "astronomical": 0,
+      "biological": 4,
+      "cosmological": 0,
+      "herbal": 4,
+      "text only": 3,
+      "unknown": 13
+    },
+    {
+      "word": "shopaiin",
       "total": 24,
       "astronomical": 0,
       "biological": 0,
@@ -2549,14 +2669,14 @@
       "unknown": 5
     },
     {
-      "word": "dchol",
+      "word": "chet",
       "total": 24,
-      "astronomical": 2,
-      "biological": 2,
+      "astronomical": 1,
+      "biological": 4,
       "cosmological": 1,
-      "herbal": 16,
-      "text only": 2,
-      "unknown": 1
+      "herbal": 13,
+      "text only": 1,
+      "unknown": 4
     },
     {
       "word": "oaiin",
@@ -2569,47 +2689,27 @@
       "unknown": 11
     },
     {
-      "word": "otody",
-      "total": 24,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 11,
-      "herbal": 6,
-      "text only": 0,
-      "unknown": 6
-    },
-    {
-      "word": "om",
+      "word": "tchol",
       "total": 24,
       "astronomical": 0,
       "biological": 0,
-      "cosmological": 3,
-      "herbal": 7,
-      "text only": 1,
-      "unknown": 13
+      "cosmological": 2,
+      "herbal": 16,
+      "text only": 2,
+      "unknown": 4
     },
     {
-      "word": "ytedy",
+      "word": "tchp",
       "total": 24,
       "astronomical": 0,
-      "biological": 8,
-      "cosmological": 0,
-      "herbal": 13,
-      "text only": 2,
-      "unknown": 1
-    },
-    {
-      "word": "chdar",
-      "total": 24,
-      "astronomical": 1,
-      "biological": 2,
-      "cosmological": 5,
-      "herbal": 2,
+      "biological": 4,
+      "cosmological": 4,
+      "herbal": 9,
       "text only": 1,
-      "unknown": 13
+      "unknown": 6
     },
     {
-      "word": "okchedy",
+      "word": "okchep",
       "total": 24,
       "astronomical": 0,
       "biological": 2,
@@ -2619,24 +2719,24 @@
       "unknown": 16
     },
     {
-      "word": "odar",
-      "total": 23,
+      "word": "olshep",
+      "total": 24,
       "astronomical": 0,
-      "biological": 1,
-      "cosmological": 4,
-      "herbal": 6,
+      "biological": 17,
+      "cosmological": 1,
+      "herbal": 0,
       "text only": 2,
-      "unknown": 10
+      "unknown": 4
     },
     {
-      "word": "shear",
+      "word": "ols",
       "total": 23,
-      "astronomical": 0,
+      "astronomical": 2,
       "biological": 4,
-      "cosmological": 0,
-      "herbal": 4,
-      "text only": 3,
-      "unknown": 12
+      "cosmological": 1,
+      "herbal": 5,
+      "text only": 2,
+      "unknown": 9
     },
     {
       "word": "ctho",
@@ -2649,37 +2749,7 @@
       "unknown": 1
     },
     {
-      "word": "yty",
-      "total": 23,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 3,
-      "herbal": 15,
-      "text only": 1,
-      "unknown": 3
-    },
-    {
-      "word": "qotey",
-      "total": 23,
-      "astronomical": 0,
-      "biological": 6,
-      "cosmological": 0,
-      "herbal": 1,
-      "text only": 4,
-      "unknown": 12
-    },
-    {
-      "word": "chockhy",
-      "total": 23,
-      "astronomical": 3,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 7,
-      "text only": 1,
-      "unknown": 12
-    },
-    {
-      "word": "cheeky",
+      "word": "cheek",
       "total": 23,
       "astronomical": 1,
       "biological": 10,
@@ -2689,84 +2759,74 @@
       "unknown": 5
     },
     {
-      "word": "ytar",
+      "word": "shecth",
       "total": 23,
       "astronomical": 0,
-      "biological": 1,
-      "cosmological": 2,
-      "herbal": 4,
-      "text only": 9,
-      "unknown": 7
+      "biological": 12,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 3,
+      "unknown": 6
     },
     {
-      "word": "okaly",
+      "word": "okeo",
+      "total": 23,
+      "astronomical": 5,
+      "biological": 0,
+      "cosmological": 4,
+      "herbal": 2,
+      "text only": 0,
+      "unknown": 12
+    },
+    {
+      "word": "rar",
       "total": 23,
       "astronomical": 0,
       "biological": 4,
       "cosmological": 0,
-      "herbal": 4,
-      "text only": 5,
-      "unknown": 10
+      "herbal": 1,
+      "text only": 1,
+      "unknown": 17
     },
     {
-      "word": "olky",
-      "total": 23,
+      "word": "tain",
+      "total": 22,
       "astronomical": 0,
-      "biological": 13,
-      "cosmological": 1,
-      "herbal": 4,
-      "text only": 3,
-      "unknown": 2
-    },
-    {
-      "word": "qotchdy",
-      "total": 23,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 3,
-      "herbal": 5,
-      "text only": 3,
+      "biological": 4,
+      "cosmological": 2,
+      "herbal": 1,
+      "text only": 4,
       "unknown": 11
     },
     {
-      "word": "tchey",
-      "total": 22,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 2,
-      "herbal": 10,
-      "text only": 2,
-      "unknown": 6
-    },
-    {
-      "word": "chety",
+      "word": "top",
       "total": 22,
       "astronomical": 1,
-      "biological": 4,
-      "cosmological": 1,
-      "herbal": 12,
-      "text only": 1,
-      "unknown": 3
-    },
-    {
-      "word": "tchor",
-      "total": 22,
-      "astronomical": 0,
       "biological": 0,
       "cosmological": 1,
-      "herbal": 18,
+      "herbal": 13,
+      "text only": 5,
+      "unknown": 2
+    },
+    {
+      "word": "chain",
+      "total": 22,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 13,
       "text only": 0,
-      "unknown": 3
+      "unknown": 8
     },
     {
-      "word": "ykchy",
+      "word": "ckhol",
       "total": 22,
-      "astronomical": 1,
+      "astronomical": 0,
       "biological": 0,
-      "cosmological": 1,
-      "herbal": 18,
+      "cosmological": 0,
+      "herbal": 16,
       "text only": 1,
-      "unknown": 1
+      "unknown": 5
     },
     {
       "word": "qoaiin",
@@ -2779,54 +2839,64 @@
       "unknown": 11
     },
     {
-      "word": "kchey",
-      "total": 22,
-      "astronomical": 1,
-      "biological": 3,
-      "cosmological": 0,
-      "herbal": 13,
-      "text only": 0,
-      "unknown": 5
-    },
-    {
-      "word": "tor",
+      "word": "teol",
       "total": 22,
       "astronomical": 0,
-      "biological": 4,
+      "biological": 5,
       "cosmological": 0,
-      "herbal": 12,
-      "text only": 2,
-      "unknown": 4
+      "herbal": 7,
+      "text only": 1,
+      "unknown": 9
     },
     {
-      "word": "dary",
-      "total": 22,
-      "astronomical": 3,
-      "biological": 3,
-      "cosmological": 1,
-      "herbal": 8,
-      "text only": 2,
-      "unknown": 5
-    },
-    {
-      "word": "ykedy",
+      "word": "lo",
       "total": 22,
       "astronomical": 0,
       "biological": 7,
-      "cosmological": 2,
-      "herbal": 9,
-      "text only": 1,
-      "unknown": 3
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 2,
+      "unknown": 10
     },
     {
-      "word": "kchedy",
+      "word": "qokeor",
+      "total": 22,
+      "astronomical": 0,
+      "biological": 3,
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 3,
+      "unknown": 13
+    },
+    {
+      "word": "okeeo",
+      "total": 22,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 2,
+      "herbal": 3,
+      "text only": 0,
+      "unknown": 17
+    },
+    {
+      "word": "okair",
       "total": 22,
       "astronomical": 0,
       "biological": 2,
-      "cosmological": 0,
-      "herbal": 5,
+      "cosmological": 2,
+      "herbal": 6,
       "text only": 2,
-      "unknown": 13
+      "unknown": 10
+    },
+    {
+      "word": "aral",
+      "total": 22,
+      "astronomical": 1,
+      "biological": 1,
+      "cosmological": 2,
+      "herbal": 3,
+      "text only": 4,
+      "unknown": 11
     },
     {
       "word": "qokair",
@@ -2839,17 +2909,27 @@
       "unknown": 13
     },
     {
-      "word": "olshedy",
-      "total": 22,
+      "word": "kair",
+      "total": 21,
       "astronomical": 0,
-      "biological": 15,
-      "cosmological": 1,
-      "herbal": 0,
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 6,
       "text only": 2,
-      "unknown": 4
+      "unknown": 11
     },
     {
-      "word": "daiiin",
+      "word": "chocth",
+      "total": 21,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 15,
+      "text only": 2,
+      "unknown": 3
+    },
+    {
+      "word": "paiiin",
       "total": 21,
       "astronomical": 1,
       "biological": 2,
@@ -2859,124 +2939,44 @@
       "unknown": 5
     },
     {
-      "word": "keol",
-      "total": 21,
-      "astronomical": 2,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 10,
-      "text only": 0,
-      "unknown": 8
-    },
-    {
-      "word": "qot",
-      "total": 21,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 16,
-      "text only": 1,
-      "unknown": 3
-    },
-    {
-      "word": "ckhol",
+      "word": "shaiin",
       "total": 21,
       "astronomical": 0,
       "biological": 0,
       "cosmological": 0,
-      "herbal": 15,
+      "herbal": 13,
       "text only": 1,
-      "unknown": 5
+      "unknown": 7
     },
     {
-      "word": "dl",
+      "word": "palp",
       "total": 21,
-      "astronomical": 0,
-      "biological": 5,
-      "cosmological": 4,
-      "herbal": 5,
-      "text only": 2,
-      "unknown": 5
-    },
-    {
-      "word": "teey",
-      "total": 21,
-      "astronomical": 0,
-      "biological": 5,
-      "cosmological": 0,
+      "astronomical": 1,
+      "biological": 6,
+      "cosmological": 1,
       "herbal": 4,
-      "text only": 0,
-      "unknown": 12
-    },
-    {
-      "word": "keody",
-      "total": 21,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 9,
-      "text only": 4,
+      "text only": 3,
       "unknown": 6
     },
     {
-      "word": "okeo",
+      "word": "alp",
       "total": 21,
-      "astronomical": 5,
-      "biological": 0,
+      "astronomical": 3,
+      "biological": 1,
       "cosmological": 4,
-      "herbal": 2,
-      "text only": 0,
-      "unknown": 10
+      "herbal": 7,
+      "text only": 1,
+      "unknown": 5
     },
     {
-      "word": "lo",
-      "total": 21,
-      "astronomical": 0,
-      "biological": 7,
-      "cosmological": 0,
-      "herbal": 3,
-      "text only": 2,
-      "unknown": 9
-    },
-    {
-      "word": "qokeor",
-      "total": 21,
-      "astronomical": 0,
-      "biological": 3,
-      "cosmological": 0,
-      "herbal": 3,
-      "text only": 3,
-      "unknown": 12
-    },
-    {
-      "word": "okeeo",
+      "word": "opchp",
       "total": 21,
       "astronomical": 0,
       "biological": 0,
-      "cosmological": 2,
+      "cosmological": 5,
       "herbal": 3,
-      "text only": 0,
-      "unknown": 16
-    },
-    {
-      "word": "ched",
-      "total": 21,
-      "astronomical": 0,
-      "biological": 5,
-      "cosmological": 2,
-      "herbal": 4,
-      "text only": 1,
+      "text only": 4,
       "unknown": 9
-    },
-    {
-      "word": "otaly",
-      "total": 21,
-      "astronomical": 1,
-      "biological": 4,
-      "cosmological": 0,
-      "herbal": 1,
-      "text only": 3,
-      "unknown": 12
     },
     {
       "word": "olkar",
@@ -2999,27 +2999,17 @@
       "unknown": 15
     },
     {
-      "word": "ols",
+      "word": "oteo",
       "total": 20,
-      "astronomical": 2,
-      "biological": 4,
-      "cosmological": 1,
-      "herbal": 4,
-      "text only": 2,
-      "unknown": 7
-    },
-    {
-      "word": "shaiin",
-      "total": 20,
-      "astronomical": 0,
+      "astronomical": 3,
       "biological": 0,
-      "cosmological": 0,
-      "herbal": 13,
+      "cosmological": 1,
+      "herbal": 2,
       "text only": 1,
-      "unknown": 6
+      "unknown": 13
     },
     {
-      "word": "do",
+      "word": "po",
       "total": 20,
       "astronomical": 1,
       "biological": 0,
@@ -3029,44 +3019,34 @@
       "unknown": 1
     },
     {
-      "word": "pol",
+      "word": "opain",
       "total": 20,
-      "astronomical": 0,
-      "biological": 8,
-      "cosmological": 1,
-      "herbal": 2,
-      "text only": 1,
-      "unknown": 8
+      "astronomical": 2,
+      "biological": 0,
+      "cosmological": 2,
+      "herbal": 6,
+      "text only": 0,
+      "unknown": 10
     },
     {
-      "word": "kchor",
+      "word": "okop",
       "total": 20,
       "astronomical": 0,
       "biological": 0,
-      "cosmological": 0,
-      "herbal": 18,
+      "cosmological": 9,
+      "herbal": 3,
       "text only": 0,
-      "unknown": 2
+      "unknown": 8
     },
     {
-      "word": "kchdy",
+      "word": "rol",
       "total": 20,
       "astronomical": 0,
-      "biological": 3,
-      "cosmological": 1,
-      "herbal": 14,
+      "biological": 11,
+      "cosmological": 0,
+      "herbal": 2,
       "text only": 1,
-      "unknown": 1
-    },
-    {
-      "word": "daldy",
-      "total": 20,
-      "astronomical": 1,
-      "biological": 6,
-      "cosmological": 1,
-      "herbal": 4,
-      "text only": 3,
-      "unknown": 5
+      "unknown": 6
     },
     {
       "word": "qor",
@@ -3079,77 +3059,37 @@
       "unknown": 6
     },
     {
-      "word": "shecthy",
+      "word": "lk",
       "total": 20,
       "astronomical": 0,
-      "biological": 11,
+      "biological": 5,
       "cosmological": 0,
-      "herbal": 2,
-      "text only": 3,
-      "unknown": 4
-    },
-    {
-      "word": "ly",
-      "total": 20,
-      "astronomical": 0,
-      "biological": 8,
-      "cosmological": 1,
-      "herbal": 5,
+      "herbal": 1,
       "text only": 0,
-      "unknown": 6
+      "unknown": 14
     },
     {
-      "word": "okair",
+      "word": "chepain",
       "total": 20,
       "astronomical": 0,
-      "biological": 2,
-      "cosmological": 2,
-      "herbal": 6,
-      "text only": 2,
-      "unknown": 8
-    },
-    {
-      "word": "aral",
-      "total": 20,
-      "astronomical": 1,
       "biological": 1,
-      "cosmological": 1,
-      "herbal": 3,
-      "text only": 4,
-      "unknown": 10
-    },
-    {
-      "word": "opchdy",
-      "total": 20,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 4,
-      "herbal": 3,
-      "text only": 4,
-      "unknown": 9
-    },
-    {
-      "word": "shed",
-      "total": 20,
-      "astronomical": 0,
-      "biological": 3,
-      "cosmological": 2,
-      "herbal": 2,
-      "text only": 3,
-      "unknown": 10
-    },
-    {
-      "word": "cheeo",
-      "total": 20,
-      "astronomical": 0,
-      "biological": 0,
       "cosmological": 0,
-      "herbal": 0,
+      "herbal": 2,
       "text only": 1,
-      "unknown": 19
+      "unknown": 16
     },
     {
-      "word": "dan",
+      "word": "lchp",
+      "total": 20,
+      "astronomical": 0,
+      "biological": 7,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 1,
+      "unknown": 10
+    },
+    {
+      "word": "pan",
       "total": 19,
       "astronomical": 0,
       "biological": 0,
@@ -3157,26 +3097,6 @@
       "herbal": 15,
       "text only": 1,
       "unknown": 2
-    },
-    {
-      "word": "oteo",
-      "total": 19,
-      "astronomical": 3,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 2,
-      "text only": 1,
-      "unknown": 12
-    },
-    {
-      "word": "chocthy",
-      "total": 19,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 13,
-      "text only": 2,
-      "unknown": 3
     },
     {
       "word": "n",
@@ -3189,84 +3109,124 @@
       "unknown": 6
     },
     {
-      "word": "ycheey",
+      "word": "chpaiin",
       "total": 19,
       "astronomical": 0,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 6,
-      "text only": 1,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 7,
+      "text only": 0,
       "unknown": 11
     },
     {
-      "word": "odal",
-      "total": 19,
-      "astronomical": 1,
-      "biological": 1,
-      "cosmological": 4,
-      "herbal": 7,
-      "text only": 0,
-      "unknown": 6
-    },
-    {
-      "word": "chain",
-      "total": 19,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 11,
-      "text only": 0,
-      "unknown": 7
-    },
-    {
-      "word": "ty",
+      "word": "cht",
       "total": 19,
       "astronomical": 0,
       "biological": 3,
       "cosmological": 0,
-      "herbal": 16,
-      "text only": 0,
-      "unknown": 0
-    },
-    {
-      "word": "rol",
-      "total": 19,
-      "astronomical": 0,
-      "biological": 10,
-      "cosmological": 0,
-      "herbal": 2,
+      "herbal": 12,
       "text only": 1,
-      "unknown": 6
+      "unknown": 3
     },
     {
-      "word": "chdal",
+      "word": "pcheol",
       "total": 19,
       "astronomical": 0,
-      "biological": 1,
+      "biological": 7,
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 1,
+      "unknown": 8
+    },
+    {
+      "word": "qopar",
+      "total": 19,
+      "astronomical": 0,
+      "biological": 0,
       "cosmological": 1,
-      "herbal": 6,
-      "text only": 4,
-      "unknown": 7
+      "herbal": 9,
+      "text only": 7,
+      "unknown": 2
     },
     {
-      "word": "lky",
+      "word": "keeo",
       "total": 19,
-      "astronomical": 0,
-      "biological": 4,
-      "cosmological": 0,
-      "herbal": 1,
-      "text only": 0,
-      "unknown": 14
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 5,
+      "text only": 3,
+      "unknown": 9
     },
     {
-      "word": "chedain",
+      "word": "sheal",
+      "total": 19,
+      "astronomical": 1,
+      "biological": 3,
+      "cosmological": 1,
+      "herbal": 2,
+      "text only": 1,
+      "unknown": 11
+    },
+    {
+      "word": "chkaiin",
       "total": 19,
       "astronomical": 0,
       "biological": 1,
       "cosmological": 0,
-      "herbal": 2,
+      "herbal": 9,
       "text only": 1,
+      "unknown": 8
+    },
+    {
+      "word": "cthop",
+      "total": 19,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 15,
+      "text only": 0,
+      "unknown": 2
+    },
+    {
+      "word": "olol",
+      "total": 19,
+      "astronomical": 1,
+      "biological": 9,
+      "cosmological": 0,
+      "herbal": 6,
+      "text only": 1,
+      "unknown": 2
+    },
+    {
+      "word": "chs",
+      "total": 19,
+      "astronomical": 1,
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 6,
+      "text only": 0,
+      "unknown": 10
+    },
+    {
+      "word": "okeeol",
+      "total": 19,
+      "astronomical": 1,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 0,
       "unknown": 15
+    },
+    {
+      "word": "tam",
+      "total": 19,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 3,
+      "herbal": 8,
+      "text only": 3,
+      "unknown": 4
     },
     {
       "word": "i",
@@ -3279,7 +3239,37 @@
       "unknown": 4
     },
     {
-      "word": "qoeedy",
+      "word": "sheek",
+      "total": 19,
+      "astronomical": 0,
+      "biological": 7,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 1,
+      "unknown": 9
+    },
+    {
+      "word": "ral",
+      "total": 19,
+      "astronomical": 0,
+      "biological": 8,
+      "cosmological": 1,
+      "herbal": 0,
+      "text only": 0,
+      "unknown": 10
+    },
+    {
+      "word": "qokeeo",
+      "total": 19,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 0,
+      "text only": 1,
+      "unknown": 18
+    },
+    {
+      "word": "qoeep",
       "total": 19,
       "astronomical": 0,
       "biological": 6,
@@ -3299,17 +3289,17 @@
       "unknown": 8
     },
     {
-      "word": "ydaiin",
+      "word": "cham",
       "total": 18,
-      "astronomical": 2,
-      "biological": 0,
-      "cosmological": 0,
+      "astronomical": 0,
+      "biological": 2,
+      "cosmological": 2,
       "herbal": 10,
-      "text only": 1,
-      "unknown": 5
+      "text only": 2,
+      "unknown": 2
     },
     {
-      "word": "qotchey",
+      "word": "qotche",
       "total": 18,
       "astronomical": 0,
       "biological": 2,
@@ -3319,44 +3309,24 @@
       "unknown": 6
     },
     {
-      "word": "tchol",
+      "word": "okchor",
       "total": 18,
-      "astronomical": 0,
+      "astronomical": 1,
       "biological": 0,
-      "cosmological": 1,
+      "cosmological": 2,
       "herbal": 13,
-      "text only": 1,
-      "unknown": 3
+      "text only": 0,
+      "unknown": 2
     },
     {
-      "word": "chkaiin",
+      "word": "opch",
       "total": 18,
-      "astronomical": 0,
+      "astronomical": 1,
       "biological": 1,
       "cosmological": 0,
       "herbal": 9,
-      "text only": 1,
+      "text only": 0,
       "unknown": 7
-    },
-    {
-      "word": "hy",
-      "total": 18,
-      "astronomical": 2,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 8,
-      "text only": 4,
-      "unknown": 3
-    },
-    {
-      "word": "olol",
-      "total": 18,
-      "astronomical": 1,
-      "biological": 9,
-      "cosmological": 0,
-      "herbal": 5,
-      "text only": 1,
-      "unknown": 2
     },
     {
       "word": "okeor",
@@ -3369,17 +3339,7 @@
       "unknown": 10
     },
     {
-      "word": "sheal",
-      "total": 18,
-      "astronomical": 1,
-      "biological": 3,
-      "cosmological": 1,
-      "herbal": 1,
-      "text only": 1,
-      "unknown": 11
-    },
-    {
-      "word": "qockhy",
+      "word": "qockh",
       "total": 18,
       "astronomical": 1,
       "biological": 1,
@@ -3399,17 +3359,17 @@
       "unknown": 5
     },
     {
-      "word": "lchdy",
+      "word": "shal",
       "total": 18,
       "astronomical": 0,
       "biological": 5,
-      "cosmological": 0,
-      "herbal": 2,
-      "text only": 1,
-      "unknown": 10
+      "cosmological": 1,
+      "herbal": 1,
+      "text only": 2,
+      "unknown": 9
     },
     {
-      "word": "qockhey",
+      "word": "qockhe",
       "total": 18,
       "astronomical": 0,
       "biological": 3,
@@ -3419,187 +3379,87 @@
       "unknown": 10
     },
     {
-      "word": "qokeeo",
+      "word": "qokeeop",
+      "total": 18,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 4,
+      "text only": 2,
+      "unknown": 11
+    },
+    {
+      "word": "qoee",
       "total": 18,
       "astronomical": 0,
       "biological": 0,
-      "cosmological": 0,
+      "cosmological": 2,
       "herbal": 0,
       "text only": 1,
-      "unknown": 17
+      "unknown": 15
     },
     {
-      "word": "cth",
-      "total": 17,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 13,
-      "text only": 1,
-      "unknown": 3
-    },
-    {
-      "word": "yky",
-      "total": 17,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 3,
-      "herbal": 11,
-      "text only": 0,
-      "unknown": 2
-    },
-    {
-      "word": "odain",
+      "word": "qopch",
       "total": 17,
       "astronomical": 1,
       "biological": 0,
       "cosmological": 1,
-      "herbal": 6,
-      "text only": 0,
-      "unknown": 9
-    },
-    {
-      "word": "cham",
-      "total": 17,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 2,
-      "herbal": 9,
-      "text only": 2,
-      "unknown": 2
-    },
-    {
-      "word": "chky",
-      "total": 17,
-      "astronomical": 2,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 10,
-      "text only": 1,
-      "unknown": 3
-    },
-    {
-      "word": "key",
-      "total": 17,
-      "astronomical": 1,
-      "biological": 2,
-      "cosmological": 2,
       "herbal": 7,
-      "text only": 1,
-      "unknown": 4
-    },
-    {
-      "word": "okody",
-      "total": 17,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 8,
-      "herbal": 2,
-      "text only": 0,
-      "unknown": 7
-    },
-    {
-      "word": "dchey",
-      "total": 17,
-      "astronomical": 1,
-      "biological": 2,
-      "cosmological": 1,
-      "herbal": 10,
-      "text only": 0,
-      "unknown": 3
-    },
-    {
-      "word": "ychey",
-      "total": 17,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 3,
-      "herbal": 6,
-      "text only": 1,
+      "text only": 3,
       "unknown": 5
     },
     {
-      "word": "qody",
-      "total": 17,
-      "astronomical": 0,
-      "biological": 3,
-      "cosmological": 1,
-      "herbal": 6,
-      "text only": 1,
-      "unknown": 6
-    },
-    {
-      "word": "choly",
-      "total": 17,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 9,
-      "text only": 2,
-      "unknown": 4
-    },
-    {
-      "word": "okchor",
-      "total": 17,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 12,
-      "text only": 0,
-      "unknown": 2
-    },
-    {
-      "word": "chs",
-      "total": 17,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 6,
-      "text only": 0,
-      "unknown": 9
-    },
-    {
-      "word": "shee",
-      "total": 17,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 2,
-      "herbal": 7,
-      "text only": 1,
-      "unknown": 6
-    },
-    {
-      "word": "rar",
+      "word": "orain",
       "total": 17,
       "astronomical": 0,
       "biological": 4,
       "cosmological": 0,
-      "herbal": 1,
+      "herbal": 4,
       "text only": 0,
+      "unknown": 9
+    },
+    {
+      "word": "qopchp",
+      "total": 17,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 1,
       "unknown": 12
     },
     {
-      "word": "chdaiin",
-      "total": 17,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 6,
-      "text only": 0,
-      "unknown": 10
-    },
-    {
-      "word": "qokaly",
+      "word": "chckhp",
       "total": 17,
       "astronomical": 0,
       "biological": 6,
       "cosmological": 0,
-      "herbal": 1,
-      "text only": 7,
+      "herbal": 6,
+      "text only": 2,
       "unknown": 3
     },
     {
-      "word": "lshey",
+      "word": "keee",
+      "total": 17,
+      "astronomical": 1,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 4,
+      "text only": 0,
+      "unknown": 11
+    },
+    {
+      "word": "okeeop",
+      "total": 17,
+      "astronomical": 3,
+      "biological": 0,
+      "cosmological": 2,
+      "herbal": 2,
+      "text only": 0,
+      "unknown": 10
+    },
+    {
+      "word": "lshe",
       "total": 17,
       "astronomical": 0,
       "biological": 6,
@@ -3609,14 +3469,34 @@
       "unknown": 10
     },
     {
-      "word": "qokeed",
-      "total": 17,
+      "word": "oto",
+      "total": 16,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 4,
+      "herbal": 2,
+      "text only": 2,
+      "unknown": 7
+    },
+    {
+      "word": "cthar",
+      "total": 16,
       "astronomical": 0,
-      "biological": 7,
+      "biological": 0,
       "cosmological": 0,
-      "herbal": 1,
+      "herbal": 11,
+      "text only": 4,
+      "unknown": 1
+    },
+    {
+      "word": "cph",
+      "total": 16,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 12,
       "text only": 1,
-      "unknown": 8
+      "unknown": 2
     },
     {
       "word": "chokaiin",
@@ -3639,44 +3519,24 @@
       "unknown": 2
     },
     {
-      "word": "ytchy",
+      "word": "chokch",
       "total": 16,
       "astronomical": 1,
       "biological": 0,
       "cosmological": 0,
-      "herbal": 11,
-      "text only": 2,
-      "unknown": 2
-    },
-    {
-      "word": "cthody",
-      "total": 16,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 12,
+      "herbal": 13,
       "text only": 0,
       "unknown": 2
     },
     {
-      "word": "ykeody",
+      "word": "pchee",
       "total": 16,
-      "astronomical": 3,
+      "astronomical": 1,
       "biological": 0,
       "cosmological": 2,
-      "herbal": 4,
+      "herbal": 9,
       "text only": 0,
-      "unknown": 7
-    },
-    {
-      "word": "okeeol",
-      "total": 16,
-      "astronomical": 1,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 2,
-      "text only": 0,
-      "unknown": 12
+      "unknown": 4
     },
     {
       "word": "cheeor",
@@ -3689,44 +3549,24 @@
       "unknown": 9
     },
     {
-      "word": "yk",
+      "word": "ir",
       "total": 16,
       "astronomical": 0,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 9,
-      "text only": 0,
-      "unknown": 5
-    },
-    {
-      "word": "ory",
-      "total": 16,
-      "astronomical": 0,
-      "biological": 8,
+      "biological": 2,
       "cosmological": 0,
-      "herbal": 2,
-      "text only": 1,
-      "unknown": 5
+      "herbal": 3,
+      "text only": 3,
+      "unknown": 8
     },
     {
-      "word": "shal",
+      "word": "shes",
       "total": 16,
-      "astronomical": 0,
-      "biological": 5,
-      "cosmological": 1,
+      "astronomical": 5,
+      "biological": 2,
+      "cosmological": 2,
       "herbal": 1,
       "text only": 1,
-      "unknown": 8
-    },
-    {
-      "word": "orain",
-      "total": 16,
-      "astronomical": 0,
-      "biological": 4,
-      "cosmological": 0,
-      "herbal": 4,
-      "text only": 0,
-      "unknown": 8
+      "unknown": 5
     },
     {
       "word": "olar",
@@ -3739,124 +3579,94 @@
       "unknown": 5
     },
     {
-      "word": "qopchdy",
+      "word": "tair",
       "total": 16,
       "astronomical": 0,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 3,
-      "text only": 0,
-      "unknown": 12
-    },
-    {
-      "word": "teol",
-      "total": 16,
-      "astronomical": 0,
-      "biological": 5,
-      "cosmological": 0,
-      "herbal": 4,
-      "text only": 0,
-      "unknown": 7
-    },
-    {
-      "word": "qokeeody",
-      "total": 16,
-      "astronomical": 1,
       "biological": 0,
       "cosmological": 0,
-      "herbal": 3,
-      "text only": 2,
-      "unknown": 10
+      "herbal": 4,
+      "text only": 4,
+      "unknown": 8
     },
     {
-      "word": "okeeody",
+      "word": "oteeos",
       "total": 16,
       "astronomical": 3,
       "biological": 0,
-      "cosmological": 1,
-      "herbal": 2,
-      "text only": 0,
+      "cosmological": 2,
+      "herbal": 0,
+      "text only": 1,
       "unknown": 10
     },
     {
-      "word": "opaiin",
+      "word": "ror",
       "total": 16,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 6,
-      "herbal": 0,
-      "text only": 2,
-      "unknown": 8
-    },
-    {
-      "word": "qoeey",
-      "total": 16,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 0,
-      "text only": 1,
-      "unknown": 13
-    },
-    {
-      "word": "ral",
-      "total": 16,
-      "astronomical": 0,
-      "biological": 7,
-      "cosmological": 1,
-      "herbal": 0,
-      "text only": 0,
-      "unknown": 8
-    },
-    {
-      "word": "cthar",
-      "total": 15,
-      "astronomical": 0,
-      "biological": 0,
+      "astronomical": 1,
+      "biological": 5,
       "cosmological": 0,
-      "herbal": 10,
-      "text only": 4,
+      "herbal": 1,
+      "text only": 1,
+      "unknown": 8
+    },
+    {
+      "word": "kcho",
+      "total": 15,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 12,
+      "text only": 0,
       "unknown": 1
     },
     {
-      "word": "eey",
+      "word": "qokop",
       "total": 15,
       "astronomical": 0,
-      "biological": 3,
-      "cosmological": 3,
-      "herbal": 2,
-      "text only": 1,
-      "unknown": 6
-    },
-    {
-      "word": "ychor",
-      "total": 15,
-      "astronomical": 0,
-      "biological": 0,
+      "biological": 1,
       "cosmological": 0,
-      "herbal": 11,
-      "text only": 1,
-      "unknown": 3
+      "herbal": 9,
+      "text only": 0,
+      "unknown": 5
     },
     {
-      "word": "tey",
-      "total": 15,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 4,
-      "text only": 3,
-      "unknown": 6
-    },
-    {
-      "word": "chokchy",
+      "word": "tchop",
       "total": 15,
       "astronomical": 1,
       "biological": 0,
       "cosmological": 0,
-      "herbal": 12,
+      "herbal": 13,
+      "text only": 1,
+      "unknown": 0
+    },
+    {
+      "word": "keo",
+      "total": 15,
+      "astronomical": 2,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 5,
+      "text only": 1,
+      "unknown": 6
+    },
+    {
+      "word": "cheeop",
+      "total": 15,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 3,
       "text only": 0,
-      "unknown": 2
+      "unknown": 11
+    },
+    {
+      "word": "paim",
+      "total": 15,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 2,
+      "herbal": 5,
+      "text only": 0,
+      "unknown": 8
     },
     {
       "word": "qokchol",
@@ -3869,17 +3679,17 @@
       "unknown": 2
     },
     {
-      "word": "ytal",
+      "word": "eee",
       "total": 15,
-      "astronomical": 0,
-      "biological": 1,
+      "astronomical": 1,
+      "biological": 0,
       "cosmological": 1,
-      "herbal": 5,
-      "text only": 7,
-      "unknown": 1
+      "herbal": 4,
+      "text only": 0,
+      "unknown": 9
     },
     {
-      "word": "ctheey",
+      "word": "cthee",
       "total": 15,
       "astronomical": 0,
       "biological": 0,
@@ -3889,34 +3699,14 @@
       "unknown": 7
     },
     {
-      "word": "ir",
+      "word": "opor",
       "total": 15,
       "astronomical": 0,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 3,
-      "text only": 3,
+      "biological": 1,
+      "cosmological": 1,
+      "herbal": 4,
+      "text only": 2,
       "unknown": 7
-    },
-    {
-      "word": "aldy",
-      "total": 15,
-      "astronomical": 3,
-      "biological": 1,
-      "cosmological": 2,
-      "herbal": 5,
-      "text only": 1,
-      "unknown": 3
-    },
-    {
-      "word": "keeol",
-      "total": 15,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 3,
-      "text only": 0,
-      "unknown": 11
     },
     {
       "word": "laiin",
@@ -3929,47 +3719,57 @@
       "unknown": 7
     },
     {
-      "word": "teedy",
+      "word": "otees",
+      "total": 15,
+      "astronomical": 2,
+      "biological": 0,
+      "cosmological": 5,
+      "herbal": 1,
+      "text only": 0,
+      "unknown": 7
+    },
+    {
+      "word": "shepaiin",
       "total": 15,
       "astronomical": 0,
-      "biological": 3,
+      "biological": 4,
+      "cosmological": 6,
+      "herbal": 2,
+      "text only": 1,
+      "unknown": 2
+    },
+    {
+      "word": "oiiin",
+      "total": 15,
+      "astronomical": 0,
+      "biological": 5,
+      "cosmological": 0,
+      "herbal": 1,
+      "text only": 0,
+      "unknown": 9
+    },
+    {
+      "word": "oteeop",
+      "total": 15,
+      "astronomical": 2,
+      "biological": 1,
       "cosmological": 1,
+      "herbal": 1,
+      "text only": 0,
+      "unknown": 10
+    },
+    {
+      "word": "teeop",
+      "total": 15,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 3,
       "herbal": 3,
       "text only": 0,
       "unknown": 8
     },
     {
-      "word": "ykeol",
-      "total": 15,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 4,
-      "text only": 2,
-      "unknown": 7
-    },
-    {
-      "word": "sheeky",
-      "total": 15,
-      "astronomical": 0,
-      "biological": 7,
-      "cosmological": 0,
-      "herbal": 1,
-      "text only": 1,
-      "unknown": 6
-    },
-    {
-      "word": "ror",
-      "total": 15,
-      "astronomical": 1,
-      "biological": 5,
-      "cosmological": 0,
-      "herbal": 1,
-      "text only": 0,
-      "unknown": 8
-    },
-    {
-      "word": "lkchedy",
+      "word": "lkchep",
       "total": 15,
       "astronomical": 0,
       "biological": 2,
@@ -3979,34 +3779,64 @@
       "unknown": 11
     },
     {
-      "word": "ykol",
+      "word": "tcho",
       "total": 14,
       "astronomical": 0,
       "biological": 1,
       "cosmological": 0,
-      "herbal": 10,
-      "text only": 1,
-      "unknown": 2
+      "herbal": 12,
+      "text only": 0,
+      "unknown": 1
     },
     {
-      "word": "yteody",
-      "total": 14,
-      "astronomical": 3,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 3,
-      "text only": 3,
-      "unknown": 3
-    },
-    {
-      "word": "ytor",
+      "word": "chopar",
       "total": 14,
       "astronomical": 1,
       "biological": 0,
       "cosmological": 0,
-      "herbal": 10,
+      "herbal": 7,
+      "text only": 0,
+      "unknown": 6
+    },
+    {
+      "word": "chom",
+      "total": 14,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 12,
+      "text only": 0,
+      "unknown": 2
+    },
+    {
+      "word": "oar",
+      "total": 14,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 3,
+      "herbal": 4,
       "text only": 3,
-      "unknown": 0
+      "unknown": 4
+    },
+    {
+      "word": "oees",
+      "total": 14,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 4,
+      "herbal": 5,
+      "text only": 1,
+      "unknown": 4
+    },
+    {
+      "word": "cheopaiin",
+      "total": 14,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 5,
+      "text only": 0,
+      "unknown": 8
     },
     {
       "word": "iir",
@@ -4029,104 +3859,114 @@
       "unknown": 4
     },
     {
-      "word": "opchy",
+      "word": "okeal",
       "total": 14,
       "astronomical": 0,
       "biological": 0,
-      "cosmological": 0,
-      "herbal": 7,
-      "text only": 0,
-      "unknown": 7
+      "cosmological": 1,
+      "herbal": 2,
+      "text only": 2,
+      "unknown": 9
     },
     {
-      "word": "shes",
-      "total": 14,
-      "astronomical": 5,
-      "biological": 2,
-      "cosmological": 2,
-      "herbal": 1,
-      "text only": 1,
-      "unknown": 3
-    },
-    {
-      "word": "tchdy",
+      "word": "sheos",
       "total": 14,
       "astronomical": 0,
-      "biological": 3,
+      "biological": 0,
       "cosmological": 3,
-      "herbal": 3,
-      "text only": 0,
+      "herbal": 5,
+      "text only": 1,
       "unknown": 5
     },
     {
-      "word": "shedaiin",
+      "word": "chkal",
       "total": 14,
       "astronomical": 0,
-      "biological": 4,
-      "cosmological": 6,
+      "biological": 1,
+      "cosmological": 2,
       "herbal": 2,
-      "text only": 1,
-      "unknown": 1
-    },
-    {
-      "word": "oiiin",
-      "total": 14,
-      "astronomical": 0,
-      "biological": 4,
-      "cosmological": 0,
-      "herbal": 1,
       "text only": 0,
       "unknown": 9
     },
     {
-      "word": "oteeos",
+      "word": "shk",
       "total": 14,
-      "astronomical": 3,
-      "biological": 0,
+      "astronomical": 0,
+      "biological": 3,
+      "cosmological": 0,
+      "herbal": 5,
+      "text only": 2,
+      "unknown": 4
+    },
+    {
+      "word": "tshep",
+      "total": 14,
+      "astronomical": 0,
+      "biological": 4,
+      "cosmological": 0,
+      "herbal": 4,
+      "text only": 2,
+      "unknown": 4
+    },
+    {
+      "word": "olke",
+      "total": 14,
+      "astronomical": 0,
+      "biological": 4,
       "cosmological": 2,
-      "herbal": 0,
+      "herbal": 2,
+      "text only": 2,
+      "unknown": 4
+    },
+    {
+      "word": "sheeol",
+      "total": 14,
+      "astronomical": 0,
+      "biological": 4,
+      "cosmological": 0,
+      "herbal": 1,
       "text only": 1,
       "unknown": 8
     },
     {
-      "word": "ytain",
+      "word": "olkal",
+      "total": 14,
+      "astronomical": 0,
+      "biological": 6,
+      "cosmological": 0,
+      "herbal": 0,
+      "text only": 3,
+      "unknown": 5
+    },
+    {
+      "word": "otepar",
+      "total": 14,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 2,
+      "herbal": 0,
+      "text only": 0,
+      "unknown": 11
+    },
+    {
+      "word": "chkar",
       "total": 13,
       "astronomical": 0,
       "biological": 1,
       "cosmological": 2,
-      "herbal": 1,
-      "text only": 4,
-      "unknown": 5
-    },
-    {
-      "word": "chodar",
-      "total": 13,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 7,
+      "herbal": 5,
       "text only": 0,
       "unknown": 5
     },
     {
-      "word": "chty",
+      "word": "qoteol",
       "total": 13,
       "astronomical": 0,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 7,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 3,
       "text only": 1,
-      "unknown": 3
-    },
-    {
-      "word": "chom",
-      "total": 13,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 11,
-      "text only": 0,
-      "unknown": 2
+      "unknown": 8
     },
     {
       "word": "okeeor",
@@ -4139,6 +3979,16 @@
       "unknown": 8
     },
     {
+      "word": "poiin",
+      "total": 13,
+      "astronomical": 1,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 8,
+      "text only": 1,
+      "unknown": 2
+    },
+    {
       "word": "qotchol",
       "total": 13,
       "astronomical": 0,
@@ -4149,27 +3999,27 @@
       "unknown": 0
     },
     {
-      "word": "oar",
+      "word": "cholp",
       "total": 13,
       "astronomical": 0,
       "biological": 0,
-      "cosmological": 3,
-      "herbal": 3,
-      "text only": 3,
-      "unknown": 4
+      "cosmological": 0,
+      "herbal": 6,
+      "text only": 1,
+      "unknown": 6
     },
     {
-      "word": "cheodaiin",
+      "word": "keor",
       "total": 13,
-      "astronomical": 1,
+      "astronomical": 0,
       "biological": 0,
       "cosmological": 0,
-      "herbal": 5,
+      "herbal": 8,
       "text only": 0,
-      "unknown": 7
+      "unknown": 5
     },
     {
-      "word": "qokechy",
+      "word": "qokech",
       "total": 13,
       "astronomical": 0,
       "biological": 0,
@@ -4179,17 +4029,7 @@
       "unknown": 9
     },
     {
-      "word": "qopchy",
-      "total": 13,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 5,
-      "text only": 3,
-      "unknown": 3
-    },
-    {
-      "word": "chkeey",
+      "word": "chkee",
       "total": 13,
       "astronomical": 0,
       "biological": 1,
@@ -4199,47 +4039,37 @@
       "unknown": 4
     },
     {
-      "word": "cheeody",
+      "word": "qotop",
       "total": 13,
       "astronomical": 0,
       "biological": 0,
-      "cosmological": 0,
-      "herbal": 3,
-      "text only": 0,
-      "unknown": 10
-    },
-    {
-      "word": "ytol",
-      "total": 13,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 11,
+      "cosmological": 1,
+      "herbal": 5,
       "text only": 1,
-      "unknown": 1
+      "unknown": 6
     },
     {
-      "word": "ytey",
+      "word": "keeor",
       "total": 13,
       "astronomical": 0,
-      "biological": 1,
-      "cosmological": 2,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 5,
+      "text only": 0,
+      "unknown": 8
+    },
+    {
+      "word": "topaiin",
+      "total": 13,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 0,
       "herbal": 8,
       "text only": 0,
-      "unknown": 2
+      "unknown": 4
     },
     {
-      "word": "daim",
-      "total": 13,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 4,
-      "text only": 0,
-      "unknown": 7
-    },
-    {
-      "word": "dshor",
+      "word": "pshor",
       "total": 13,
       "astronomical": 0,
       "biological": 1,
@@ -4249,17 +4079,27 @@
       "unknown": 1
     },
     {
-      "word": "okeal",
+      "word": "pshe",
       "total": 13,
       "astronomical": 0,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 2,
-      "text only": 2,
-      "unknown": 8
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 8,
+      "text only": 1,
+      "unknown": 2
     },
     {
-      "word": "cthedy",
+      "word": "chokee",
+      "total": 13,
+      "astronomical": 1,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 5,
+      "text only": 2,
+      "unknown": 5
+    },
+    {
+      "word": "cthep",
       "total": 13,
       "astronomical": 0,
       "biological": 3,
@@ -4269,57 +4109,57 @@
       "unknown": 6
     },
     {
-      "word": "p",
+      "word": "shet",
       "total": 13,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 4,
-      "herbal": 4,
-      "text only": 2,
-      "unknown": 2
-    },
-    {
-      "word": "opar",
-      "total": 13,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 5,
+      "astronomical": 1,
+      "biological": 4,
+      "cosmological": 1,
       "herbal": 2,
       "text only": 1,
       "unknown": 4
     },
     {
-      "word": "chckhdy",
+      "word": "cheok",
       "total": 13,
       "astronomical": 0,
-      "biological": 5,
-      "cosmological": 0,
-      "herbal": 4,
+      "biological": 1,
+      "cosmological": 1,
+      "herbal": 3,
       "text only": 2,
-      "unknown": 2
+      "unknown": 6
     },
     {
-      "word": "shky",
+      "word": "f",
       "total": 13,
       "astronomical": 0,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 5,
-      "text only": 2,
-      "unknown": 4
+      "biological": 0,
+      "cosmological": 5,
+      "herbal": 2,
+      "text only": 5,
+      "unknown": 1
     },
     {
-      "word": "olkey",
+      "word": "arop",
       "total": 13,
       "astronomical": 0,
-      "biological": 4,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 2,
+      "text only": 1,
+      "unknown": 9
+    },
+    {
+      "word": "keeep",
+      "total": 13,
+      "astronomical": 0,
+      "biological": 3,
       "cosmological": 2,
       "herbal": 2,
-      "text only": 2,
-      "unknown": 3
+      "text only": 0,
+      "unknown": 6
     },
     {
-      "word": "olshey",
+      "word": "olshe",
       "total": 13,
       "astronomical": 0,
       "biological": 8,
@@ -4329,37 +4169,27 @@
       "unknown": 4
     },
     {
-      "word": "oteeody",
-      "total": 13,
-      "astronomical": 2,
-      "biological": 1,
-      "cosmological": 1,
-      "herbal": 0,
-      "text only": 0,
-      "unknown": 9
-    },
-    {
-      "word": "sheeol",
+      "word": "orol",
       "total": 13,
       "astronomical": 0,
-      "biological": 4,
+      "biological": 7,
+      "cosmological": 1,
+      "herbal": 2,
+      "text only": 0,
+      "unknown": 3
+    },
+    {
+      "word": "olain",
+      "total": 13,
+      "astronomical": 0,
+      "biological": 3,
       "cosmological": 0,
       "herbal": 0,
-      "text only": 1,
-      "unknown": 8
+      "text only": 5,
+      "unknown": 5
     },
     {
-      "word": "otedar",
-      "total": 13,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 2,
-      "herbal": 0,
-      "text only": 0,
-      "unknown": 10
-    },
-    {
-      "word": "lcheey",
+      "word": "lchee",
       "total": 13,
       "astronomical": 0,
       "biological": 3,
@@ -4367,36 +4197,6 @@
       "herbal": 0,
       "text only": 1,
       "unknown": 9
-    },
-    {
-      "word": "olkal",
-      "total": 13,
-      "astronomical": 0,
-      "biological": 6,
-      "cosmological": 0,
-      "herbal": 0,
-      "text only": 2,
-      "unknown": 5
-    },
-    {
-      "word": "oto",
-      "total": 12,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 1,
-      "text only": 2,
-      "unknown": 6
-    },
-    {
-      "word": "kair",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 2,
-      "text only": 1,
-      "unknown": 7
     },
     {
       "word": "cthaiin",
@@ -4409,24 +4209,44 @@
       "unknown": 0
     },
     {
-      "word": "yshey",
+      "word": "kop",
       "total": 12,
-      "astronomical": 1,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 0,
-      "text only": 3,
-      "unknown": 6
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 6,
+      "text only": 2,
+      "unknown": 3
     },
     {
-      "word": "cphy",
+      "word": "ksh",
       "total": 12,
       "astronomical": 1,
       "biological": 0,
       "cosmological": 0,
-      "herbal": 9,
+      "herbal": 10,
       "text only": 1,
-      "unknown": 1
+      "unknown": 0
+    },
+    {
+      "word": "to",
+      "total": 12,
+      "astronomical": 2,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 6,
+      "text only": 1,
+      "unknown": 2
+    },
+    {
+      "word": "shok",
+      "total": 12,
+      "astronomical": 1,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 3,
+      "unknown": 4
     },
     {
       "word": "chan",
@@ -4439,16 +4259,6 @@
       "unknown": 2
     },
     {
-      "word": "pchor",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 6,
-      "text only": 1,
-      "unknown": 3
-    },
-    {
       "word": "sam",
       "total": 12,
       "astronomical": 1,
@@ -4457,36 +4267,6 @@
       "herbal": 3,
       "text only": 0,
       "unknown": 4
-    },
-    {
-      "word": "qoteol",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 3,
-      "text only": 0,
-      "unknown": 8
-    },
-    {
-      "word": "qodar",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 8,
-      "text only": 2,
-      "unknown": 1
-    },
-    {
-      "word": "ytchey",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 3,
-      "herbal": 7,
-      "text only": 1,
-      "unknown": 1
     },
     {
       "word": "cphol",
@@ -4499,27 +4279,7 @@
       "unknown": 4
     },
     {
-      "word": "oees",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 3,
-      "herbal": 4,
-      "text only": 1,
-      "unknown": 4
-    },
-    {
-      "word": "dcheey",
-      "total": 12,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 6,
-      "text only": 0,
-      "unknown": 3
-    },
-    {
-      "word": "chotchy",
+      "word": "chotch",
       "total": 12,
       "astronomical": 0,
       "biological": 0,
@@ -4539,17 +4299,17 @@
       "unknown": 0
     },
     {
-      "word": "ry",
+      "word": "kam",
       "total": 12,
       "astronomical": 0,
-      "biological": 4,
-      "cosmological": 0,
-      "herbal": 4,
-      "text only": 0,
-      "unknown": 4
+      "biological": 1,
+      "cosmological": 1,
+      "herbal": 6,
+      "text only": 2,
+      "unknown": 2
     },
     {
-      "word": "ockhy",
+      "word": "ockh",
       "total": 12,
       "astronomical": 2,
       "biological": 0,
@@ -4559,7 +4319,7 @@
       "unknown": 4
     },
     {
-      "word": "shocthy",
+      "word": "shocth",
       "total": 12,
       "astronomical": 1,
       "biological": 0,
@@ -4589,26 +4349,6 @@
       "unknown": 6
     },
     {
-      "word": "chokeey",
-      "total": 12,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 4,
-      "text only": 2,
-      "unknown": 5
-    },
-    {
-      "word": "ypchedy",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 8,
-      "text only": 0,
-      "unknown": 4
-    },
-    {
       "word": "ls",
       "total": 12,
       "astronomical": 1,
@@ -4619,14 +4359,34 @@
       "unknown": 4
     },
     {
-      "word": "sheos",
+      "word": "pchepar",
+      "total": 12,
+      "astronomical": 0,
+      "biological": 4,
+      "cosmological": 1,
+      "herbal": 4,
+      "text only": 0,
+      "unknown": 3
+    },
+    {
+      "word": "checkhe",
+      "total": 12,
+      "astronomical": 0,
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 1,
+      "unknown": 7
+    },
+    {
+      "word": "sheeo",
       "total": 12,
       "astronomical": 0,
       "biological": 0,
-      "cosmological": 3,
-      "herbal": 4,
+      "cosmological": 0,
+      "herbal": 2,
       "text only": 0,
-      "unknown": 5
+      "unknown": 10
     },
     {
       "word": "oteor",
@@ -4639,17 +4399,7 @@
       "unknown": 8
     },
     {
-      "word": "keeody",
-      "total": 12,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 2,
-      "text only": 1,
-      "unknown": 8
-    },
-    {
-      "word": "shedal",
+      "word": "shepal",
       "total": 12,
       "astronomical": 0,
       "biological": 7,
@@ -4659,67 +4409,67 @@
       "unknown": 3
     },
     {
-      "word": "ytam",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 2,
-      "herbal": 4,
-      "text only": 3,
-      "unknown": 2
-    },
-    {
-      "word": "f",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 4,
-      "herbal": 2,
-      "text only": 5,
-      "unknown": 1
-    },
-    {
-      "word": "arody",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 1,
-      "herbal": 1,
-      "text only": 1,
-      "unknown": 9
-    },
-    {
-      "word": "ykeeody",
-      "total": 12,
-      "astronomical": 2,
-      "biological": 0,
-      "cosmological": 2,
-      "herbal": 3,
-      "text only": 4,
-      "unknown": 1
-    },
-    {
-      "word": "chkal",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 2,
-      "herbal": 1,
-      "text only": 0,
-      "unknown": 8
-    },
-    {
-      "word": "otees",
+      "word": "okalp",
       "total": 12,
       "astronomical": 1,
-      "biological": 0,
-      "cosmological": 3,
-      "herbal": 1,
-      "text only": 0,
-      "unknown": 7
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 2,
+      "unknown": 4
     },
     {
-      "word": "shedain",
+      "word": "as",
+      "total": 12,
+      "astronomical": 0,
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 2,
+      "unknown": 5
+    },
+    {
+      "word": "chekal",
+      "total": 12,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 6,
+      "text only": 0,
+      "unknown": 5
+    },
+    {
+      "word": "oral",
+      "total": 12,
+      "astronomical": 1,
+      "biological": 3,
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 0,
+      "unknown": 5
+    },
+    {
+      "word": "fchep",
+      "total": 12,
+      "astronomical": 0,
+      "biological": 3,
+      "cosmological": 0,
+      "herbal": 4,
+      "text only": 1,
+      "unknown": 4
+    },
+    {
+      "word": "sheet",
+      "total": 12,
+      "astronomical": 0,
+      "biological": 6,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 0,
+      "unknown": 4
+    },
+    {
+      "word": "shepain",
       "total": 12,
       "astronomical": 0,
       "biological": 0,
@@ -4727,16 +4477,6 @@
       "herbal": 2,
       "text only": 0,
       "unknown": 10
-    },
-    {
-      "word": "tair",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 2,
-      "text only": 2,
-      "unknown": 8
     },
     {
       "word": "qotam",
@@ -4749,16 +4489,6 @@
       "unknown": 9
     },
     {
-      "word": "orol",
-      "total": 12,
-      "astronomical": 0,
-      "biological": 6,
-      "cosmological": 1,
-      "herbal": 2,
-      "text only": 0,
-      "unknown": 3
-    },
-    {
       "word": "v",
       "total": 12,
       "astronomical": 0,
@@ -4769,47 +4499,27 @@
       "unknown": 0
     },
     {
-      "word": "olain",
+      "word": "qokeo",
       "total": 12,
-      "astronomical": 0,
-      "biological": 3,
-      "cosmological": 0,
-      "herbal": 0,
-      "text only": 5,
-      "unknown": 4
-    },
-    {
-      "word": "ykal",
-      "total": 11,
       "astronomical": 0,
       "biological": 1,
       "cosmological": 1,
-      "herbal": 4,
-      "text only": 5,
-      "unknown": 0
+      "herbal": 1,
+      "text only": 0,
+      "unknown": 9
     },
     {
-      "word": "shod",
+      "word": "shos",
       "total": 11,
       "astronomical": 0,
       "biological": 0,
       "cosmological": 0,
-      "herbal": 4,
-      "text only": 2,
-      "unknown": 5
+      "herbal": 7,
+      "text only": 1,
+      "unknown": 3
     },
     {
-      "word": "teody",
-      "total": 11,
-      "astronomical": 1,
-      "biological": 0,
-      "cosmological": 0,
-      "herbal": 0,
-      "text only": 3,
-      "unknown": 7
-    },
-    {
-      "word": "shckhey",
+      "word": "shckhe",
       "total": 11,
       "astronomical": 0,
       "biological": 5,
@@ -4819,33 +4529,33 @@
       "unknown": 4
     },
     {
-      "word": "chkar",
-      "total": 11,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 1,
-      "herbal": 4,
-      "text only": 0,
-      "unknown": 5
-    },
-    {
-      "word": "okary",
-      "total": 11,
-      "astronomical": 0,
-      "biological": 1,
-      "cosmological": 1,
-      "herbal": 3,
-      "text only": 1,
-      "unknown": 5
-    },
-    {
-      "word": "choldy",
+      "word": "pals",
       "total": 11,
       "astronomical": 0,
       "biological": 0,
       "cosmological": 0,
+      "herbal": 6,
+      "text only": 0,
+      "unknown": 5
+    },
+    {
+      "word": "so",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 2,
+      "cosmological": 0,
       "herbal": 5,
-      "text only": 1,
+      "text only": 0,
+      "unknown": 4
+    },
+    {
+      "word": "octh",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 4,
+      "text only": 2,
       "unknown": 5
     },
     {
@@ -4859,34 +4569,44 @@
       "unknown": 4
     },
     {
-      "word": "chory",
+      "word": "kchop",
       "total": 11,
       "astronomical": 0,
       "biological": 0,
       "cosmological": 0,
       "herbal": 9,
+      "text only": 2,
+      "unknown": 0
+    },
+    {
+      "word": "shees",
+      "total": 11,
+      "astronomical": 2,
+      "biological": 3,
+      "cosmological": 1,
+      "herbal": 3,
       "text only": 0,
       "unknown": 2
     },
     {
-      "word": "od",
+      "word": "opam",
       "total": 11,
       "astronomical": 0,
       "biological": 0,
       "cosmological": 1,
-      "herbal": 6,
+      "herbal": 5,
       "text only": 0,
-      "unknown": 4
+      "unknown": 5
     },
     {
-      "word": "sheod",
+      "word": "cthp",
       "total": 11,
-      "astronomical": 0,
-      "biological": 0,
+      "astronomical": 1,
+      "biological": 2,
       "cosmological": 0,
-      "herbal": 4,
-      "text only": 1,
-      "unknown": 6
+      "herbal": 5,
+      "text only": 2,
+      "unknown": 1
     },
     {
       "word": "ram",
@@ -4909,7 +4629,7 @@
       "unknown": 0
     },
     {
-      "word": "okshy",
+      "word": "oksh",
       "total": 11,
       "astronomical": 0,
       "biological": 1,
@@ -4919,74 +4639,84 @@
       "unknown": 1
     },
     {
-      "word": "eee",
+      "word": "olch",
       "total": 11,
-      "astronomical": 1,
+      "astronomical": 0,
+      "biological": 4,
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 1,
+      "unknown": 3
+    },
+    {
+      "word": "psh",
+      "total": 11,
+      "astronomical": 0,
       "biological": 0,
       "cosmological": 1,
-      "herbal": 4,
+      "herbal": 10,
+      "text only": 0,
+      "unknown": 0
+    },
+    {
+      "word": "qopche",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 2,
+      "unknown": 7
+    },
+    {
+      "word": "pop",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 8,
+      "text only": 0,
+      "unknown": 2
+    },
+    {
+      "word": "cheeol",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 5,
       "text only": 0,
       "unknown": 5
     },
     {
-      "word": "ycheol",
+      "word": "otolp",
       "total": 11,
       "astronomical": 0,
       "biological": 1,
-      "cosmological": 0,
-      "herbal": 3,
-      "text only": 0,
-      "unknown": 7
-    },
-    {
-      "word": "ey",
-      "total": 11,
-      "astronomical": 1,
-      "biological": 2,
       "cosmological": 1,
-      "herbal": 3,
+      "herbal": 5,
       "text only": 0,
       "unknown": 4
     },
     {
-      "word": "ykain",
+      "word": "rchep",
       "total": 11,
       "astronomical": 0,
-      "biological": 3,
+      "biological": 7,
       "cosmological": 0,
-      "herbal": 4,
-      "text only": 2,
-      "unknown": 2
-    },
-    {
-      "word": "dshey",
-      "total": 11,
-      "astronomical": 0,
-      "biological": 2,
-      "cosmological": 0,
-      "herbal": 6,
-      "text only": 1,
-      "unknown": 2
-    },
-    {
-      "word": "pchedar",
-      "total": 11,
-      "astronomical": 0,
-      "biological": 4,
-      "cosmological": 1,
-      "herbal": 4,
+      "herbal": 1,
       "text only": 0,
-      "unknown": 2
+      "unknown": 3
     },
     {
-      "word": "checkhey",
+      "word": "chekaiin",
       "total": 11,
       "astronomical": 0,
-      "biological": 1,
-      "cosmological": 0,
-      "herbal": 2,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 5,
       "text only": 1,
-      "unknown": 7
+      "unknown": 4
     },
     {
       "word": "okeos",
@@ -4999,14 +4729,274 @@
       "unknown": 6
     },
     {
-      "word": "ycheo",
+      "word": "ep",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 6,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 0,
+      "unknown": 3
+    },
+    {
+      "word": "chekar",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 2,
+      "cosmological": 1,
+      "herbal": 4,
+      "text only": 0,
+      "unknown": 4
+    },
+    {
+      "word": "oram",
+      "total": 11,
+      "astronomical": 1,
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 1,
+      "text only": 1,
+      "unknown": 6
+    },
+    {
+      "word": "kolp",
+      "total": 11,
+      "astronomical": 1,
+      "biological": 4,
+      "cosmological": 0,
+      "herbal": 5,
+      "text only": 1,
+      "unknown": 0
+    },
+    {
+      "word": "olchee",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 3,
+      "cosmological": 0,
+      "herbal": 4,
+      "text only": 0,
+      "unknown": 4
+    },
+    {
+      "word": "polchep",
+      "total": 11,
+      "astronomical": 1,
+      "biological": 3,
+      "cosmological": 0,
+      "herbal": 1,
+      "text only": 0,
+      "unknown": 6
+    },
+    {
+      "word": "chotar",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 2,
+      "text only": 1,
+      "unknown": 7
+    },
+    {
+      "word": "arar",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 1,
+      "cosmological": 3,
+      "herbal": 1,
+      "text only": 1,
+      "unknown": 5
+    },
+    {
+      "word": "oain",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 3,
+      "text only": 0,
+      "unknown": 8
+    },
+    {
+      "word": "cheockh",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 1,
+      "herbal": 2,
+      "text only": 1,
+      "unknown": 7
+    },
+    {
+      "word": "olkeee",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 3,
+      "cosmological": 1,
+      "herbal": 1,
+      "text only": 0,
+      "unknown": 6
+    },
+    {
+      "word": "chckhep",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 5,
+      "cosmological": 0,
+      "herbal": 1,
+      "text only": 1,
+      "unknown": 4
+    },
+    {
+      "word": "chpor",
+      "total": 11,
+      "astronomical": 1,
+      "biological": 1,
+      "cosmological": 0,
+      "herbal": 1,
+      "text only": 0,
+      "unknown": 8
+    },
+    {
+      "word": "ckhee",
       "total": 11,
       "astronomical": 1,
       "biological": 0,
       "cosmological": 0,
-      "herbal": 1,
+      "herbal": 4,
       "text only": 0,
-      "unknown": 9
+      "unknown": 6
+    },
+    {
+      "word": "olkam",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 1,
+      "text only": 5,
+      "unknown": 3
+    },
+    {
+      "word": "x",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 8,
+      "herbal": 0,
+      "text only": 3,
+      "unknown": 0
+    },
+    {
+      "word": "alam",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 1,
+      "text only": 4,
+      "unknown": 6
+    },
+    {
+      "word": "orar",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 2,
+      "herbal": 0,
+      "text only": 1,
+      "unknown": 8
+    },
+    {
+      "word": "lch",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 7,
+      "cosmological": 1,
+      "herbal": 0,
+      "text only": 1,
+      "unknown": 2
+    },
+    {
+      "word": "qokshep",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 8,
+      "cosmological": 1,
+      "herbal": 0,
+      "text only": 0,
+      "unknown": 2
+    },
+    {
+      "word": "qolchep",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 9,
+      "cosmological": 0,
+      "herbal": 0,
+      "text only": 2,
+      "unknown": 0
+    },
+    {
+      "word": "qolche",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 7,
+      "cosmological": 0,
+      "herbal": 0,
+      "text only": 3,
+      "unknown": 1
+    },
+    {
+      "word": "qoteop",
+      "total": 11,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 1,
+      "text only": 2,
+      "unknown": 8
+    },
+    {
+      "word": "cphe",
+      "total": 10,
+      "astronomical": 0,
+      "biological": 2,
+      "cosmological": 1,
+      "herbal": 4,
+      "text only": 1,
+      "unknown": 2
+    },
+    {
+      "word": "pshol",
+      "total": 10,
+      "astronomical": 1,
+      "biological": 2,
+      "cosmological": 0,
+      "herbal": 4,
+      "text only": 1,
+      "unknown": 2
+    },
+    {
+      "word": "ro",
+      "total": 10,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 2,
+      "unknown": 6
+    },
+    {
+      "word": "pcheo",
+      "total": 10,
+      "astronomical": 0,
+      "biological": 0,
+      "cosmological": 0,
+      "herbal": 2,
+      "text only": 2,
+      "unknown": 6
     }
   ]
 }

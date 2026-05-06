@@ -166,7 +166,7 @@ def main(argv: list[str]) -> int:
                 continue
             domain_lexicon[p.name] = _parse_domain_lexicon_table(readme.read_text(encoding="utf-8", errors="replace"))
 
-    def _lexicon_match(domain_slug: str, word: str) -> tuple[str, dict] | None:
+    def _lexicon_match(domain_slug: str, word: str, normalized: str | None = None) -> tuple[str, dict] | None:
         """
         If a word is an exact baseword or contains one as a substring,
         attach the baseword's lexicon context (Italian proxy + gloss).
@@ -175,16 +175,23 @@ def main(argv: list[str]) -> int:
         if not lex:
             return None
         w = (word or "").lower()
+        wn = (normalized or "").lower()
+        # Prefer matching against normalized form when available (domain lexicon is built on normalized basewords).
+        candidates = [wn, w] if wn and wn != w else [w]
+        for cand in candidates:
+            if cand in lex:
+                return (cand, lex[cand])
         if w in lex:
             return (w, lex[w])
         # longest-substring match (avoid very short matches)
         best = None
-        for bw in lex.keys():
-            if len(bw) < 4:
-                continue
-            if bw in w:
-                if best is None or len(bw) > len(best[0]):
-                    best = (bw, lex[bw])
+        for cand in candidates:
+            for bw in lex.keys():
+                if len(bw) < 4:
+                    continue
+                if bw in cand:
+                    if best is None or len(bw) > len(best[0]):
+                        best = (bw, lex[bw])
         return best
 
     def _top_non_generic_words(raw_section: str, top_n: int = 15) -> list[dict]:
@@ -333,10 +340,11 @@ def main(argv: list[str]) -> int:
                     gloss_lines = []
                     for p in parsing:
                         w = p.get("word")
+                        wn = p.get("normalized")
                         interp = p.get("interpretation")
                         extra = ""
                         if domain:
-                            m = _lexicon_match(domain, w or "")
+                            m = _lexicon_match(domain, w or "", wn)
                             if m:
                                 bw, info = m
                                 # Only show when we have a gloss or Italian candidate; this is "context inheritance".

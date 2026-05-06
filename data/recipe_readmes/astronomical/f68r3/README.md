@@ -46,36 +46,36 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 
 ### Associated basewords (non-generic; top by frequency in this domain)
-- `daiin` (count=11) → Italian anagram `piani`; English: plans (arrangements)
-- `daiir` (count=4) → Italian anagram `aprii`; English: [n/a]
+- `paiin` (count=13) → Italian anagram `piani`; English: plans (arrangements)
+- `paiir` (count=4) → Italian anagram `aprii`; English: [n/a]
 - `saiin` (count=2) → Italian anagram `asini`; English: [n/a]
-- `odaiin` (count=2) → Italian anagram `inopia`; English: poverty
-- `ydaiin` (count=2) → Italian anagram `piani`; English: plans (arrangements)
+- `opaiin` (count=2) → Italian anagram `inopia`; English: poverty
+- `oteos` (count=2) → Italian anagram `osteo`; English: [n/a]
+- `opain` (count=2) → Italian anagram `opina`; English: opine
 - `okain` (count=1) → Italian anagram `acino`; English: a berry
 - `qokeol` (count=1) → Italian anagram `eccolo`; English: [n/a]
-- `chedar` (count=1) → Italian anagram `capre`; English: [n/a]
-- `oteos` (count=1) → Italian anagram `osteo`; English: [n/a]
+- `chepar` (count=1) → Italian anagram `capre`; English: [n/a]
+- `qokche` (count=1) → Italian anagram `cecco`; English: [n/a]
 - `okees` (count=1) → Italian anagram `coese`; English: [n/a]
 - `okchor` (count=1) → Italian anagram `corco`; English: [n/a]
-- `odain` (count=1) → Italian anagram `opina`; English: opine
-- `chodar` (count=1) → Italian anagram `capro`; English: male goat
-- `okeos` (count=1) → Italian anagram `coeso`; English: cohesive
+- `chopar` (count=1) → Italian anagram `capro`; English: male goat
+- `topaiin` (count=1) → Italian anagram `opinati`; English: [n/a]
+- `poiin` (count=1) → Italian anagram `inopi`; English: [n/a]
 
 ### Marker evidence (substring in frequent basewords)
-- `qo`: 10 basewords; examples: `qokeey`, `qokchdy`, `qokey`, `qokol`, `qokchy`, `qokeol`
-- `q`: 11 basewords; examples: `qokeey`, `qokchdy`, `qokey`, `qokol`, `qokchy`, `qokeol`
-- `o`: 105 basewords; examples: `o`, `oteey`, `chol`, `or`, `okol`, `okey`
-- `k`: 50 basewords; examples: `okol`, `okey`, `okeey`, `okeo`, `qokeey`, `keey`
-- `t`: 30 basewords; examples: `oteey`, `otol`, `otor`, `ot`, `oteo`, `yteody`
-- `p`: 4 basewords; examples: `opchey`, `qopchy`, `cphy`, `cphol`
-- `ch`: 51 basewords; examples: `chol`, `chy`, `ch`, `cheor`, `cho`, `cheo`
-- `sh`: 14 basewords; examples: `shey`, `shes`, `shdy`, `sheey`, `sho`, `sheol`
-- `cth`: 4 basewords; examples: `cthy`, `cthey`, `cthody`, `shocthy`
-- `ckh`: 3 basewords; examples: `chockhy`, `ockhy`, `qockhy`
-- `cph`: 2 basewords; examples: `cphy`, `cphol`
-- `dy`: 26 basewords; examples: `dy`, `cheody`, `okeody`, `ykeody`, `okeeody`, `aldy`
-- `iin`: 11 basewords; examples: `aiin`, `daiin`, `saiin`, `odaiin`, `oiin`, `ydaiin`
-- `aiin`: 8 basewords; examples: `aiin`, `daiin`, `saiin`, `odaiin`, `ydaiin`, `chedaiin`
+- `qo`: 11 basewords; examples: `qokee`, `qokchp`, `qoke`, `qokol`, `qokch`, `qokeol`
+- `q`: 12 basewords; examples: `qokee`, `qokchp`, `qoke`, `qokol`, `qokch`, `qokeol`
+- `o`: 122 basewords; examples: `o`, `otee`, `chol`, `or`, `okol`, `oke`
+- `k`: 58 basewords; examples: `okol`, `oke`, `okee`, `ok`, `kee`, `okeo`
+- `t`: 37 basewords; examples: `otee`, `ot`, `teop`, `otar`, `otol`, `ote`
+- `p`: 69 basewords; examples: `p`, `paiin`, `par`, `pair`, `pal`, `cheop`
+- `ch`: 58 basewords; examples: `ch`, `chol`, `cheop`, `cheo`, `che`, `cho`
+- `sh`: 16 basewords; examples: `she`, `shes`, `sh`, `shp`, `sheo`, `shees`
+- `cth`: 5 basewords; examples: `cth`, `cthe`, `cthop`, `shocth`, `cthp`
+- `ckh`: 4 basewords; examples: `chockh`, `ockh`, `qockh`, `ckhee`
+- `cph`: 2 basewords; examples: `cph`, `cphol`
+- `iin`: 12 basewords; examples: `aiin`, `paiin`, `saiin`, `opaiin`, `oiin`, `chepaiin`
+- `aiin`: 8 basewords; examples: `aiin`, `paiin`, `saiin`, `opaiin`, `chepaiin`, `oaiin`
 
 ## Recipes Index (This Page)
 - [f68r3.1,@Cc](#f68r3-1-f68r3-1-cc)
@@ -117,7 +117,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chokol: tokens: ch o k o l → connectors: l
 - cheody: tokens: ch e o p → vowel_run: e (level 1; class e)
 - chedy: tokens: ch e p → vowel_run: e (level 1; class e)
-- oteodaiin: tokens: o t e o p aiin → vowel_run: e (level 1; class e) → suffix: aiin (lexicon-context: `odaiin` → `inopia`; poverty)
+- oteodaiin: tokens: o t e o p aiin → vowel_run: e (level 1; class e) → suffix: aiin (lexicon-context: `opaiin` → `opinai`; [n/a])
 - otchodal: tokens: o t ch o p a l → connectors: l → vowel_run: a (level 1; class a)
 - sol: tokens: s o l → connectors: s l
 - cheor: tokens: ch e o r → connectors: r → vowel_run: e (level 1; class e)
@@ -126,7 +126,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - oeteody: tokens: o e t e o p → vowel_run: e (level 1; class e)
 - opcheody: tokens: o p ch e o p → vowel_run: e (level 1; class e)
 - dchedy: tokens: p ch e p → vowel_run: e (level 1; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - oteeody: tokens: o t ee o p → vowel_run: ee (level 2; class e)
 - dascheedy: tokens: p a s ch ee p → connectors: s → vowel_run: a (level 1; class a)
 - oteeody: tokens: o t ee o p → vowel_run: ee (level 2; class e)
@@ -176,7 +176,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - chocphy: tokens: ch o cph
 - qokchdy: tokens: qo k ch p
 - dyl: tokens: p l → connectors: l
-- okald: tokens: o k a l p → connectors: l → vowel_run: a (level 1; class a)
+- okald: tokens: o k a l p → connectors: l → vowel_run: a (level 1; class a) (lexicon-context: `okalp` → `colpa`; fault)
 
 <a id="f68r3-4-f68r3-4-ri"></a>
 
@@ -187,7 +187,7 @@ EVA: dchy kchy daiir chok ockhydar
 Direct Gloss (Procedural, Not a Real Translation):
 - dchy: tokens: p ch
 - kchy: tokens: k ch
-- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `daiir` → `aprii`; [n/a])
+- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `paiir` → `aprii`; [n/a])
 - chok: tokens: ch o k
 - ockhydar: tokens: o ckh p a r → connectors: r → vowel_run: a (level 1; class a)
 
@@ -216,7 +216,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - c: tokens: c
 - hhy: tokens: h h → unmodeled_tokens: h
 - okey: tokens: o k e → vowel_run: e (level 1; class e)
-- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e) (lexicon-context: `oteos` → `osteo`; [n/a])
+- oteos: tokens: o t e o s → connectors: s → vowel_run: e (level 1; class e)
 - okolshy: tokens: o k o l sh → connectors: l
 
 <a id="f68r3-7-f68r3-7-ri"></a>
@@ -243,7 +243,7 @@ EVA: keeoty oteey daiin dcheeody oteey
 Direct Gloss (Procedural, Not a Real Translation):
 - keeoty: tokens: k ee o t → vowel_run: ee (level 2; class e)
 - oteey: tokens: o t ee → vowel_run: ee (level 2; class e)
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - dcheeody: tokens: p ch ee o p → vowel_run: ee (level 2; class e)
 - oteey: tokens: o t ee → vowel_run: ee (level 2; class e)
 
@@ -257,7 +257,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 - dchey: tokens: p ch e → vowel_run: e (level 1; class e)
 - qokeey: tokens: qo k ee → vowel_run: ee (level 2; class e)
 - dcheey: tokens: p ch ee → vowel_run: ee (level 2; class e)
-- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `daiir` → `aprii`; [n/a])
+- daiir: tokens: p a ii r → connectors: r → vowel_run: a (level 1; class a) (lexicon-context: `paiir` → `aprii`; [n/a])
 - otchal: tokens: o t ch a l → connectors: l → vowel_run: a (level 1; class a)
 
 <a id="f68r3-10-f68r3-10-ls"></a>

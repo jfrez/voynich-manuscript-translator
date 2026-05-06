@@ -8,6 +8,12 @@ import re
 import sys
 from collections import Counter
 
+REPO_ROOT = pathlib.Path(__file__).resolve().parents[1]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from voynich.recipe_model import normalize_word  # noqa: E402
+
 
 def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser(
@@ -39,7 +45,7 @@ def main(argv: list[str]) -> int:
             continue
         text = eva_path.read_text(encoding="utf-8", errors="replace")
         words = re.findall(r"[A-Za-z]+", text)
-        counter.update(w.lower() for w in words if w.strip())
+        counter.update(normalize_word(w) for w in words if w.strip())
 
     items = [(w, c) for w, c in counter.most_common() if c >= args.min_count]
     if args.top:
@@ -67,4 +73,3 @@ def main(argv: list[str]) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main(sys.argv[1:]))
-

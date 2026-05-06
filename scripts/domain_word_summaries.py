@@ -83,6 +83,8 @@ def main(argv: list[str]) -> int:
     ap.add_argument("--section-vocab", default="data/section_anagram_vocab.json", help="Per-section vocab sets")
     ap.add_argument("--anagrams", default="data/base_words_wikwik_anagrams_unrestricted.json", help="Anagram candidates (WikWik-based)")
     ap.add_argument("--latin-anagrams", default="data/base_words_latin_anagrams_whitaker.json", help="Latin anagram candidates (Whitaker WORDS-based)")
+    ap.add_argument("--latin-gloss", default="data/lexicon/latin_whitaker_gloss.json", help="Latin lemma -> English gloss (Whitaker WORDS-based)")
+    ap.add_argument("--modern-italian-anagrams", default="data/base_words_modern_italian_anagrams.json", help="Modern Italian anagram candidates (wordlist-based)")
     ap.add_argument("--baseword-counts", default="data/base_words_by_section.json", help="Counts by section")
     ap.add_argument("--top", type=int, default=30, help="How many non-generic words per domain to include")
     ap.add_argument("--no-wiktionary", action="store_true", help="Skip English gloss lookups (offline mode)")
@@ -93,6 +95,8 @@ def main(argv: list[str]) -> int:
     section_vocab = json.loads(pathlib.Path(args.section_vocab).read_text(encoding="utf-8"))
     anagrams = json.loads(pathlib.Path(args.anagrams).read_text(encoding="utf-8"))
     latin_anagrams = json.loads(pathlib.Path(args.latin_anagrams).read_text(encoding="utf-8")) if pathlib.Path(args.latin_anagrams).exists() else {}
+    modern_it = json.loads(pathlib.Path(args.modern_italian_anagrams).read_text(encoding="utf-8")) if pathlib.Path(args.modern_italian_anagrams).exists() else {}
+    latin_gloss = json.loads(pathlib.Path(args.latin_gloss).read_text(encoding="utf-8")) if pathlib.Path(args.latin_gloss).exists() else {}
     base_counts = json.loads(pathlib.Path(args.baseword_counts).read_text(encoding="utf-8"))
     cache_path = pathlib.Path(args.wiktionary_cache)
     cache_path.parent.mkdir(parents=True, exist_ok=True)
@@ -104,6 +108,7 @@ def main(argv: list[str]) -> int:
     # baseword -> candidates
     ana_map = {r["baseword"]: r for r in anagrams.get("rows", [])}
     lat_map = {r.get("baseword"): r for r in (latin_anagrams.get("rows", []) or []) if isinstance(r, dict)}
+    modern_map = {r.get("baseword"): r for r in (modern_it.get("rows", []) or []) if isinstance(r, dict)}
     # baseword -> per-section counts
     count_map = {r["word"]: r for r in base_counts.get("rows", [])}
     sections = base_counts.get("sections", [])
@@ -138,30 +143,51 @@ def main(argv: list[str]) -> int:
         lines.append("This is not a translation; matches are heuristic and may be coincidental.")
         lines.append("English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.")
         lines.append("")
-        lines.append("| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss | Latin candidate (Whitaker) |")
-        lines.append("|---|---:|---|---|---|---|")
+        lines.append("| EVA baseword | Count (domain) | Reduced form | Italian (modern list) | English (it) | Italian (WikWik/medieval-ish) | English (it) | Latin (Whitaker) | English (la) |")
+        lines.append("|---|---:|---|---|---|---|---|---|---|")
         for w in selected:
             reduced = italianize_eva(w)
-            cand = (ana_map.get(w, {}).get("anagram_candidates", []) or [])[:5]
-            it = cand[0] if cand else None
+            # modern Italian
+            mod_cands = (modern_map.get(w, {}).get("anagram_candidates", []) or [])[:5]
+            it_mod = mod_cands[0] if mod_cands else None
+            # medieval-ish Italian proxy (WikWik)
+            med_cands = (ana_map.get(w, {}).get("anagram_candidates", []) or [])[:5]
+            it_med = med_cands[0] if med_cands else None
+            # Latin
             lat_cands = (lat_map.get(w, {}).get("latin_candidates") or [])[:3]
             lat = lat_cands[0] if lat_cands else None
-            en = None
-            if not args.no_wiktionary and it:
-                cached = gloss_cache.get(it) if it in gloss_cache else None
+            en_mod = None
+            if not args.no_wiktionary and it_mod:
+                cached = gloss_cache.get(it_mod) if it_mod in gloss_cache else None
                 if cached not in (None, "*", ":"):
-                    en = cached
+                    en_mod = cached
                 else:
-                    en = wiktionary_english_gloss(it)
-                    gloss_cache[it] = en
+                    en_mod = wiktionary_english_gloss(it_mod)
+                    gloss_cache[it_mod] = en_mod
+
+            en_med = None
+            if not args.no_wiktionary and it_med:
+                cached = gloss_cache.get(it_med) if it_med in gloss_cache else None
+                if cached not in (None, "*", ":"):
+                    en_med = cached
+                else:
+                    en_med = wiktionary_english_gloss(it_med)
+                    gloss_cache[it_med] = en_med
+
+            en_lat = latin_gloss.get(lat) if lat else None
             cnt = 0
             row = count_map.get(w)
             if row:
                 cnt = int(row.get(raw_section, 0) or 0)
-            it_cell = f"`{it}`" if it else "[n/a]"
-            en_cell = (en or "[n/a]").replace("\n", " ").replace("|", "\\|")
+            it_mod_cell = f"`{it_mod}`" if it_mod else "[n/a]"
+            en_mod_cell = (en_mod or "[n/a]").replace("\n", " ").replace("|", "\\|")
+            it_med_cell = f"`{it_med}`" if it_med else "[n/a]"
+            en_med_cell = (en_med or "[n/a]").replace("\n", " ").replace("|", "\\|")
             lat_cell = f"`{lat}`" if lat else "[n/a]"
-            lines.append(f"| `{w}` | {cnt} | `{reduced}` | {it_cell} | {en_cell} | {lat_cell} |")
+            en_lat_cell = (en_lat or "[n/a]").replace("\n", " ").replace("|", "\\|")
+            lines.append(
+                f"| `{w}` | {cnt} | `{reduced}` | {it_mod_cell} | {en_mod_cell} | {it_med_cell} | {en_med_cell} | {lat_cell} | {en_lat_cell} |"
+            )
         lines.append("")
 
         readme = domains_dir / domain / "README.md"

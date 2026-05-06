@@ -15,22 +15,25 @@ This section defines **domain-associated basewords** using a pragmatic proxy: an
 This is not a translation; matches are heuristic and may be coincidental.
 English glosses are best-effort summaries extracted from English Wiktionary wikitext and may be missing/wrong.
 
-| EVA baseword | Count (domain) | Reduced form | Medieval-ish Italian (WikWik anagram) | English gloss | Latin candidate (Whitaker) |
-|---|---:|---|---|---|---|
-| `daiin` | 11 | `paiin` | `piani` | plans (arrangements) | [n/a] |
-| `daiir` | 4 | `paiir` | `aprii` | [n/a] | [n/a] |
-| `saiin` | 2 | `saiin` | `asini` | [n/a] | [n/a] |
-| `odaiin` | 2 | `opaiin` | `inopia` | poverty | [n/a] |
-| `ydaiin` | 2 | `paiin` | `piani` | plans (arrangements) | [n/a] |
-| `okain` | 1 | `ocain` | `acino` | a berry | [n/a] |
-| `qokeol` | 1 | `coceol` | `eccolo` | [n/a] | [n/a] |
-| `chedar` | 1 | `cepar` | `capre` | [n/a] | `caper` |
-| `oteos` | 1 | `oteos` | `osteo` | [n/a] | [n/a] |
-| `okees` | 1 | `ocees` | `coese` | [n/a] | [n/a] |
-| `okchor` | 1 | `occor` | `corco` | [n/a] | [n/a] |
-| `odain` | 1 | `opain` | `opina` | opine | [n/a] |
-| `chodar` | 1 | `copar` | `capro` | male goat | [n/a] |
-| `okeos` | 1 | `oceos` | `coeso` | cohesive | [n/a] |
+| EVA baseword | Count (domain) | Reduced form | Italian (modern list) | English (it) | Italian (WikWik/medieval-ish) | English (it) | Latin (Whitaker) | English (la) |
+|---|---:|---|---|---|---|---|---|---|
+| `paiin` | 13 | `paiin` | `piani` | plans (arrangements) | `piani` | plans (arrangements) | [n/a] | [n/a] |
+| `paiir` | 4 | `paiir` | `aprii` | [n/a] | `aprii` | [n/a] | [n/a] | [n/a] |
+| `saiin` | 2 | `saiin` | `asini` | [n/a] | `asini` | [n/a] | [n/a] | [n/a] |
+| `opaiin` | 2 | `opaiin` | `opinai` | [n/a] | `inopia` | poverty | [n/a] | [n/a] |
+| `oteos` | 2 | `oteos` | [n/a] | [n/a] | `osteo` | [n/a] | [n/a] | [n/a] |
+| `opain` | 2 | `opain` | `opina` | opine | `opina` | opine | [n/a] | [n/a] |
+| `okain` | 1 | `ocain` | `conia` | [n/a] | `acino` | a berry | [n/a] | [n/a] |
+| `qokeol` | 1 | `coceol` | [n/a] | [n/a] | `eccolo` | [n/a] | [n/a] | [n/a] |
+| `chepar` | 1 | `cepar` | `capre` | [n/a] | `capre` | [n/a] | `caper` | goatish/armpit smell |
+| `qokche` | 1 | `cocce` | [n/a] | [n/a] | `cecco` | [n/a] | [n/a] | [n/a] |
+| `okees` | 1 | `ocees` | [n/a] | [n/a] | `coese` | [n/a] | [n/a] | [n/a] |
+| `okchor` | 1 | `occor` | [n/a] | [n/a] | `corco` | [n/a] | [n/a] | [n/a] |
+| `chopar` | 1 | `copar` | `copra` | [n/a] | `capro` | male goat | [n/a] | [n/a] |
+| `topaiin` | 1 | `topaiin` | `opinati` | [n/a] | `opinati` | [n/a] | [n/a] | [n/a] |
+| `poiin` | 1 | `poiin` | `opini` | [n/a] | `inopi` | [n/a] | `inopi` | poverty, destitution, dearth, want, scarcity |
+| `okalp` | 1 | `ocalp` | `colpa` | fault | `colpa` | fault | [n/a] | [n/a] |
+| `okeos` | 1 | `oceos` | [n/a] | [n/a] | `coeso` | cohesive | [n/a] | [n/a] |
 
 ## Folios
 - f67v1: ../../recipe_readmes/astronomical/f67v1/README.md

@@ -6,7 +6,7 @@
     "bath/wash": 0,
     "heat/boil": 0,
     "oil/wax": 0,
-    "plant/food": 1,
+    "plant/food": 0,
     "measure/time": 0,
     "astral": 0
   },
@@ -27,75 +27,10 @@
     "dy": "explicit days marker",
     "iin": "medium phase marker",
     "aiin": "long phase marker",
-    "_top_keyword_labels": "plant/food"
+    "_top_keyword_labels": "none"
   },
   "marker_evidence": {
     "o": {
-      "keyword_scores": {
-        "bath/wash": 0,
-        "heat/boil": 0,
-        "oil/wax": 0,
-        "plant/food": 1,
-        "measure/time": 0,
-        "astral": 0
-      },
-      "top_keyword_labels": [
-        "plant/food"
-      ],
-      "examples": [
-        {
-          "eva": "odaiin",
-          "it": "inopia",
-          "gloss": "poverty"
-        },
-        {
-          "eva": "okain",
-          "it": "acino",
-          "gloss": "a berry"
-        },
-        {
-          "eva": "odain",
-          "it": "opina",
-          "gloss": "opine"
-        },
-        {
-          "eva": "chodar",
-          "it": "capro",
-          "gloss": "male goat"
-        },
-        {
-          "eva": "okeos",
-          "it": "coeso",
-          "gloss": "cohesive"
-        }
-      ]
-    },
-    "k": {
-      "keyword_scores": {
-        "bath/wash": 0,
-        "heat/boil": 0,
-        "oil/wax": 0,
-        "plant/food": 1,
-        "measure/time": 0,
-        "astral": 0
-      },
-      "top_keyword_labels": [
-        "plant/food"
-      ],
-      "examples": [
-        {
-          "eva": "okain",
-          "it": "acino",
-          "gloss": "a berry"
-        },
-        {
-          "eva": "okeos",
-          "it": "coeso",
-          "gloss": "cohesive"
-        }
-      ]
-    },
-    "ch": {
       "keyword_scores": {
         "bath/wash": 0,
         "heat/boil": 0,
@@ -107,9 +42,60 @@
       "top_keyword_labels": [],
       "examples": [
         {
-          "eva": "chodar",
-          "it": "capro",
-          "gloss": "male goat"
+          "eva": "opain",
+          "it": "opina",
+          "gloss": "opine"
+        },
+        {
+          "eva": "okalp",
+          "it": "colpa",
+          "gloss": "fault"
+        }
+      ]
+    },
+    "k": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "okalp",
+          "it": "colpa",
+          "gloss": "fault"
+        }
+      ]
+    },
+    "p": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "paiin",
+          "it": "piani",
+          "gloss": "plans (arrangements)"
+        },
+        {
+          "eva": "opain",
+          "it": "opina",
+          "gloss": "opine"
+        },
+        {
+          "eva": "okalp",
+          "it": "colpa",
+          "gloss": "fault"
         }
       ]
     },
@@ -125,17 +111,7 @@
       "top_keyword_labels": [],
       "examples": [
         {
-          "eva": "daiin",
-          "it": "piani",
-          "gloss": "plans (arrangements)"
-        },
-        {
-          "eva": "odaiin",
-          "it": "inopia",
-          "gloss": "poverty"
-        },
-        {
-          "eva": "ydaiin",
+          "eva": "paiin",
           "it": "piani",
           "gloss": "plans (arrangements)"
         }
@@ -153,17 +129,7 @@
       "top_keyword_labels": [],
       "examples": [
         {
-          "eva": "daiin",
-          "it": "piani",
-          "gloss": "plans (arrangements)"
-        },
-        {
-          "eva": "odaiin",
-          "it": "inopia",
-          "gloss": "poverty"
-        },
-        {
-          "eva": "ydaiin",
+          "eva": "paiin",
           "it": "piani",
           "gloss": "plans (arrangements)"
         }

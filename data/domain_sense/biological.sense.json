@@ -6,7 +6,7 @@
     "bath/wash": 0,
     "heat/boil": 0,
     "oil/wax": 0,
-    "plant/food": 1,
+    "plant/food": 0,
     "measure/time": 0,
     "astral": 0
   },
@@ -27,7 +27,7 @@
     "dy": "explicit days marker",
     "iin": "medium phase marker",
     "aiin": "long phase marker",
-    "_top_keyword_labels": "plant/food"
+    "_top_keyword_labels": "none"
   },
   "marker_evidence": {
     "qo": {
@@ -42,6 +42,11 @@
       "top_keyword_labels": [],
       "examples": [
         {
+          "eva": "qokain",
+          "it": "concia",
+          "gloss": "tanning"
+        },
+        {
           "eva": "qokal",
           "it": "calco",
           "gloss": "cast (of sculpture)"
@@ -55,16 +60,6 @@
           "eva": "qotol",
           "it": "colto",
           "gloss": "cultivated"
-        },
-        {
-          "eva": "qokaly",
-          "it": "calco",
-          "gloss": "cast (of sculpture)"
-        },
-        {
-          "eva": "qokeor",
-          "it": "croceo",
-          "gloss": "saffron-coloured/colored"
         }
       ]
     },
@@ -80,6 +75,11 @@
       "top_keyword_labels": [],
       "examples": [
         {
+          "eva": "qokain",
+          "it": "concia",
+          "gloss": "tanning"
+        },
+        {
           "eva": "qokal",
           "it": "calco",
           "gloss": "cast (of sculpture)"
@@ -93,16 +93,6 @@
           "eva": "qotol",
           "it": "colto",
           "gloss": "cultivated"
-        },
-        {
-          "eva": "qokaly",
-          "it": "calco",
-          "gloss": "cast (of sculpture)"
-        },
-        {
-          "eva": "qokeor",
-          "it": "croceo",
-          "gloss": "saffron-coloured/colored"
         }
       ]
     },
@@ -111,28 +101,21 @@
         "bath/wash": 0,
         "heat/boil": 0,
         "oil/wax": 0,
-        "plant/food": 1,
+        "plant/food": 0,
         "measure/time": 0,
         "astral": 0
       },
-      "top_keyword_labels": [
-        "plant/food"
-      ],
+      "top_keyword_labels": [],
       "examples": [
+        {
+          "eva": "qokain",
+          "it": "concia",
+          "gloss": "tanning"
+        },
         {
           "eva": "qokal",
           "it": "calco",
           "gloss": "cast (of sculpture)"
-        },
-        {
-          "eva": "okain",
-          "it": "acino",
-          "gloss": "a berry"
-        },
-        {
-          "eva": "olkain",
-          "it": "alcino",
-          "gloss": "smart, clever, intelligent, bright"
         },
         {
           "eva": "qotain",
@@ -143,16 +126,6 @@
           "eva": "qotol",
           "it": "colto",
           "gloss": "cultivated"
-        },
-        {
-          "eva": "olaiin",
-          "it": "ialino",
-          "gloss": "hyaline, glassy"
-        },
-        {
-          "eva": "qokaly",
-          "it": "calco",
-          "gloss": "cast (of sculpture)"
         },
         {
           "eva": "olkal",
@@ -166,31 +139,19 @@
         "bath/wash": 0,
         "heat/boil": 0,
         "oil/wax": 0,
-        "plant/food": 1,
+        "plant/food": 0,
         "measure/time": 0,
         "astral": 0
       },
-      "top_keyword_labels": [
-        "plant/food"
-      ],
+      "top_keyword_labels": [],
       "examples": [
         {
+          "eva": "qokain",
+          "it": "concia",
+          "gloss": "tanning"
+        },
+        {
           "eva": "qokal",
-          "it": "calco",
-          "gloss": "cast (of sculpture)"
-        },
-        {
-          "eva": "okain",
-          "it": "acino",
-          "gloss": "a berry"
-        },
-        {
-          "eva": "olkain",
-          "it": "alcino",
-          "gloss": "smart, clever, intelligent, bright"
-        },
-        {
-          "eva": "qokaly",
           "it": "calco",
           "gloss": "cast (of sculpture)"
         },
@@ -198,11 +159,6 @@
           "eva": "olkal",
           "it": "alcol",
           "gloss": "alcohol (general use)"
-        },
-        {
-          "eva": "qokeor",
-          "it": "croceo",
-          "gloss": "saffron-coloured/colored"
         }
       ]
     },
@@ -229,6 +185,24 @@
         }
       ]
     },
+    "p": {
+      "keyword_scores": {
+        "bath/wash": 0,
+        "heat/boil": 0,
+        "oil/wax": 0,
+        "plant/food": 0,
+        "measure/time": 0,
+        "astral": 0
+      },
+      "top_keyword_labels": [],
+      "examples": [
+        {
+          "eva": "paiin",
+          "it": "piani",
+          "gloss": "plans (arrangements)"
+        }
+      ]
+    },
     "iin": {
       "keyword_scores": {
         "bath/wash": 0,
@@ -241,14 +215,9 @@
       "top_keyword_labels": [],
       "examples": [
         {
-          "eva": "daiin",
+          "eva": "paiin",
           "it": "piani",
           "gloss": "plans (arrangements)"
-        },
-        {
-          "eva": "olaiin",
-          "it": "ialino",
-          "gloss": "hyaline, glassy"
         }
       ]
     },
@@ -264,14 +233,9 @@
       "top_keyword_labels": [],
       "examples": [
         {
-          "eva": "daiin",
+          "eva": "paiin",
           "it": "piani",
           "gloss": "plans (arrangements)"
-        },
-        {
-          "eva": "olaiin",
-          "it": "ialino",
-          "gloss": "hyaline, glassy"
         }
       ]
     }

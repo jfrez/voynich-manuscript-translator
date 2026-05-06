@@ -46,37 +46,37 @@ Any Italian anagram / English gloss is a best-effort lexicon match, not a deciph
 
 
 ### Associated basewords (non-generic; top by frequency in this domain)
-- `daiin` (count=28) → Italian anagram `piani`; English: plans (arrangements)
+- `paiin` (count=29) → Italian anagram `piani`; English: plans (arrangements)
+- `opaiin` (count=14) → Italian anagram `inopia`; English: poverty
 - `qokal` (count=13) → Italian anagram `calco`; English: cast (of sculpture)
-- `odaiin` (count=8) → Italian anagram `inopia`; English: poverty
+- `kaiin` (count=7) → Italian anagram `acini`; English: [n/a]
 - `okees` (count=7) → Italian anagram `coese`; English: [n/a]
-- `opaiin` (count=6) → Italian anagram `inopia`; English: poverty
-- `ykaiin` (count=5) → Italian anagram `acini`; English: [n/a]
-- `qodaiin` (count=5) → Italian anagram `apocini`; English: [n/a]
+- `oteop` (count=6) → Italian anagram `poeto`; English: [n/a]
+- `qopaiin` (count=5) → Italian anagram `apocini`; English: [n/a]
 - `oteos` (count=5) → Italian anagram `osteo`; English: [n/a]
 - `olkar` (count=5) → Italian anagram `carlo`; English: [n/a]
+- `qokep` (count=4) → Italian anagram `pecco`; English: [n/a]
 - `okaiin` (count=4) → Italian anagram `coniai`; English: [n/a]
 - `qotaiin` (count=4) → Italian anagram `cationi`; English: [n/a]
 - `qokaiin` (count=3) → Italian anagram `ciancio`; English: [n/a]
 - `qokar` (count=3) → Italian anagram `carco`; English: [n/a]
 - `olaiin` (count=3) → Italian anagram `ialino`; English: hyaline, glassy
-- `oraiin` (count=3) → Italian anagram `aironi`; English: [n/a]
 
 ### Marker evidence (substring in frequent basewords)
-- `qo`: 35 basewords; examples: `qokal`, `qodaiin`, `qokedy`, `qotaiin`, `qokaiin`, `qokar`
-- `q`: 36 basewords; examples: `qokal`, `qodaiin`, `qokedy`, `qotaiin`, `qokaiin`, `qokar`
-- `o`: 173 basewords; examples: `o`, `ol`, `or`, `otedy`, `oteey`, `okal`
-- `k`: 85 basewords; examples: `okal`, `k`, `qokal`, `okeey`, `okar`, `okody`
-- `t`: 73 basewords; examples: `otedy`, `oteey`, `otar`, `oteedy`, `otody`, `oty`
-- `p`: 8 basewords; examples: `opaiin`, `opar`, `opchdy`, `p`, `opchedy`, `pol`
-- `ch`: 81 basewords; examples: `chol`, `chedy`, `chey`, `chdy`, `ch`, `chy`
-- `sh`: 28 basewords; examples: `shedy`, `sheey`, `shol`, `shedaiin`, `sho`, `sheody`
+- `qo`: 38 basewords; examples: `qokal`, `qopaiin`, `qokep`, `qotaiin`, `qotchp`, `qokaiin`
+- `q`: 39 basewords; examples: `qokal`, `qopaiin`, `qokep`, `qotaiin`, `qotchp`, `qokaiin`
+- `o`: 186 basewords; examples: `o`, `ol`, `or`, `otep`, `otee`, `chol`
+- `k`: 91 basewords; examples: `k`, `okal`, `qokal`, `okee`, `okar`, `okop`
+- `t`: 73 basewords; examples: `otep`, `otee`, `ot`, `t`, `oteep`, `otar`
+- `p`: 106 basewords; examples: `p`, `paiin`, `par`, `pal`, `otep`, `chep`
+- `ch`: 88 basewords; examples: `ch`, `che`, `chep`, `chol`, `chp`, `okchp`
+- `sh`: 28 basewords; examples: `shep`, `shee`, `shol`, `sh`, `shepaiin`, `she`
 - `f`: 1 basewords; examples: `f`
-- `cth`: 6 basewords; examples: `chcthy`, `cthy`, `cthol`, `chocthy`, `cthody`, `ctheey`
-- `ckh`: 4 basewords; examples: `chckhy`, `chckhey`, `checkhy`, `ockhy`
-- `dy`: 59 basewords; examples: `dy`, `otedy`, `chedy`, `shedy`, `chdy`, `oteedy`
-- `iin`: 26 basewords; examples: `aiin`, `daiin`, `odaiin`, `opaiin`, `shedaiin`, `otaiin`
-- `aiin`: 23 basewords; examples: `aiin`, `daiin`, `odaiin`, `opaiin`, `shedaiin`, `otaiin`
+- `cth`: 6 basewords; examples: `chcth`, `cth`, `cthol`, `chocth`, `cthop`, `cthee`
+- `ckh`: 5 basewords; examples: `chckh`, `chckhe`, `checkh`, `ockh`, `cheockh`
+- `cph`: 1 basewords; examples: `cphe`
+- `iin`: 24 basewords; examples: `aiin`, `paiin`, `opaiin`, `kaiin`, `taiin`, `chepaiin`
+- `aiin`: 21 basewords; examples: `aiin`, `paiin`, `opaiin`, `kaiin`, `taiin`, `chepaiin`
 
 ## Recipes Index (This Page)
 - [f67v2.1,@La](#f67v2-1-f67v2-1-la)
@@ -145,10 +145,10 @@ Direct Gloss (Procedural, Not a Real Translation):
 EVA: daiin [t:k]aedaiin ar okor
 
 Direct Gloss (Procedural, Not a Real Translation):
-- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- daiin: tokens: p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - t: tokens: t
 - k: tokens: k
-- aedaiin: tokens: a e p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `daiin` → `piani`; plans (arrangements))
+- aedaiin: tokens: a e p aiin → vowel_run: a (level 1; class a) → suffix: aiin (lexicon-context: `paiin` → `piani`; plans (arrangements))
 - ar: tokens: a r → connectors: r → vowel_run: a (level 1; class a)
 - okor: tokens: o k o r → connectors: r
 

@@ -2,11 +2,34 @@
   "source_wordlist": "data/lexicon/latin_words_whitaker.txt",
   "rows": [
     {
+      "baseword": "chep",
+      "total": 553,
+      "top_section": "unknown",
+      "top_section_count": 222,
+      "dominance": 0.4014,
+      "romanized": "cep",
+      "latin_candidates": [
+        "cep",
+        "pec"
+      ]
+    },
+    {
+      "baseword": "shep",
+      "total": 464,
+      "top_section": "biological",
+      "top_section_count": 227,
+      "dominance": 0.4892,
+      "romanized": "sep",
+      "latin_candidates": [
+        "pes"
+      ]
+    },
+    {
       "baseword": "chol",
-      "total": 397,
+      "total": 424,
       "top_section": "herbal",
-      "top_section_count": 228,
-      "dominance": 0.5743,
+      "top_section_count": 244,
+      "dominance": 0.5755,
       "romanized": "col",
       "latin_candidates": [
         "col",
@@ -14,11 +37,11 @@
       ]
     },
     {
-      "baseword": "dar",
-      "total": 328,
+      "baseword": "par",
+      "total": 367,
       "top_section": "herbal",
-      "top_section_count": 118,
-      "dominance": 0.3598,
+      "top_section_count": 130,
+      "dominance": 0.3542,
       "romanized": "par",
       "latin_candidates": [
         "apr",
@@ -27,11 +50,22 @@
       ]
     },
     {
+      "baseword": "pal",
+      "total": 284,
+      "top_section": "herbal",
+      "top_section_count": 78,
+      "dominance": 0.2746,
+      "romanized": "pal",
+      "latin_candidates": [
+        "pal"
+      ]
+    },
+    {
       "baseword": "qokain",
-      "total": 277,
+      "total": 278,
       "top_section": "biological",
-      "top_section_count": 158,
-      "dominance": 0.5704,
+      "top_section_count": 159,
+      "dominance": 0.5719,
       "romanized": "cocain",
       "latin_candidates": [
         "cocain",
@@ -39,33 +73,11 @@
       ]
     },
     {
-      "baseword": "dal",
-      "total": 246,
-      "top_section": "herbal",
-      "top_section_count": 69,
-      "dominance": 0.2805,
-      "romanized": "pal",
-      "latin_candidates": [
-        "pal"
-      ]
-    },
-    {
-      "baseword": "dain",
-      "total": 212,
-      "top_section": "herbal",
-      "top_section_count": 91,
-      "dominance": 0.4292,
-      "romanized": "pain",
-      "latin_candidates": [
-        "apin"
-      ]
-    },
-    {
       "baseword": "chor",
-      "total": 212,
+      "total": 238,
       "top_section": "herbal",
-      "top_section_count": 156,
-      "dominance": 0.7358,
+      "top_section_count": 176,
+      "dominance": 0.7395,
       "romanized": "cor",
       "latin_candidates": [
         "cor",
@@ -73,11 +85,22 @@
       ]
     },
     {
+      "baseword": "pain",
+      "total": 218,
+      "top_section": "herbal",
+      "top_section_count": 94,
+      "dominance": 0.4312,
+      "romanized": "pain",
+      "latin_candidates": [
+        "apin"
+      ]
+    },
+    {
       "baseword": "qokal",
-      "total": 193,
+      "total": 211,
       "top_section": "biological",
-      "top_section_count": 102,
-      "dominance": 0.5285,
+      "top_section_count": 108,
+      "dominance": 0.5118,
       "romanized": "cocal",
       "latin_candidates": [
         "accol",
@@ -86,10 +109,10 @@
     },
     {
       "baseword": "shol",
-      "total": 184,
+      "total": 189,
       "top_section": "herbal",
-      "top_section_count": 115,
-      "dominance": 0.625,
+      "top_section_count": 118,
+      "dominance": 0.6243,
       "romanized": "sol",
       "latin_candidates": [
         "sol"
@@ -97,10 +120,10 @@
     },
     {
       "baseword": "cheol",
-      "total": 170,
+      "total": 185,
       "top_section": "unknown",
-      "top_section_count": 97,
-      "dominance": 0.5706,
+      "top_section_count": 106,
+      "dominance": 0.573,
       "romanized": "ceol",
       "latin_candidates": [
         "celo",
@@ -110,34 +133,11 @@
       ]
     },
     {
-      "baseword": "okal",
-      "total": 155,
-      "top_section": "unknown",
-      "top_section_count": 55,
-      "dominance": 0.3548,
-      "romanized": "ocal",
-      "latin_candidates": [
-        "calo",
-        "coal"
-      ]
-    },
-    {
-      "baseword": "otar",
-      "total": 150,
-      "top_section": "unknown",
-      "top_section_count": 74,
-      "dominance": 0.4933,
-      "romanized": "otar",
-      "latin_candidates": [
-        "orat"
-      ]
-    },
-    {
-      "baseword": "qoky",
-      "total": 144,
+      "baseword": "qok",
+      "total": 179,
       "top_section": "biological",
-      "top_section_count": 60,
-      "dominance": 0.4167,
+      "top_section_count": 67,
+      "dominance": 0.3743,
       "romanized": "coc",
       "latin_candidates": [
         "coc",
@@ -145,11 +145,47 @@
       ]
     },
     {
+      "baseword": "okal",
+      "total": 178,
+      "top_section": "unknown",
+      "top_section_count": 65,
+      "dominance": 0.3652,
+      "romanized": "ocal",
+      "latin_candidates": [
+        "calo",
+        "coal"
+      ]
+    },
+    {
+      "baseword": "otep",
+      "total": 167,
+      "top_section": "unknown",
+      "top_section_count": 64,
+      "dominance": 0.3832,
+      "romanized": "otep",
+      "latin_candidates": [
+        "epot",
+        "poet",
+        "pote"
+      ]
+    },
+    {
+      "baseword": "otar",
+      "total": 156,
+      "top_section": "unknown",
+      "top_section_count": 76,
+      "dominance": 0.4872,
+      "romanized": "otar",
+      "latin_candidates": [
+        "orat"
+      ]
+    },
+    {
       "baseword": "qol",
-      "total": 143,
+      "total": 150,
       "top_section": "biological",
-      "top_section_count": 104,
-      "dominance": 0.7273,
+      "top_section_count": 111,
+      "dominance": 0.74,
       "romanized": "col",
       "latin_candidates": [
         "col",
@@ -158,10 +194,10 @@
     },
     {
       "baseword": "okar",
-      "total": 138,
+      "total": 149,
       "top_section": "unknown",
-      "top_section_count": 47,
-      "dominance": 0.3406,
+      "top_section_count": 52,
+      "dominance": 0.349,
       "romanized": "ocar",
       "latin_candidates": [
         "acor",
@@ -170,34 +206,22 @@
       ]
     },
     {
-      "baseword": "ain",
-      "total": 119,
-      "top_section": "unknown",
-      "top_section_count": 66,
-      "dominance": 0.5546,
-      "romanized": "ain",
-      "latin_candidates": [
-        "ain",
-        "ian"
-      ]
-    },
-    {
-      "baseword": "dol",
-      "total": 109,
+      "baseword": "pol",
+      "total": 136,
       "top_section": "herbal",
-      "top_section_count": 48,
-      "dominance": 0.4404,
+      "top_section_count": 50,
+      "dominance": 0.3676,
       "romanized": "pol",
       "latin_candidates": [
         "pol"
       ]
     },
     {
-      "baseword": "dair",
-      "total": 109,
+      "baseword": "pair",
+      "total": 121,
       "top_section": "unknown",
-      "top_section_count": 41,
-      "dominance": 0.3761,
+      "top_section_count": 48,
+      "dominance": 0.3967,
       "romanized": "pair",
       "latin_candidates": [
         "pari",
@@ -205,11 +229,34 @@
       ]
     },
     {
-      "baseword": "qokey",
-      "total": 108,
+      "baseword": "lchep",
+      "total": 121,
+      "top_section": "biological",
+      "top_section_count": 54,
+      "dominance": 0.4463,
+      "romanized": "lcep",
+      "latin_candidates": [
+        "clep"
+      ]
+    },
+    {
+      "baseword": "ain",
+      "total": 120,
       "top_section": "unknown",
-      "top_section_count": 51,
-      "dominance": 0.4722,
+      "top_section_count": 66,
+      "dominance": 0.55,
+      "romanized": "ain",
+      "latin_candidates": [
+        "ain",
+        "ian"
+      ]
+    },
+    {
+      "baseword": "qoke",
+      "total": 112,
+      "top_section": "unknown",
+      "top_section_count": 52,
+      "dominance": 0.4643,
       "romanized": "coce",
       "latin_candidates": [
         "coec"
@@ -217,55 +264,21 @@
     },
     {
       "baseword": "sheol",
-      "total": 108,
+      "total": 111,
       "top_section": "unknown",
-      "top_section_count": 48,
-      "dominance": 0.4444,
+      "top_section_count": 49,
+      "dominance": 0.4414,
       "romanized": "seol",
       "latin_candidates": [
         "sole"
       ]
     },
     {
-      "baseword": "otain",
-      "total": 96,
-      "top_section": "unknown",
-      "top_section_count": 53,
-      "dominance": 0.5521,
-      "romanized": "otain",
-      "latin_candidates": [
-        "natio"
-      ]
-    },
-    {
-      "baseword": "shor",
-      "total": 94,
+      "baseword": "qot",
+      "total": 109,
       "top_section": "herbal",
-      "top_section_count": 67,
-      "dominance": 0.7128,
-      "romanized": "sor",
-      "latin_candidates": [
-        "ors",
-        "ros"
-      ]
-    },
-    {
-      "baseword": "cheor",
-      "total": 92,
-      "top_section": "unknown",
-      "top_section_count": 39,
-      "dominance": 0.4239,
-      "romanized": "ceor",
-      "latin_candidates": [
-        "ocre"
-      ]
-    },
-    {
-      "baseword": "qoty",
-      "total": 88,
-      "top_section": "herbal",
-      "top_section_count": 31,
-      "dominance": 0.3523,
+      "top_section_count": 47,
+      "dominance": 0.4312,
       "romanized": "cot",
       "latin_candidates": [
         "oct",
@@ -273,11 +286,33 @@
       ]
     },
     {
-      "baseword": "char",
-      "total": 85,
+      "baseword": "chop",
+      "total": 108,
+      "top_section": "herbal",
+      "top_section_count": 56,
+      "dominance": 0.5185,
+      "romanized": "cop",
+      "latin_candidates": [
+        "cop"
+      ]
+    },
+    {
+      "baseword": "cheor",
+      "total": 104,
       "top_section": "unknown",
-      "top_section_count": 37,
-      "dominance": 0.4353,
+      "top_section_count": 42,
+      "dominance": 0.4038,
+      "romanized": "ceor",
+      "latin_candidates": [
+        "ocre"
+      ]
+    },
+    {
+      "baseword": "kar",
+      "total": 104,
+      "top_section": "herbal",
+      "top_section_count": 40,
+      "dominance": 0.3846,
       "romanized": "car",
       "latin_candidates": [
         "acr",
@@ -286,25 +321,105 @@
       ]
     },
     {
-      "baseword": "air",
-      "total": 84,
+      "baseword": "shor",
+      "total": 102,
+      "top_section": "herbal",
+      "top_section_count": 71,
+      "dominance": 0.6961,
+      "romanized": "sor",
+      "latin_candidates": [
+        "ors",
+        "ros"
+      ]
+    },
+    {
+      "baseword": "keep",
+      "total": 99,
       "top_section": "unknown",
       "top_section_count": 46,
-      "dominance": 0.5476,
+      "dominance": 0.4646,
+      "romanized": "ceep",
+      "latin_candidates": [
+        "cepe"
+      ]
+    },
+    {
+      "baseword": "otain",
+      "total": 97,
+      "top_section": "unknown",
+      "top_section_count": 54,
+      "dominance": 0.5567,
+      "romanized": "otain",
+      "latin_candidates": [
+        "natio"
+      ]
+    },
+    {
+      "baseword": "qotep",
+      "total": 94,
+      "top_section": "biological",
+      "top_section_count": 47,
+      "dominance": 0.5,
+      "romanized": "cotep",
+      "latin_candidates": [
+        "coept"
+      ]
+    },
+    {
+      "baseword": "cheo",
+      "total": 93,
+      "top_section": "unknown",
+      "top_section_count": 65,
+      "dominance": 0.6989,
+      "romanized": "ceo",
+      "latin_candidates": [
+        "coe"
+      ]
+    },
+    {
+      "baseword": "char",
+      "total": 91,
+      "top_section": "herbal",
+      "top_section_count": 38,
+      "dominance": 0.4176,
+      "romanized": "car",
+      "latin_candidates": [
+        "acr",
+        "arc",
+        "car"
+      ]
+    },
+    {
+      "baseword": "sar",
+      "total": 89,
+      "top_section": "unknown",
+      "top_section_count": 29,
+      "dominance": 0.3258,
+      "romanized": "sar",
+      "latin_candidates": [
+        "ars"
+      ]
+    },
+    {
+      "baseword": "air",
+      "total": 88,
+      "top_section": "unknown",
+      "top_section_count": 49,
+      "dominance": 0.5568,
       "romanized": "air",
       "latin_candidates": [
         "ari"
       ]
     },
     {
-      "baseword": "cheo",
-      "total": 80,
+      "baseword": "okol",
+      "total": 82,
       "top_section": "unknown",
-      "top_section_count": 55,
-      "dominance": 0.6875,
-      "romanized": "ceo",
+      "top_section_count": 34,
+      "dominance": 0.4146,
+      "romanized": "ocol",
       "latin_candidates": [
-        "coe"
+        "loco"
       ]
     },
     {
@@ -319,83 +434,154 @@
       ]
     },
     {
-      "baseword": "sar",
-      "total": 79,
-      "top_section": "unknown",
-      "top_section_count": 28,
-      "dominance": 0.3544,
-      "romanized": "sar",
-      "latin_candidates": [
-        "ars"
-      ]
-    },
-    {
-      "baseword": "okol",
+      "baseword": "por",
       "total": 78,
-      "top_section": "unknown",
-      "top_section_count": 31,
-      "dominance": 0.3974,
-      "romanized": "ocol",
-      "latin_candidates": [
-        "loco"
-      ]
-    },
-    {
-      "baseword": "sol",
-      "total": 67,
-      "top_section": "biological",
-      "top_section_count": 37,
-      "dominance": 0.5522,
-      "romanized": "sol",
-      "latin_candidates": [
-        "sol"
-      ]
-    },
-    {
-      "baseword": "qokchy",
-      "total": 66,
       "top_section": "herbal",
       "top_section_count": 43,
-      "dominance": 0.6515,
-      "romanized": "cocc",
-      "latin_candidates": [
-        "cocc"
-      ]
-    },
-    {
-      "baseword": "dor",
-      "total": 64,
-      "top_section": "herbal",
-      "top_section_count": 39,
-      "dominance": 0.6094,
+      "dominance": 0.5513,
       "romanized": "por",
       "latin_candidates": [
         "pro"
       ]
     },
     {
-      "baseword": "okey",
-      "total": 64,
+      "baseword": "kep",
+      "total": 75,
+      "top_section": "biological",
+      "top_section_count": 26,
+      "dominance": 0.3467,
+      "romanized": "cep",
+      "latin_candidates": [
+        "cep",
+        "pec"
+      ]
+    },
+    {
+      "baseword": "sol",
+      "total": 70,
+      "top_section": "biological",
+      "top_section_count": 38,
+      "dominance": 0.5429,
+      "romanized": "sol",
+      "latin_candidates": [
+        "sol"
+      ]
+    },
+    {
+      "baseword": "cheep",
+      "total": 69,
       "top_section": "unknown",
-      "top_section_count": 30,
-      "dominance": 0.4688,
+      "top_section_count": 37,
+      "dominance": 0.5362,
+      "romanized": "ceep",
+      "latin_candidates": [
+        "cepe"
+      ]
+    },
+    {
+      "baseword": "oke",
+      "total": 68,
+      "top_section": "unknown",
+      "top_section_count": 32,
+      "dominance": 0.4706,
       "romanized": "oce",
       "latin_candidates": [
         "coe"
       ]
     },
     {
+      "baseword": "qokch",
+      "total": 67,
+      "top_section": "herbal",
+      "top_section_count": 43,
+      "dominance": 0.6418,
+      "romanized": "cocc",
+      "latin_candidates": [
+        "cocc"
+      ]
+    },
+    {
+      "baseword": "tep",
+      "total": 67,
+      "top_section": "biological",
+      "top_section_count": 29,
+      "dominance": 0.4328,
+      "romanized": "tep",
+      "latin_candidates": [
+        "pet",
+        "tep"
+      ]
+    },
+    {
+      "baseword": "tar",
+      "total": 65,
+      "top_section": "unknown",
+      "top_section_count": 22,
+      "dominance": 0.3385,
+      "romanized": "tar",
+      "latin_candidates": [
+        "art",
+        "rat"
+      ]
+    },
+    {
       "baseword": "qotar",
-      "total": 64,
+      "total": 65,
       "top_section": "unknown",
       "top_section_count": 29,
-      "dominance": 0.4531,
+      "dominance": 0.4462,
       "romanized": "cotar",
       "latin_candidates": [
         "actor",
         "arcto",
         "carot",
         "coart"
+      ]
+    },
+    {
+      "baseword": "shop",
+      "total": 64,
+      "top_section": "herbal",
+      "top_section_count": 34,
+      "dominance": 0.5312,
+      "romanized": "sop",
+      "latin_candidates": [
+        "ops"
+      ]
+    },
+    {
+      "baseword": "qotal",
+      "total": 64,
+      "top_section": "biological",
+      "top_section_count": 25,
+      "dominance": 0.3906,
+      "romanized": "cotal",
+      "latin_candidates": [
+        "calot",
+        "colat"
+      ]
+    },
+    {
+      "baseword": "tol",
+      "total": 63,
+      "top_section": "herbal",
+      "top_section_count": 29,
+      "dominance": 0.4603,
+      "romanized": "tol",
+      "latin_candidates": [
+        "lot"
+      ]
+    },
+    {
+      "baseword": "sheop",
+      "total": 63,
+      "top_section": "unknown",
+      "top_section_count": 32,
+      "dominance": 0.5079,
+      "romanized": "seop",
+      "latin_candidates": [
+        "epos",
+        "pose"
       ]
     },
     {
@@ -413,16 +599,26 @@
       ]
     },
     {
-      "baseword": "kar",
+      "baseword": "qotch",
+      "total": 62,
+      "top_section": "herbal",
+      "top_section_count": 50,
+      "dominance": 0.8065,
+      "romanized": "cotc",
+      "latin_candidates": [
+        "coct"
+      ]
+    },
+    {
+      "baseword": "cthol",
       "total": 61,
       "top_section": "herbal",
-      "top_section_count": 22,
-      "dominance": 0.3607,
-      "romanized": "car",
+      "top_section_count": 50,
+      "dominance": 0.8197,
+      "romanized": "col",
       "latin_candidates": [
-        "acr",
-        "arc",
-        "car"
+        "col",
+        "loc"
       ]
     },
     {
@@ -440,46 +636,11 @@
       ]
     },
     {
-      "baseword": "qotchy",
-      "total": 59,
-      "top_section": "herbal",
-      "top_section_count": 47,
-      "dominance": 0.7966,
-      "romanized": "cotc",
-      "latin_candidates": [
-        "coct"
-      ]
-    },
-    {
-      "baseword": "qotal",
-      "total": 59,
-      "top_section": "biological",
-      "top_section_count": 25,
-      "dominance": 0.4237,
-      "romanized": "cotal",
-      "latin_candidates": [
-        "calot",
-        "colat"
-      ]
-    },
-    {
-      "baseword": "cthol",
-      "total": 56,
-      "top_section": "herbal",
-      "top_section_count": 46,
-      "dominance": 0.8214,
-      "romanized": "col",
-      "latin_candidates": [
-        "col",
-        "loc"
-      ]
-    },
-    {
       "baseword": "chear",
-      "total": 50,
+      "total": 56,
       "top_section": "unknown",
-      "top_section_count": 20,
-      "dominance": 0.4,
+      "top_section_count": 24,
+      "dominance": 0.4286,
       "romanized": "cear",
       "latin_candidates": [
         "acer",
@@ -488,22 +649,71 @@
       ]
     },
     {
+      "baseword": "kol",
+      "total": 56,
+      "top_section": "herbal",
+      "top_section_count": 38,
+      "dominance": 0.6786,
+      "romanized": "col",
+      "latin_candidates": [
+        "col",
+        "loc"
+      ]
+    },
+    {
       "baseword": "sheo",
-      "total": 50,
+      "total": 55,
       "top_section": "unknown",
-      "top_section_count": 27,
-      "dominance": 0.54,
+      "top_section_count": 30,
+      "dominance": 0.5455,
       "romanized": "seo",
       "latin_candidates": [
         "eos"
       ]
     },
     {
+      "baseword": "chal",
+      "total": 54,
+      "top_section": "unknown",
+      "top_section_count": 24,
+      "dominance": 0.4444,
+      "romanized": "cal",
+      "latin_candidates": [
+        "alc",
+        "cal",
+        "lac"
+      ]
+    },
+    {
+      "baseword": "sal",
+      "total": 53,
+      "top_section": "biological",
+      "top_section_count": 16,
+      "dominance": 0.3019,
+      "romanized": "sal",
+      "latin_candidates": [
+        "als",
+        "sal"
+      ]
+    },
+    {
+      "baseword": "kain",
+      "total": 53,
+      "top_section": "unknown",
+      "top_section_count": 21,
+      "dominance": 0.3962,
+      "romanized": "cain",
+      "latin_candidates": [
+        "acin",
+        "cani"
+      ]
+    },
+    {
       "baseword": "sor",
-      "total": 50,
+      "total": 52,
       "top_section": "herbal",
       "top_section_count": 18,
-      "dominance": 0.36,
+      "dominance": 0.3462,
       "romanized": "sor",
       "latin_candidates": [
         "ors",
@@ -511,7 +721,19 @@
       ]
     },
     {
-      "baseword": "lchey",
+      "baseword": "sheor",
+      "total": 50,
+      "top_section": "unknown",
+      "top_section_count": 22,
+      "dominance": 0.44,
+      "romanized": "seor",
+      "latin_candidates": [
+        "rose",
+        "sero"
+      ]
+    },
+    {
+      "baseword": "lche",
       "total": 50,
       "top_section": "biological",
       "top_section_count": 21,
@@ -522,23 +744,47 @@
       ]
     },
     {
-      "baseword": "sal",
+      "baseword": "otch",
       "total": 49,
-      "top_section": "biological",
-      "top_section_count": 15,
-      "dominance": 0.3061,
-      "romanized": "sal",
+      "top_section": "herbal",
+      "top_section_count": 33,
+      "dominance": 0.6735,
+      "romanized": "otc",
       "latin_candidates": [
-        "als",
-        "sal"
+        "oct",
+        "toc"
       ]
     },
     {
-      "baseword": "chal",
-      "total": 48,
+      "baseword": "tal",
+      "total": 49,
+      "top_section": "text only",
+      "top_section_count": 18,
+      "dominance": 0.3673,
+      "romanized": "tal",
+      "latin_candidates": [
+        "alt",
+        "lat",
+        "tal"
+      ]
+    },
+    {
+      "baseword": "lkaiin",
+      "total": 49,
       "top_section": "unknown",
-      "top_section_count": 23,
-      "dominance": 0.4792,
+      "top_section_count": 40,
+      "dominance": 0.8163,
+      "romanized": "lcaiin",
+      "latin_candidates": [
+        "lacini"
+      ]
+    },
+    {
+      "baseword": "kal",
+      "total": 47,
+      "top_section": "text only",
+      "top_section_count": 15,
+      "dominance": 0.3191,
       "romanized": "cal",
       "latin_candidates": [
         "alc",
@@ -547,25 +793,15 @@
       ]
     },
     {
-      "baseword": "lkaiin",
-      "total": 48,
-      "top_section": "unknown",
-      "top_section_count": 39,
-      "dominance": 0.8125,
-      "romanized": "lcaiin",
-      "latin_candidates": [
-        "lacini"
-      ]
-    },
-    {
-      "baseword": "tol",
+      "baseword": "shek",
       "total": 47,
-      "top_section": "herbal",
-      "top_section_count": 17,
-      "dominance": 0.3617,
-      "romanized": "tol",
+      "top_section": "biological",
+      "top_section_count": 20,
+      "dominance": 0.4255,
+      "romanized": "sec",
       "latin_candidates": [
-        "lot"
+        "esc",
+        "sec"
       ]
     },
     {
@@ -580,82 +816,11 @@
       ]
     },
     {
-      "baseword": "sheor",
+      "baseword": "chok",
       "total": 46,
-      "top_section": "unknown",
-      "top_section_count": 20,
-      "dominance": 0.4348,
-      "romanized": "seor",
-      "latin_candidates": [
-        "rose",
-        "sero"
-      ]
-    },
-    {
-      "baseword": "otchy",
-      "total": 45,
       "top_section": "herbal",
-      "top_section_count": 32,
-      "dominance": 0.7111,
-      "romanized": "otc",
-      "latin_candidates": [
-        "oct",
-        "toc"
-      ]
-    },
-    {
-      "baseword": "qotol",
-      "total": 43,
-      "top_section": "herbal",
-      "top_section_count": 20,
-      "dominance": 0.4651,
-      "romanized": "cotol",
-      "latin_candidates": [
-        "colot"
-      ]
-    },
-    {
-      "baseword": "cthor",
-      "total": 42,
-      "top_section": "herbal",
-      "top_section_count": 39,
-      "dominance": 0.9286,
-      "romanized": "cor",
-      "latin_candidates": [
-        "cor",
-        "orc"
-      ]
-    },
-    {
-      "baseword": "tar",
-      "total": 42,
-      "top_section": "unknown",
-      "top_section_count": 15,
-      "dominance": 0.3571,
-      "romanized": "tar",
-      "latin_candidates": [
-        "art",
-        "rat"
-      ]
-    },
-    {
-      "baseword": "kain",
-      "total": 42,
-      "top_section": "unknown",
-      "top_section_count": 19,
-      "dominance": 0.4524,
-      "romanized": "cain",
-      "latin_candidates": [
-        "acin",
-        "cani"
-      ]
-    },
-    {
-      "baseword": "choky",
-      "total": 40,
-      "top_section": "herbal",
-      "top_section_count": 23,
-      "dominance": 0.575,
+      "top_section_count": 27,
+      "dominance": 0.587,
       "romanized": "coc",
       "latin_candidates": [
         "coc",
@@ -663,34 +828,11 @@
       ]
     },
     {
-      "baseword": "lor",
-      "total": 40,
-      "top_section": "unknown",
-      "top_section_count": 21,
-      "dominance": 0.525,
-      "romanized": "lor",
-      "latin_candidates": [
-        "lor"
-      ]
-    },
-    {
-      "baseword": "ches",
-      "total": 40,
-      "top_section": "unknown",
-      "top_section_count": 18,
-      "dominance": 0.45,
-      "romanized": "ces",
-      "latin_candidates": [
-        "esc",
-        "sec"
-      ]
-    },
-    {
-      "baseword": "choty",
-      "total": 39,
+      "baseword": "chot",
+      "total": 46,
       "top_section": "herbal",
-      "top_section_count": 21,
-      "dominance": 0.5385,
+      "top_section_count": 24,
+      "dominance": 0.5217,
       "romanized": "cot",
       "latin_candidates": [
         "oct",
@@ -698,22 +840,68 @@
       ]
     },
     {
+      "baseword": "ches",
+      "total": 46,
+      "top_section": "unknown",
+      "top_section_count": 20,
+      "dominance": 0.4348,
+      "romanized": "ces",
+      "latin_candidates": [
+        "esc",
+        "sec"
+      ]
+    },
+    {
+      "baseword": "tchep",
+      "total": 46,
+      "top_section": "unknown",
+      "top_section_count": 17,
+      "dominance": 0.3696,
+      "romanized": "tcep",
+      "latin_candidates": [
+        "pect"
+      ]
+    },
+    {
       "baseword": "lol",
-      "total": 39,
+      "total": 45,
       "top_section": "biological",
-      "top_section_count": 22,
-      "dominance": 0.5641,
+      "top_section_count": 28,
+      "dominance": 0.6222,
       "romanized": "lol",
       "latin_candidates": [
         "oll"
       ]
     },
     {
+      "baseword": "cthor",
+      "total": 44,
+      "top_section": "herbal",
+      "top_section_count": 41,
+      "dominance": 0.9318,
+      "romanized": "cor",
+      "latin_candidates": [
+        "cor",
+        "orc"
+      ]
+    },
+    {
+      "baseword": "qotol",
+      "total": 44,
+      "top_section": "herbal",
+      "top_section_count": 20,
+      "dominance": 0.4545,
+      "romanized": "cotol",
+      "latin_candidates": [
+        "colot"
+      ]
+    },
+    {
       "baseword": "chos",
-      "total": 39,
+      "total": 43,
       "top_section": "unknown",
       "top_section_count": 20,
-      "dominance": 0.5128,
+      "dominance": 0.4651,
       "romanized": "cos",
       "latin_candidates": [
         "cos",
@@ -722,65 +910,158 @@
       ]
     },
     {
-      "baseword": "kol",
+      "baseword": "pchor",
+      "total": 42,
+      "top_section": "herbal",
+      "top_section_count": 30,
+      "dominance": 0.7143,
+      "romanized": "pcor",
+      "latin_candidates": [
+        "porc",
+        "proc"
+      ]
+    },
+    {
+      "baseword": "lor",
+      "total": 42,
+      "top_section": "unknown",
+      "top_section_count": 22,
+      "dominance": 0.5238,
+      "romanized": "lor",
+      "latin_candidates": [
+        "lor"
+      ]
+    },
+    {
+      "baseword": "chepar",
+      "total": 39,
+      "top_section": "unknown",
+      "top_section_count": 28,
+      "dominance": 0.7179,
+      "romanized": "cepar",
+      "latin_candidates": [
+        "caper",
+        "capre",
+        "parce"
+      ]
+    },
+    {
+      "baseword": "pchol",
       "total": 38,
       "top_section": "herbal",
-      "top_section_count": 26,
-      "dominance": 0.6842,
-      "romanized": "col",
+      "top_section_count": 20,
+      "dominance": 0.5263,
+      "romanized": "pcol",
       "latin_candidates": [
-        "col",
-        "loc"
+        "colp",
+        "pocl"
       ]
     },
     {
-      "baseword": "ykar",
-      "total": 36,
-      "top_section": "herbal",
+      "baseword": "keol",
+      "total": 38,
+      "top_section": "unknown",
       "top_section_count": 16,
-      "dominance": 0.4444,
-      "romanized": "car",
+      "dominance": 0.4211,
+      "romanized": "ceol",
       "latin_candidates": [
-        "acr",
-        "arc",
-        "car"
+        "celo",
+        "coel",
+        "cole",
+        "ocel"
       ]
     },
     {
-      "baseword": "sheky",
-      "total": 34,
-      "top_section": "biological",
-      "top_section_count": 14,
-      "dominance": 0.4118,
-      "romanized": "sec",
+      "baseword": "tor",
+      "total": 38,
+      "top_section": "herbal",
+      "top_section_count": 22,
+      "dominance": 0.5789,
+      "romanized": "tor",
       "latin_candidates": [
-        "esc",
-        "sec"
+        "ort",
+        "rot",
+        "tor"
       ]
     },
     {
-      "baseword": "qok",
+      "baseword": "qop",
+      "total": 37,
+      "top_section": "herbal",
+      "top_section_count": 19,
+      "dominance": 0.5135,
+      "romanized": "cop",
+      "latin_candidates": [
+        "cop"
+      ]
+    },
+    {
+      "baseword": "otchp",
+      "total": 35,
+      "top_section": "unknown",
+      "top_section_count": 10,
+      "dominance": 0.2857,
+      "romanized": "otcp",
+      "latin_candidates": [
+        "copt"
+      ]
+    },
+    {
+      "baseword": "otchep",
+      "total": 35,
+      "top_section": "unknown",
+      "top_section_count": 17,
+      "dominance": 0.4857,
+      "romanized": "otcep",
+      "latin_candidates": [
+        "coept"
+      ]
+    },
+    {
+      "baseword": "kor",
       "total": 34,
       "top_section": "herbal",
-      "top_section_count": 13,
-      "dominance": 0.3824,
-      "romanized": "coc",
+      "top_section_count": 20,
+      "dominance": 0.5882,
+      "romanized": "cor",
+      "latin_candidates": [
+        "cor",
+        "orc"
+      ]
+    },
+    {
+      "baseword": "tche",
+      "total": 34,
+      "top_section": "herbal",
+      "top_section_count": 17,
+      "dominance": 0.5,
+      "romanized": "tce",
+      "latin_candidates": [
+        "cet",
+        "etc"
+      ]
+    },
+    {
+      "baseword": "okch",
+      "total": 34,
+      "top_section": "herbal",
+      "top_section_count": 17,
+      "dominance": 0.5,
+      "romanized": "occ",
       "latin_candidates": [
         "coc",
         "occ"
       ]
     },
     {
-      "baseword": "chedar",
+      "baseword": "otche",
       "total": 34,
       "top_section": "unknown",
-      "top_section_count": 25,
-      "dominance": 0.7353,
-      "romanized": "cepar",
+      "top_section_count": 15,
+      "dominance": 0.4412,
+      "romanized": "otce",
       "latin_candidates": [
-        "caper",
-        "capre",
-        "parce"
+        "coet"
       ]
     },
     {
@@ -796,14 +1077,14 @@
       ]
     },
     {
-      "baseword": "otchey",
+      "baseword": "tchor",
       "total": 33,
-      "top_section": "unknown",
-      "top_section_count": 14,
-      "dominance": 0.4242,
-      "romanized": "otce",
+      "top_section": "herbal",
+      "top_section_count": 28,
+      "dominance": 0.8485,
+      "romanized": "tcor",
       "latin_candidates": [
-        "coet"
+        "cort"
       ]
     },
     {
@@ -818,7 +1099,7 @@
       ]
     },
     {
-      "baseword": "sheckhy",
+      "baseword": "sheckh",
       "total": 33,
       "top_section": "biological",
       "top_section_count": 20,
@@ -841,26 +1122,73 @@
       ]
     },
     {
-      "baseword": "okchey",
-      "total": 31,
+      "baseword": "sair",
+      "total": 32,
+      "top_section": "unknown",
+      "top_section_count": 15,
+      "dominance": 0.4688,
+      "romanized": "sair",
+      "latin_candidates": [
+        "aris",
+        "sari"
+      ]
+    },
+    {
+      "baseword": "okche",
+      "total": 32,
       "top_section": "herbal",
-      "top_section_count": 13,
-      "dominance": 0.4194,
+      "top_section_count": 14,
+      "dominance": 0.4375,
       "romanized": "occe",
       "latin_candidates": [
         "coec"
       ]
     },
     {
-      "baseword": "okchy",
-      "total": 31,
+      "baseword": "pche",
+      "total": 32,
       "top_section": "herbal",
+      "top_section_count": 14,
+      "dominance": 0.4375,
+      "romanized": "pce",
+      "latin_candidates": [
+        "cep",
+        "pec"
+      ]
+    },
+    {
+      "baseword": "cheal",
+      "total": 32,
+      "top_section": "unknown",
+      "top_section_count": 18,
+      "dominance": 0.5625,
+      "romanized": "ceal",
+      "latin_candidates": [
+        "alce",
+        "alec",
+        "cael"
+      ]
+    },
+    {
+      "baseword": "olp",
+      "total": 32,
+      "top_section": "biological",
+      "top_section_count": 12,
+      "dominance": 0.375,
+      "romanized": "olp",
+      "latin_candidates": [
+        "pol"
+      ]
+    },
+    {
+      "baseword": "kchep",
+      "total": 31,
+      "top_section": "unknown",
       "top_section_count": 16,
       "dominance": 0.5161,
-      "romanized": "occ",
+      "romanized": "ccep",
       "latin_candidates": [
-        "coc",
-        "occ"
+        "pecc"
       ]
     },
     {
@@ -886,30 +1214,6 @@
       ]
     },
     {
-      "baseword": "daly",
-      "total": 30,
-      "top_section": "text only",
-      "top_section_count": 8,
-      "dominance": 0.2667,
-      "romanized": "pal",
-      "latin_candidates": [
-        "pal"
-      ]
-    },
-    {
-      "baseword": "cheal",
-      "total": 29,
-      "top_section": "unknown",
-      "top_section_count": 17,
-      "dominance": 0.5862,
-      "romanized": "ceal",
-      "latin_candidates": [
-        "alce",
-        "alec",
-        "cael"
-      ]
-    },
-    {
       "baseword": "olor",
       "total": 29,
       "top_section": "biological",
@@ -921,52 +1225,38 @@
       ]
     },
     {
-      "baseword": "sair",
+      "baseword": "lkep",
       "total": 28,
       "top_section": "unknown",
-      "top_section_count": 11,
-      "dominance": 0.3929,
-      "romanized": "sair",
+      "top_section_count": 18,
+      "dominance": 0.6429,
+      "romanized": "lcep",
       "latin_candidates": [
-        "aris",
-        "sari"
+        "clep"
       ]
     },
     {
-      "baseword": "kal",
-      "total": 27,
+      "baseword": "teop",
+      "total": 26,
       "top_section": "unknown",
-      "top_section_count": 12,
-      "dominance": 0.4444,
-      "romanized": "cal",
+      "top_section_count": 11,
+      "dominance": 0.4231,
+      "romanized": "teop",
       "latin_candidates": [
-        "alc",
-        "cal",
-        "lac"
+        "epot",
+        "poet",
+        "pote"
       ]
     },
     {
-      "baseword": "kor",
+      "baseword": "qote",
       "total": 26,
-      "top_section": "herbal",
-      "top_section_count": 16,
-      "dominance": 0.6154,
-      "romanized": "cor",
+      "top_section": "unknown",
+      "top_section_count": 14,
+      "dominance": 0.5385,
+      "romanized": "cote",
       "latin_candidates": [
-        "cor",
-        "orc"
-      ]
-    },
-    {
-      "baseword": "dchor",
-      "total": 26,
-      "top_section": "herbal",
-      "top_section_count": 22,
-      "dominance": 0.8462,
-      "romanized": "pcor",
-      "latin_candidates": [
-        "porc",
-        "proc"
+        "coet"
       ]
     },
     {
@@ -982,16 +1272,53 @@
       ]
     },
     {
-      "baseword": "tal",
+      "baseword": "qokam",
+      "total": 26,
+      "top_section": "unknown",
+      "top_section_count": 12,
+      "dominance": 0.4615,
+      "romanized": "cocam",
+      "latin_candidates": [
+        "comac"
+      ]
+    },
+    {
+      "baseword": "olk",
       "total": 26,
       "top_section": "biological",
-      "top_section_count": 10,
-      "dominance": 0.3846,
-      "romanized": "tal",
+      "top_section_count": 14,
+      "dominance": 0.5385,
+      "romanized": "olc",
       "latin_candidates": [
-        "alt",
-        "lat",
-        "tal"
+        "col",
+        "loc"
+      ]
+    },
+    {
+      "baseword": "chpar",
+      "total": 26,
+      "top_section": "unknown",
+      "top_section_count": 14,
+      "dominance": 0.5385,
+      "romanized": "cpar",
+      "latin_candidates": [
+        "capr",
+        "carp",
+        "parc"
+      ]
+    },
+    {
+      "baseword": "olche",
+      "total": 26,
+      "top_section": "biological",
+      "top_section_count": 14,
+      "dominance": 0.5385,
+      "romanized": "olce",
+      "latin_candidates": [
+        "celo",
+        "coel",
+        "cole",
+        "ocel"
       ]
     },
     {
@@ -1006,72 +1333,23 @@
       ]
     },
     {
-      "baseword": "qokam",
+      "baseword": "kchor",
       "total": 25,
-      "top_section": "unknown",
-      "top_section_count": 12,
-      "dominance": 0.48,
-      "romanized": "cocam",
-      "latin_candidates": [
-        "comac"
-      ]
-    },
-    {
-      "baseword": "olchey",
-      "total": 25,
-      "top_section": "biological",
-      "top_section_count": 14,
-      "dominance": 0.56,
-      "romanized": "olce",
-      "latin_candidates": [
-        "celo",
-        "coel",
-        "cole",
-        "ocel"
-      ]
-    },
-    {
-      "baseword": "dchol",
-      "total": 24,
       "top_section": "herbal",
-      "top_section_count": 16,
-      "dominance": 0.6667,
-      "romanized": "pcol",
+      "top_section_count": 23,
+      "dominance": 0.92,
+      "romanized": "ccor",
       "latin_candidates": [
-        "colp",
-        "pocl"
+        "corc",
+        "croc"
       ]
     },
     {
-      "baseword": "chdar",
-      "total": 24,
+      "baseword": "chockh",
+      "total": 25,
       "top_section": "unknown",
       "top_section_count": 13,
-      "dominance": 0.5417,
-      "romanized": "cpar",
-      "latin_candidates": [
-        "capr",
-        "carp",
-        "parc"
-      ]
-    },
-    {
-      "baseword": "qotey",
-      "total": 23,
-      "top_section": "unknown",
-      "top_section_count": 12,
-      "dominance": 0.5217,
-      "romanized": "cote",
-      "latin_candidates": [
-        "coet"
-      ]
-    },
-    {
-      "baseword": "chockhy",
-      "total": 23,
-      "top_section": "unknown",
-      "top_section_count": 12,
-      "dominance": 0.5217,
+      "dominance": 0.52,
       "romanized": "coc",
       "latin_candidates": [
         "coc",
@@ -1079,7 +1357,52 @@
       ]
     },
     {
-      "baseword": "cheeky",
+      "baseword": "chpal",
+      "total": 25,
+      "top_section": "unknown",
+      "top_section_count": 11,
+      "dominance": 0.44,
+      "romanized": "cpal",
+      "latin_candidates": [
+        "plac"
+      ]
+    },
+    {
+      "baseword": "chet",
+      "total": 24,
+      "top_section": "herbal",
+      "top_section_count": 13,
+      "dominance": 0.5417,
+      "romanized": "cet",
+      "latin_candidates": [
+        "cet",
+        "etc"
+      ]
+    },
+    {
+      "baseword": "olshep",
+      "total": 24,
+      "top_section": "biological",
+      "top_section_count": 17,
+      "dominance": 0.7083,
+      "romanized": "olsep",
+      "latin_candidates": [
+        "lepos"
+      ]
+    },
+    {
+      "baseword": "ols",
+      "total": 23,
+      "top_section": "unknown",
+      "top_section_count": 9,
+      "dominance": 0.3913,
+      "romanized": "ols",
+      "latin_candidates": [
+        "sol"
+      ]
+    },
+    {
+      "baseword": "cheek",
       "total": 23,
       "top_section": "biological",
       "top_section_count": 10,
@@ -1090,100 +1413,107 @@
       ]
     },
     {
-      "baseword": "ytar",
-      "total": 23,
-      "top_section": "text only",
-      "top_section_count": 9,
-      "dominance": 0.3913,
-      "romanized": "tar",
-      "latin_candidates": [
-        "art",
-        "rat"
-      ]
-    },
-    {
-      "baseword": "okaly",
-      "total": 23,
-      "top_section": "unknown",
-      "top_section_count": 10,
-      "dominance": 0.4348,
-      "romanized": "ocal",
-      "latin_candidates": [
-        "calo",
-        "coal"
-      ]
-    },
-    {
-      "baseword": "olky",
+      "baseword": "shecth",
       "total": 23,
       "top_section": "biological",
+      "top_section_count": 12,
+      "dominance": 0.5217,
+      "romanized": "sec",
+      "latin_candidates": [
+        "esc",
+        "sec"
+      ]
+    },
+    {
+      "baseword": "rar",
+      "total": 23,
+      "top_section": "unknown",
+      "top_section_count": 17,
+      "dominance": 0.7391,
+      "romanized": "rar",
+      "latin_candidates": [
+        "arr",
+        "rar"
+      ]
+    },
+    {
+      "baseword": "tain",
+      "total": 22,
+      "top_section": "unknown",
+      "top_section_count": 11,
+      "dominance": 0.5,
+      "romanized": "tain",
+      "latin_candidates": [
+        "anti"
+      ]
+    },
+    {
+      "baseword": "top",
+      "total": 22,
+      "top_section": "herbal",
       "top_section_count": 13,
-      "dominance": 0.5652,
-      "romanized": "olc",
+      "dominance": 0.5909,
+      "romanized": "top",
+      "latin_candidates": [
+        "opt",
+        "pot"
+      ]
+    },
+    {
+      "baseword": "chain",
+      "total": 22,
+      "top_section": "herbal",
+      "top_section_count": 13,
+      "dominance": 0.5909,
+      "romanized": "cain",
+      "latin_candidates": [
+        "acin",
+        "cani"
+      ]
+    },
+    {
+      "baseword": "ckhol",
+      "total": 22,
+      "top_section": "herbal",
+      "top_section_count": 16,
+      "dominance": 0.7273,
+      "romanized": "col",
       "latin_candidates": [
         "col",
         "loc"
       ]
     },
     {
-      "baseword": "tchey",
+      "baseword": "teol",
       "total": 22,
-      "top_section": "herbal",
+      "top_section": "unknown",
+      "top_section_count": 9,
+      "dominance": 0.4091,
+      "romanized": "teol",
+      "latin_candidates": [
+        "telo"
+      ]
+    },
+    {
+      "baseword": "okair",
+      "total": 22,
+      "top_section": "unknown",
       "top_section_count": 10,
       "dominance": 0.4545,
-      "romanized": "tce",
+      "romanized": "ocair",
       "latin_candidates": [
-        "cet",
-        "etc"
+        "acori"
       ]
     },
     {
-      "baseword": "chety",
+      "baseword": "aral",
       "total": 22,
-      "top_section": "herbal",
-      "top_section_count": 12,
-      "dominance": 0.5455,
-      "romanized": "cet",
+      "top_section": "unknown",
+      "top_section_count": 11,
+      "dominance": 0.5,
+      "romanized": "aral",
       "latin_candidates": [
-        "cet",
-        "etc"
-      ]
-    },
-    {
-      "baseword": "tchor",
-      "total": 22,
-      "top_section": "herbal",
-      "top_section_count": 18,
-      "dominance": 0.8182,
-      "romanized": "tcor",
-      "latin_candidates": [
-        "cort"
-      ]
-    },
-    {
-      "baseword": "tor",
-      "total": 22,
-      "top_section": "herbal",
-      "top_section_count": 12,
-      "dominance": 0.5455,
-      "romanized": "tor",
-      "latin_candidates": [
-        "ort",
-        "rot",
-        "tor"
-      ]
-    },
-    {
-      "baseword": "dary",
-      "total": 22,
-      "top_section": "herbal",
-      "top_section_count": 8,
-      "dominance": 0.3636,
-      "romanized": "par",
-      "latin_candidates": [
-        "apr",
-        "par",
-        "rap"
+        "alar"
       ]
     },
     {
@@ -1198,53 +1528,50 @@
       ]
     },
     {
-      "baseword": "keol",
+      "baseword": "kair",
       "total": 21,
-      "top_section": "herbal",
-      "top_section_count": 10,
-      "dominance": 0.4762,
-      "romanized": "ceol",
+      "top_section": "unknown",
+      "top_section_count": 11,
+      "dominance": 0.5238,
+      "romanized": "cair",
       "latin_candidates": [
-        "celo",
-        "coel",
-        "cole",
-        "ocel"
+        "arci",
+        "cari"
       ]
     },
     {
-      "baseword": "qot",
-      "total": 21,
-      "top_section": "herbal",
-      "top_section_count": 16,
-      "dominance": 0.7619,
-      "romanized": "cot",
-      "latin_candidates": [
-        "oct",
-        "toc"
-      ]
-    },
-    {
-      "baseword": "ckhol",
+      "baseword": "chocth",
       "total": 21,
       "top_section": "herbal",
       "top_section_count": 15,
       "dominance": 0.7143,
-      "romanized": "col",
+      "romanized": "coc",
       "latin_candidates": [
-        "col",
-        "loc"
+        "coc",
+        "occ"
       ]
     },
     {
-      "baseword": "ched",
+      "baseword": "palp",
       "total": 21,
-      "top_section": "unknown",
-      "top_section_count": 9,
-      "dominance": 0.4286,
-      "romanized": "cep",
+      "top_section": "biological",
+      "top_section_count": 6,
+      "dominance": 0.2857,
+      "romanized": "palp",
       "latin_candidates": [
-        "cep",
-        "pec"
+        "lapp",
+        "palp"
+      ]
+    },
+    {
+      "baseword": "alp",
+      "total": 21,
+      "top_section": "herbal",
+      "top_section_count": 7,
+      "dominance": 0.3333,
+      "romanized": "alp",
+      "latin_candidates": [
+        "pal"
       ]
     },
     {
@@ -1272,37 +1599,25 @@
       ]
     },
     {
-      "baseword": "ols",
+      "baseword": "okop",
       "total": 20,
-      "top_section": "unknown",
-      "top_section_count": 7,
-      "dominance": 0.35,
-      "romanized": "ols",
+      "top_section": "cosmological",
+      "top_section_count": 9,
+      "dominance": 0.45,
+      "romanized": "ocop",
       "latin_candidates": [
-        "sol"
+        "copo"
       ]
     },
     {
-      "baseword": "pol",
+      "baseword": "rol",
       "total": 20,
       "top_section": "biological",
-      "top_section_count": 8,
-      "dominance": 0.4,
-      "romanized": "pol",
+      "top_section_count": 11,
+      "dominance": 0.55,
+      "romanized": "rol",
       "latin_candidates": [
-        "pol"
-      ]
-    },
-    {
-      "baseword": "kchor",
-      "total": 20,
-      "top_section": "herbal",
-      "top_section_count": 18,
-      "dominance": 0.9,
-      "romanized": "ccor",
-      "latin_candidates": [
-        "corc",
-        "croc"
+        "lor"
       ]
     },
     {
@@ -1318,52 +1633,18 @@
       ]
     },
     {
-      "baseword": "shecthy",
-      "total": 20,
-      "top_section": "biological",
-      "top_section_count": 11,
-      "dominance": 0.55,
-      "romanized": "sec",
-      "latin_candidates": [
-        "esc",
-        "sec"
-      ]
-    },
-    {
-      "baseword": "okair",
+      "baseword": "chepain",
       "total": 20,
       "top_section": "unknown",
-      "top_section_count": 8,
-      "dominance": 0.4,
-      "romanized": "ocair",
+      "top_section_count": 16,
+      "dominance": 0.8,
+      "romanized": "cepain",
       "latin_candidates": [
-        "acori"
+        "caepin"
       ]
     },
     {
-      "baseword": "aral",
-      "total": 20,
-      "top_section": "unknown",
-      "top_section_count": 10,
-      "dominance": 0.5,
-      "romanized": "aral",
-      "latin_candidates": [
-        "alar"
-      ]
-    },
-    {
-      "baseword": "shed",
-      "total": 20,
-      "top_section": "unknown",
-      "top_section_count": 10,
-      "dominance": 0.5,
-      "romanized": "sep",
-      "latin_candidates": [
-        "pes"
-      ]
-    },
-    {
-      "baseword": "dan",
+      "baseword": "pan",
       "total": 19,
       "top_section": "herbal",
       "top_section_count": 15,
@@ -1374,64 +1655,73 @@
       ]
     },
     {
-      "baseword": "chocthy",
+      "baseword": "chpaiin",
       "total": 19,
-      "top_section": "herbal",
-      "top_section_count": 13,
-      "dominance": 0.6842,
-      "romanized": "coc",
-      "latin_candidates": [
-        "coc",
-        "occ"
-      ]
-    },
-    {
-      "baseword": "chain",
-      "total": 19,
-      "top_section": "herbal",
+      "top_section": "unknown",
       "top_section_count": 11,
       "dominance": 0.5789,
-      "romanized": "cain",
+      "romanized": "cpaiin",
       "latin_candidates": [
-        "acin",
-        "cani"
+        "panici"
       ]
     },
     {
-      "baseword": "rol",
-      "total": 19,
-      "top_section": "biological",
-      "top_section_count": 10,
-      "dominance": 0.5263,
-      "romanized": "rol",
-      "latin_candidates": [
-        "lor"
-      ]
-    },
-    {
-      "baseword": "chdal",
+      "baseword": "sheal",
       "total": 19,
       "top_section": "unknown",
-      "top_section_count": 7,
-      "dominance": 0.3684,
-      "romanized": "cpal",
+      "top_section_count": 11,
+      "dominance": 0.5789,
+      "romanized": "seal",
       "latin_candidates": [
-        "plac"
+        "ales"
       ]
     },
     {
-      "baseword": "chedain",
+      "baseword": "cthop",
       "total": 19,
-      "top_section": "unknown",
+      "top_section": "herbal",
       "top_section_count": 15,
       "dominance": 0.7895,
-      "romanized": "cepain",
+      "romanized": "cop",
       "latin_candidates": [
-        "caepin"
+        "cop"
       ]
     },
     {
-      "baseword": "qotchey",
+      "baseword": "tam",
+      "total": 19,
+      "top_section": "herbal",
+      "top_section_count": 8,
+      "dominance": 0.4211,
+      "romanized": "tam",
+      "latin_candidates": [
+        "tam"
+      ]
+    },
+    {
+      "baseword": "ral",
+      "total": 19,
+      "top_section": "unknown",
+      "top_section_count": 10,
+      "dominance": 0.5263,
+      "romanized": "ral",
+      "latin_candidates": [
+        "lar"
+      ]
+    },
+    {
+      "baseword": "cham",
+      "total": 18,
+      "top_section": "herbal",
+      "top_section_count": 10,
+      "dominance": 0.5556,
+      "romanized": "cam",
+      "latin_candidates": [
+        "cam"
+      ]
+    },
+    {
+      "baseword": "qotche",
       "total": 18,
       "top_section": "herbal",
       "top_section_count": 9,
@@ -1442,18 +1732,18 @@
       ]
     },
     {
-      "baseword": "sheal",
+      "baseword": "opch",
       "total": 18,
-      "top_section": "unknown",
-      "top_section_count": 11,
-      "dominance": 0.6111,
-      "romanized": "seal",
+      "top_section": "herbal",
+      "top_section_count": 9,
+      "dominance": 0.5,
+      "romanized": "opc",
       "latin_candidates": [
-        "ales"
+        "cop"
       ]
     },
     {
-      "baseword": "qockhy",
+      "baseword": "qockh",
       "total": 18,
       "top_section": "unknown",
       "top_section_count": 8,
@@ -1465,7 +1755,19 @@
       ]
     },
     {
-      "baseword": "qockhey",
+      "baseword": "shal",
+      "total": 18,
+      "top_section": "unknown",
+      "top_section_count": 9,
+      "dominance": 0.5,
+      "romanized": "sal",
+      "latin_candidates": [
+        "als",
+        "sal"
+      ]
+    },
+    {
+      "baseword": "qockhe",
       "total": 18,
       "top_section": "unknown",
       "top_section_count": 10,
@@ -1476,73 +1778,16 @@
       ]
     },
     {
-      "baseword": "cham",
-      "total": 17,
+      "baseword": "cthar",
+      "total": 16,
       "top_section": "herbal",
-      "top_section_count": 9,
-      "dominance": 0.5294,
-      "romanized": "cam",
+      "top_section_count": 11,
+      "dominance": 0.6875,
+      "romanized": "car",
       "latin_candidates": [
-        "cam"
-      ]
-    },
-    {
-      "baseword": "dchey",
-      "total": 17,
-      "top_section": "herbal",
-      "top_section_count": 10,
-      "dominance": 0.5882,
-      "romanized": "pce",
-      "latin_candidates": [
-        "cep",
-        "pec"
-      ]
-    },
-    {
-      "baseword": "choly",
-      "total": 17,
-      "top_section": "herbal",
-      "top_section_count": 9,
-      "dominance": 0.5294,
-      "romanized": "col",
-      "latin_candidates": [
-        "col",
-        "loc"
-      ]
-    },
-    {
-      "baseword": "rar",
-      "total": 17,
-      "top_section": "unknown",
-      "top_section_count": 12,
-      "dominance": 0.7059,
-      "romanized": "rar",
-      "latin_candidates": [
-        "arr",
-        "rar"
-      ]
-    },
-    {
-      "baseword": "chdaiin",
-      "total": 17,
-      "top_section": "unknown",
-      "top_section_count": 10,
-      "dominance": 0.5882,
-      "romanized": "cpaiin",
-      "latin_candidates": [
-        "panici"
-      ]
-    },
-    {
-      "baseword": "qokaly",
-      "total": 17,
-      "top_section": "text only",
-      "top_section_count": 7,
-      "dominance": 0.4118,
-      "romanized": "cocal",
-      "latin_candidates": [
-        "accol",
-        "cloac"
+        "acr",
+        "arc",
+        "car"
       ]
     },
     {
@@ -1558,15 +1803,25 @@
       ]
     },
     {
-      "baseword": "shal",
+      "baseword": "chokch",
       "total": 16,
-      "top_section": "unknown",
-      "top_section_count": 8,
-      "dominance": 0.5,
-      "romanized": "sal",
+      "top_section": "herbal",
+      "top_section_count": 13,
+      "dominance": 0.8125,
+      "romanized": "cocc",
       "latin_candidates": [
-        "als",
-        "sal"
+        "cocc"
+      ]
+    },
+    {
+      "baseword": "pchee",
+      "total": 16,
+      "top_section": "herbal",
+      "top_section_count": 9,
+      "dominance": 0.5625,
+      "romanized": "pcee",
+      "latin_candidates": [
+        "cepe"
       ]
     },
     {
@@ -1581,83 +1836,127 @@
       ]
     },
     {
-      "baseword": "teol",
-      "total": 16,
-      "top_section": "unknown",
-      "top_section_count": 7,
-      "dominance": 0.4375,
-      "romanized": "teol",
-      "latin_candidates": [
-        "telo"
-      ]
-    },
-    {
-      "baseword": "ral",
+      "baseword": "tair",
       "total": 16,
       "top_section": "unknown",
       "top_section_count": 8,
       "dominance": 0.5,
-      "romanized": "ral",
+      "romanized": "tair",
       "latin_candidates": [
-        "lar"
+        "arti",
+        "atri",
+        "irat",
+        "tiar"
       ]
     },
     {
-      "baseword": "cthar",
-      "total": 15,
-      "top_section": "herbal",
-      "top_section_count": 10,
-      "dominance": 0.6667,
-      "romanized": "car",
+      "baseword": "ror",
+      "total": 16,
+      "top_section": "unknown",
+      "top_section_count": 8,
+      "dominance": 0.5,
+      "romanized": "ror",
       "latin_candidates": [
-        "acr",
-        "arc",
-        "car"
+        "ror"
       ]
     },
     {
-      "baseword": "ychor",
-      "total": 15,
-      "top_section": "herbal",
-      "top_section_count": 11,
-      "dominance": 0.7333,
-      "romanized": "cor",
-      "latin_candidates": [
-        "cor",
-        "orc"
-      ]
-    },
-    {
-      "baseword": "chokchy",
+      "baseword": "kcho",
       "total": 15,
       "top_section": "herbal",
       "top_section_count": 12,
       "dominance": 0.8,
-      "romanized": "cocc",
+      "romanized": "cco",
       "latin_candidates": [
-        "cocc"
+        "coc",
+        "occ"
       ]
     },
     {
-      "baseword": "ytal",
+      "baseword": "tchop",
       "total": 15,
-      "top_section": "text only",
-      "top_section_count": 7,
-      "dominance": 0.4667,
-      "romanized": "tal",
+      "top_section": "herbal",
+      "top_section_count": 13,
+      "dominance": 0.8667,
+      "romanized": "tcop",
       "latin_candidates": [
-        "alt",
-        "lat",
-        "tal"
+        "copt"
       ]
     },
     {
-      "baseword": "ykeol",
+      "baseword": "keo",
       "total": 15,
       "top_section": "unknown",
-      "top_section_count": 7,
-      "dominance": 0.4667,
-      "romanized": "ceol",
+      "top_section_count": 6,
+      "dominance": 0.4,
+      "romanized": "ceo",
+      "latin_candidates": [
+        "coe"
+      ]
+    },
+    {
+      "baseword": "tcho",
+      "total": 14,
+      "top_section": "herbal",
+      "top_section_count": 12,
+      "dominance": 0.8571,
+      "romanized": "tco",
+      "latin_candidates": [
+        "oct",
+        "toc"
+      ]
+    },
+    {
+      "baseword": "chom",
+      "total": 14,
+      "top_section": "herbal",
+      "top_section_count": 12,
+      "dominance": 0.8571,
+      "romanized": "com",
+      "latin_candidates": [
+        "com"
+      ]
+    },
+    {
+      "baseword": "sheos",
+      "total": 14,
+      "top_section": "herbal",
+      "top_section_count": 5,
+      "dominance": 0.3571,
+      "romanized": "seos",
+      "latin_candidates": [
+        "osse"
+      ]
+    },
+    {
+      "baseword": "chkal",
+      "total": 14,
+      "top_section": "unknown",
+      "top_section_count": 9,
+      "dominance": 0.6429,
+      "romanized": "ccal",
+      "latin_candidates": [
+        "calc"
+      ]
+    },
+    {
+      "baseword": "tshep",
+      "total": 14,
+      "top_section": "biological",
+      "top_section_count": 4,
+      "dominance": 0.2857,
+      "romanized": "tsep",
+      "latin_candidates": [
+        "sept"
+      ]
+    },
+    {
+      "baseword": "olke",
+      "total": 14,
+      "top_section": "biological",
+      "top_section_count": 4,
+      "dominance": 0.2857,
+      "romanized": "olce",
       "latin_candidates": [
         "celo",
         "coel",
@@ -1666,76 +1965,64 @@
       ]
     },
     {
-      "baseword": "ror",
-      "total": 15,
+      "baseword": "olkal",
+      "total": 14,
+      "top_section": "biological",
+      "top_section_count": 6,
+      "dominance": 0.4286,
+      "romanized": "olcal",
+      "latin_candidates": [
+        "alloc",
+        "local"
+      ]
+    },
+    {
+      "baseword": "otepar",
+      "total": 14,
       "top_section": "unknown",
-      "top_section_count": 8,
-      "dominance": 0.5333,
-      "romanized": "ror",
-      "latin_candidates": [
-        "ror"
-      ]
-    },
-    {
-      "baseword": "ykol",
-      "total": 14,
-      "top_section": "herbal",
-      "top_section_count": 10,
-      "dominance": 0.7143,
-      "romanized": "col",
-      "latin_candidates": [
-        "col",
-        "loc"
-      ]
-    },
-    {
-      "baseword": "ytor",
-      "total": 14,
-      "top_section": "herbal",
-      "top_section_count": 10,
-      "dominance": 0.7143,
-      "romanized": "tor",
-      "latin_candidates": [
-        "ort",
-        "rot",
-        "tor"
-      ]
-    },
-    {
-      "baseword": "opchy",
-      "total": 14,
-      "top_section": "herbal",
-      "top_section_count": 7,
-      "dominance": 0.5,
-      "romanized": "opc",
-      "latin_candidates": [
-        "cop"
-      ]
-    },
-    {
-      "baseword": "ytain",
-      "total": 13,
-      "top_section": "unknown",
-      "top_section_count": 5,
-      "dominance": 0.3846,
-      "romanized": "tain",
-      "latin_candidates": [
-        "anti"
-      ]
-    },
-    {
-      "baseword": "chom",
-      "total": 13,
-      "top_section": "herbal",
       "top_section_count": 11,
-      "dominance": 0.8462,
-      "romanized": "com",
+      "dominance": 0.7857,
+      "romanized": "otepar",
       "latin_candidates": [
-        "com"
+        "tropae"
       ]
     },
     {
-      "baseword": "chkeey",
+      "baseword": "poiin",
+      "total": 13,
+      "top_section": "herbal",
+      "top_section_count": 8,
+      "dominance": 0.6154,
+      "romanized": "poiin",
+      "latin_candidates": [
+        "inopi"
+      ]
+    },
+    {
+      "baseword": "cholp",
+      "total": 13,
+      "top_section": "herbal",
+      "top_section_count": 6,
+      "dominance": 0.4615,
+      "romanized": "colp",
+      "latin_candidates": [
+        "colp",
+        "pocl"
+      ]
+    },
+    {
+      "baseword": "keor",
+      "total": 13,
+      "top_section": "herbal",
+      "top_section_count": 8,
+      "dominance": 0.6154,
+      "romanized": "ceor",
+      "latin_candidates": [
+        "ocre"
+      ]
+    },
+    {
+      "baseword": "chkee",
       "total": 13,
       "top_section": "herbal",
       "top_section_count": 8,
@@ -1746,18 +2033,18 @@
       ]
     },
     {
-      "baseword": "ytol",
+      "baseword": "qotop",
       "total": 13,
-      "top_section": "herbal",
-      "top_section_count": 11,
-      "dominance": 0.8462,
-      "romanized": "tol",
+      "top_section": "unknown",
+      "top_section_count": 6,
+      "dominance": 0.4615,
+      "romanized": "cotop",
       "latin_candidates": [
-        "lot"
+        "coopt"
       ]
     },
     {
-      "baseword": "dshor",
+      "baseword": "pshor",
       "total": 13,
       "top_section": "herbal",
       "top_section_count": 8,
@@ -1769,21 +2056,52 @@
       ]
     },
     {
-      "baseword": "olkey",
+      "baseword": "pshe",
+      "total": 13,
+      "top_section": "herbal",
+      "top_section_count": 8,
+      "dominance": 0.6154,
+      "romanized": "pse",
+      "latin_candidates": [
+        "pes"
+      ]
+    },
+    {
+      "baseword": "cthep",
+      "total": 13,
+      "top_section": "unknown",
+      "top_section_count": 6,
+      "dominance": 0.4615,
+      "romanized": "cep",
+      "latin_candidates": [
+        "cep",
+        "pec"
+      ]
+    },
+    {
+      "baseword": "shet",
       "total": 13,
       "top_section": "biological",
       "top_section_count": 4,
       "dominance": 0.3077,
-      "romanized": "olce",
+      "romanized": "set",
       "latin_candidates": [
-        "celo",
-        "coel",
-        "cole",
-        "ocel"
+        "set"
       ]
     },
     {
-      "baseword": "olshey",
+      "baseword": "cheok",
+      "total": 13,
+      "top_section": "unknown",
+      "top_section_count": 6,
+      "dominance": 0.4615,
+      "romanized": "ceoc",
+      "latin_candidates": [
+        "coec"
+      ]
+    },
+    {
+      "baseword": "olshe",
       "total": 13,
       "top_section": "biological",
       "top_section_count": 8,
@@ -1794,38 +2112,38 @@
       ]
     },
     {
-      "baseword": "otedar",
-      "total": 13,
-      "top_section": "unknown",
-      "top_section_count": 10,
-      "dominance": 0.7692,
-      "romanized": "otepar",
-      "latin_candidates": [
-        "tropae"
-      ]
-    },
-    {
-      "baseword": "olkal",
+      "baseword": "orol",
       "total": 13,
       "top_section": "biological",
-      "top_section_count": 6,
-      "dominance": 0.4615,
-      "romanized": "olcal",
+      "top_section_count": 7,
+      "dominance": 0.5385,
+      "romanized": "orol",
       "latin_candidates": [
-        "alloc",
-        "local"
+        "olor"
       ]
     },
     {
-      "baseword": "kair",
+      "baseword": "kop",
+      "total": 12,
+      "top_section": "herbal",
+      "top_section_count": 6,
+      "dominance": 0.5,
+      "romanized": "cop",
+      "latin_candidates": [
+        "cop"
+      ]
+    },
+    {
+      "baseword": "shok",
       "total": 12,
       "top_section": "unknown",
-      "top_section_count": 7,
-      "dominance": 0.5833,
-      "romanized": "cair",
+      "top_section_count": 4,
+      "dominance": 0.3333,
+      "romanized": "soc",
       "latin_candidates": [
-        "arci",
-        "cari"
+        "cos",
+        "osc",
+        "soc"
       ]
     },
     {
@@ -1842,18 +2160,6 @@
       ]
     },
     {
-      "baseword": "pchor",
-      "total": 12,
-      "top_section": "herbal",
-      "top_section_count": 6,
-      "dominance": 0.5,
-      "romanized": "pcor",
-      "latin_candidates": [
-        "porc",
-        "proc"
-      ]
-    },
-    {
       "baseword": "sam",
       "total": 12,
       "top_section": "unknown",
@@ -1862,18 +2168,6 @@
       "romanized": "sam",
       "latin_candidates": [
         "mas"
-      ]
-    },
-    {
-      "baseword": "ytchey",
-      "total": 12,
-      "top_section": "herbal",
-      "top_section_count": 7,
-      "dominance": 0.5833,
-      "romanized": "tce",
-      "latin_candidates": [
-        "cet",
-        "etc"
       ]
     },
     {
@@ -1889,18 +2183,7 @@
       ]
     },
     {
-      "baseword": "dcheey",
-      "total": 12,
-      "top_section": "herbal",
-      "top_section_count": 6,
-      "dominance": 0.5,
-      "romanized": "pcee",
-      "latin_candidates": [
-        "cepe"
-      ]
-    },
-    {
-      "baseword": "chotchy",
+      "baseword": "chotch",
       "total": 12,
       "top_section": "herbal",
       "top_section_count": 12,
@@ -1922,7 +2205,18 @@
       ]
     },
     {
-      "baseword": "shocthy",
+      "baseword": "kam",
+      "total": 12,
+      "top_section": "herbal",
+      "top_section_count": 6,
+      "dominance": 0.5,
+      "romanized": "cam",
+      "latin_candidates": [
+        "cam"
+      ]
+    },
+    {
+      "baseword": "shocth",
       "total": 12,
       "top_section": "herbal",
       "top_section_count": 7,
@@ -1947,18 +2241,30 @@
       ]
     },
     {
-      "baseword": "sheos",
+      "baseword": "pchepar",
       "total": 12,
-      "top_section": "unknown",
-      "top_section_count": 5,
-      "dominance": 0.4167,
-      "romanized": "seos",
+      "top_section": "biological",
+      "top_section_count": 4,
+      "dominance": 0.3333,
+      "romanized": "pcepar",
       "latin_candidates": [
-        "osse"
+        "apprec",
+        "perpac"
       ]
     },
     {
-      "baseword": "shedal",
+      "baseword": "checkhe",
+      "total": 12,
+      "top_section": "unknown",
+      "top_section_count": 7,
+      "dominance": 0.5833,
+      "romanized": "cece",
+      "latin_candidates": [
+        "ecce"
+      ]
+    },
+    {
+      "baseword": "shepal",
       "total": 12,
       "top_section": "biological",
       "top_section_count": 7,
@@ -1970,29 +2276,30 @@
       ]
     },
     {
-      "baseword": "ytam",
+      "baseword": "chekal",
       "total": 12,
       "top_section": "herbal",
-      "top_section_count": 4,
-      "dominance": 0.3333,
-      "romanized": "tam",
+      "top_section_count": 6,
+      "dominance": 0.5,
+      "romanized": "cecal",
       "latin_candidates": [
-        "tam"
+        "calce",
+        "calec"
       ]
     },
     {
-      "baseword": "chkal",
+      "baseword": "oral",
       "total": 12,
       "top_section": "unknown",
-      "top_section_count": 8,
-      "dominance": 0.6667,
-      "romanized": "ccal",
+      "top_section_count": 5,
+      "dominance": 0.4167,
+      "romanized": "oral",
       "latin_candidates": [
-        "calc"
+        "oral"
       ]
     },
     {
-      "baseword": "shedain",
+      "baseword": "shepain",
       "total": 12,
       "top_section": "unknown",
       "top_section_count": 10,
@@ -2000,20 +2307,6 @@
       "romanized": "sepain",
       "latin_candidates": [
         "sapine"
-      ]
-    },
-    {
-      "baseword": "tair",
-      "total": 12,
-      "top_section": "unknown",
-      "top_section_count": 8,
-      "dominance": 0.6667,
-      "romanized": "tair",
-      "latin_candidates": [
-        "arti",
-        "atri",
-        "irat",
-        "tiar"
       ]
     },
     {
@@ -2029,42 +2322,18 @@
       ]
     },
     {
-      "baseword": "orol",
-      "total": 12,
-      "top_section": "biological",
-      "top_section_count": 6,
-      "dominance": 0.5,
-      "romanized": "orol",
-      "latin_candidates": [
-        "olor"
-      ]
-    },
-    {
-      "baseword": "ykal",
+      "baseword": "shos",
       "total": 11,
-      "top_section": "text only",
-      "top_section_count": 5,
-      "dominance": 0.4545,
-      "romanized": "cal",
+      "top_section": "herbal",
+      "top_section_count": 7,
+      "dominance": 0.6364,
+      "romanized": "sos",
       "latin_candidates": [
-        "alc",
-        "cal",
-        "lac"
+        "oss"
       ]
     },
     {
-      "baseword": "shod",
-      "total": 11,
-      "top_section": "unknown",
-      "top_section_count": 5,
-      "dominance": 0.4545,
-      "romanized": "sop",
-      "latin_candidates": [
-        "ops"
-      ]
-    },
-    {
-      "baseword": "shckhey",
+      "baseword": "shckhe",
       "total": 11,
       "top_section": "biological",
       "top_section_count": 5,
@@ -2076,16 +2345,16 @@
       ]
     },
     {
-      "baseword": "okary",
+      "baseword": "pals",
       "total": 11,
-      "top_section": "unknown",
-      "top_section_count": 5,
-      "dominance": 0.4545,
-      "romanized": "ocar",
+      "top_section": "herbal",
+      "top_section_count": 6,
+      "dominance": 0.5455,
+      "romanized": "pals",
       "latin_candidates": [
-        "acor",
-        "acro",
-        "caro"
+        "laps",
+        "plas",
+        "salp"
       ]
     },
     {
@@ -2097,30 +2366,6 @@
       "romanized": "aram",
       "latin_candidates": [
         "amar"
-      ]
-    },
-    {
-      "baseword": "chory",
-      "total": 11,
-      "top_section": "herbal",
-      "top_section_count": 9,
-      "dominance": 0.8182,
-      "romanized": "cor",
-      "latin_candidates": [
-        "cor",
-        "orc"
-      ]
-    },
-    {
-      "baseword": "sheod",
-      "total": 11,
-      "top_section": "unknown",
-      "top_section_count": 6,
-      "dominance": 0.5455,
-      "romanized": "seop",
-      "latin_candidates": [
-        "epos",
-        "pose"
       ]
     },
     {
@@ -2149,7 +2394,7 @@
       ]
     },
     {
-      "baseword": "okshy",
+      "baseword": "oksh",
       "total": 11,
       "top_section": "herbal",
       "top_section_count": 7,
@@ -2162,74 +2407,144 @@
       ]
     },
     {
-      "baseword": "ycheol",
-      "total": 11,
-      "top_section": "unknown",
-      "top_section_count": 7,
-      "dominance": 0.6364,
-      "romanized": "ceol",
-      "latin_candidates": [
-        "celo",
-        "coel",
-        "cole",
-        "ocel"
-      ]
-    },
-    {
-      "baseword": "ykain",
-      "total": 11,
-      "top_section": "herbal",
-      "top_section_count": 4,
-      "dominance": 0.3636,
-      "romanized": "cain",
-      "latin_candidates": [
-        "acin",
-        "cani"
-      ]
-    },
-    {
-      "baseword": "dshey",
-      "total": 11,
-      "top_section": "herbal",
-      "top_section_count": 6,
-      "dominance": 0.5455,
-      "romanized": "pse",
-      "latin_candidates": [
-        "pes"
-      ]
-    },
-    {
-      "baseword": "pchedar",
+      "baseword": "olch",
       "total": 11,
       "top_section": "biological",
       "top_section_count": 4,
       "dominance": 0.3636,
-      "romanized": "pcepar",
+      "romanized": "olc",
       "latin_candidates": [
-        "apprec",
-        "perpac"
+        "col",
+        "loc"
       ]
     },
     {
-      "baseword": "checkhey",
+      "baseword": "pop",
+      "total": 11,
+      "top_section": "herbal",
+      "top_section_count": 8,
+      "dominance": 0.7273,
+      "romanized": "pop",
+      "latin_candidates": [
+        "pop"
+      ]
+    },
+    {
+      "baseword": "rchep",
+      "total": 11,
+      "top_section": "biological",
+      "top_section_count": 7,
+      "dominance": 0.6364,
+      "romanized": "rcep",
+      "latin_candidates": [
+        "crep",
+        "perc",
+        "prec"
+      ]
+    },
+    {
+      "baseword": "oram",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 6,
+      "dominance": 0.5455,
+      "romanized": "oram",
+      "latin_candidates": [
+        "amor",
+        "maro"
+      ]
+    },
+    {
+      "baseword": "kolp",
+      "total": 11,
+      "top_section": "herbal",
+      "top_section_count": 5,
+      "dominance": 0.4545,
+      "romanized": "colp",
+      "latin_candidates": [
+        "colp",
+        "pocl"
+      ]
+    },
+    {
+      "baseword": "chotar",
       "total": 11,
       "top_section": "unknown",
       "top_section_count": 7,
       "dominance": 0.6364,
-      "romanized": "cece",
+      "romanized": "cotar",
       "latin_candidates": [
-        "ecce"
+        "actor",
+        "arcto",
+        "carot",
+        "coart"
       ]
     },
     {
-      "baseword": "ycheo",
+      "baseword": "arar",
       "total": 11,
       "top_section": "unknown",
-      "top_section_count": 9,
-      "dominance": 0.8182,
-      "romanized": "ceo",
+      "top_section_count": 5,
+      "dominance": 0.4545,
+      "romanized": "arar",
       "latin_candidates": [
-        "coe"
+        "arar"
+      ]
+    },
+    {
+      "baseword": "cheockh",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 7,
+      "dominance": 0.6364,
+      "romanized": "ceoc",
+      "latin_candidates": [
+        "coec"
+      ]
+    },
+    {
+      "baseword": "chckhep",
+      "total": 11,
+      "top_section": "biological",
+      "top_section_count": 5,
+      "dominance": 0.4545,
+      "romanized": "ccep",
+      "latin_candidates": [
+        "pecc"
+      ]
+    },
+    {
+      "baseword": "chpor",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 8,
+      "dominance": 0.7273,
+      "romanized": "cpor",
+      "latin_candidates": [
+        "porc",
+        "proc"
+      ]
+    },
+    {
+      "baseword": "orar",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 8,
+      "dominance": 0.7273,
+      "romanized": "orar",
+      "latin_candidates": [
+        "raro"
+      ]
+    },
+    {
+      "baseword": "qolche",
+      "total": 11,
+      "top_section": "biological",
+      "top_section_count": 7,
+      "dominance": 0.6364,
+      "romanized": "colce",
+      "latin_candidates": [
+        "cocle"
       ]
     }
   ]

@@ -1,0 +1,1777 @@
+{
+  "min_dominance": 0.0,
+  "rows": [
+    {
+      "baseword": "paiin",
+      "total": 884,
+      "top_section": "herbal",
+      "top_section_count": 477,
+      "dominance": 0.5396,
+      "italianized": "paiin",
+      "anagram_candidates": [
+        "piani"
+      ]
+    },
+    {
+      "baseword": "shep",
+      "total": 464,
+      "top_section": "biological",
+      "top_section_count": 227,
+      "dominance": 0.4892,
+      "italianized": "sep",
+      "anagram_candidates": [
+        "pes"
+      ]
+    },
+    {
+      "baseword": "chol",
+      "total": 424,
+      "top_section": "herbal",
+      "top_section_count": 244,
+      "dominance": 0.5755,
+      "italianized": "col",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "par",
+      "total": 367,
+      "top_section": "herbal",
+      "top_section_count": 130,
+      "dominance": 0.3542,
+      "italianized": "par",
+      "anagram_candidates": [
+        "par",
+        "rap",
+        "rap"
+      ]
+    },
+    {
+      "baseword": "qokep",
+      "total": 283,
+      "top_section": "biological",
+      "top_section_count": 160,
+      "dominance": 0.5654,
+      "italianized": "cocep",
+      "anagram_candidates": [
+        "pecco"
+      ]
+    },
+    {
+      "baseword": "qokain",
+      "total": 278,
+      "top_section": "biological",
+      "top_section_count": 159,
+      "dominance": 0.5719,
+      "italianized": "cocain",
+      "anagram_candidates": [
+        "concia"
+      ]
+    },
+    {
+      "baseword": "qokaiin",
+      "total": 265,
+      "top_section": "unknown",
+      "top_section_count": 122,
+      "dominance": 0.4604,
+      "italianized": "cocaiin",
+      "anagram_candidates": [
+        "conciai"
+      ]
+    },
+    {
+      "baseword": "pain",
+      "total": 218,
+      "top_section": "herbal",
+      "top_section_count": 94,
+      "dominance": 0.4312,
+      "italianized": "pain",
+      "anagram_candidates": [
+        "pani"
+      ]
+    },
+    {
+      "baseword": "okaiin",
+      "total": 215,
+      "top_section": "unknown",
+      "top_section_count": 109,
+      "dominance": 0.507,
+      "italianized": "ocaiin",
+      "anagram_candidates": [
+        "coniai"
+      ]
+    },
+    {
+      "baseword": "qokal",
+      "total": 211,
+      "top_section": "biological",
+      "top_section_count": 108,
+      "dominance": 0.5118,
+      "italianized": "cocal",
+      "anagram_candidates": [
+        "calco"
+      ]
+    },
+    {
+      "baseword": "cheol",
+      "total": 185,
+      "top_section": "unknown",
+      "top_section_count": 106,
+      "dominance": 0.573,
+      "italianized": "ceol",
+      "anagram_candidates": [
+        "celo"
+      ]
+    },
+    {
+      "baseword": "okal",
+      "total": 178,
+      "top_section": "unknown",
+      "top_section_count": 65,
+      "dominance": 0.3652,
+      "italianized": "ocal",
+      "anagram_candidates": [
+        "calo",
+        "cola"
+      ]
+    },
+    {
+      "baseword": "otal",
+      "total": 157,
+      "top_section": "unknown",
+      "top_section_count": 76,
+      "dominance": 0.4841,
+      "italianized": "otal",
+      "anagram_candidates": [
+        "alto",
+        "lato"
+      ]
+    },
+    {
+      "baseword": "otar",
+      "total": 156,
+      "top_section": "unknown",
+      "top_section_count": 76,
+      "dominance": 0.4872,
+      "italianized": "otar",
+      "anagram_candidates": [
+        "arto"
+      ]
+    },
+    {
+      "baseword": "qol",
+      "total": 150,
+      "top_section": "biological",
+      "top_section_count": 111,
+      "dominance": 0.74,
+      "italianized": "col",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "okar",
+      "total": 149,
+      "top_section": "unknown",
+      "top_section_count": 52,
+      "dominance": 0.349,
+      "italianized": "ocar",
+      "anagram_candidates": [
+        "arco",
+        "caro"
+      ]
+    },
+    {
+      "baseword": "okain",
+      "total": 141,
+      "top_section": "unknown",
+      "top_section_count": 69,
+      "dominance": 0.4894,
+      "italianized": "ocain",
+      "anagram_candidates": [
+        "conia",
+        "oncia"
+      ]
+    },
+    {
+      "baseword": "saiin",
+      "total": 131,
+      "top_section": "unknown",
+      "top_section_count": 48,
+      "dominance": 0.3664,
+      "italianized": "saiin",
+      "anagram_candidates": [
+        "asini"
+      ]
+    },
+    {
+      "baseword": "pair",
+      "total": 121,
+      "top_section": "unknown",
+      "top_section_count": 48,
+      "dominance": 0.3967,
+      "italianized": "pair",
+      "anagram_candidates": [
+        "apri",
+        "pari",
+        "rapi"
+      ]
+    },
+    {
+      "baseword": "ain",
+      "total": 120,
+      "top_section": "unknown",
+      "top_section_count": 66,
+      "dominance": 0.55,
+      "italianized": "ain",
+      "anagram_candidates": [
+        "ani"
+      ]
+    },
+    {
+      "baseword": "qoke",
+      "total": 112,
+      "top_section": "unknown",
+      "top_section_count": 52,
+      "dominance": 0.4643,
+      "italianized": "coce",
+      "anagram_candidates": [
+        "ecco"
+      ]
+    },
+    {
+      "baseword": "sheol",
+      "total": 111,
+      "top_section": "unknown",
+      "top_section_count": 49,
+      "dominance": 0.4414,
+      "italianized": "seol",
+      "anagram_candidates": [
+        "leso",
+        "sole"
+      ]
+    },
+    {
+      "baseword": "cheor",
+      "total": 104,
+      "top_section": "unknown",
+      "top_section_count": 42,
+      "dominance": 0.4038,
+      "italianized": "ceor",
+      "anagram_candidates": [
+        "cero",
+        "creo",
+        "reco"
+      ]
+    },
+    {
+      "baseword": "keep",
+      "total": 99,
+      "top_section": "unknown",
+      "top_section_count": 46,
+      "dominance": 0.4646,
+      "italianized": "ceep",
+      "anagram_candidates": [
+        "pece"
+      ]
+    },
+    {
+      "baseword": "otain",
+      "total": 97,
+      "top_section": "unknown",
+      "top_section_count": 54,
+      "dominance": 0.5567,
+      "italianized": "otain",
+      "anagram_candidates": [
+        "notai"
+      ]
+    },
+    {
+      "baseword": "sheep",
+      "total": 95,
+      "top_section": "biological",
+      "top_section_count": 41,
+      "dominance": 0.4316,
+      "italianized": "seep",
+      "anagram_candidates": [
+        "pese"
+      ]
+    },
+    {
+      "baseword": "cheo",
+      "total": 93,
+      "top_section": "unknown",
+      "top_section_count": 65,
+      "dominance": 0.6989,
+      "italianized": "ceo",
+      "anagram_candidates": [
+        "eco"
+      ]
+    },
+    {
+      "baseword": "opaiin",
+      "total": 89,
+      "top_section": "unknown",
+      "top_section_count": 32,
+      "dominance": 0.3596,
+      "italianized": "opaiin",
+      "anagram_candidates": [
+        "opinai"
+      ]
+    },
+    {
+      "baseword": "air",
+      "total": 88,
+      "top_section": "unknown",
+      "top_section_count": 49,
+      "dominance": 0.5568,
+      "italianized": "air",
+      "anagram_candidates": [
+        "ari",
+        "ira"
+      ]
+    },
+    {
+      "baseword": "okol",
+      "total": 82,
+      "top_section": "unknown",
+      "top_section_count": 34,
+      "dominance": 0.4146,
+      "italianized": "ocol",
+      "anagram_candidates": [
+        "colo"
+      ]
+    },
+    {
+      "baseword": "qotaiin",
+      "total": 79,
+      "top_section": "unknown",
+      "top_section_count": 40,
+      "dominance": 0.5063,
+      "italianized": "cotaiin",
+      "anagram_candidates": [
+        "coniati"
+      ]
+    },
+    {
+      "baseword": "por",
+      "total": 78,
+      "top_section": "herbal",
+      "top_section_count": 43,
+      "dominance": 0.5513,
+      "italianized": "por",
+      "anagram_candidates": [
+        "pro"
+      ]
+    },
+    {
+      "baseword": "chek",
+      "total": 75,
+      "top_section": "herbal",
+      "top_section_count": 30,
+      "dominance": 0.4,
+      "italianized": "cec",
+      "anagram_candidates": [
+        "ecc"
+      ]
+    },
+    {
+      "baseword": "cheep",
+      "total": 69,
+      "top_section": "unknown",
+      "top_section_count": 37,
+      "dominance": 0.5362,
+      "italianized": "ceep",
+      "anagram_candidates": [
+        "pece"
+      ]
+    },
+    {
+      "baseword": "oke",
+      "total": 68,
+      "top_section": "unknown",
+      "top_section_count": 32,
+      "dominance": 0.4706,
+      "italianized": "oce",
+      "anagram_candidates": [
+        "eco"
+      ]
+    },
+    {
+      "baseword": "tar",
+      "total": 65,
+      "top_section": "unknown",
+      "top_section_count": 22,
+      "dominance": 0.3385,
+      "italianized": "tar",
+      "anagram_candidates": [
+        "tra"
+      ]
+    },
+    {
+      "baseword": "qotar",
+      "total": 65,
+      "top_section": "unknown",
+      "top_section_count": 29,
+      "dominance": 0.4462,
+      "italianized": "cotar",
+      "anagram_candidates": [
+        "corta"
+      ]
+    },
+    {
+      "baseword": "shop",
+      "total": 64,
+      "top_section": "herbal",
+      "top_section_count": 34,
+      "dominance": 0.5312,
+      "italianized": "sop",
+      "anagram_candidates": [
+        "pos",
+        "sop"
+      ]
+    },
+    {
+      "baseword": "qotal",
+      "total": 64,
+      "top_section": "biological",
+      "top_section_count": 25,
+      "dominance": 0.3906,
+      "italianized": "cotal",
+      "anagram_candidates": [
+        "colta",
+        "talco"
+      ]
+    },
+    {
+      "baseword": "sheop",
+      "total": 63,
+      "top_section": "unknown",
+      "top_section_count": 32,
+      "dominance": 0.5079,
+      "italianized": "seop",
+      "anagram_candidates": [
+        "peso",
+        "pose"
+      ]
+    },
+    {
+      "baseword": "sain",
+      "total": 63,
+      "top_section": "unknown",
+      "top_section_count": 26,
+      "dominance": 0.4127,
+      "italianized": "sain",
+      "anagram_candidates": [
+        "nasi",
+        "sani"
+      ]
+    },
+    {
+      "baseword": "qotch",
+      "total": 62,
+      "top_section": "herbal",
+      "top_section_count": 50,
+      "dominance": 0.8065,
+      "italianized": "cotc",
+      "anagram_candidates": [
+        "tocc"
+      ]
+    },
+    {
+      "baseword": "cthol",
+      "total": 61,
+      "top_section": "herbal",
+      "top_section_count": 50,
+      "dominance": 0.8197,
+      "italianized": "col",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "qotain",
+      "total": 60,
+      "top_section": "unknown",
+      "top_section_count": 34,
+      "dominance": 0.5667,
+      "italianized": "cotain",
+      "anagram_candidates": [
+        "antico",
+        "catino",
+        "citano",
+        "contai",
+        "tonaci"
+      ]
+    },
+    {
+      "baseword": "chear",
+      "total": 56,
+      "top_section": "unknown",
+      "top_section_count": 24,
+      "dominance": 0.4286,
+      "italianized": "cear",
+      "anagram_candidates": [
+        "care",
+        "cera",
+        "crea",
+        "reca"
+      ]
+    },
+    {
+      "baseword": "kol",
+      "total": 56,
+      "top_section": "herbal",
+      "top_section_count": 38,
+      "dominance": 0.6786,
+      "italianized": "col",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "sal",
+      "total": 53,
+      "top_section": "biological",
+      "top_section_count": 16,
+      "dominance": 0.3019,
+      "italianized": "sal",
+      "anagram_candidates": [
+        "sal",
+        "sal"
+      ]
+    },
+    {
+      "baseword": "kain",
+      "total": 53,
+      "top_section": "unknown",
+      "top_section_count": 21,
+      "dominance": 0.3962,
+      "italianized": "cain",
+      "anagram_candidates": [
+        "cani"
+      ]
+    },
+    {
+      "baseword": "sheor",
+      "total": 50,
+      "top_section": "unknown",
+      "top_section_count": 22,
+      "dominance": 0.44,
+      "italianized": "seor",
+      "anagram_candidates": [
+        "orse",
+        "oser",
+        "reso",
+        "rose"
+      ]
+    },
+    {
+      "baseword": "tal",
+      "total": 49,
+      "top_section": "text only",
+      "top_section_count": 18,
+      "dominance": 0.3673,
+      "italianized": "tal",
+      "anagram_candidates": [
+        "tal"
+      ]
+    },
+    {
+      "baseword": "lkaiin",
+      "total": 49,
+      "top_section": "unknown",
+      "top_section_count": 40,
+      "dominance": 0.8163,
+      "italianized": "lcaiin",
+      "anagram_candidates": [
+        "canili"
+      ]
+    },
+    {
+      "baseword": "checkh",
+      "total": 48,
+      "top_section": "biological",
+      "top_section_count": 21,
+      "dominance": 0.4375,
+      "italianized": "cec",
+      "anagram_candidates": [
+        "ecc"
+      ]
+    },
+    {
+      "baseword": "otor",
+      "total": 45,
+      "top_section": "herbal",
+      "top_section_count": 18,
+      "dominance": 0.4,
+      "italianized": "otor",
+      "anagram_candidates": [
+        "orto",
+        "toro"
+      ]
+    },
+    {
+      "baseword": "qotol",
+      "total": 44,
+      "top_section": "herbal",
+      "top_section_count": 20,
+      "dominance": 0.4545,
+      "italianized": "cotol",
+      "anagram_candidates": [
+        "colto"
+      ]
+    },
+    {
+      "baseword": "olchep",
+      "total": 43,
+      "top_section": "biological",
+      "top_section_count": 24,
+      "dominance": 0.5581,
+      "italianized": "olcep",
+      "anagram_candidates": [
+        "colpe"
+      ]
+    },
+    {
+      "baseword": "lor",
+      "total": 42,
+      "top_section": "unknown",
+      "top_section_count": 22,
+      "dominance": 0.5238,
+      "italianized": "lor",
+      "anagram_candidates": [
+        "orl"
+      ]
+    },
+    {
+      "baseword": "chees",
+      "total": 41,
+      "top_section": "unknown",
+      "top_section_count": 19,
+      "dominance": 0.4634,
+      "italianized": "cees",
+      "anagram_candidates": [
+        "esce"
+      ]
+    },
+    {
+      "baseword": "opar",
+      "total": 40,
+      "top_section": "unknown",
+      "top_section_count": 16,
+      "dominance": 0.4,
+      "italianized": "opar",
+      "anagram_candidates": [
+        "apro",
+        "rapo"
+      ]
+    },
+    {
+      "baseword": "chepar",
+      "total": 39,
+      "top_section": "unknown",
+      "top_section_count": 28,
+      "dominance": 0.7179,
+      "italianized": "cepar",
+      "anagram_candidates": [
+        "capre",
+        "crepa"
+      ]
+    },
+    {
+      "baseword": "keol",
+      "total": 38,
+      "top_section": "unknown",
+      "top_section_count": 16,
+      "dominance": 0.4211,
+      "italianized": "ceol",
+      "anagram_candidates": [
+        "celo"
+      ]
+    },
+    {
+      "baseword": "okor",
+      "total": 38,
+      "top_section": "herbal",
+      "top_section_count": 14,
+      "dominance": 0.3684,
+      "italianized": "ocor",
+      "anagram_candidates": [
+        "coro",
+        "orco"
+      ]
+    },
+    {
+      "baseword": "tor",
+      "total": 38,
+      "top_section": "herbal",
+      "top_section_count": 22,
+      "dominance": 0.5789,
+      "italianized": "tor",
+      "anagram_candidates": [
+        "tro"
+      ]
+    },
+    {
+      "baseword": "cheos",
+      "total": 37,
+      "top_section": "unknown",
+      "top_section_count": 19,
+      "dominance": 0.5135,
+      "italianized": "ceos",
+      "anagram_candidates": [
+        "cose",
+        "esco"
+      ]
+    },
+    {
+      "baseword": "oraiin",
+      "total": 34,
+      "top_section": "unknown",
+      "top_section_count": 17,
+      "dominance": 0.5,
+      "italianized": "oraiin",
+      "anagram_candidates": [
+        "ironia"
+      ]
+    },
+    {
+      "baseword": "olkain",
+      "total": 34,
+      "top_section": "biological",
+      "top_section_count": 26,
+      "dominance": 0.7647,
+      "italianized": "olcain",
+      "anagram_candidates": [
+        "calino",
+        "lancio"
+      ]
+    },
+    {
+      "baseword": "lkain",
+      "total": 34,
+      "top_section": "unknown",
+      "top_section_count": 28,
+      "dominance": 0.8235,
+      "italianized": "lcain",
+      "anagram_candidates": [
+        "lanci"
+      ]
+    },
+    {
+      "baseword": "sair",
+      "total": 32,
+      "top_section": "unknown",
+      "top_section_count": 15,
+      "dominance": 0.4688,
+      "italianized": "sair",
+      "anagram_candidates": [
+        "rasi",
+        "risa"
+      ]
+    },
+    {
+      "baseword": "okche",
+      "total": 32,
+      "top_section": "herbal",
+      "top_section_count": 14,
+      "dominance": 0.4375,
+      "italianized": "occe",
+      "anagram_candidates": [
+        "ecco"
+      ]
+    },
+    {
+      "baseword": "opal",
+      "total": 32,
+      "top_section": "unknown",
+      "top_section_count": 12,
+      "dominance": 0.375,
+      "italianized": "opal",
+      "anagram_candidates": [
+        "palo"
+      ]
+    },
+    {
+      "baseword": "cheal",
+      "total": 32,
+      "top_section": "unknown",
+      "top_section_count": 18,
+      "dominance": 0.5625,
+      "italianized": "ceal",
+      "anagram_candidates": [
+        "cela"
+      ]
+    },
+    {
+      "baseword": "kchep",
+      "total": 31,
+      "top_section": "unknown",
+      "top_section_count": 16,
+      "dominance": 0.5161,
+      "italianized": "ccep",
+      "anagram_candidates": [
+        "pecc"
+      ]
+    },
+    {
+      "baseword": "otchol",
+      "total": 30,
+      "top_section": "herbal",
+      "top_section_count": 25,
+      "dominance": 0.8333,
+      "italianized": "otcol",
+      "anagram_candidates": [
+        "colto"
+      ]
+    },
+    {
+      "baseword": "kche",
+      "total": 30,
+      "top_section": "herbal",
+      "top_section_count": 16,
+      "dominance": 0.5333,
+      "italianized": "cce",
+      "anagram_candidates": [
+        "ecc"
+      ]
+    },
+    {
+      "baseword": "chckhe",
+      "total": 30,
+      "top_section": "unknown",
+      "top_section_count": 14,
+      "dominance": 0.4667,
+      "italianized": "cce",
+      "anagram_candidates": [
+        "ecc"
+      ]
+    },
+    {
+      "baseword": "checth",
+      "total": 30,
+      "top_section": "biological",
+      "top_section_count": 17,
+      "dominance": 0.5667,
+      "italianized": "cec",
+      "anagram_candidates": [
+        "ecc"
+      ]
+    },
+    {
+      "baseword": "olor",
+      "total": 29,
+      "top_section": "biological",
+      "top_section_count": 15,
+      "dominance": 0.5172,
+      "italianized": "olor",
+      "anagram_candidates": [
+        "loro",
+        "orlo"
+      ]
+    },
+    {
+      "baseword": "paiir",
+      "total": 27,
+      "top_section": "herbal",
+      "top_section_count": 11,
+      "dominance": 0.4074,
+      "italianized": "paiir",
+      "anagram_candidates": [
+        "aprii",
+        "rapii"
+      ]
+    },
+    {
+      "baseword": "otop",
+      "total": 27,
+      "top_section": "cosmological",
+      "top_section_count": 11,
+      "dominance": 0.4074,
+      "italianized": "otop",
+      "anagram_candidates": [
+        "opto",
+        "topo"
+      ]
+    },
+    {
+      "baseword": "olkep",
+      "total": 27,
+      "top_section": "biological",
+      "top_section_count": 20,
+      "dominance": 0.7407,
+      "italianized": "olcep",
+      "anagram_candidates": [
+        "colpe"
+      ]
+    },
+    {
+      "baseword": "qotor",
+      "total": 26,
+      "top_section": "herbal",
+      "top_section_count": 18,
+      "dominance": 0.6923,
+      "italianized": "cotor",
+      "anagram_candidates": [
+        "corto"
+      ]
+    },
+    {
+      "baseword": "olk",
+      "total": 26,
+      "top_section": "biological",
+      "top_section_count": 14,
+      "dominance": 0.5385,
+      "italianized": "olc",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "olche",
+      "total": 26,
+      "top_section": "biological",
+      "top_section_count": 14,
+      "dominance": 0.5385,
+      "italianized": "olce",
+      "anagram_candidates": [
+        "celo"
+      ]
+    },
+    {
+      "baseword": "otair",
+      "total": 26,
+      "top_section": "unknown",
+      "top_section_count": 21,
+      "dominance": 0.8077,
+      "italianized": "otair",
+      "anagram_candidates": [
+        "atrio"
+      ]
+    },
+    {
+      "baseword": "shear",
+      "total": 24,
+      "top_section": "unknown",
+      "top_section_count": 13,
+      "dominance": 0.5417,
+      "italianized": "sear",
+      "anagram_candidates": [
+        "rase",
+        "resa",
+        "sera"
+      ]
+    },
+    {
+      "baseword": "okchep",
+      "total": 24,
+      "top_section": "unknown",
+      "top_section_count": 16,
+      "dominance": 0.6667,
+      "italianized": "occep",
+      "anagram_candidates": [
+        "pecco"
+      ]
+    },
+    {
+      "baseword": "olshep",
+      "total": 24,
+      "top_section": "biological",
+      "top_section_count": 17,
+      "dominance": 0.7083,
+      "italianized": "olsep",
+      "anagram_candidates": [
+        "spole"
+      ]
+    },
+    {
+      "baseword": "tain",
+      "total": 22,
+      "top_section": "unknown",
+      "top_section_count": 11,
+      "dominance": 0.5,
+      "italianized": "tain",
+      "anagram_candidates": [
+        "anti",
+        "nati"
+      ]
+    },
+    {
+      "baseword": "top",
+      "total": 22,
+      "top_section": "herbal",
+      "top_section_count": 13,
+      "dominance": 0.5909,
+      "italianized": "top",
+      "anagram_candidates": [
+        "opt",
+        "pot"
+      ]
+    },
+    {
+      "baseword": "chain",
+      "total": 22,
+      "top_section": "herbal",
+      "top_section_count": 13,
+      "dominance": 0.5909,
+      "italianized": "cain",
+      "anagram_candidates": [
+        "cani"
+      ]
+    },
+    {
+      "baseword": "ckhol",
+      "total": 22,
+      "top_section": "herbal",
+      "top_section_count": 16,
+      "dominance": 0.7273,
+      "italianized": "col",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "qoaiin",
+      "total": 22,
+      "top_section": "unknown",
+      "top_section_count": 11,
+      "dominance": 0.5,
+      "italianized": "coaiin",
+      "anagram_candidates": [
+        "coniai"
+      ]
+    },
+    {
+      "baseword": "teol",
+      "total": 22,
+      "top_section": "unknown",
+      "top_section_count": 9,
+      "dominance": 0.4091,
+      "italianized": "teol",
+      "anagram_candidates": [
+        "telo"
+      ]
+    },
+    {
+      "baseword": "qokair",
+      "total": 22,
+      "top_section": "unknown",
+      "top_section_count": 13,
+      "dominance": 0.5909,
+      "italianized": "cocair",
+      "anagram_candidates": [
+        "carico",
+        "roccia"
+      ]
+    },
+    {
+      "baseword": "kair",
+      "total": 21,
+      "top_section": "unknown",
+      "top_section_count": 11,
+      "dominance": 0.5238,
+      "italianized": "cair",
+      "anagram_candidates": [
+        "cari"
+      ]
+    },
+    {
+      "baseword": "shaiin",
+      "total": 21,
+      "top_section": "herbal",
+      "top_section_count": 13,
+      "dominance": 0.619,
+      "italianized": "saiin",
+      "anagram_candidates": [
+        "asini"
+      ]
+    },
+    {
+      "baseword": "palp",
+      "total": 21,
+      "top_section": "biological",
+      "top_section_count": 6,
+      "dominance": 0.2857,
+      "italianized": "palp",
+      "anagram_candidates": [
+        "palp"
+      ]
+    },
+    {
+      "baseword": "opain",
+      "total": 20,
+      "top_section": "unknown",
+      "top_section_count": 10,
+      "dominance": 0.5,
+      "italianized": "opain",
+      "anagram_candidates": [
+        "opina",
+        "piano"
+      ]
+    },
+    {
+      "baseword": "okop",
+      "total": 20,
+      "top_section": "cosmological",
+      "top_section_count": 9,
+      "dominance": 0.45,
+      "italianized": "ocop",
+      "anagram_candidates": [
+        "poco"
+      ]
+    },
+    {
+      "baseword": "rol",
+      "total": 20,
+      "top_section": "biological",
+      "top_section_count": 11,
+      "dominance": 0.55,
+      "italianized": "rol",
+      "anagram_candidates": [
+        "orl"
+      ]
+    },
+    {
+      "baseword": "pcheol",
+      "total": 19,
+      "top_section": "unknown",
+      "top_section_count": 8,
+      "dominance": 0.4211,
+      "italianized": "pceol",
+      "anagram_candidates": [
+        "colpe"
+      ]
+    },
+    {
+      "baseword": "qopar",
+      "total": 19,
+      "top_section": "herbal",
+      "top_section_count": 9,
+      "dominance": 0.4737,
+      "italianized": "copar",
+      "anagram_candidates": [
+        "copra",
+        "parco"
+      ]
+    },
+    {
+      "baseword": "sheal",
+      "total": 19,
+      "top_section": "unknown",
+      "top_section_count": 11,
+      "dominance": 0.5789,
+      "italianized": "seal",
+      "anagram_candidates": [
+        "lesa",
+        "sale"
+      ]
+    },
+    {
+      "baseword": "chkaiin",
+      "total": 19,
+      "top_section": "herbal",
+      "top_section_count": 9,
+      "dominance": 0.4737,
+      "italianized": "ccaiin",
+      "anagram_candidates": [
+        "cinica"
+      ]
+    },
+    {
+      "baseword": "sheek",
+      "total": 19,
+      "top_section": "unknown",
+      "top_section_count": 9,
+      "dominance": 0.4737,
+      "italianized": "seec",
+      "anagram_candidates": [
+        "esce"
+      ]
+    },
+    {
+      "baseword": "shal",
+      "total": 18,
+      "top_section": "unknown",
+      "top_section_count": 9,
+      "dominance": 0.5,
+      "italianized": "sal",
+      "anagram_candidates": [
+        "sal",
+        "sal"
+      ]
+    },
+    {
+      "baseword": "qockhe",
+      "total": 18,
+      "top_section": "unknown",
+      "top_section_count": 10,
+      "dominance": 0.5556,
+      "italianized": "coce",
+      "anagram_candidates": [
+        "ecco"
+      ]
+    },
+    {
+      "baseword": "orain",
+      "total": 17,
+      "top_section": "unknown",
+      "top_section_count": 9,
+      "dominance": 0.5294,
+      "italianized": "orain",
+      "anagram_candidates": [
+        "arino",
+        "ornai"
+      ]
+    },
+    {
+      "baseword": "chokaiin",
+      "total": 16,
+      "top_section": "unknown",
+      "top_section_count": 8,
+      "dominance": 0.5,
+      "italianized": "cocaiin",
+      "anagram_candidates": [
+        "conciai"
+      ]
+    },
+    {
+      "baseword": "otchor",
+      "total": 16,
+      "top_section": "herbal",
+      "top_section_count": 14,
+      "dominance": 0.875,
+      "italianized": "otcor",
+      "anagram_candidates": [
+        "corto"
+      ]
+    },
+    {
+      "baseword": "pchee",
+      "total": 16,
+      "top_section": "herbal",
+      "top_section_count": 9,
+      "dominance": 0.5625,
+      "italianized": "pcee",
+      "anagram_candidates": [
+        "pece"
+      ]
+    },
+    {
+      "baseword": "olar",
+      "total": 16,
+      "top_section": "unknown",
+      "top_section_count": 5,
+      "dominance": 0.3125,
+      "italianized": "olar",
+      "anagram_candidates": [
+        "orla"
+      ]
+    },
+    {
+      "baseword": "tair",
+      "total": 16,
+      "top_section": "unknown",
+      "top_section_count": 8,
+      "dominance": 0.5,
+      "italianized": "tair",
+      "anagram_candidates": [
+        "arti",
+        "atri",
+        "tira"
+      ]
+    },
+    {
+      "baseword": "keo",
+      "total": 15,
+      "top_section": "unknown",
+      "top_section_count": 6,
+      "dominance": 0.4,
+      "italianized": "ceo",
+      "anagram_candidates": [
+        "eco"
+      ]
+    },
+    {
+      "baseword": "paim",
+      "total": 15,
+      "top_section": "unknown",
+      "top_section_count": 8,
+      "dominance": 0.5333,
+      "italianized": "paim",
+      "anagram_candidates": [
+        "ampi"
+      ]
+    },
+    {
+      "baseword": "opor",
+      "total": 15,
+      "top_section": "unknown",
+      "top_section_count": 7,
+      "dominance": 0.4667,
+      "italianized": "opor",
+      "anagram_candidates": [
+        "poro"
+      ]
+    },
+    {
+      "baseword": "chopar",
+      "total": 14,
+      "top_section": "herbal",
+      "top_section_count": 7,
+      "dominance": 0.5,
+      "italianized": "copar",
+      "anagram_candidates": [
+        "copra",
+        "parco"
+      ]
+    },
+    {
+      "baseword": "oar",
+      "total": 14,
+      "top_section": "herbal",
+      "top_section_count": 4,
+      "dominance": 0.2857,
+      "italianized": "oar",
+      "anagram_candidates": [
+        "aro",
+        "ora"
+      ]
+    },
+    {
+      "baseword": "sheos",
+      "total": 14,
+      "top_section": "herbal",
+      "top_section_count": 5,
+      "dominance": 0.3571,
+      "italianized": "seos",
+      "anagram_candidates": [
+        "esso"
+      ]
+    },
+    {
+      "baseword": "olke",
+      "total": 14,
+      "top_section": "biological",
+      "top_section_count": 4,
+      "dominance": 0.2857,
+      "italianized": "olce",
+      "anagram_candidates": [
+        "celo"
+      ]
+    },
+    {
+      "baseword": "olkal",
+      "total": 14,
+      "top_section": "biological",
+      "top_section_count": 6,
+      "dominance": 0.4286,
+      "italianized": "olcal",
+      "anagram_candidates": [
+        "alcol",
+        "callo",
+        "colla"
+      ]
+    },
+    {
+      "baseword": "otepar",
+      "total": 14,
+      "top_section": "unknown",
+      "top_section_count": 11,
+      "dominance": 0.7857,
+      "italianized": "otepar",
+      "anagram_candidates": [
+        "aperto",
+        "optare"
+      ]
+    },
+    {
+      "baseword": "poiin",
+      "total": 13,
+      "top_section": "herbal",
+      "top_section_count": 8,
+      "dominance": 0.6154,
+      "italianized": "poiin",
+      "anagram_candidates": [
+        "opini"
+      ]
+    },
+    {
+      "baseword": "keor",
+      "total": 13,
+      "top_section": "herbal",
+      "top_section_count": 8,
+      "dominance": 0.6154,
+      "italianized": "ceor",
+      "anagram_candidates": [
+        "cero",
+        "creo",
+        "reco"
+      ]
+    },
+    {
+      "baseword": "topaiin",
+      "total": 13,
+      "top_section": "herbal",
+      "top_section_count": 8,
+      "dominance": 0.6154,
+      "italianized": "topaiin",
+      "anagram_candidates": [
+        "opinati"
+      ]
+    },
+    {
+      "baseword": "pshe",
+      "total": 13,
+      "top_section": "herbal",
+      "top_section_count": 8,
+      "dominance": 0.6154,
+      "italianized": "pse",
+      "anagram_candidates": [
+        "pes"
+      ]
+    },
+    {
+      "baseword": "shet",
+      "total": 13,
+      "top_section": "biological",
+      "top_section_count": 4,
+      "dominance": 0.3077,
+      "italianized": "set",
+      "anagram_candidates": [
+        "est"
+      ]
+    },
+    {
+      "baseword": "cheok",
+      "total": 13,
+      "top_section": "unknown",
+      "top_section_count": 6,
+      "dominance": 0.4615,
+      "italianized": "ceoc",
+      "anagram_candidates": [
+        "ecco"
+      ]
+    },
+    {
+      "baseword": "arop",
+      "total": 13,
+      "top_section": "unknown",
+      "top_section_count": 9,
+      "dominance": 0.6923,
+      "italianized": "arop",
+      "anagram_candidates": [
+        "apro",
+        "rapo"
+      ]
+    },
+    {
+      "baseword": "olshe",
+      "total": 13,
+      "top_section": "biological",
+      "top_section_count": 8,
+      "dominance": 0.6154,
+      "italianized": "olse",
+      "anagram_candidates": [
+        "leso",
+        "sole"
+      ]
+    },
+    {
+      "baseword": "orol",
+      "total": 13,
+      "top_section": "biological",
+      "top_section_count": 7,
+      "dominance": 0.5385,
+      "italianized": "orol",
+      "anagram_candidates": [
+        "loro",
+        "orlo"
+      ]
+    },
+    {
+      "baseword": "cphol",
+      "total": 12,
+      "top_section": "herbal",
+      "top_section_count": 5,
+      "dominance": 0.4167,
+      "italianized": "col",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "chotch",
+      "total": 12,
+      "top_section": "herbal",
+      "top_section_count": 12,
+      "dominance": 1.0,
+      "italianized": "cotc",
+      "anagram_candidates": [
+        "tocc"
+      ]
+    },
+    {
+      "baseword": "choiin",
+      "total": 12,
+      "top_section": "herbal",
+      "top_section_count": 12,
+      "dominance": 1.0,
+      "italianized": "coiin",
+      "anagram_candidates": [
+        "conii"
+      ]
+    },
+    {
+      "baseword": "shepal",
+      "total": 12,
+      "top_section": "biological",
+      "top_section_count": 7,
+      "dominance": 0.5833,
+      "italianized": "sepal",
+      "anagram_candidates": [
+        "pales"
+      ]
+    },
+    {
+      "baseword": "okalp",
+      "total": 12,
+      "top_section": "unknown",
+      "top_section_count": 4,
+      "dominance": 0.3333,
+      "italianized": "ocalp",
+      "anagram_candidates": [
+        "colpa",
+        "palco"
+      ]
+    },
+    {
+      "baseword": "chekal",
+      "total": 12,
+      "top_section": "herbal",
+      "top_section_count": 6,
+      "dominance": 0.5,
+      "italianized": "cecal",
+      "anagram_candidates": [
+        "lecca"
+      ]
+    },
+    {
+      "baseword": "oral",
+      "total": 12,
+      "top_section": "unknown",
+      "top_section_count": 5,
+      "dominance": 0.4167,
+      "italianized": "oral",
+      "anagram_candidates": [
+        "orla"
+      ]
+    },
+    {
+      "baseword": "sheet",
+      "total": 12,
+      "top_section": "biological",
+      "top_section_count": 6,
+      "dominance": 0.5,
+      "italianized": "seet",
+      "anagram_candidates": [
+        "sete",
+        "tese"
+      ]
+    },
+    {
+      "baseword": "shepain",
+      "total": 12,
+      "top_section": "unknown",
+      "top_section_count": 10,
+      "dominance": 0.8333,
+      "italianized": "sepain",
+      "anagram_candidates": [
+        "pensai",
+        "pianse"
+      ]
+    },
+    {
+      "baseword": "pals",
+      "total": 11,
+      "top_section": "herbal",
+      "top_section_count": 6,
+      "dominance": 0.5455,
+      "italianized": "pals",
+      "anagram_candidates": [
+        "salp"
+      ]
+    },
+    {
+      "baseword": "aram",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 4,
+      "dominance": 0.3636,
+      "italianized": "aram",
+      "anagram_candidates": [
+        "arma"
+      ]
+    },
+    {
+      "baseword": "shees",
+      "total": 11,
+      "top_section": "biological",
+      "top_section_count": 3,
+      "dominance": 0.2727,
+      "italianized": "sees",
+      "anagram_candidates": [
+        "esse"
+      ]
+    },
+    {
+      "baseword": "olch",
+      "total": 11,
+      "top_section": "biological",
+      "top_section_count": 4,
+      "dominance": 0.3636,
+      "italianized": "olc",
+      "anagram_candidates": [
+        "col"
+      ]
+    },
+    {
+      "baseword": "qopche",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 7,
+      "dominance": 0.6364,
+      "italianized": "copce",
+      "anagram_candidates": [
+        "pecco"
+      ]
+    },
+    {
+      "baseword": "chekar",
+      "total": 11,
+      "top_section": "herbal",
+      "top_section_count": 4,
+      "dominance": 0.3636,
+      "italianized": "cecar",
+      "anagram_candidates": [
+        "cerca"
+      ]
+    },
+    {
+      "baseword": "oram",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 6,
+      "dominance": 0.5455,
+      "italianized": "oram",
+      "anagram_candidates": [
+        "armo",
+        "mora",
+        "orma",
+        "ramo",
+        "roma"
+      ]
+    },
+    {
+      "baseword": "chotar",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 7,
+      "dominance": 0.6364,
+      "italianized": "cotar",
+      "anagram_candidates": [
+        "corta"
+      ]
+    },
+    {
+      "baseword": "arar",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 5,
+      "dominance": 0.4545,
+      "italianized": "arar",
+      "anagram_candidates": [
+        "rara"
+      ]
+    },
+    {
+      "baseword": "oain",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 8,
+      "dominance": 0.7273,
+      "italianized": "oain",
+      "anagram_candidates": [
+        "noia"
+      ]
+    },
+    {
+      "baseword": "cheockh",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 7,
+      "dominance": 0.6364,
+      "italianized": "ceoc",
+      "anagram_candidates": [
+        "ecco"
+      ]
+    },
+    {
+      "baseword": "chckhep",
+      "total": 11,
+      "top_section": "biological",
+      "top_section_count": 5,
+      "dominance": 0.4545,
+      "italianized": "ccep",
+      "anagram_candidates": [
+        "pecc"
+      ]
+    },
+    {
+      "baseword": "olkam",
+      "total": 11,
+      "top_section": "text only",
+      "top_section_count": 5,
+      "dominance": 0.4545,
+      "italianized": "olcam",
+      "anagram_candidates": [
+        "calmo",
+        "colma"
+      ]
+    },
+    {
+      "baseword": "alam",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 6,
+      "dominance": 0.5455,
+      "italianized": "alam",
+      "anagram_candidates": [
+        "lama"
+      ]
+    },
+    {
+      "baseword": "orar",
+      "total": 11,
+      "top_section": "unknown",
+      "top_section_count": 8,
+      "dominance": 0.7273,
+      "italianized": "orar",
+      "anagram_candidates": [
+        "raro"
+      ]
+    },
+    {
+      "baseword": "qolche",
+      "total": 11,
+      "top_section": "biological",
+      "top_section_count": 7,
+      "dominance": 0.6364,
+      "italianized": "colce",
+      "anagram_candidates": [
+        "lecco"
+      ]
+    }
+  ]
+}
