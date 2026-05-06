@@ -102,13 +102,38 @@ Suffixes:
 
 ### 2.2 Coverage measurement (implemented)
 
-We do **not** claim any universal coverage numbers in this README. Instead, this repository includes a small script that reports a strict token-coverage metric for the current token grammar:
+This repository includes a small script that reports a strict token-coverage metric for the current token grammar:
 
 ```sh
 python scripts/corpus_coverage.py
 ```
 
-This prints token coverage (by occurrences) and type coverage (by distinct words), under a strict definition: a word is “covered” only if it tokenizes entirely into known markers.
+This prints token coverage (by occurrences) and type coverage (by distinct words), under a strict definition: a word is “covered” only if it tokenizes entirely into known markers (compounds/connectors/state tokens/suffixes or explicitly-ignored filler tokens).
+
+Current snapshot (from `python scripts/corpus_coverage.py --json`):
+
+- **Token coverage (strict):** 40,259 / 40,992 ≈ **98.21%**
+- **Type coverage (strict):** 7,563 / 8,036 ≈ **94.11%**
+
+This is a **string-coverage** metric. It does **not** validate any hypothesis about Voynich meaning.
+
+### 2.3 Lexicon match stats (Italian anagram experiment; heuristic)
+
+This repo also includes a deliberately weak “does it look like an anagrammed lexicon?” probe, inspired by community claims around f99r (pharmaceutical labels).
+
+On **f99r**, using a claimed EVA→AVA-style normalization and checking Italian anagram hits against a 60,404-word list:
+
+- **Claimed mapping:** 30 / 120 basewords matched (**25.0%**)
+- **Random mappings baseline:** mean ≈ **10.4%** over 200 permutations
+- **p-value (≥ claimed):** **0.00498**
+
+This does **not** imply a correct decipherment. It only shows that a specific normalization produces more anagram hits than random letter-mappings under this narrow test.
+
+Reproduce:
+
+```sh
+python scripts/evaluate_ava_anagrams.py --folio f99r --basewords data/base_words.txt
+```
 
 ## 3. Model Assumptions (procedural interpretation)
 
@@ -151,6 +176,15 @@ Example EVA line:
 ### Optional instantiation (experimental)
 
 The codebase includes generators that can turn a procedural gloss into structured steps and quantities. This is experimental and does not imply validated semantics.
+
+## 5. Outputs (what’s in the repo)
+
+- Per-folio EVA text: `data/pages/<folio>.eva.txt`
+- Per-folio images (voynich.nu cache): `data/images/`
+- Per-folio generated protocols: `data/recipes/<folio>.recipe.json`
+- Per-folio READMEs (image + EVA with line breaks + gloss + domain context): `data/recipe_readmes/<domain>/<folio>/README.md`
+- Domain folders (section indexes + associated basewords + heuristic anagrams/glosses): `data/domains/<domain>/README.md`
+- Domain “sense layer” (separate script; heuristic): `data/domain_sense/<domain>.sense.json`
 
 ## Usage
 
