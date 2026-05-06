@@ -10,18 +10,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - currier: A
 - folio: f38v
 - page_number: 74
-- plant_candidates: ['Cickorium?', 'Lactuca']
-- plant_category_confidence: 0.25
-- plant_category_guess: leaf
-- plant_category_matches: ['section=herbal_default']
-- plant_id: Cickorium?, Lactuca
 - section: herbal
-
-## Plant Interpretation (Heuristic)
-- category: leaf
-- confidence: 0.25
-- note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
-- textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
 ```text
@@ -35,20 +24,6 @@ daiin qol chy dain @153; or daiin dain daldy
 o aiin char chshol chokaiin
 ```
 
-## Page Summary (Procedural, Aggregated)
-- compound_counts: {'mix/transfer': 33, 'sugars': 15, 'main herb': 13, 'yeast fermentation': 26, 'secondary herb': 5, 'heat': 7, 'liquid base': 4}
-- dose_level: 3
-- fermentation_estimate: 7–14 days
-
-## Pantry (Max Needed For Any Single Line-Recipe)
-- main_plant_dry_g: 10
-- main_plant_substitute: ['lemon balm']
-- secondary_herb_dry_g: 7
-- secondary_herb_substitute: ['mint']
-- sugar_or_honey_g: 75
-- water_l: 0.5
-- yeast_g: 1
-
 ## Recipes Index (This Page)
 - [f38v.1,@P0](#f38v-1-f38v-1-p0)
 - [f38v.2,+P0](#f38v-2-f38v-2-p0)
@@ -59,37 +34,13 @@ o aiin char chshol chokaiin
 - [f38v.7,+P0](#f38v-7-f38v-7-p0)
 - [f38v.8,+P0](#f38v-8-f38v-8-p0)
 
-## Line Recipes (Each Line = One Recipe, 0.5L batch)
+## Line Glosses (Procedural Gloss Only; Not a Translation)
 
 <a id="f38v-1-f38v-1-p0"></a>
 
 ### f38v.1,@P0
 
 EVA: okchop chol shotol oteol okee[a:y] s chor d aiin d
-
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~5 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okchop: add fermentable sugars → add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
@@ -111,30 +62,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: choiin shey key sho oiin s chol ldy okeaiin o kom
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~5 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - choiin: add main plant (safe substitute) → mix / transfer → duration level 2 → state: cooling/rest → medium fermentation phase
 - shey: add secondary herb (safe substitute) → duration level 1 → state: active extraction
@@ -154,30 +81,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: qokeey keor daiin okey keey daiin dair daiin s
 
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: lemon balm (~5 g dried).
-5. Add secondary herb: mint (~2 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - qokeey: prepare liquid base → add fermentable sugars → duration level 2 → state: active extraction
 - keor: add fermentable sugars → mix / transfer → duration level 1 → state: active extraction
@@ -194,30 +97,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 ### f38v.4,+P0
 
 EVA: okeey d aiin qokeey chotey tody oky aiiin d
-
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~2 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okeey: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
@@ -236,30 +115,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: qoty daiin chol oteeol dody cheod chody
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 25
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 25 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~2 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - qoty: prepare liquid base → apply heat/cooking
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
@@ -274,30 +129,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 ### f38v.6,+P0
 
 EVA: sho keeey key tey daiin daiiin dain dain
-
-## Ingredients
-- main_plant_dry_g: 7
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 7
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 75
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 75 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: lemon balm (~7 g dried).
-5. Add secondary herb: mint (~7 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - sho: add secondary herb (safe substitute) → mix / transfer
@@ -315,30 +146,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: daiin qol chy dain @153; or daiin dain daldy
 
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 1
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 12
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 12 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: lemon balm (~5 g dried).
-5. Add secondary herb: mint (~1 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - daiin: start fermentation (yeast) → duration level 1 → state: fermentation start → long fermentation / aging phase
 - qol: prepare liquid base
@@ -355,45 +162,9 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: o aiin char chshol chokaiin
 
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 25
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 25 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: lemon balm (~5 g dried).
-5. Add secondary herb: mint (~2 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - o: mix / transfer
 - aiin: duration level 1 → state: fermentation start → long fermentation / aging phase
 - char: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - chshol: add main plant (safe substitute) → add secondary herb (safe substitute) → mix / transfer
 - chokaiin: add fermentable sugars → add main plant (safe substitute) → mix / transfer → duration level 1 → state: fermentation start → long fermentation / aging phase
-
-## Risks & Warnings (Applies To All Line-Recipes)
-- Never use unidentified Voynich plants directly; only use known edible substitutes.
-- Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.
-- Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.
-- Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.
-- No medical claims: this is an experimental beverage.
-
-## Recommended Adjustments (General)
-- If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.
-- If too sweet, extend fermentation or reduce sugar by 25–50%.
-- For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented).

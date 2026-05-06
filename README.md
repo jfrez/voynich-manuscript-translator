@@ -69,32 +69,26 @@ In this formulation, prefixes (`P`) represent recurring base components, `BLOCK`
 - `y → (removed)`, except when it forms `dy`
 - `ktp → k + t + p` (tokenized as three markers)
 
-### Action / ingredient markers
+### Token markers (non-semantic)
 
-- `qo` = liquid base / must / water
-- `q` = general base marker
-- `o` = mix / transfer / continuity
-- `k` = sugars / fermentables
-- `t` = heat / cooking
-- `p` = yeast / fermentation start
-- `ch` = main plant (always substituted with a safe edible plant)
-- `sh` = secondary herb (safe edible)
-- `f` = aroma modifier
-- `cth`, `ckh`, `cph`, `cfh` = complex herbal compound (safe blend)
+To avoid arbitrary meaning assignment, this repo treats recurring EVA fragments as **structural markers only**. They are used to drive a procedural *parse* (a “gloss”), not a validated translation.
 
-Connectors (low semantic weight, used as transitions):
+Core markers:
+
+- `qo`, `q`, `o`, `k`, `t`, `p`, `ch`, `sh`, `f`
+- `cth`, `ckh`, `cph`, `cfh` (complex multi-letter markers)
+
+Connectors (low semantic weight; treated as transitions):
 
 - `l, r, n, s, m`
 
-### State / time markers
+### State / time markers (structural)
 
-We treat the first vowel-run found in a word as an intensity/state cue:
+We treat the first vowel-run found in a word as a **state/intensity class**:
 
-- `e…` = active extraction
-- `i…` = cooling/rest
-- `a…` = fermentation start/transition
+- `e…`, `i…`, `a…` (three distinct classes)
 
-Run length encodes level:
+Run length encodes a level:
 
 - `e` / `i` / `a` = level 1
 - `ee` / `ii` = level 2

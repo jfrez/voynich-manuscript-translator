@@ -10,18 +10,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - currier: A
 - folio: f2r
 - page_number: 3
-- plant_candidates: ['Cyanus segelis coeruleus', 'centaurea']
-- plant_category_confidence: 0.95
-- plant_category_guess: flower
-- plant_category_matches: ['centaurea', 'cyanus', 'kornblume']
-- plant_id: Cyanus segelis coeruleus (Kornblume), centaurea (cf. Holm)
 - section: herbal
-
-## Plant Interpretation (Heuristic)
-- category: flower
-- confidence: 0.95
-- note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
-- textual_evidence_terms: ['centaurea', 'cyanus', 'kornblume']
 
 ## EVA Text (Transliteration)
 ```text
@@ -42,23 +31,6 @@ ytoail
 ios an on
 ```
 
-## Page Summary (Procedural, Aggregated)
-- compound_counts: {'sugars': 16, 'yeast fermentation': 35, 'main herb': 27, 'mix/transfer': 46, 'heat': 9, 'complex herbal compound': 10, 'secondary herb': 14, 'liquid base': 4, 'aroma modifier': 1}
-- dose_level: 2
-- fermentation_estimate: 7–14 days
-
-## Pantry (Max Needed For Any Single Line-Recipe)
-- aroma_modifier: ['orange peel (optional)']
-- aroma_modifier_dose: ['2–5 g (or 1 strip of peel, avoiding the bitter pith)']
-- main_plant_dry_g: 10
-- main_plant_substitute: ['chamomile']
-- safe_complex_herbal_blend: ['gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend']
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: ['lemon balm']
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
 ## Recipes Index (This Page)
 - [f2r.1,@P0](#f2r-1-f2r-1-p0)
 - [f2r.2,+P0](#f2r-2-f2r-2-p0)
@@ -76,39 +48,13 @@ ios an on
 - [f2r.14,@Lp](#f2r-14-f2r-14-lp)
 - [f2r.15,@L0](#f2r-15-f2r-15-l0)
 
-## Line Recipes (Each Line = One Recipe, 0.5L batch)
+## Line Glosses (Procedural Gloss Only; Not a Translation)
 
 <a id="f2r-1-f2r-1-p0"></a>
 
 ### f2r.1,@P0
 
 EVA: kydainy ypchol daiin otchal ypchaiin ckholsy
-
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: chamomile
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 1
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 25
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 25 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: chamomile (~5 g dried).
-5. Add secondary herb: lemon balm (~1 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - kydainy: add fermentable sugars → start fermentation (yeast) → duration level 1 → state: fermentation start
@@ -124,32 +70,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: dorchory chkar s shor cthy cto
 
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: chamomile
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 25
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 25 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: chamomile (~5 g dried).
-5. Add secondary herb: lemon balm (~2 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - dorchory: add main plant (safe substitute) → mix / transfer → start fermentation (yeast)
 - chkar: add fermentable sugars → add main plant (safe substitute) → duration level 1 → state: fermentation start
@@ -163,32 +83,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 ### f2r.3,+P0
 
 EVA: qotaiin cthey y chor chy ydy chaiin
-
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: chamomile
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 1
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 12
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 12 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: chamomile (~5 g dried).
-5. Add secondary herb: lemon balm (~1 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - qotaiin: prepare liquid base → apply heat/cooking → duration level 1 → state: fermentation start → long fermentation / aging phase
@@ -204,32 +98,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 ### f2r.4,+P0
 
 EVA: c'oaiidy chtod dy cphy dals chokaiin d
-
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: chamomile
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 1
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 25
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 25 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: chamomile (~5 g dried).
-5. Add secondary herb: lemon balm (~1 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - c: [unparsed]
@@ -247,30 +115,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: otochor al shodaiin chol dan ytchaiin dan
 
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: chamomile
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 12
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 12 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: chamomile (~5 g dried).
-5. Add secondary herb: lemon balm (~2 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - otochor: apply heat/cooking → add main plant (safe substitute) → mix / transfer
 - al: duration level 1 → state: fermentation start
@@ -285,32 +129,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 ### f2r.6,+P0
 
 EVA: saiin dain d dkol sor ytoldy dchol dchy cthy
-
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: chamomile
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 1
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 25
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 25 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: chamomile (~5 g dried).
-5. Add secondary herb: lemon balm (~1 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - saiin: duration level 1 → state: fermentation start → long fermentation / aging phase
@@ -329,32 +147,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: shor ckhy daiiny chol dan
 
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: chamomile
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 12
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 12 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: chamomile (~5 g dried).
-5. Add secondary herb: lemon balm (~2 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - shor: add secondary herb (safe substitute) → mix / transfer
 - ckhy: add complex herbal compound (safe blend)
@@ -367,33 +159,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 ### f2r.8,+P0
 
 EVA: kydain shaiin qoy s shol fodan yksh olsheey daiildy
-
-## Ingredients
-- aroma_modifier: orange peel (optional)
-- aroma_modifier_dose: 2–5 g (or 1 strip of peel, avoiding the bitter pith)
-- main_plant_dry_g: 5
-- main_plant_substitute: chamomile
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: chamomile (~5 g dried).
-5. Add secondary herb: lemon balm (~5 g dried).
-6. Add aroma modifier (optional) in a low dose.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - kydain: add fermentable sugars → start fermentation (yeast) → duration level 1 → state: fermentation start
@@ -411,30 +176,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 ### f2r.9,+P0
 
 EVA: dls sho kol sheey qokey ykody so chol yky dain daiisol
-
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: chamomile
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: chamomile (~10 g dried).
-5. Add secondary herb: lemon balm (~5 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - dls: start fermentation (yeast)
@@ -454,32 +195,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 ### f2r.10,+P0
 
 EVA: qo'ky cholaiin shol sheky daiin cthey keol saiin e'a'iin
-
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: chamomile
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: chamomile (~10 g dried).
-5. Add secondary herb: lemon balm (~5 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - qo: prepare liquid base
@@ -501,32 +216,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: ychain dal chy dalor shan dan olsaiin sheey ckhor
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: chamomile
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 25
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 25 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: chamomile (~10 g dried).
-5. Add secondary herb: lemon balm (~5 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - ychain: add main plant (safe substitute) → duration level 1 → state: fermentation start
 - dal: start fermentation (yeast) → duration level 1 → state: fermentation start
@@ -543,32 +232,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 ### f2r.12,+P0
 
 EVA: okol chy chor cthor yor an chan saiin chety chyky sal
-
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: chamomile
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 1
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 25
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 25 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: chamomile (~5 g dried).
-5. Add secondary herb: lemon balm (~1 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - okol: add fermentable sugars → mix / transfer
@@ -589,32 +252,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: sho ykeey chey daiin chcthy
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: chamomile
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: chamomile (~10 g dried).
-5. Add secondary herb: lemon balm (~5 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - sho: add secondary herb (safe substitute) → mix / transfer
 - ykeey: add fermentable sugars → duration level 2 → state: active extraction
@@ -628,30 +265,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: ytoail
 
-## Ingredients
-- main_plant_dry_g: 2
-- main_plant_substitute: chamomile
-- secondary_herb_dry_g: 1
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 12
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 12 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: chamomile (~2 g dried).
-5. Add secondary herb: lemon balm (~1 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - ytoail: apply heat/cooking → mix / transfer → duration level 1 → state: fermentation start
 
@@ -661,43 +274,7 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: ios an on
 
-## Ingredients
-- main_plant_dry_g: 2
-- main_plant_substitute: chamomile
-- secondary_herb_dry_g: 1
-- secondary_herb_substitute: lemon balm
-- sugar_or_honey_g: 12
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 12 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: chamomile (~2 g dried).
-5. Add secondary herb: lemon balm (~1 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - ios: mix / transfer → duration level 1 → state: cooling/rest
 - an: duration level 1 → state: fermentation start
 - on: mix / transfer
-
-## Risks & Warnings (Applies To All Line-Recipes)
-- Never use unidentified Voynich plants directly; only use known edible substitutes.
-- Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.
-- Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.
-- Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.
-- No medical claims: this is an experimental beverage.
-
-## Recommended Adjustments (General)
-- If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.
-- If too sweet, extend fermentation or reduce sugar by 25–50%.
-- For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented).

@@ -10,18 +10,7 @@ This file is generated automatically from IVTFF/EVA transliteration plus a user-
 - currier: B
 - folio: f41r
 - page_number: 79
-- plant_candidates: ['Thistle']
-- plant_category_confidence: 0.25
-- plant_category_guess: leaf
-- plant_category_matches: ['section=herbal_default']
-- plant_id: Thistle
 - section: herbal
-
-## Plant Interpretation (Heuristic)
-- category: leaf
-- confidence: 0.25
-- note: Heuristic classification based on the IVTFF 'Plant ID' string (not the drawing). Does not imply real identification of the manuscript plant.
-- textual_evidence_terms: ['section=herbal_default']
 
 ## EVA Text (Transliteration)
 ```text
@@ -38,21 +27,6 @@ sshok shedy qekchdy dchdaldy ykedy qokeedy qokedy qokeg
 ykeod ykeedy chekeedy cheked
 ```
 
-## Page Summary (Procedural, Aggregated)
-- compound_counts: {'yeast fermentation': 80, 'secondary herb': 11, 'sugars': 48, 'main herb': 41, 'mix/transfer': 21, 'liquid base': 19, 'heat': 10, 'general base': 3, 'complex herbal compound': 3}
-- dose_level: 2
-- fermentation_estimate: 7–14 days
-
-## Pantry (Max Needed For Any Single Line-Recipe)
-- main_plant_dry_g: 10
-- main_plant_substitute: ['lemon balm']
-- safe_complex_herbal_blend: ['gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend']
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: ['mint']
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
 ## Recipes Index (This Page)
 - [f41r.1,@P0](#f41r-1-f41r-1-p0)
 - [f41r.2,+P0](#f41r-2-f41r-2-p0)
@@ -66,37 +40,13 @@ ykeod ykeedy chekeedy cheked
 - [f41r.10,+P0](#f41r-10-f41r-10-p0)
 - [f41r.11,+P0](#f41r-11-f41r-11-p0)
 
-## Line Recipes (Each Line = One Recipe, 0.5L batch)
+## Line Glosses (Procedural Gloss Only; Not a Translation)
 
 <a id="f41r-1-f41r-1-p0"></a>
 
 ### f41r.1,@P0
 
 EVA: pshey kedal[ee:ch]y oked seekeeey opshes [o:y]p[ch:ee]d qotchedy shkakeedy
-
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~5 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - pshey: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
@@ -122,30 +72,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: ykeeo alshey ykedy kesh dy dy dor [y:q]cheoky qokee[d:?] chpy qokedy dy
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~5 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - ykeeo: add fermentable sugars → mix / transfer → duration level 2 → state: active extraction
 - alshey: add secondary herb (safe substitute) → duration level 1 → state: fermentation start
@@ -169,30 +95,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: qok sa[y:?] [q:y][o:e]kedy ychdykchdy qokedy qokedy shekchy cheky daly
 
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 25
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 25 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: lemon balm (~5 g dried).
-5. Add secondary herb: mint (~2 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - qok: prepare liquid base → add fermentable sugars
 - sa: duration level 1 → state: fermentation start
@@ -215,32 +117,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: chdchy ytcheeky ypchedy schdy ytedy cthhy chees oteey otal da[m:g]
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~2 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - chdchy: add main plant (safe substitute) → start fermentation (yeast)
 - ytcheeky: add fermentable sugars → apply heat/cooking → add main plant (safe substitute) → duration level 2 → state: active extraction
@@ -261,30 +137,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: qotchy sal yteedy kchdy dchedy k[ee:ch]dy dchedy dalain
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~2 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - qotchy: prepare liquid base → apply heat/cooking → add main plant (safe substitute)
 - sal: duration level 1 → state: fermentation start
@@ -304,30 +156,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: shedey polchedy qokeey chekedy ytey chkeeod ypchedpy shepy shedy
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~5 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - shedey: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - polchedy: add main plant (safe substitute) → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
@@ -344,30 +172,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 ### f41r.7,+P0
 
 EVA: parchdy kchey yteedy qokeod[o:y] okedy chkedy qokedy ched[y:e] qokedy
-
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~2 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
 
 Direct Gloss (Procedural, Not a Real Translation):
 - parchdy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: fermentation start
@@ -390,32 +194,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: dair chedy chckhy qokey lchdy qokedy qokal chekedy qodar a[g:j]
 
-## Ingredients
-- main_plant_dry_g: 5
-- main_plant_substitute: lemon balm
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 1
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 25
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 25 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: lemon balm (~5 g dried).
-5. Add secondary herb: mint (~1 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - dair: start fermentation (yeast) → duration level 1 → state: fermentation start
 - chedy: add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
@@ -436,32 +214,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: qokeedy okedy chekedy chedy chckheody chekol daiin cheo al otedy
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- safe_complex_herbal_blend: gentle spices (e.g., 1 g cinnamon + 1 g clove) or a commercial herbal tea blend
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Apply gentle heat: simmer 10–15 min, then cool to <30°C before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~2 g dried).
-6. If a complex herbal compound appears, use a safe commercial blend or gentle spices in micro-doses.
-7. Pitch yeast: 1 g (ideally cider/beer yeast).
-8. Ferment with an airlock: 7–14 days (guided by iin/aiin markers).
-9. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-10. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - qokeedy: prepare liquid base → add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
 - okedy: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
@@ -480,30 +232,6 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: sshok shedy qekchdy dchdaldy ykedy qokeedy qokedy qokeg
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 5
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~5 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - sshok: add fermentable sugars → add secondary herb (safe substitute) → mix / transfer
 - shedy: add secondary herb (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
@@ -520,44 +248,8 @@ Direct Gloss (Procedural, Not a Real Translation):
 
 EVA: ykeod ykeedy chekeedy cheked
 
-## Ingredients
-- main_plant_dry_g: 10
-- main_plant_substitute: lemon balm
-- secondary_herb_dry_g: 2
-- secondary_herb_substitute: mint
-- sugar_or_honey_g: 50
-- water_l: 0.5
-- yeast_g: 1
-
-Process:
-1. Sanitize the jar/fermenter and utensils.
-2. Base: combine 0.5 L water with 50 g sugar or honey.
-3. Infusion: use hot (not boiling) water, then let it cool before adding yeast.
-4. Add main plant: lemon balm (~10 g dried).
-5. Add secondary herb: mint (~2 g dried).
-6. Pitch yeast: 1 g (ideally cider/beer yeast).
-7. Ferment with an airlock: 2–4 days (guided by iin/aiin markers).
-8. Strain/rack (if very solid-heavy) and cold-crash 24 h.
-9. Bottle only when activity clearly slows; refrigerate. Avoid overpressure.
-
-Expected Result: A mild, aromatic herbal ferment, low-to-medium intensity depending on dose level.
-
-Does It Make Sense?: yes
-
 Direct Gloss (Procedural, Not a Real Translation):
 - ykeod: add fermentable sugars → mix / transfer → start fermentation (yeast) → duration level 1 → state: active extraction
 - ykeedy: add fermentable sugars → start fermentation (yeast) → duration level 2 → state: active extraction
 - chekeedy: add fermentable sugars → add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
 - cheked: add fermentable sugars → add main plant (safe substitute) → start fermentation (yeast) → duration level 1 → state: active extraction
-
-## Risks & Warnings (Applies To All Line-Recipes)
-- Never use unidentified Voynich plants directly; only use known edible substitutes.
-- Do not consume if you see mold, smell rot, notice abnormal sliminess, or taste something clearly foul.
-- Overpressure/bottle-bomb risk: do not bottle before stable; prefer an airlock and refrigeration.
-- Avoid if pregnant/breastfeeding, for minors, or with medical conditions; consult a professional.
-- No medical claims: this is an experimental beverage.
-
-## Recommended Adjustments (General)
-- If too bitter (leafy profile), halve the herbs or shorten steep/maceration time.
-- If too sweet, extend fermentation or reduce sugar by 25–50%.
-- For a non-alcoholic version, omit yeast and keep refrigerated as an infusion (not fermented).

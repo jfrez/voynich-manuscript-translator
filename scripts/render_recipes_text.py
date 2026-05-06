@@ -96,13 +96,6 @@ def main(argv: list[str]) -> int:
 
         # New schema: one page contains multiple line-recipes.
         line_recipes = obj.get("line_recipes", [])
-        page_pantry = obj.get("page_pantry_max_per_line_recipe", {})
-        page_summary = obj.get("page_summary_procedural", {})
-
-        # Plant interpretation: take from first line recipe if present, otherwise fallback
-        plant_interp = {}
-        if line_recipes and isinstance(line_recipes[0], dict):
-            plant_interp = (line_recipes[0].get("recipe", {}) or {}).get("plant_interpretation", {}) or {}
 
         header = [
             f"# Voynich Speculative Herbal Ferment Recipe — {folio}",
@@ -117,11 +110,6 @@ def main(argv: list[str]) -> int:
             "page_number": obj.get("page_number"),
             "section": obj.get("section"),
             "currier": obj.get("currier"),
-            "plant_id": obj.get("plant_id"),
-            "plant_candidates": obj.get("plant_candidates"),
-            "plant_category_guess": obj.get("plant_category_guess"),
-            "plant_category_confidence": obj.get("plant_category_confidence"),
-            "plant_category_matches": obj.get("plant_category_matches"),
         }
 
         parts: list[str] = []
@@ -139,7 +127,6 @@ def main(argv: list[str]) -> int:
             parts.append("_Image not found for this folio in `data/images/`._")
 
         parts.append(format_kv_block("Page / Folio", page_meta))
-        parts.append(format_kv_block("Plant Interpretation (Heuristic)", plant_interp))
 
         eva_text = obj.get("source", {}).get("pages_file")
         # Also include the EVA text as found in the page payload (if present)
@@ -153,10 +140,7 @@ def main(argv: list[str]) -> int:
         if page_payload and page_payload.get("eva_text"):
             eva_block = page_payload["eva_text"].rstrip("\n")
             parts.append("## EVA Text (Transliteration)\n```text\n" + eva_block + "\n```")
-        if page_summary:
-            parts.append(format_kv_block("Page Summary (Procedural, Aggregated)", page_summary.get("procedural_summary", {})))
-
-        parts.append(format_kv_block("Pantry (Max Needed For Any Single Line-Recipe)", page_pantry))
+        # Intentionally omit any speculative aggregation (summary/pantry/plant heuristics) from READMEs.
 
         # Render each line as its own recipe
         if line_recipes:
@@ -169,7 +153,7 @@ def main(argv: list[str]) -> int:
                 line_links.append({"locus": locus, "path": f"{folio}/README.md#{anchor}"})
             parts.append("\n".join(idx_lines))
 
-            blocks = ["## Line Recipes (Each Line = One Recipe, 0.5L batch)"]
+            blocks = ["## Line Glosses (Procedural Gloss Only; Not a Translation)"]
             for i, lr in enumerate(line_recipes, start=1):
                 locus = lr.get("locus", f"line_{i}")
                 anchor = _safe_anchor_id(f"{folio}-{i}-{locus}")
@@ -179,29 +163,18 @@ def main(argv: list[str]) -> int:
                 blocks.append(f"### {locus}")
                 if eva_line:
                     blocks.append(f"EVA: {eva_line}")
-                blocks.append(format_kv_block("Ingredients", recipe.get("ingredients", {})))
-                process = recipe.get("process", [])
-                if process:
-                    blocks.append("Process:\n" + "\n".join(f"{j+1}. {step}" for j, step in enumerate(process)))
-                blocks.append(f"Expected Result: {recipe.get('expected_result','')}".rstrip())
-                blocks.append(f"Does It Make Sense?: {recipe.get('does_it_make_sense','')}".rstrip())
                 parsing = recipe.get("parsing", [])
                 if parsing:
                     blocks.append(
                         "Direct Gloss (Procedural, Not a Real Translation):\n"
                         + "\n".join(f"- {p.get('word')}: {p.get('interpretation')}" for p in parsing)
                     )
+                else:
+                    blocks.append("Direct Gloss (Procedural, Not a Real Translation):\n- [no parsed tokens]")
             parts.append("\n\n".join(blocks))
 
-        # Page-level safety notes: re-use standard warnings (from first line) to avoid repetition.
-        if line_recipes:
-            first = line_recipes[0].get("recipe", {}) or {}
-            risks = first.get("risks", [])
-            if risks:
-                parts.append("## Risks & Warnings (Applies To All Line-Recipes)\n" + "\n".join(f"- {r}" for r in risks))
-            adj = first.get("recommended_adjustments", [])
-            if adj:
-                parts.append("## Recommended Adjustments (General)\n" + "\n".join(f"- {a}" for a in adj))
+        # Intentionally omit speculative recipe instantiation (ingredients/process/etc.) from READMEs.
+        # Keep only the procedural gloss; full speculative outputs remain in JSON.
 
         readme = "\n\n".join(parts).strip() + "\n"
 
