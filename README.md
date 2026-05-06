@@ -156,7 +156,7 @@ python scripts/classify_anagram_candidates.py
 
 ## Example “translations” by domain (procedural gloss)
 
-The tables below show what this repository means by “process words”: each EVA token is treated as a compact instruction-like unit (markers + phase/state + optional day/phase suffixes). This is a **procedural gloss**, not a validated translation.
+The sections below show what this repository means by “process words”: each EVA token is treated as a compact **structured token** (markers + state/intensity + optional suffixes). This is a procedural **gloss** (structure-first), not a validated translation.
 
 ### How a “process word” is built (decomposition)
 
@@ -179,41 +179,51 @@ If you want the markers to have a **domain-tinted sense**, this repo generates a
 
 - `data/domain_sense/<domain>.sense.json` (built by `python scripts/assign_domain_sense.py`)
 
-### Herbal (botanical)
+## Best lexicon-grounded examples (by domain)
 
-| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
-|---|---|---|
-| `f1v` (`data/recipe_readmes/herbal/f1v/README.md`) | `kchsy chydaiin ol o l tchey char cfhar am` | `kchsy`→add solutes; `chydaiin`→main material + activation + long phase; `ol/o`→mix/transfer; `tchey`→heat + main material + extraction… |
+Selected because they have a **non-empty English gloss** in the domain lexicon table (WikWik “medieval-ish Italian” proxy + Wiktionary gloss extraction). Still not a translation.
 
-### Astronomical / Astrological
+### herbal
+| EVA baseword | Count (domain) | Italian candidate | English gloss | Example |
+|---|---:|---|---|---|
+| `daiin` | 461 | `piani` | plans (arrangements) | `f1v` (f1v.8,+P0) → `data/recipe_readmes/herbal/f1v/README.md` |
+| `odaiin` | 27 | `inopia` | poverty | `f3r` (f3r.20,+P0) → `data/recipe_readmes/herbal/f3r/README.md` |
+| `otchol` | 25 | `colto` | cultivated | `f3r` (f3r.7,+P0) → `data/recipe_readmes/herbal/f3r/README.md` |
 
-| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
-|---|---|---|
-| `f67r1` (`data/recipe_readmes/astronomical/f67r1/README.md`) | `teeodaiin shey epairody osaiin yteeoey…` | `teeodaiin`→heat + mix + activation + long phase; `shey`→secondary material + extraction; `epairody`→mix + activation + days… |
+### astronomical
+| EVA baseword | Count (domain) | Italian candidate | English gloss | Example |
+|---|---:|---|---|---|
+| `daiin` | 11 | `piani` | plans (arrangements) | `f67r1` (f67r1.6,+Cc) → `data/recipe_readmes/astronomical/f67r1/README.md` |
+| `odaiin` | 2 | `inopia` | poverty | `f67r1` (f67r1.6,+Cc) → `data/recipe_readmes/astronomical/f67r1/README.md` |
+| `ydaiin` | 2 | `piani` | plans (arrangements) | `f67r2` (f67r2.72,@P0) → `data/recipe_readmes/astronomical/f67r2/README.md` |
 
-### Biological
+### biological
+| EVA baseword | Count (domain) | Italian candidate | English gloss | Example |
+|---|---:|---|---|---|
+| `qokal` | 102 | `calco` | cast (of sculpture) | `f75r` (f75r.11,+P0) → `data/recipe_readmes/biological/f75r/README.md` |
+| `daiin` | 81 | `piani` | plans (arrangements) | `f75v` (f75v.3,*P0) → `data/recipe_readmes/biological/f75v/README.md` |
+| `okain` | 40 | `acino` | a berry | `f75v` (f75v.38,@P0) → `data/recipe_readmes/biological/f75v/README.md` |
 
-| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
-|---|---|---|
-| `f75r` (`data/recipe_readmes/biological/f75r/README.md`) | `kchedykary okeey qokar shyk chedy…` | `kchedykary`→solutes + main material + activation; `okeey`→solutes + mix + extraction; `qokar`→base + solutes + phase-start… |
+### cosmological
+| EVA baseword | Count (domain) | Italian candidate | English gloss | Example |
+|---|---:|---|---|---|
+| `daiin` | 28 | `piani` | plans (arrangements) | `f57v` (f57v.4,+Cc) → `data/recipe_readmes/cosmological/f57v/README.md` |
+| `qokal` | 13 | `calco` | cast (of sculpture) | `f68v3` (f68v3.11,@Ri) → `data/recipe_readmes/cosmological/f68v3/README.md` |
+| `odaiin` | 8 | `inopia` | poverty | `f85r2` (fRos.62,@Cc) → `data/recipe_readmes/cosmological/f85r2/README.md` |
 
-### Cosmological
+### text_only
+| EVA baseword | Count (domain) | Italian candidate | English gloss | Example |
+|---|---:|---|---|---|
+| `daiin` | 40 | `piani` | plans (arrangements) | `f1r` (f1r.4,+P0) → `data/recipe_readmes/text_only/f1r/README.md` |
+| `qokal` | 23 | `calco` | cast (of sculpture) | `f58r` (f58r.31,+P0) → `data/recipe_readmes/text_only/f58r/README.md` |
+| `okain` | 10 | `acino` | a berry | `f58v` (f58v.19,+P0) → `data/recipe_readmes/text_only/f58v/README.md` |
 
-| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
-|---|---|---|
-| `f57v` (`data/recipe_readmes/cosmological/f57v/README.md`) | `dairal` | `dairal`→activation + phase-start (single compact token) |
-
-### Text-only (“recipes” pages)
-
-| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
-|---|---|---|
-| `f1r` (`data/recipe_readmes/text_only/f1r/README.md`) | `fachys ykal ar ataiin shol shory…` | `fachys`→main material + aroma + phase-start; `ykal`→solutes + phase-start; `ataiin`→heat + long phase; `shol/shory`→secondary material + mix… |
-
-### Unknown / other
-
-| Example folio | Example EVA line | Procedural gloss (first words; abbreviated) |
-|---|---|---|
-| `f70v2` (`data/recipe_readmes/unknown/f70v2/README.md`) | `okcheo dar otey ykeey tchy…` | `okcheo`→solutes + main material + mix + extraction; `dar`→activation + phase-start; `otey`→heat + mix + extraction… |
+### unknown
+| EVA baseword | Count (domain) | Italian candidate | English gloss | Example |
+|---|---:|---|---|---|
+| `daiin` | 231 | `piani` | plans (arrangements) | `f70v2` (f70v2.21,@Cc) → `data/recipe_readmes/unknown/f70v2/README.md` |
+| `okain` | 69 | `acino` | a berry | `f89r2` (f89r2.29,@Lc) → `data/recipe_readmes/unknown/f89r2/README.md` |
+| `qokal` | 43 | `calco` | cast (of sculpture) | `f89r2` (f89r2.22,@P0) → `data/recipe_readmes/unknown/f89r2/README.md` |
 
 ## 3. Model Assumptions (procedural interpretation)
 
@@ -247,7 +257,7 @@ Example EVA line:
 
 ### Direct procedural gloss (not a real translation)
 
-“Prepare a base and apply markers for two days; repeat for one additional day; add the main component marker for one day; start a prolonged phase.”
+Structural gloss (no semantic meaning claimed): the line decomposes into marker bundles like `qo+k+ee+dy`, `ch+e+dy`, `p+aiin`, plus a vowel-run class (`e/i/a`) whose length defines a level (1–3) and optional suffixes (`dy/iin/aiin`).
 
 ### Optional instantiation (experimental)
 
