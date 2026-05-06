@@ -10,6 +10,36 @@
 - EVA word tokens (approx): 12387
 - top procedural compounds: [('mix/transfer', 6677), ('yeast fermentation', 4183), ('main herb', 4077), ('sugars', 2515), ('heat', 1821), ('secondary herb', 1381), ('liquid base', 1043), ('complex herbal compound', 974)]
 
+## Domain-specific marker meanings (requested; speculative)
+Below is the requested meaning assignment for token markers, annotated with how often the corresponding marker-class appears in this domain.
+This is **not** a validated translation; it is a procedural interpretation layer.
+
+### Action / ingredient markers
+- `qo` = liquid base / must / water (prevalence 8.4%)
+- `q` = general base marker (prevalence 0.3%)
+- `o` = mix / transfer / continuity (prevalence 53.9%)
+- `k` = sugars / fermentables (prevalence 20.3%)
+- `t` = heat / cooking (prevalence 14.7%)
+- `p` = yeast / fermentation start (prevalence 33.8%)
+- `ch` = main plant (always substituted with a safe edible plant) (prevalence 32.9%)
+- `sh` = secondary herb (safe edible) (prevalence 11.1%)
+- `f` = aroma modifier (prevalence 1.3%)
+- `cth/ckh/cph/cfh` = complex herbal compound (safe blend) (prevalence 7.9%)
+
+Connectors (low semantic weight, used as transitions):
+- `l, r, n, s, m` = connectors (low semantic weight transitions)
+
+### State / time markers
+We treat the first vowel-run found in a word as an intensity/state cue:
+- `e…` = active extraction (prevalence 22.0%)
+- `i…` = cooling/rest (prevalence 1.3%)
+- `a…` = fermentation start/transition (prevalence 26.9%)
+
+Run length encodes level:
+- level 1 = e / i / a (prevalence 43.4%)
+- level 2 = ee / ii (prevalence 6.0%)
+- level 3 = eee / iii (prevalence 0.8%)
+
 ## Folios
 - f1v: ../../recipe_readmes/f1v/README.md
 - f2r: ../../recipe_readmes/f2r/README.md
